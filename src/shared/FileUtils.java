@@ -54,6 +54,7 @@ public class FileUtils {
 		return fileMap;
 	}
 
+	//readLines
 	public static BufferedReader getLineReader(String filename) {
 		BufferedReader reader = null;
 		try {
@@ -100,6 +101,8 @@ public class FileUtils {
 			return null;
 		}
 	}
+	
+
 	
 	//Increment the count of a specific key of a map within a map, whether it already exists or not
 	public static HashMap<String, HashMap<String, Integer>> incrementOneMap(HashMap<String, HashMap<String, Integer>> map, String key, String innerKey) {

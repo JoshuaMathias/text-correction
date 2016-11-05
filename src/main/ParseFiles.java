@@ -9,6 +9,7 @@ import lang_model.LangModel;
 import lexicon.LexMaker;
 
 import shared.FileUtils;
+import split_words.SplitWords;
 //import split_words.SplitWords;
 
 public class ParseFiles {
@@ -45,8 +46,10 @@ public class ParseFiles {
 	 */
 	public static void main(String[] args) {
 		ArrayList<File> files = null;
+		String inFilename = "";
 		if (args.length > 0) {
-			files = FileUtils.listFiles(new File(args[0]));
+			inFilename = args[0];
+			files = FileUtils.listFiles(new File(inFilename));
 		} else {
 			System.out.println("No file path entered.");
 			return;
@@ -61,33 +64,33 @@ public class ParseFiles {
 		} else {
 			outputLoc = args[0];
 		}
-//		String dictPath = "/home/joshuamonkey/498/lexicon/lexicon.txt";
-//		HashSet<String> dict = makeDictionary(dictPath);
-		LangModel langModel = new LangModel("/home/joshuamonkey/498/lm/eng_20160927.arpa",1);
-		langModel.write1GramDict("eng_20160927_lex.txt");
+		String dictPath = "/home/joshuamonkey/498/lexicon/eng_20160927_lex.txt";
+		HashSet<String> dict = makeDictionary(dictPath);
+//		LangModel langModel = new LangModel("/home/joshuamonkey/498/lm/eng_20160927.arpa",1);
+//		langModel.write1GramDict("/home/joshuamonkey/498/lexicon/eng_20160927_lex.txt");
 		// Make lexicon
 //		LexMaker lexMaker = new LexMaker(files);
 //		lexMaker.writeLexicon("/home/joshuamonkey/498/lexicon"+File.separator+"lexicon.txt");
-//		for (File file : files) {
-//			if (file.getName().contains("split")) {
-//				continue;
-//			}
-//			PrintWriter writer = null;
-//			try {
-//				writer = new PrintWriter(outputLoc+File.separator+file.getName()+".split");
-////				System.out.println(outputLoc+File.separator+file.getName()+".split");
-//			} catch (FileNotFoundException e) {
-//				e.printStackTrace();
-//				return;
-//			}
-////			List<String> lines = List<String> lines = Files.readAllLines(f));
-//			// Split words
-////			SplitWords splitWords = new SplitWords(file,dict);
-//			
-////			writer.write(splitWords.splitFileWords());
-//			writer.close();
-//			
-//		}
+		for (File file : files) {
+			if (file.getName().contains("split")) {
+				continue;
+			}
+			PrintWriter writer = null;
+			try {
+				writer = new PrintWriter(outputLoc+File.separator+file.getName()+".split");
+//				System.out.println(outputLoc+File.separator+file.getName()+".split");
+			} catch (FileNotFoundException e) {
+				e.printStackTrace();
+				return;
+			}
+//			List<String> lines = List<String> lines = Files.readAllLines(f));
+			// Split words
+			SplitWords splitWords = new SplitWords(dict);
+			
+			writer.write(splitWords.splitFileWords(file));
+			writer.close();
+			
+		}
 		
 	}
 
