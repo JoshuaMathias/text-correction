@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 //import edu.berkeley.nlp.lm.WordIndexer;
@@ -75,6 +76,36 @@ public class LangModel {
 //		return dict;
 	}
 	
+	public void writeClean1GramDict(String outFileName, int probCutoff) {
+		BufferedWriter writer = FileUtils.getLineWriter(outFileName);
+		HashSet<String> dict = new HashSet<String>();
+//		ArrayList<String> dict = new ArrayList<String>();
+		String line = "";
+		boolean startedGrams = false;
+		try {
+			while (!line.contains("\\1-grams:")) {
+//				System.out.println(line);
+				line = reader.readLine();
+			}
+			while (line !=null && !line.contains("\\2-grams:")) {
+				line = reader.readLine();
+//				System.out.println(line);
+				String[] splitLine = line.split("\\s");
+				if (splitLine.length<2 || splitLine[1].length()>20) {
+					continue;
+				}
+				String cleanWord = FileUtils.stripNonWordChars(splitLine[1].toLowerCase());
+				if (!dict.contains(cleanWord) && cleanWord.length()>0) {
+					writer.write(cleanWord+"\n");
+					dict.add(cleanWord);
+				}
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+//		return dict;
+	}
 	
 	/**
 	 * 

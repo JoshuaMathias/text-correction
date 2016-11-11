@@ -10,7 +10,7 @@ import lexicon.LexMaker;
 
 import shared.FileUtils;
 import split_words.SplitWords;
-//import split_words.SplitWords;
+import org.apache.commons.io.FilenameUtils;
 
 public class ParseFiles {
 
@@ -41,6 +41,50 @@ public class ParseFiles {
 			
 		}
 	}
+	
+	//Write a dictionary from a language model file.
+	public static void writeDict(String lmPath) {
+		LangModel langModel = new LangModel(lmPath,1);
+		String basename = FilenameUtils.removeExtension(lmPath);
+//		langModel.write1GramDict(basename+"_lex.txt");
+		langModel.writeClean1GramDict(basename+"_clean_lex.txt", 0);
+	}
+	
+	//Write a lexicon/dictionary from a set of plain text files.
+	public static void writeLexicon(ArrayList<File> files, String lexPath) {
+		// Make lexicon
+		LexMaker lexMaker = new LexMaker(files);
+		lexMaker.writeLexicon(lexPath);
+	}
+	
+	//Split words using a dictionary, appending ".split" to the output files.
+	public static void splitWords(ArrayList<File> files, String dictPath, String outputLoc, String splitLogFile) {
+		HashSet<String> dict = makeDictionary(dictPath);
+		SplitWords splitWords = new SplitWords(dict, splitLogFile);
+//		String wordToSplit = "2face-to-face";
+//		System.out.println("split: "+wordToSplit+" to "+splitWords.splitWord(wordToSplit));
+		for (File file : files) {
+			if (file.getName().contains("split")) {
+				continue;
+			}
+			PrintWriter writer = null;
+			try {
+				writer = new PrintWriter(outputLoc+File.separator+file.getName()+".split");
+//				System.out.println(outputLoc+File.separator+file.getName()+".split");
+			} catch (FileNotFoundException e) {
+				e.printStackTrace();
+				return;
+			}
+//			List<String> lines = List<String> lines = Files.readAllLines(f));
+			// Split words
+			
+			writer.write(splitWords.splitFileWords(file));
+			writer.close();
+			
+		}
+		splitWords.closeWriter();
+	}
+	
 	/**
 	 * @param args
 	 */
@@ -64,33 +108,10 @@ public class ParseFiles {
 		} else {
 			outputLoc = args[0];
 		}
-		String dictPath = "/home/joshuamonkey/498/lexicon/eng_20160927_lex.txt";
-		HashSet<String> dict = makeDictionary(dictPath);
-//		LangModel langModel = new LangModel("/home/joshuamonkey/498/lm/eng_20160927.arpa",1);
-//		langModel.write1GramDict("/home/joshuamonkey/498/lexicon/eng_20160927_lex.txt");
-		// Make lexicon
-//		LexMaker lexMaker = new LexMaker(files);
-//		lexMaker.writeLexicon("/home/joshuamonkey/498/lexicon"+File.separator+"lexicon.txt");
-		for (File file : files) {
-			if (file.getName().contains("split")) {
-				continue;
-			}
-			PrintWriter writer = null;
-			try {
-				writer = new PrintWriter(outputLoc+File.separator+file.getName()+".split");
-//				System.out.println(outputLoc+File.separator+file.getName()+".split");
-			} catch (FileNotFoundException e) {
-				e.printStackTrace();
-				return;
-			}
-//			List<String> lines = List<String> lines = Files.readAllLines(f));
-			// Split words
-			SplitWords splitWords = new SplitWords(dict);
-			
-			writer.write(splitWords.splitFileWords(file));
-			writer.close();
-			
-		}
+//		writeDict("/home/joshuamonkey/498/lm/eng_20160927.arpa");
+//		writeLexicon(files, "/home/joshuamonkey/498/lexicon"+File.separator+"lexicon.txt");
+		String splitLogFile = "/home/joshuamonkey/498/log/split_words_log.txt";
+		splitWords(files, "/home/joshuamonkey/498/lexicon/eng_20160927_lex.txt", outputLoc, splitLogFile);
 		
 	}
 

@@ -20,7 +20,8 @@ import java.util.regex.Pattern;
 
 public class FileUtils {
 
-	
+	public static String wordChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-'";
+	public static String punctuation = ".;,)('\"";
 	
 	// If the path is a directory, recursively get a list of all the files.
 	public static ArrayList<File> listFiles(File path) {
@@ -184,17 +185,30 @@ public class FileUtils {
 		return text.substring(start, end);
 	}
 	
+	public static String stripNonWordChars(String text) {
+		String strippedStr = "";
+		char[] textArray = text.toCharArray();
+		
+		for (char letter : textArray) {
+			if (("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-'").indexOf(letter) != -1) {
+				strippedStr += letter;
+			}
+		}
+		return strippedStr;
+	}
+	
+	
 	public static ArrayList<String> getWords(String text) {
 //		return text.split("\\W");
 		ArrayList<String> words = new ArrayList<String>();
 		char[] textArray = text.toCharArray();
 		String currentWord = "";
-		Pattern pattern = Pattern.compile("^\\w-'");
+//		Pattern pattern = Pattern.compile("^\\w-'");
 		
 		for (char letter : textArray) {
 		
 //			Matcher matcher = pattern.matcher(String.valueOf(letter));
-			if (("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-'").indexOf(letter) != -1) {
+			if ((wordChars).indexOf(letter) != -1) {
 				currentWord += letter;
 			} else if (currentWord.length() > 0){
 //				System.out.println("Adding word: "+currentWord);
