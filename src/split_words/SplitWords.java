@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.HashSet;
 
 import org.apache.commons.lang.StringUtils;
@@ -13,11 +14,21 @@ import org.apache.commons.lang.StringUtils;
 import shared.FileUtils;
 
 public class SplitWords {
-	HashSet<String> dict;
+	HashMap<String, Double> dict;
 	BufferedWriter logWriter = null;
 	int splitWordCount = 0;
+	Double defaultLMScore= -6.5227585;
 	
-	public SplitWords(HashSet<String> dict, String splitLogFile) {
+//	public SplitWords(HashSet<String> dict, String splitLogFile) {
+//		this.dict = dict;
+//		if (splitLogFile != null && splitLogFile.length()>0) {
+//			File logFile = new File(splitLogFile);
+//			System.out.println("Storing split words at "+splitLogFile);
+//			logWriter = FileUtils.getLineWriter(splitLogFile);
+//		}
+//	}
+	
+	public SplitWords(HashMap<String,Double> dict, String splitLogFile) {
 		this.dict = dict;
 		if (splitLogFile != null && splitLogFile.length()>0) {
 			File logFile = new File(splitLogFile);
@@ -30,7 +41,7 @@ public class SplitWords {
 		if (StringUtils.isNumeric(word)) {
 			return true;
 		}
-		if (dict.contains(word.toLowerCase())) {
+		if (dict.containsKey(word.toLowerCase())) {
 			return true;
 		}
 		return false;
@@ -46,31 +57,62 @@ public class SplitWords {
 			beginStr = combinedWord.substring(0,i);
 			endStr = combinedWord.substring(i,len);
 			if (inDictionary(beginStr)) {
-				if (inDictionary(endStr)) {
-					return beginStr + " " + endStr;
+				if (dict.containsKey(beginStr.toLowerCase())) {
+					possibleStrs.add(new SplitWordOption(beginStr, i, dict.get(beginStr.toLowerCase())));
 				} else {
-					possibleStrs.add(new SplitWordOption(beginStr, i));
+					possibleStrs.add(new SplitWordOption(beginStr, i, defaultLMScore));
 				}
 			}
 		}
-		endStr = combinedWord;
+		Collections.sort(possibleStrs);
+		
 		if (!possibleStrs.isEmpty()) {
 			SplitWordOption currentOption = possibleStrs.get(0);
-			while (endStr.length()!=0 && !possibleStrs.isEmpty()) {
-				System.out.println("curren option: "+currentOption.words);
+			if (currentOption.index == len) {
+				return currentOption.words;
+			}
+			while (!possibleStrs.isEmpty()) {
+//				System.out.println("current option: "+currentOption.words);
 				for (int j = len; j>currentOption.index; j--) {
 					String addWord = combinedWord.substring(currentOption.index, j);
+					if (combinedWord.equals("theneighborhood")) {
+						System.out.println("addWord: "+addWord);
+					}
 					if (inDictionary(addWord)) {
-						if (j == len) {
-							return currentOption.words + " " + addWord;
+						String[] splitOption = currentOption.words.split(" ");
+						Double totalScore = 0.0;
+						for (String word : splitOption) {
+							if (dict.containsKey(word)) {
+								if (combinedWord.equals("theneighborhood")) {
+									System.out.println("Adding "+dict.get(word.toLowerCase())+" for "+word);
+								}
+								totalScore += dict.get(word.toLowerCase());
+							} else {
+//								System.out.println("Adding defalt "+defaultLMScore+" for "+word);
+								totalScore += defaultLMScore;
+							}
 						}
-						possibleStrs.add(new SplitWordOption(currentOption.words + " " + addWord, j));
+//						System.out.println("Adding "+dict.get(addWord.toLowerCase())+" for "+addWord);
+						if (dict.containsKey(addWord)) {
+							totalScore += dict.get(addWord.toLowerCase());
+						} else {
+							totalScore += defaultLMScore;
+						}
+						
+//						if (totalScore == 0.0) {
+//							System.out.println("0 total score for "+currentOption.words);
+//						}
+//						System.out.println("lm score: "+totalScore/splitOption.length);
+						possibleStrs.add(new SplitWordOption(currentOption.words + " " + addWord, j, totalScore/splitOption.length));
 					}
 				}
 				if (!possibleStrs.isEmpty()) {
 					Collections.sort(possibleStrs);
 					currentOption = possibleStrs.get(0);
 					possibleStrs.remove(0);
+					if (currentOption.index == len) {
+						return currentOption.words;
+					}
 				}
 			}
 		}
@@ -151,42 +193,62 @@ public class SplitWords {
 //		return splitWords;
 //	}
 	
-	public String splitFileWords(File file) {
+	public String splitWords(String fileStr) {
+//		System.out.println("Splitting words of "+fileStr);
 		String splitFileString = "";
-		BufferedReader reader = FileUtils.getLineReader(file.getAbsolutePath());
-		String line = "";
+//		BufferedReader reader = FileUtils.getLineReader(file.getAbsolutePath());
+//		String fileStr = FileUtils.readFile(file.getAbsolutePath());
+//		System.out.println(fileStr);
+//		String line = "";
 		try {
-			if (logWriter != null) {
-				logWriter.write(file.getName()+":\n");
-			}
+//			if (logWriter != null) {
+//				logWriter.write(file.getName()+":\n");
+//			}
+			ArrayList<String> unsplitWords = new ArrayList<String>();
 			String currentWord = "";
-			while ((line = reader.readLine()) != null) {
+//			while ((line = reader.readLine()) != null) {
 				currentWord = "";
 				String letter = "";
-				for (int i=0; i<line.length(); i++) {
-					letter = String.valueOf(line.charAt(i));
-//					System.out.println("letter: "+letter);
-//					System.out.println("currentWord: "+currentWord);
+				for (int i=0; i<fileStr.length(); i++) {
+					letter = String.valueOf(fileStr.charAt(i));
+//					if (currentWord.contains("of")) {
+//						System.out.println("line: "+fileStr);
+//						System.out.println("letter: "+letter);
+//						System.out.println("currentWord: "+currentWord);
+//					}
 					if (("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-'").indexOf(letter) != -1) {
 						currentWord += letter;
 					} else {
 						if (!inDictionary(currentWord) && currentWord.length()>1) {
-							currentWord = splitWord(currentWord);
-//							System.out.println("Split words: "+currentWord);
-							if (logWriter != null) {
-								logWriter.write(currentWord+"\n");
+							String splitWord = splitWord(currentWord);
+							System.out.println("Split words: "+currentWord);
+							if (!splitWord.equals(currentWord)) {
+								splitWordCount++;
+								if (logWriter != null) {
+									logWriter.write(currentWord+"\t"+splitWord+"\n");
+								}
+							} else {
+								unsplitWords.add(currentWord);
 							}
-							splitWordCount++;
+							currentWord = splitWord;
+							
 						}
 						splitFileString += currentWord;
 						currentWord = "";
 						splitFileString += letter;
 					}
-				}
+//				}
 				splitFileString += "\n";
 			}
 			if (logWriter != null) {
 				logWriter.write("\n");
+//				if (unsplitWords.size()>0) {
+//					logWriter.write("Unrecognized unsplit words:\n");
+//					for (String word : unsplitWords) {
+//						logWriter.write(word+"\n");
+//					}
+//					logWriter.write("\n");
+//				}
 			}
 		} catch (IOException e) {
 			e.printStackTrace();

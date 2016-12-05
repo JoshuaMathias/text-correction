@@ -6,6 +6,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
@@ -14,6 +15,7 @@ import java.util.List;
 //import edu.berkeley.nlp.lm.values.ProbBackoffPair;
 
 import shared.FileUtils;
+import shared.ParseUtils;
 //import shared.IOUtils;
 import shared.Trie;
 
@@ -50,6 +52,21 @@ public class LangModel {
 		reader = FileUtils.getLineReader(file);
 	}
 	
+	public void printWordProbs(String word) {
+		word = word.toLowerCase();
+		try {
+			while (reader.ready()) {
+				String line = reader.readLine();
+				String[] splitLine = line.split("\t");
+				if (splitLine.length>2 && splitLine[1].toLowerCase().equals(word)) {
+					System.out.println(line);
+				}
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
 	public void write1GramDict(String outFileName) {
 		BufferedWriter writer = FileUtils.getLineWriter(outFileName);
 //		ArrayList<String> dict = new ArrayList<String>();
@@ -76,7 +93,7 @@ public class LangModel {
 //		return dict;
 	}
 	
-	public void writeClean1GramDict(String outFileName, int probCutoff) {
+	public void writeClean1GramDict(String outFileName) {
 		BufferedWriter writer = FileUtils.getLineWriter(outFileName);
 		HashSet<String> dict = new HashSet<String>();
 //		ArrayList<String> dict = new ArrayList<String>();
@@ -94,12 +111,64 @@ public class LangModel {
 				if (splitLine.length<2 || splitLine[1].length()>20) {
 					continue;
 				}
-				String cleanWord = FileUtils.stripNonWordChars(splitLine[1].toLowerCase());
+				String cleanWord = ParseUtils.stripNonWordChars(splitLine[1].toLowerCase());
 				if (!dict.contains(cleanWord) && cleanWord.length()>0) {
 					writer.write(cleanWord+"\n");
 					dict.add(cleanWord);
 				}
 			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+//		return dict;
+	}
+	
+	public void writeGram(int gram, String outFileName, Double probCutoff, boolean writeProbs) {
+		BufferedWriter writer = FileUtils.getLineWriter(outFileName);
+		HashMap<String, Double> dict = new HashMap<String, Double>();
+//		ArrayList<String> dict = new ArrayList<String>();
+		String line = "";
+		boolean startedGrams = false;
+		try {
+			while (!line.contains("\\1-grams:")) {
+//				System.out.println(line);
+				line = reader.readLine();
+			}
+			while (line !=null && !line.contains("\\2-grams:")) {
+				line = reader.readLine();
+//				System.out.println(line);
+				String[] splitLine = line.split("\\s");
+				if (splitLine.length<2 || splitLine[1].length()>20) {
+					continue;
+				}
+				String cleanWord = ParseUtils.stripNonWordChars(splitLine[1].toLowerCase());
+				if (cleanWord.length()>0) {
+					Double prob = Double.parseDouble(splitLine[0]);
+					if (!dict.containsKey(cleanWord) || dict.containsKey(cleanWord) && dict.get(cleanWord) < prob) {
+						dict.put(cleanWord,prob);
+					}
+					
+				}
+			}
+			int i = 0;
+			int numWords = dict.keySet().size();
+			for (String word : dict.keySet()) {
+				i++;
+//				System.out.println(dict.get(word));
+				if (dict.get(word) > probCutoff) {
+//					System.out.println(dict.get(word));
+					if (writeProbs) {
+						writer.write(word+" "+dict.get(word));
+					} else {
+						writer.write(word);
+					}
+					if (i<numWords-1) {
+						writer.write("\n");
+					}
+				}
+			}
+			writer.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

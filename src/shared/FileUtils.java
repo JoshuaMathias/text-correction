@@ -5,23 +5,30 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.io.Reader;
+import java.io.UnsupportedEncodingException;
 import java.text.BreakIterator;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.List;
 import java.util.Locale;
+import java.util.TreeMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class FileUtils {
 
-	public static String wordChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-'";
-	public static String punctuation = ".;,)('\"";
 	
 	// If the path is a directory, recursively get a list of all the files.
 	public static ArrayList<File> listFiles(File path) {
@@ -59,8 +66,11 @@ public class FileUtils {
 	public static BufferedReader getLineReader(String filename) {
 		BufferedReader reader = null;
 		try {
-			return new BufferedReader(new FileReader(filename));
+			return new BufferedReader( new InputStreamReader(
+                    new FileInputStream(filename), "UTF-8"));
 		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (UnsupportedEncodingException e) {
 			e.printStackTrace();
 		}
 		return reader;
@@ -69,7 +79,8 @@ public class FileUtils {
 	public static BufferedWriter getLineWriter(String filename) {
 		BufferedWriter writer = null;
 		try {
-			return new BufferedWriter(new FileWriter(filename));
+			return new BufferedWriter
+				    (new OutputStreamWriter(new FileOutputStream(filename),"UTF-8"));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
@@ -103,7 +114,42 @@ public class FileUtils {
 		}
 	}
 	
+	public static LinkedHashMap<String, Integer> sortHashMapByValues(
+	        HashMap<String, Integer> passedMap, boolean ascending) {
+	    List<String> mapKeys = new ArrayList<>(passedMap.keySet());
+	    List<Integer> mapValues = new ArrayList<>(passedMap.values());
+	    if (ascending) {
+	    	 Collections.sort(mapValues);
+			 Collections.sort(mapKeys);
+	    } else {
+	    	Comparator<String> stringOrder = Collections.reverseOrder();
+	    	Comparator<Integer> intOrder = Collections.reverseOrder();
+	    	Collections.sort(mapValues, intOrder);
+	    	Collections.sort(mapKeys, stringOrder);
+	    }
 
+	    LinkedHashMap<String, Integer> sortedMap =
+	        new LinkedHashMap<>();
+
+	    Iterator<Integer> valueIt = mapValues.iterator();
+	    while (valueIt.hasNext()) {
+	        Integer val = valueIt.next();
+	        Iterator<String> keyIt = mapKeys.iterator();
+
+	        while (keyIt.hasNext()) {
+	            String key = keyIt.next();
+	            Integer comp1 = passedMap.get(key);
+	            Integer comp2 = val;
+
+	            if (comp1.equals(comp2)) {
+	                keyIt.remove();
+	                sortedMap.put(key, val);
+	                break;
+	            }
+	        }
+	    }
+	    return sortedMap;
+	}
 	
 	//Increment the count of a specific key of a map within a map, whether it already exists or not
 	public static HashMap<String, HashMap<String, Integer>> incrementOneMap(HashMap<String, HashMap<String, Integer>> map, String key, String innerKey) {
@@ -115,6 +161,20 @@ public class FileUtils {
 
 		}
 		map.put(key, incrementOne(innerMap, innerKey));
+		return map;
+	}
+	
+	//Increment the count of a specific key of a map, whether it already exists or not
+	public static TreeMap<String, Integer> incrementOne(TreeMap<String, Integer> map,
+			String id) {
+		Integer totalFreq = 0;
+		if (!map.containsKey(id)) {
+			totalFreq = 1;
+		} else {
+			totalFreq = map.get(id) + 1;
+
+		}
+		map.put(id, totalFreq);
 		return map;
 	}
 	
@@ -176,52 +236,7 @@ public class FileUtils {
 		return sentences;
 	}
 	
-	public static String getFirstSentence(String text) {
-		BreakIterator boundary = BreakIterator.getSentenceInstance(Locale.US);
-		boundary.setText(text);
-		int start = boundary.first();
-		int end = boundary.next();
-		// System.out.println("start: "+start +" end: "+end);
-		return text.substring(start, end);
-	}
-	
-	public static String stripNonWordChars(String text) {
-		String strippedStr = "";
-		char[] textArray = text.toCharArray();
-		
-		for (char letter : textArray) {
-			if (("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-'").indexOf(letter) != -1) {
-				strippedStr += letter;
-			}
-		}
-		return strippedStr;
-	}
-	
-	
-	public static ArrayList<String> getWords(String text) {
-//		return text.split("\\W");
-		ArrayList<String> words = new ArrayList<String>();
-		char[] textArray = text.toCharArray();
-		String currentWord = "";
-//		Pattern pattern = Pattern.compile("^\\w-'");
-		
-		for (char letter : textArray) {
-		
-//			Matcher matcher = pattern.matcher(String.valueOf(letter));
-			if ((wordChars).indexOf(letter) != -1) {
-				currentWord += letter;
-			} else if (currentWord.length() > 0){
-//				System.out.println("Adding word: "+currentWord);
-				words.add(currentWord);
-				currentWord = "";
-			}
-//			System.out.println(currentWord);
-		}
-		if (currentWord.length() > 0) {
-			words.add(currentWord);
-		}
-		return words;
-	}
+
 	
 
 }

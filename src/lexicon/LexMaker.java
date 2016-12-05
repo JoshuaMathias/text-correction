@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 
 import shared.FileUtils;
+import shared.ParseUtils;
 
 public class LexMaker {
 	ArrayList<File> files;
@@ -22,7 +23,7 @@ public class LexMaker {
 		for (File file : files) {
 //			System.out.println(file.getName());
 			String text = FileUtils.readFile(file.getAbsolutePath());
-			ArrayList<String> words = FileUtils.getWords(text);
+			ArrayList<String> words = ParseUtils.getWords(text);
 			for (String word : words) {
 				if (!lexicon.contains(word)) {
 //					System.out.println("Added word: "+word);
