@@ -1,0 +1,23 @@
+Number of small files: 3960
+Number of small files with non-whitespace characters: 520
+Frequency of 0 non-space characters: 3440
+Frequency of 8 non-space characters: 127
+Frequency of 12 non-space characters: 54
+Frequency of 9 non-space characters: 39
+Frequency of 2 non-space characters: 38
+Frequency of 14 non-space characters: 33
+Frequency of 6 non-space characters: 26
+Frequency of 13 non-space characters: 24
+Frequency of 18 non-space characters: 23
+Frequency of 15 non-space characters: 22
+Frequency of 11 non-space characters: 22
+Frequency of 20 non-space characters: 21
+Frequency of 7 non-space characters: 16
+Frequency of 10 non-space characters: 15
+Frequency of 17 non-space characters: 13
+Frequency of 19 non-space characters: 11
+Frequency of 16 non-space characters: 11
+Frequency of 5 non-space characters: 7
+Frequency of 4 non-space characters: 6
+Frequency of 3 non-space characters: 6
+Frequency of 1 non-space characters: 6
