@@ -1,0 +1,1670 @@
+
+CowderyDavid
+Cowdery David	currentIndex: 12	numWords: 2	lmScore: -13.045517	Calculated score: -318.45517
+Cowdery David	currentIndex: 12	numWords: 2	lmScore: -13.045517	Calculated score: -318.45517
+Cowdery Davi	currentIndex: 11	numWords: 2	lmScore: -13.045517	Calculated score: -319.45517
+Cowdery Davi	currentIndex: 11	numWords: 2	lmScore: -13.045517	Calculated score: -319.45517
+Cowdery Da	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+Cowdery Da	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+Co wd er	currentIndex: 6	numWords: 3	lmScore: -8.79619315	Calculated score: -381.9619315
+Cow der yD	currentIndex: 8	numWords: 3	lmScore: -9.23359585	Calculated score: -384.3359585
+CowderyDavid	Cowdery David
+
+
+2face-to-face
+2 face-to-face	currentIndex: 13	numWords: 2	lmScore: -11.2789211	Calculated score: -299.789211
+2 face-to-face	currentIndex: 13	numWords: 2	lmScore: -11.2789211	Calculated score: -299.789211
+2 face	currentIndex: 5	numWords: 2	lmScore: -10.588271200000001	Calculated score: -300.882712
+2 face	currentIndex: 5	numWords: 2	lmScore: -10.588271200000001	Calculated score: -300.882712
+2 fa	currentIndex: 3	numWords: 2	lmScore: -12.6933308	Calculated score: -323.933308
+2 fa	currentIndex: 3	numWords: 2	lmScore: -12.6933308	Calculated score: -323.933308
+2face-to-face	2 face-to-face
+
+
+theneighborhood
+the neighborhood	currentIndex: 15	numWords: 2	lmScore: -6.9924359	Calculated score: -254.924359
+the neighborhood	currentIndex: 15	numWords: 2	lmScore: -6.9924359	Calculated score: -254.924359
+the neighbor	currentIndex: 11	numWords: 2	lmScore: -7.0640819	Calculated score: -259.64081899999996
+the neighbor	currentIndex: 11	numWords: 2	lmScore: -7.0640819	Calculated score: -259.64081899999996
+the ne	currentIndex: 5	numWords: 2	lmScore: -7.6880012	Calculated score: -271.880012
+the ne	currentIndex: 5	numWords: 2	lmScore: -7.6880012	Calculated score: -271.880012
+th en	currentIndex: 4	numWords: 2	lmScore: -9.959741399999999	Calculated score: -295.59741399999996
+th ene	currentIndex: 5	numWords: 2	lmScore: -11.5744994	Calculated score: -310.744994
+theneighborhood	the neighborhood
+
+undera
+under a	currentIndex: 6	numWords: 2	lmScore: -5.7010866	Calculated score: -251.010866
+under a	currentIndex: 6	numWords: 2	lmScore: -5.7010866	Calculated score: -251.010866
+un de	currentIndex: 4	numWords: 2	lmScore: -8.5593363	Calculated score: -281.593363
+un der	currentIndex: 5	numWords: 2	lmScore: -10.4100727	Calculated score: -299.100727
+und era	currentIndex: 6	numWords: 2	lmScore: -10.7648054	Calculated score: -301.648054
+und er	currentIndex: 5	numWords: 2	lmScore: -11.6753436	Calculated score: -311.75343599999997
+undera	under a
+
+Thisstone
+This stone	currentIndex: 9	numWords: 2	lmScore: -10.928181200000001	Calculated score: -300.281812
+This stone	currentIndex: 9	numWords: 2	lmScore: -10.928181200000001	Calculated score: -300.281812
+This st	currentIndex: 6	numWords: 2	lmScore: -11.0347929	Calculated score: -304.347929
+This st	currentIndex: 6	numWords: 2	lmScore: -11.0347929	Calculated score: -304.347929
+This sto	currentIndex: 7	numWords: 2	lmScore: -12.837901500000001	Calculated score: -321.379015
+This sto	currentIndex: 7	numWords: 2	lmScore: -12.837901500000001	Calculated score: -321.379015
+Th is stone	currentIndex: 9	numWords: 3	lmScore: -6.668264150000001	Calculated score: -357.6826415
+Th is st	currentIndex: 6	numWords: 3	lmScore: -6.72157	Calculated score: -361.21569999999997
+Th i ss	currentIndex: 5	numWords: 3	lmScore: -7.2210121	Calculated score: -367.210121
+Th is sto	currentIndex: 7	numWords: 3	lmScore: -7.623124300000001	Calculated score: -369.231243
+Thisstone	This stone
+
+theground
+the ground	currentIndex: 9	numWords: 2	lmScore: -6.614448899999999	Calculated score: -257.144489
+the ground	currentIndex: 9	numWords: 2	lmScore: -6.614448899999999	Calculated score: -257.144489
+the gr	currentIndex: 5	numWords: 2	lmScore: -8.4424619	Calculated score: -279.424619
+the gr	currentIndex: 5	numWords: 2	lmScore: -8.4424619	Calculated score: -279.424619
+th eg	currentIndex: 4	numWords: 2	lmScore: -10.065559	Calculated score: -296.65559
+theground	the ground
+
+underthe
+under the	currentIndex: 8	numWords: 2	lmScore: -5.3790768	Calculated score: -245.790768
+under the	currentIndex: 8	numWords: 2	lmScore: -5.3790768	Calculated score: -245.790768
+un de	currentIndex: 4	numWords: 2	lmScore: -8.5593363	Calculated score: -281.593363
+under th	currentIndex: 7	numWords: 2	lmScore: -8.9032143	Calculated score: -282.032143
+under th	currentIndex: 7	numWords: 2	lmScore: -8.9032143	Calculated score: -282.032143
+un der	currentIndex: 5	numWords: 2	lmScore: -10.4100727	Calculated score: -299.100727
+und ert	currentIndex: 6	numWords: 2	lmScore: -11.760714799999999	Calculated score: -311.607148
+und er	currentIndex: 5	numWords: 2	lmScore: -11.6753436	Calculated score: -311.75343599999997
+underthe	under the
+
+laywas
+lay was	currentIndex: 6	numWords: 2	lmScore: -6.9132724	Calculated score: -263.132724
+lay was	currentIndex: 6	numWords: 2	lmScore: -6.9132724	Calculated score: -263.132724
+lay wa	currentIndex: 5	numWords: 2	lmScore: -9.5590564	Calculated score: -290.590564
+lay wa	currentIndex: 5	numWords: 2	lmScore: -9.5590564	Calculated score: -290.590564
+la yw	currentIndex: 4	numWords: 2	lmScore: -9.704682600000002	Calculated score: -293.046826
+laywas	lay was
+
+thesestones
+these stones	currentIndex: 11	numWords: 2	lmScore: -7.7298919999999995	Calculated score: -266.29892
+these st	currentIndex: 7	numWords: 2	lmScore: -7.6627034	Calculated score: -269.627034
+the ses	currentIndex: 6	numWords: 2	lmScore: -8.2978912	Calculated score: -276.97891200000004
+the ses	currentIndex: 6	numWords: 2	lmScore: -8.2978912	Calculated score: -276.97891200000004
+theses to	currentIndex: 8	numWords: 2	lmScore: -8.5069877	Calculated score: -277.069877
+these sto	currentIndex: 8	numWords: 2	lmScore: -9.465812	Calculated score: -286.65812
+theses tone	currentIndex: 10	numWords: 2	lmScore: -11.1885957	Calculated score: -301.885957
+th es	currentIndex: 4	numWords: 2	lmScore: -10.6184584	Calculated score: -302.184584
+thes es	currentIndex: 6	numWords: 2	lmScore: -11.1375743	Calculated score: -305.375743
+theses tones	currentIndex: 11	numWords: 2	lmScore: -11.767624	Calculated score: -306.67624
+thes est	currentIndex: 7	numWords: 2	lmScore: -11.4427629	Calculated score: -307.427629
+theses ton	currentIndex: 9	numWords: 2	lmScore: -12.344549	Calculated score: -314.44549
+th ese	currentIndex: 5	numWords: 2	lmScore: -11.9665994	Calculated score: -314.665994
+the se stones	currentIndex: 11	numWords: 3	lmScore: -5.78582945	Calculated score: -346.8582945
+the se stones	currentIndex: 11	numWords: 3	lmScore: -5.78582945	Calculated score: -346.8582945
+the se stone	currentIndex: 10	numWords: 3	lmScore: -5.6989293	Calculated score: -346.989293
+the se stone	currentIndex: 10	numWords: 3	lmScore: -5.6989293	Calculated score: -346.989293
+the se st	currentIndex: 7	numWords: 3	lmScore: -5.752235150000001	Calculated score: -350.5223515
+the se st	currentIndex: 7	numWords: 3	lmScore: -5.752235150000001	Calculated score: -350.5223515
+the se sto	currentIndex: 8	numWords: 3	lmScore: -6.65378945	Calculated score: -358.5378945
+the se sto	currentIndex: 8	numWords: 3	lmScore: -6.65378945	Calculated score: -358.5378945
+thesestones	these stones
+
+hadnot
+had not	currentIndex: 6	numWords: 2	lmScore: -5.9343064	Calculated score: -253.343064
+had not	currentIndex: 6	numWords: 2	lmScore: -5.9343064	Calculated score: -253.343064
+had no	currentIndex: 5	numWords: 2	lmScore: -6.269519	Calculated score: -257.69519
+had no	currentIndex: 5	numWords: 2	lmScore: -6.269519	Calculated score: -257.69519
+ha dn	currentIndex: 4	numWords: 2	lmScore: -11.0892792	Calculated score: -306.892792
+hadnot	had not
+
+hetold
+he told	currentIndex: 6	numWords: 2	lmScore: -6.3763325	Calculated score: -257.763325
+he told	currentIndex: 6	numWords: 2	lmScore: -6.3763325	Calculated score: -257.763325
+he to ld	currentIndex: 6	numWords: 3	lmScore: -4.6839251	Calculated score: -340.839251
+he to ld	currentIndex: 6	numWords: 3	lmScore: -4.6839251	Calculated score: -340.839251
+hetold	he told
+
+thattime
+that time	currentIndex: 8	numWords: 2	lmScore: -5.887319	Calculated score: -250.87319
+that time	currentIndex: 8	numWords: 2	lmScore: -5.887319	Calculated score: -250.87319
+that tim	currentIndex: 7	numWords: 2	lmScore: -7.6612254	Calculated score: -269.612254
+that tim	currentIndex: 7	numWords: 2	lmScore: -7.6612254	Calculated score: -269.612254
+th a	currentIndex: 3	numWords: 2	lmScore: -8.1007851	Calculated score: -278.00785099999996
+th at	currentIndex: 4	numWords: 2	lmScore: -8.326132099999999	Calculated score: -279.26132099999995
+that ti	currentIndex: 6	numWords: 2	lmScore: -8.724761	Calculated score: -281.24761
+that ti	currentIndex: 6	numWords: 2	lmScore: -8.724761	Calculated score: -281.24761
+th att	currentIndex: 5	numWords: 2	lmScore: -11.680862399999999	Calculated score: -311.808624
+tha tt	currentIndex: 5	numWords: 2	lmScore: -12.344549	Calculated score: -318.44549
+thattime	that time
+
+whatthe
+what the	currentIndex: 7	numWords: 2	lmScore: -5.1239922	Calculated score: -244.239922
+what the	currentIndex: 7	numWords: 2	lmScore: -5.1239922	Calculated score: -244.239922
+what th	currentIndex: 6	numWords: 2	lmScore: -8.6481297	Calculated score: -280.481297
+what th	currentIndex: 6	numWords: 2	lmScore: -8.6481297	Calculated score: -280.481297
+wh a	currentIndex: 3	numWords: 2	lmScore: -8.4787347	Calculated score: -281.787347
+wh at	currentIndex: 4	numWords: 2	lmScore: -8.7040817	Calculated score: -283.040817
+wh att	currentIndex: 5	numWords: 2	lmScore: -12.058812	Calculated score: -315.58812
+whatthe	what the
+
+wasto
+was to	currentIndex: 5	numWords: 2	lmScore: -4.8625977	Calculated score: -243.625977
+was to	currentIndex: 5	numWords: 2	lmScore: -4.8625977	Calculated score: -243.625977
+wa st	currentIndex: 4	numWords: 2	lmScore: -9.828571400000001	Calculated score: -294.285714
+wa sto	currentIndex: 5	numWords: 2	lmScore: -11.63168	Calculated score: -311.3168
+wasto	was to
+
+andThummim
+and Thummim	currentIndex: 10	numWords: 2	lmScore: -8.325504200000001	Calculated score: -273.255042
+and Thummim	currentIndex: 10	numWords: 2	lmScore: -8.325504200000001	Calculated score: -273.255042
+and Thu	currentIndex: 6	numWords: 2	lmScore: -8.325504200000001	Calculated score: -277.255042
+and Thu	currentIndex: 6	numWords: 2	lmScore: -8.325504200000001	Calculated score: -277.255042
+and Th	currentIndex: 5	numWords: 2	lmScore: -8.325504200000001	Calculated score: -278.255042
+and Th	currentIndex: 5	numWords: 2	lmScore: -8.325504200000001	Calculated score: -278.255042
+a nd	currentIndex: 3	numWords: 2	lmScore: -8.3723717	Calculated score: -280.723717
+an dT	currentIndex: 4	numWords: 2	lmScore: -9.4732455	Calculated score: -290.732455
+andThummim	and Thummim
+
+usualat
+usual at	currentIndex: 7	numWords: 2	lmScore: -7.887831	Calculated score: -271.87831
+usu a	currentIndex: 4	numWords: 2	lmScore: -8.7644717	Calculated score: -283.644717
+us ua	currentIndex: 4	numWords: 2	lmScore: -9.4510054	Calculated score: -290.51005399999997
+us ua	currentIndex: 4	numWords: 2	lmScore: -9.4510054	Calculated score: -290.51005399999997
+usu al	currentIndex: 5	numWords: 2	lmScore: -11.0649284	Calculated score: -305.64928399999997
+usualat	usual at
+
+woulduse
+would use	currentIndex: 8	numWords: 2	lmScore: -6.4678438	Calculated score: -256.678438
+would use	currentIndex: 8	numWords: 2	lmScore: -6.4678438	Calculated score: -256.678438
+would us	currentIndex: 7	numWords: 2	lmScore: -6.4870377	Calculated score: -257.870377
+would us	currentIndex: 7	numWords: 2	lmScore: -6.4870377	Calculated score: -257.870377
+wo ul	currentIndex: 4	numWords: 2	lmScore: -10.0474256	Calculated score: -296.47425599999997
+woulduse	would use
+
+shouldcall
+should call	currentIndex: 10	numWords: 2	lmScore: -6.7231128	Calculated score: -257.231128
+should call	currentIndex: 10	numWords: 2	lmScore: -6.7231128	Calculated score: -257.231128
+should ca	currentIndex: 8	numWords: 2	lmScore: -7.8546194	Calculated score: -270.546194
+should ca	currentIndex: 8	numWords: 2	lmScore: -7.8546194	Calculated score: -270.546194
+should cal	currentIndex: 9	numWords: 2	lmScore: -9.3128234	Calculated score: -284.128234
+should cal	currentIndex: 9	numWords: 2	lmScore: -9.3128234	Calculated score: -284.128234
+sh ou	currentIndex: 4	numWords: 2	lmScore: -11.9188446	Calculated score: -315.188446
+shouldcall	should call
+
+Ihad
+I had	currentIndex: 4	numWords: 2	lmScore: -9.5264175	Calculated score: -291.264175
+I had	currentIndex: 4	numWords: 2	lmScore: -9.5264175	Calculated score: -291.264175
+I ha	currentIndex: 3	numWords: 2	lmScore: -11.7743659	Calculated score: -314.743659
+I ha	currentIndex: 3	numWords: 2	lmScore: -11.7743659	Calculated score: -314.743659
+Ihad	I had
+
+nosooner
+no sooner	currentIndex: 8	numWords: 2	lmScore: -8.183572999999999	Calculated score: -273.83573
+no sooner	currentIndex: 8	numWords: 2	lmScore: -8.183572999999999	Calculated score: -273.83573
+no soo	currentIndex: 5	numWords: 2	lmScore: -9.581002999999999	Calculated score: -290.81003
+no soo	currentIndex: 5	numWords: 2	lmScore: -9.581002999999999	Calculated score: -290.81003
+nos oo	currentIndex: 5	numWords: 2	lmScore: -12.1528148	Calculated score: -316.528148
+no so on	currentIndex: 6	numWords: 3	lmScore: -4.3372424	Calculated score: -337.372424
+no so on	currentIndex: 6	numWords: 3	lmScore: -4.3372424	Calculated score: -337.372424
+no so one	currentIndex: 7	numWords: 3	lmScore: -4.5563336	Calculated score: -338.563336
+no so one	currentIndex: 7	numWords: 3	lmScore: -4.5563336	Calculated score: -338.563336
+no soon er	currentIndex: 8	numWords: 3	lmScore: -6.551198899999999	Calculated score: -357.51198899999997
+no soon er	currentIndex: 8	numWords: 3	lmScore: -6.551198899999999	Calculated score: -357.51198899999997
+nosooner	no sooner
+
+inventedwas
+invented was	currentIndex: 11	numWords: 2	lmScore: -8.0924277	Calculated score: -269.924277
+in vent	currentIndex: 6	numWords: 2	lmScore: -8.0317295	Calculated score: -274.317295
+in vent	currentIndex: 6	numWords: 2	lmScore: -8.0317295	Calculated score: -274.317295
+in vented	currentIndex: 8	numWords: 2	lmScore: -8.509200700000001	Calculated score: -277.092007
+in vented	currentIndex: 8	numWords: 2	lmScore: -8.509200700000001	Calculated score: -277.092007
+i nv	currentIndex: 3	numWords: 2	lmScore: -8.2314739	Calculated score: -279.314739
+in ven	currentIndex: 5	numWords: 2	lmScore: -8.509200700000001	Calculated score: -280.092007
+in ven	currentIndex: 5	numWords: 2	lmScore: -8.509200700000001	Calculated score: -280.092007
+invent ed	currentIndex: 8	numWords: 2	lmScore: -9.9922676	Calculated score: -291.922676
+inv en	currentIndex: 5	numWords: 2	lmScore: -10.1459568	Calculated score: -296.459568
+invented wa	currentIndex: 10	numWords: 2	lmScore: -10.7382117	Calculated score: -297.382117
+inventedwas	invented was
+
+bitterand
+bitter and	currentIndex: 9	numWords: 2	lmScore: -6.4989961	Calculated score: -255.989961
+bitter and	currentIndex: 9	numWords: 2	lmScore: -6.4989961	Calculated score: -255.989961
+bitter a	currentIndex: 7	numWords: 2	lmScore: -7.145579100000001	Calculated score: -264.455791
+bitter a	currentIndex: 7	numWords: 2	lmScore: -7.145579100000001	Calculated score: -264.455791
+bitter an	currentIndex: 8	numWords: 2	lmScore: -7.6467374	Calculated score: -268.467374
+bitter an	currentIndex: 8	numWords: 2	lmScore: -7.6467374	Calculated score: -268.467374
+bit te	currentIndex: 5	numWords: 2	lmScore: -10.2615156	Calculated score: -297.61515599999996
+bi tt	currentIndex: 4	numWords: 2	lmScore: -12.344549	Calculated score: -319.44549
+bitterand	bitter and
+
+toget
+to get	currentIndex: 5	numWords: 2	lmScore: -5.9450824	Calculated score: -254.450824
+to get	currentIndex: 5	numWords: 2	lmScore: -5.9450824	Calculated score: -254.450824
+to ge	currentIndex: 4	numWords: 2	lmScore: -8.1148877	Calculated score: -277.14887699999997
+to ge	currentIndex: 4	numWords: 2	lmScore: -8.1148877	Calculated score: -277.14887699999997
+toget	to get
+
+remainedsafe
+remained safe	currentIndex: 12	numWords: 2	lmScore: -8.6727326	Calculated score: -274.727326
+remained safe	currentIndex: 12	numWords: 2	lmScore: -8.6727326	Calculated score: -274.727326
+remain ed	currentIndex: 8	numWords: 2	lmScore: -8.5281553	Calculated score: -277.28155300000003
+remain eds	currentIndex: 9	numWords: 2	lmScore: -9.0573023	Calculated score: -281.57302300000003
+rem a	currentIndex: 4	numWords: 2	lmScore: -8.7644717	Calculated score: -283.644717
+remained sa	currentIndex: 10	numWords: 2	lmScore: -10.1459568	Calculated score: -291.459568
+remained sa	currentIndex: 10	numWords: 2	lmScore: -10.1459568	Calculated score: -291.459568
+re main	currentIndex: 6	numWords: 2	lmScore: -10.000614200000001	Calculated score: -294.006142
+re maine	currentIndex: 7	numWords: 2	lmScore: -11.255158	Calculated score: -305.55158
+re ma	currentIndex: 4	numWords: 2	lmScore: -11.3700586	Calculated score: -309.700586
+re mai	currentIndex: 5	numWords: 2	lmScore: -11.7742739	Calculated score: -312.74273900000003
+rem ai	currentIndex: 5	numWords: 2	lmScore: -12.0202607	Calculated score: -315.202607
+rem ain	currentIndex: 6	numWords: 2	lmScore: -12.485715299999999	Calculated score: -318.857153
+remainedsafe	remained safe
+
+requiredat
+required at	currentIndex: 10	numWords: 2	lmScore: -6.5044732	Calculated score: -255.044732
+required at	currentIndex: 10	numWords: 2	lmScore: -6.5044732	Calculated score: -255.044732
+require da	currentIndex: 9	numWords: 2	lmScore: -8.966197900000001	Calculated score: -280.661979
+require dat	currentIndex: 10	numWords: 2	lmScore: -10.3993896	Calculated score: -293.993896
+req ui	currentIndex: 5	numWords: 2	lmScore: -11.3700586	Calculated score: -308.700586
+re qu	currentIndex: 4	numWords: 2	lmScore: -11.5267446	Calculated score: -311.267446
+requiredat	required at
+
+forthem
+for them	currentIndex: 7	numWords: 2	lmScore: -5.513367000000001	Calculated score: -248.13367
+for them	currentIndex: 7	numWords: 2	lmScore: -5.513367000000001	Calculated score: -248.13367
+fort he	currentIndex: 6	numWords: 2	lmScore: -7.550521	Calculated score: -269.50521000000003
+for th	currentIndex: 5	numWords: 2	lmScore: -8.011437	Calculated score: -275.11437
+for th	currentIndex: 5	numWords: 2	lmScore: -8.011437	Calculated score: -275.11437
+forth em	currentIndex: 7	numWords: 2	lmScore: -10.1995577	Calculated score: -294.995577
+fort hem	currentIndex: 7	numWords: 2	lmScore: -10.231048999999999	Calculated score: -295.31048999999996
+fo rt	currentIndex: 4	numWords: 2	lmScore: -11.5900883	Calculated score: -311.900883
+forthem	for them
+
+untilthis
+until this	currentIndex: 9	numWords: 2	lmScore: -6.108711	Calculated score: -252.08711
+until this	currentIndex: 9	numWords: 2	lmScore: -6.108711	Calculated score: -252.08711
+until th	currentIndex: 7	numWords: 2	lmScore: -8.9046243	Calculated score: -282.046243
+until th	currentIndex: 7	numWords: 2	lmScore: -8.9046243	Calculated score: -282.046243
+un tilt	currentIndex: 6	numWords: 2	lmScore: -10.754755	Calculated score: -301.54755
+un til	currentIndex: 5	numWords: 2	lmScore: -11.017804	Calculated score: -305.17804
+un ti	currentIndex: 4	numWords: 2	lmScore: -11.303541	Calculated score: -309.03540999999996
+untilthis	until this
+
+andthirty-eight
+and thirty-eight	currentIndex: 15	numWords: 2	lmScore: -7.5691027	Calculated score: -260.691027
+and thirty-eight	currentIndex: 15	numWords: 2	lmScore: -7.5691027	Calculated score: -260.691027
+and th	currentIndex: 5	numWords: 2	lmScore: -7.4542021	Calculated score: -269.542021
+and th	currentIndex: 5	numWords: 2	lmScore: -7.4542021	Calculated score: -269.542021
+an dt	currentIndex: 4	numWords: 2	lmScore: -7.88725	Calculated score: -274.8725
+a nd	currentIndex: 3	numWords: 2	lmScore: -8.3723717	Calculated score: -280.723717
+andthirty-eight	and thirty-eight
+
+Pearlof
+Pearl of	currentIndex: 7	numWords: 2	lmScore: -8.8060055	Calculated score: -281.060055
+Pearl of	currentIndex: 7	numWords: 2	lmScore: -8.8060055	Calculated score: -281.060055
+Pe a	currentIndex: 3	numWords: 2	lmScore: -8.9720872	Calculated score: -286.720872
+Pear lo	currentIndex: 6	numWords: 2	lmScore: -11.440471500000001	Calculated score: -308.404715
+Pe arlo	currentIndex: 6	numWords: 2	lmScore: -12.289115500000001	Calculated score: -316.891155
+Pe ar	currentIndex: 4	numWords: 2	lmScore: -12.4458015	Calculated score: -320.458015
+Pearlof	Pearl of
+
+apeople
+a people	currentIndex: 7	numWords: 2	lmScore: -5.7112597	Calculated score: -250.112597
+a people	currentIndex: 7	numWords: 2	lmScore: -5.7112597	Calculated score: -250.112597
+a pe	currentIndex: 3	numWords: 2	lmScore: -8.3723717	Calculated score: -280.723717
+a pe	currentIndex: 3	numWords: 2	lmScore: -8.3723717	Calculated score: -280.723717
+apeople	a people
+
+thegift
+the gift	currentIndex: 7	numWords: 2	lmScore: -6.3041883	Calculated score: -256.041883
+the gift	currentIndex: 7	numWords: 2	lmScore: -6.3041883	Calculated score: -256.041883
+the gif	currentIndex: 6	numWords: 2	lmScore: -7.9649906999999995	Calculated score: -273.649907
+the gif	currentIndex: 6	numWords: 2	lmScore: -7.9649906999999995	Calculated score: -273.649907
+th eg	currentIndex: 4	numWords: 2	lmScore: -10.065559	Calculated score: -296.65559
+thegift	the gift
+
+
+otherpeople
+other people	currentIndex: 11	numWords: 2	lmScore: -6.6236325	Calculated score: -255.23632500000002
+other people	currentIndex: 11	numWords: 2	lmScore: -6.6236325	Calculated score: -255.23632500000002
+ot he	currentIndex: 4	numWords: 2	lmScore: -8.336860399999999	Calculated score: -279.368604
+ot her	currentIndex: 5	numWords: 2	lmScore: -8.8660396	Calculated score: -283.660396
+other pe	currentIndex: 7	numWords: 2	lmScore: -9.2847445	Calculated score: -285.847445
+other pe	currentIndex: 7	numWords: 2	lmScore: -9.2847445	Calculated score: -285.847445
+ot herp	currentIndex: 6	numWords: 2	lmScore: -11.9665994	Calculated score: -313.665994
+otherpeople	other people
+
+2face-to-face
+2 face-to-face	currentIndex: 13	numWords: 2	lmScore: -11.2789211	Calculated score: -299.789211
+2 face-to-face	currentIndex: 13	numWords: 2	lmScore: -11.2789211	Calculated score: -299.789211
+2 face	currentIndex: 5	numWords: 2	lmScore: -10.588271200000001	Calculated score: -300.882712
+2 face	currentIndex: 5	numWords: 2	lmScore: -10.588271200000001	Calculated score: -300.882712
+2 fa	currentIndex: 3	numWords: 2	lmScore: -12.6933308	Calculated score: -323.933308
+2 fa	currentIndex: 3	numWords: 2	lmScore: -12.6933308	Calculated score: -323.933308
+2face-to-face	2 face-to-face
+
+meetingwith
+meeting with	currentIndex: 11	numWords: 2	lmScore: -6.3058226	Calculated score: -252.058226
+meeting with	currentIndex: 11	numWords: 2	lmScore: -6.3058226	Calculated score: -252.058226
+meet in	currentIndex: 6	numWords: 2	lmScore: -6.2054597000000005	Calculated score: -256.054597
+meet i	currentIndex: 5	numWords: 2	lmScore: -6.537758200000001	Calculated score: -260.377582
+me et	currentIndex: 4	numWords: 2	lmScore: -8.3856383	Calculated score: -279.856383
+meeting wit	currentIndex: 10	numWords: 2	lmScore: -9.5214267	Calculated score: -285.214267
+meeting wit	currentIndex: 10	numWords: 2	lmScore: -9.5214267	Calculated score: -285.214267
+meet ing	currentIndex: 7	numWords: 2	lmScore: -9.662858400000001	Calculated score: -289.62858400000005
+meetingwith	meeting with
+
+Makeagoodfirstimpression
+Make a good first impression	currentIndex: 24	numWords: 5	lmScore: -5.1913463250000005	Calculated score: -527.91346325
+Make a good first impression	currentIndex: 24	numWords: 5	lmScore: -5.1913463250000005	Calculated score: -527.91346325
+Make a good first i	currentIndex: 15	numWords: 5	lmScore: -4.641641775	Calculated score: -531.41641775
+Make a good first i	currentIndex: 15	numWords: 5	lmScore: -4.641641775	Calculated score: -531.41641775
+Make a good first impress	currentIndex: 21	numWords: 5	lmScore: -5.296344575000001	Calculated score: -531.96344575
+Make a good first impress	currentIndex: 21	numWords: 5	lmScore: -5.296344575000001	Calculated score: -531.96344575
+Make a good first im	currentIndex: 16	numWords: 5	lmScore: -4.9441382250000006	Calculated score: -533.4413822500001
+Make a good first im	currentIndex: 16	numWords: 5	lmScore: -4.9441382250000006	Calculated score: -533.4413822500001
+Make a good first imp	currentIndex: 17	numWords: 5	lmScore: -5.588838475	Calculated score: -538.88838475
+Make a good first imp	currentIndex: 17	numWords: 5	lmScore: -5.588838475	Calculated score: -538.88838475
+Make ago od first impression	currentIndex: 24	numWords: 5	lmScore: -6.398415975	Calculated score: -539.98415975
+Make ago od first impression	currentIndex: 24	numWords: 5	lmScore: -6.398415975	Calculated score: -539.98415975
+Make a go od first	currentIndex: 14	numWords: 5	lmScore: -5.46265375	Calculated score: -540.6265375
+Make a go od first	currentIndex: 14	numWords: 5	lmScore: -5.46265375	Calculated score: -540.6265375
+Make a good fir st	currentIndex: 14	numWords: 5	lmScore: -5.551871425000001	Calculated score: -541.51871425
+Make a good fir st	currentIndex: 14	numWords: 5	lmScore: -5.551871425000001	Calculated score: -541.51871425
+Ma ke a good first	currentIndex: 14	numWords: 5	lmScore: -5.5526957999999995	Calculated score: -541.526958
+Make ago od first i	currentIndex: 15	numWords: 5	lmScore: -5.848711424999999	Calculated score: -543.48711425
+Make ago od first i	currentIndex: 15	numWords: 5	lmScore: -5.848711424999999	Calculated score: -543.48711425
+Make ago od first impress	currentIndex: 21	numWords: 5	lmScore: -6.503414225	Calculated score: -544.0341422500001
+Make ago od first impress	currentIndex: 21	numWords: 5	lmScore: -6.503414225	Calculated score: -544.0341422500001
+Make ago od first im	currentIndex: 16	numWords: 5	lmScore: -6.151207875	Calculated score: -545.51207875
+Make ago od first im	currentIndex: 16	numWords: 5	lmScore: -6.151207875	Calculated score: -545.51207875
+Make a go od fir	currentIndex: 12	numWords: 5	lmScore: -5.87646385	Calculated score: -546.7646385
+Make a go od fir	currentIndex: 12	numWords: 5	lmScore: -5.87646385	Calculated score: -546.7646385
+Ma ke a good fir	currentIndex: 12	numWords: 5	lmScore: -5.9665059	Calculated score: -547.665059
+Make ago od first imp	currentIndex: 17	numWords: 5	lmScore: -6.7959081249999995	Calculated score: -550.95908125
+Make ago od first imp	currentIndex: 17	numWords: 5	lmScore: -6.7959081249999995	Calculated score: -550.95908125
+Ma ke a go od	currentIndex: 9	numWords: 5	lmScore: -6.1440168250000005	Calculated score: -552.44016825
+Make ago od fir st	currentIndex: 14	numWords: 5	lmScore: -6.758941075	Calculated score: -553.58941075
+Make ago od fir st	currentIndex: 14	numWords: 5	lmScore: -6.758941075	Calculated score: -553.58941075
+Ma ke ago od first	currentIndex: 14	numWords: 5	lmScore: -6.75976545	Calculated score: -553.5976545
+Make ag oo df i	currentIndex: 11	numWords: 5	lmScore: -6.879268124999999	Calculated score: -557.79268125
+Make ag oo df i	currentIndex: 11	numWords: 5	lmScore: -6.879268124999999	Calculated score: -557.79268125
+Ma ke ago od fir	currentIndex: 12	numWords: 5	lmScore: -7.17357555	Calculated score: -559.7357555
+Make ag oo df irs	currentIndex: 13	numWords: 5	lmScore: -7.755030574999999	Calculated score: -564.55030575
+Make ag oo df irs	currentIndex: 13	numWords: 5	lmScore: -7.755030574999999	Calculated score: -564.55030575
+Make ag oo dfi rs	currentIndex: 13	numWords: 5	lmScore: -7.779910975	Calculated score: -564.79910975
+Make ag oo dfi rs	currentIndex: 13	numWords: 5	lmScore: -7.779910975	Calculated score: -564.79910975
+Make ag oo df ir	currentIndex: 12	numWords: 5	lmScore: -7.7070970249999995	Calculated score: -565.07097025
+Make ag oo df ir	currentIndex: 12	numWords: 5	lmScore: -7.7070970249999995	Calculated score: -565.07097025
+Ma ke ag oo df	currentIndex: 10	numWords: 5	lmScore: -7.79032215	Calculated score: -567.9032215
+Ma ke ag oo dfi	currentIndex: 11	numWords: 5	lmScore: -7.90968995	Calculated score: -568.0968995
+Makeagoodfirstimpression	Make a good first impression
+
+Within10secondswe
+Within 10 seconds we	currentIndex: 17	numWords: 4	lmScore: -5.922915233333334	Calculated score: -442.22915233333333
+With in 10 seconds	currentIndex: 15	numWords: 4	lmScore: -5.758567966666667	Calculated score: -442.5856796666667
+With in 10 seconds	currentIndex: 15	numWords: 4	lmScore: -5.758567966666667	Calculated score: -442.5856796666667
+With in 10 se	currentIndex: 10	numWords: 4	lmScore: -5.7557894	Calculated score: -447.55789400000003
+With in 10 se	currentIndex: 10	numWords: 4	lmScore: -5.7557894	Calculated score: -447.55789400000003
+Within 10 sec on	currentIndex: 13	numWords: 4	lmScore: -6.139156900000001	Calculated score: -448.391569
+With in 10 sec	currentIndex: 11	numWords: 4	lmScore: -6.017902533333333	Calculated score: -449.17902533333336
+With in 10 sec	currentIndex: 11	numWords: 4	lmScore: -6.017902533333333	Calculated score: -449.17902533333336
+Within 10 second sw	currentIndex: 16	numWords: 4	lmScore: -6.664868133333333	Calculated score: -450.64868133333334
+Within 10 se con	currentIndex: 13	numWords: 4	lmScore: -6.601502633333333	Calculated score: -453.01502633333337
+Wit hin 10 second	currentIndex: 14	numWords: 4	lmScore: -6.8860969999999995	Calculated score: -454.86097
+Within 10 se co	currentIndex: 12	numWords: 4	lmScore: -6.7448345	Calculated score: -455.448345
+Wit hin 10 seconds	currentIndex: 15	numWords: 4	lmScore: -7.132263066666667	Calculated score: -456.32263066666667
+With in 10s eco	currentIndex: 12	numWords: 4	lmScore: -6.8785536	Calculated score: -456.785536
+With in 10s eco	currentIndex: 12	numWords: 4	lmScore: -6.8785536	Calculated score: -456.785536
+Within 10 se cond	currentIndex: 14	numWords: 4	lmScore: -7.1294845	Calculated score: -457.294845
+Wit hin 10 se	currentIndex: 10	numWords: 4	lmScore: -7.129484499999999	Calculated score: -461.294845
+With in 1 0s	currentIndex: 9	numWords: 4	lmScore: -7.1849059	Calculated score: -462.849059
+With in 1 0s	currentIndex: 9	numWords: 4	lmScore: -7.1849059	Calculated score: -462.849059
+Wit hin 10 sec	currentIndex: 11	numWords: 4	lmScore: -7.391597633333333	Calculated score: -462.91597633333333
+With in1 0 second	currentIndex: 14	numWords: 4	lmScore: -7.783681266666666	Calculated score: -463.8368126666667
+With in1 0 second	currentIndex: 14	numWords: 4	lmScore: -7.783681266666666	Calculated score: -463.8368126666667
+With in 1 0	currentIndex: 8	numWords: 4	lmScore: -7.254111066666667	Calculated score: -464.54111066666667
+With in 1 0	currentIndex: 8	numWords: 4	lmScore: -7.254111066666667	Calculated score: -464.54111066666667
+Within 1 0 second	currentIndex: 14	numWords: 4	lmScore: -7.901076666666666	Calculated score: -465.01076666666665
+With in1 0 seconds	currentIndex: 15	numWords: 4	lmScore: -8.029847333333334	Calculated score: -465.29847333333333
+With in1 0 seconds	currentIndex: 15	numWords: 4	lmScore: -8.029847333333334	Calculated score: -465.29847333333333
+Within 1 0 seconds	currentIndex: 15	numWords: 4	lmScore: -8.147242733333334	Calculated score: -466.47242733333337
+Within 10s eco nd	currentIndex: 14	numWords: 4	lmScore: -8.1215487	Calculated score: -467.215487
+With in1 0s eco	currentIndex: 12	numWords: 4	lmScore: -8.204058466666668	Calculated score: -470.0405846666667
+With in1 0s eco	currentIndex: 12	numWords: 4	lmScore: -8.204058466666668	Calculated score: -470.0405846666667
+With in1 0 se	currentIndex: 10	numWords: 4	lmScore: -8.027068766666666	Calculated score: -470.2706876666667
+With in1 0 se	currentIndex: 10	numWords: 4	lmScore: -8.027068766666666	Calculated score: -470.2706876666667
+Wit hin 10s eco	currentIndex: 12	numWords: 4	lmScore: -8.2522487	Calculated score: -470.522487
+Within 1 0s eco	currentIndex: 12	numWords: 4	lmScore: -8.321453866666667	Calculated score: -471.21453866666667
+Within 1 0 se	currentIndex: 10	numWords: 4	lmScore: -8.144464166666666	Calculated score: -471.44464166666666
+With in1 0 sec	currentIndex: 11	numWords: 4	lmScore: -8.2891819	Calculated score: -471.891819
+With in1 0 sec	currentIndex: 11	numWords: 4	lmScore: -8.2891819	Calculated score: -471.891819
+Within 1 0 sec	currentIndex: 11	numWords: 4	lmScore: -8.4065773	Calculated score: -473.06577300000004
+Wit hin 1 0s	currentIndex: 9	numWords: 4	lmScore: -8.558601000000001	Calculated score: -476.58601
+Wit hin 1 0	currentIndex: 8	numWords: 4	lmScore: -8.627806166666668	Calculated score: -478.27806166666664
+With in 10 second sw	currentIndex: 16	numWords: 5	lmScore: -5.5471655250000005	Calculated score: -539.47165525
+With in 10 second sw	currentIndex: 16	numWords: 5	lmScore: -5.5471655250000005	Calculated score: -539.47165525
+Within10secondswe	Within 10 seconds we
+
+Theentiredialogue
+The entire dialogue	currentIndex: 17	numWords: 3	lmScore: -7.891256350000001	Calculated score: -361.91256350000003
+The entire dialogue	currentIndex: 17	numWords: 3	lmScore: -7.891256350000001	Calculated score: -361.91256350000003
+The entire dialog	currentIndex: 15	numWords: 3	lmScore: -7.750848150000001	Calculated score: -362.5084815
+The entire dialog	currentIndex: 15	numWords: 3	lmScore: -7.750848150000001	Calculated score: -362.5084815
+Thee nt i	currentIndex: 7	numWords: 3	lmScore: -7.15036105	Calculated score: -364.5036105
+The entire di	currentIndex: 11	numWords: 3	lmScore: -7.76542665	Calculated score: -366.6542665
+The entire di	currentIndex: 11	numWords: 3	lmScore: -7.76542665	Calculated score: -366.6542665
+The entire dial	currentIndex: 13	numWords: 3	lmScore: -8.05854265	Calculated score: -367.5854265
+The entire dial	currentIndex: 13	numWords: 3	lmScore: -8.05854265	Calculated score: -367.5854265
+The en tired	currentIndex: 10	numWords: 3	lmScore: -7.82095175	Calculated score: -368.2095175
+The en tired	currentIndex: 10	numWords: 3	lmScore: -7.82095175	Calculated score: -368.2095175
+The en tire	currentIndex: 9	numWords: 3	lmScore: -8.14176225	Calculated score: -372.4176225
+The en tire	currentIndex: 9	numWords: 3	lmScore: -8.14176225	Calculated score: -372.4176225
+The entire dia	currentIndex: 12	numWords: 3	lmScore: -8.6139553	Calculated score: -374.139553
+The entire dia	currentIndex: 12	numWords: 3	lmScore: -8.6139553	Calculated score: -374.139553
+The en ti	currentIndex: 7	numWords: 3	lmScore: -8.57309325	Calculated score: -378.7309325
+The en ti	currentIndex: 7	numWords: 3	lmScore: -8.57309325	Calculated score: -378.7309325
+Thee nt ir	currentIndex: 8	numWords: 3	lmScore: -8.80601885	Calculated score: -380.0601885
+Th ee nt	currentIndex: 6	numWords: 3	lmScore: -9.044754450000001	Calculated score: -384.4475445
+Theentiredialogue	The entire dialogue
+
+cantake
+can take	currentIndex: 7	numWords: 2	lmScore: -6.459236799999999	Calculated score: -257.59236799999996
+can take	currentIndex: 7	numWords: 2	lmScore: -6.459236799999999	Calculated score: -257.59236799999996
+cant a	currentIndex: 5	numWords: 2	lmScore: -6.762219699999999	Calculated score: -262.622197
+can ta	currentIndex: 5	numWords: 2	lmScore: -9.191106399999999	Calculated score: -286.911064
+can ta	currentIndex: 5	numWords: 2	lmScore: -9.191106399999999	Calculated score: -286.911064
+ca nt	currentIndex: 4	numWords: 2	lmScore: -10.1085464	Calculated score: -297.085464
+cant ak	currentIndex: 6	numWords: 2	lmScore: -10.342296999999999	Calculated score: -297.42296999999996
+cantake	can take
+
+placein
+place in	currentIndex: 7	numWords: 2	lmScore: -5.9498553	Calculated score: -252.49855300000002
+place in	currentIndex: 7	numWords: 2	lmScore: -5.9498553	Calculated score: -252.49855300000002
+place i	currentIndex: 6	numWords: 2	lmScore: -6.2821538	Calculated score: -256.821538
+place i	currentIndex: 6	numWords: 2	lmScore: -6.2821538	Calculated score: -256.821538
+pl a	currentIndex: 3	numWords: 2	lmScore: -8.619901	Calculated score: -283.19901
+pl ac	currentIndex: 4	numWords: 2	lmScore: -11.5365043	Calculated score: -311.365043
+pla ce	currentIndex: 5	numWords: 2	lmScore: -12.3411446	Calculated score: -318.411446
+pl ace	currentIndex: 5	numWords: 2	lmScore: -12.3411446	Calculated score: -318.411446
+placein	place in
+
+aslittle
+as little	currentIndex: 8	numWords: 2	lmScore: -6.3648579000000005	Calculated score: -255.648579
+as little	currentIndex: 8	numWords: 2	lmScore: -6.3648579000000005	Calculated score: -255.648579
+asl i	currentIndex: 4	numWords: 2	lmScore: -7.2636617999999995	Calculated score: -268.636618
+asl it	currentIndex: 5	numWords: 2	lmScore: -7.4473002	Calculated score: -269.473002
+as lit	currentIndex: 5	numWords: 2	lmScore: -7.4476443	Calculated score: -269.476443
+as lit	currentIndex: 5	numWords: 2	lmScore: -7.4476443	Calculated score: -269.476443
+as li	currentIndex: 4	numWords: 2	lmScore: -8.1047354	Calculated score: -277.047354
+as li	currentIndex: 4	numWords: 2	lmScore: -8.1047354	Calculated score: -277.047354
+a slit	currentIndex: 5	numWords: 2	lmScore: -8.2870005	Calculated score: -277.870005
+a sl	currentIndex: 3	numWords: 2	lmScore: -8.3723717	Calculated score: -280.723717
+aslittle	as little
+
+as2
+a s2	currentIndex: 3	numWords: 2	lmScore: -8.1007851	Calculated score: -278.00785099999996
+as 2	currentIndex: 3	numWords: 2	lmScore: -9.0237923	Calculated score: -287.237923
+as 2	currentIndex: 3	numWords: 2	lmScore: -9.0237923	Calculated score: -287.237923
+as2	a s2
+
+3minutes
+3 minutes	currentIndex: 8	numWords: 2	lmScore: -10.7536235	Calculated score: -299.53623500000003
+3 min	currentIndex: 4	numWords: 2	lmScore: -10.842650500000001	Calculated score: -304.426505
+3 minute	currentIndex: 7	numWords: 2	lmScore: -11.236131199999999	Calculated score: -305.361312
+3 mi	currentIndex: 3	numWords: 2	lmScore: -11.944433199999999	Calculated score: -316.444332
+3m in ut	currentIndex: 6	numWords: 3	lmScore: -6.652863550000001	Calculated score: -360.5286355
+3m in ut	currentIndex: 6	numWords: 3	lmScore: -6.652863550000001	Calculated score: -360.5286355
+3m in utes	currentIndex: 8	numWords: 3	lmScore: -7.41217185	Calculated score: -366.1217185
+3m in utes	currentIndex: 8	numWords: 3	lmScore: -7.41217185	Calculated score: -366.1217185
+3m in ute	currentIndex: 7	numWords: 3	lmScore: -7.3398865	Calculated score: -366.398865
+3m in ute	currentIndex: 7	numWords: 3	lmScore: -7.3398865	Calculated score: -366.398865
+3m i nut	currentIndex: 6	numWords: 3	lmScore: -7.3395855	Calculated score: -367.395855
+3m i nut	currentIndex: 6	numWords: 3	lmScore: -7.3395855	Calculated score: -367.395855
+3m i nu	currentIndex: 5	numWords: 3	lmScore: -7.4354526	Calculated score: -369.35452599999996
+3m i nu	currentIndex: 5	numWords: 3	lmScore: -7.4354526	Calculated score: -369.35452599999996
+3minutes	3 minutes
+
+moveon
+move on	currentIndex: 6	numWords: 2	lmScore: -6.5942098	Calculated score: -259.942098
+move on	currentIndex: 6	numWords: 2	lmScore: -6.5942098	Calculated score: -259.942098
+moveon	move on
+
+incontactwith
+incontact with	currentIndex: 13	numWords: 2	lmScore: -7.783311599999999	Calculated score: -264.833116
+inc on	currentIndex: 5	numWords: 2	lmScore: -7.0116816	Calculated score: -265.116816
+in cont	currentIndex: 6	numWords: 2	lmScore: -7.4456651	Calculated score: -268.456651
+in cont	currentIndex: 6	numWords: 2	lmScore: -7.4456651	Calculated score: -268.456651
+in co	currentIndex: 4	numWords: 2	lmScore: -7.3552507	Calculated score: -269.552507
+in co	currentIndex: 4	numWords: 2	lmScore: -7.3552507	Calculated score: -269.552507
+i nc	currentIndex: 3	numWords: 2	lmScore: -8.0870385	Calculated score: -277.870385
+incontact wit	currentIndex: 12	numWords: 2	lmScore: -10.9989157	Calculated score: -297.989157
+in contact with	currentIndex: 13	numWords: 3	lmScore: -4.152343950000001	Calculated score: -328.5234395
+in contact with	currentIndex: 13	numWords: 3	lmScore: -4.152343950000001	Calculated score: -328.5234395
+in contact wit	currentIndex: 12	numWords: 3	lmScore: -5.760146000000001	Calculated score: -345.60146
+in contact wit	currentIndex: 12	numWords: 3	lmScore: -5.760146000000001	Calculated score: -345.60146
+in con tact	currentIndex: 9	numWords: 3	lmScore: -6.47733055	Calculated score: -355.7733055
+in con tact	currentIndex: 9	numWords: 3	lmScore: -6.47733055	Calculated score: -355.7733055
+in con ta	currentIndex: 7	numWords: 3	lmScore: -6.62019905	Calculated score: -359.20199049999997
+in con ta	currentIndex: 7	numWords: 3	lmScore: -6.62019905	Calculated score: -359.20199049999997
+incontactwith	incontact with
+
+moreWhat
+more What	currentIndex: 8	numWords: 2	lmScore: -9.649256000000001	Calculated score: -288.49256
+more What	currentIndex: 8	numWords: 2	lmScore: -9.649256000000001	Calculated score: -288.49256
+more Wh	currentIndex: 6	numWords: 2	lmScore: -9.649256000000001	Calculated score: -290.49256
+more Wh	currentIndex: 6	numWords: 2	lmScore: -9.649256000000001	Calculated score: -290.49256
+mo re	currentIndex: 4	numWords: 2	lmScore: -11.3700586	Calculated score: -309.700586
+moreWhat	more What
+
+meetingsomeone
+meeting someone	currentIndex: 14	numWords: 2	lmScore: -7.537572	Calculated score: -261.37572
+meeting someone	currentIndex: 14	numWords: 2	lmScore: -7.537572	Calculated score: -261.37572
+me et	currentIndex: 4	numWords: 2	lmScore: -8.3856383	Calculated score: -279.856383
+meetings om	currentIndex: 10	numWords: 2	lmScore: -9.390243	Calculated score: -283.90243
+meeting som	currentIndex: 10	numWords: 2	lmScore: -9.845715	Calculated score: -288.45715
+meeting som	currentIndex: 10	numWords: 2	lmScore: -9.845715	Calculated score: -288.45715
+meet ing	currentIndex: 7	numWords: 2	lmScore: -9.662858400000001	Calculated score: -289.62858400000005
+meeting some on	currentIndex: 13	numWords: 3	lmScore: -4.7707645	Calculated score: -334.707645
+meeting some on	currentIndex: 13	numWords: 3	lmScore: -4.7707645	Calculated score: -334.707645
+meeting some one	currentIndex: 14	numWords: 3	lmScore: -4.989855700000001	Calculated score: -335.898557
+meeting some one	currentIndex: 14	numWords: 3	lmScore: -4.989855700000001	Calculated score: -335.898557
+meeting so me	currentIndex: 11	numWords: 3	lmScore: -5.04287465	Calculated score: -339.4287465
+meeting so me	currentIndex: 11	numWords: 3	lmScore: -5.04287465	Calculated score: -339.4287465
+meet i ngs	currentIndex: 8	numWords: 3	lmScore: -6.2304006	Calculated score: -354.304006
+meet i ng	currentIndex: 7	numWords: 3	lmScore: -6.426450600000001	Calculated score: -357.264506
+meetingsomeone	meeting someone
+
+introduceyourself
+introduce yourself	currentIndex: 17	numWords: 2	lmScore: -8.5896957	Calculated score: -268.896957
+in tr	currentIndex: 4	numWords: 2	lmScore: -7.8455141	Calculated score: -274.455141
+in tr	currentIndex: 4	numWords: 2	lmScore: -7.8455141	Calculated score: -274.455141
+i nt	currentIndex: 3	numWords: 2	lmScore: -7.7779636	Calculated score: -274.779636
+in trod	currentIndex: 6	numWords: 2	lmScore: -8.1171007	Calculated score: -275.17100700000003
+in trod	currentIndex: 6	numWords: 2	lmScore: -8.1171007	Calculated score: -275.17100700000003
+introduce yours	currentIndex: 14	numWords: 2	lmScore: -9.4742793	Calculated score: -280.742793
+introduce yo	currentIndex: 11	numWords: 2	lmScore: -10.571639300000001	Calculated score: -294.71639300000004
+intro du	currentIndex: 7	numWords: 2	lmScore: -11.1039374	Calculated score: -304.039374
+int rod	currentIndex: 6	numWords: 2	lmScore: -11.1931813	Calculated score: -305.931813
+int ro	currentIndex: 5	numWords: 2	lmScore: -11.9369293	Calculated score: -314.36929299999997
+introduce your self	currentIndex: 17	numWords: 3	lmScore: -6.087325850000001	Calculated score: -343.8732585
+introduce your se	currentIndex: 15	numWords: 3	lmScore: -6.1980791	Calculated score: -346.980791
+introduce your sel	currentIndex: 16	numWords: 3	lmScore: -6.4237891000000005	Calculated score: -348.237891
+introduce you rs	currentIndex: 14	numWords: 3	lmScore: -6.46362885	Calculated score: -350.6362885
+introduceyourself	introduce yourself
+
+Usea
+Use a	currentIndex: 4	numWords: 2	lmScore: -8.9720872	Calculated score: -285.720872
+Use a	currentIndex: 4	numWords: 2	lmScore: -8.9720872	Calculated score: -285.720872
+Us ea	currentIndex: 4	numWords: 2	lmScore: -12.5521645	Calculated score: -321.52164500000003
+Usea	Use a
+
+Askthose
+Ask those	currentIndex: 8	numWords: 2	lmScore: -9.7318385	Calculated score: -289.31838500000003
+Ask th	currentIndex: 5	numWords: 2	lmScore: -12.174214899999999	Calculated score: -316.742149
+Ask thos	currentIndex: 7	numWords: 2	lmScore: -12.5521645	Calculated score: -318.52164500000003
+Ask tho	currentIndex: 6	numWords: 2	lmScore: -12.837901500000001	Calculated score: -322.379015
+A sk	currentIndex: 3	numWords: 2	lmScore: -12.5521645	Calculated score: -322.52164500000003
+Askthose	Ask those
+
+whatyouare
+what youare	currentIndex: 10	numWords: 2	lmScore: -9.1672456	Calculated score: -281.672456
+what youare	currentIndex: 10	numWords: 2	lmScore: -9.1672456	Calculated score: -281.672456
+wh a	currentIndex: 3	numWords: 2	lmScore: -8.4787347	Calculated score: -281.787347
+wh at	currentIndex: 4	numWords: 2	lmScore: -8.7040817	Calculated score: -283.040817
+what yo	currentIndex: 6	numWords: 2	lmScore: -8.9197163	Calculated score: -283.197163
+what yo	currentIndex: 6	numWords: 2	lmScore: -8.9197163	Calculated score: -283.197163
+what you are	currentIndex: 10	numWords: 3	lmScore: -4.147632499999999	Calculated score: -331.476325
+what you are	currentIndex: 10	numWords: 3	lmScore: -4.147632499999999	Calculated score: -331.476325
+what you a	currentIndex: 8	numWords: 3	lmScore: -4.0366035	Calculated score: -332.366035
+what you a	currentIndex: 8	numWords: 3	lmScore: -4.0366035	Calculated score: -332.366035
+what you ar	currentIndex: 9	numWords: 3	lmScore: -5.77346065	Calculated score: -348.7346065
+what you ar	currentIndex: 9	numWords: 3	lmScore: -5.77346065	Calculated score: -348.7346065
+what youa re	currentIndex: 10	numWords: 3	lmScore: -7.261708949999999	Calculated score: -362.6170895
+what youa re	currentIndex: 10	numWords: 3	lmScore: -7.261708949999999	Calculated score: -362.6170895
+whatyouare	what youare
+
+howyou
+how you	currentIndex: 6	numWords: 2	lmScore: -5.7878672	Calculated score: -251.878672
+how you	currentIndex: 6	numWords: 2	lmScore: -5.7878672	Calculated score: -251.878672
+how yo	currentIndex: 5	numWords: 2	lmScore: -9.0837052	Calculated score: -285.83705199999997
+how yo	currentIndex: 5	numWords: 2	lmScore: -9.0837052	Calculated score: -285.83705199999997
+ho wyo	currentIndex: 5	numWords: 2	lmScore: -11.5667504	Calculated score: -310.667504
+ho wy	currentIndex: 4	numWords: 2	lmScore: -11.5667504	Calculated score: -311.667504
+howyou	how you
+
+Usea
+Use a	currentIndex: 4	numWords: 2	lmScore: -8.9720872	Calculated score: -285.720872
+Use a	currentIndex: 4	numWords: 2	lmScore: -8.9720872	Calculated score: -285.720872
+Us ea	currentIndex: 4	numWords: 2	lmScore: -12.5521645	Calculated score: -321.52164500000003
+Usea	Use a
+
+usuallyat
+usually at	currentIndex: 9	numWords: 2	lmScore: -6.5808317	Calculated score: -256.808317
+usually at	currentIndex: 9	numWords: 2	lmScore: -6.5808317	Calculated score: -256.808317
+usu a	currentIndex: 4	numWords: 2	lmScore: -8.7644717	Calculated score: -283.644717
+usu all	currentIndex: 6	numWords: 2	lmScore: -9.1927177	Calculated score: -285.92717700000003
+us ua	currentIndex: 4	numWords: 2	lmScore: -9.4510054	Calculated score: -290.51005399999997
+usu al	currentIndex: 5	numWords: 2	lmScore: -11.0649284	Calculated score: -305.64928399999997
+usu ally	currentIndex: 7	numWords: 2	lmScore: -12.0202607	Calculated score: -313.202607
+usuallyat	usually at
+
+
+haddone
+had done	currentIndex: 7	numWords: 2	lmScore: -7.1235115	Calculated score: -264.235115
+had done	currentIndex: 7	numWords: 2	lmScore: -7.1235115	Calculated score: -264.235115
+had don	currentIndex: 6	numWords: 2	lmScore: -7.8856103	Calculated score: -272.85610299999996
+had don	currentIndex: 6	numWords: 2	lmScore: -7.8856103	Calculated score: -272.85610299999996
+ha dd	currentIndex: 4	numWords: 2	lmScore: -10.2986194	Calculated score: -298.986194
+had do ne	currentIndex: 7	numWords: 3	lmScore: -5.8484548499999995	Calculated score: -351.4845485
+had do ne	currentIndex: 7	numWords: 3	lmScore: -5.8484548499999995	Calculated score: -351.4845485
+haddone	had done
+
+thesegrievous
+these grievous	currentIndex: 13	numWords: 2	lmScore: -8.2370657	Calculated score: -269.370657
+the seg	currentIndex: 6	numWords: 2	lmScore: -8.4424619	Calculated score: -278.424619
+the seg	currentIndex: 6	numWords: 2	lmScore: -8.4424619	Calculated score: -278.424619
+these gr	currentIndex: 7	numWords: 2	lmScore: -9.465812	Calculated score: -287.65812
+thes eg	currentIndex: 6	numWords: 2	lmScore: -10.5846749	Calculated score: -299.846749
+th es	currentIndex: 4	numWords: 2	lmScore: -10.6184584	Calculated score: -302.184584
+th ese	currentIndex: 5	numWords: 2	lmScore: -11.9665994	Calculated score: -314.665994
+the se grievous	currentIndex: 13	numWords: 3	lmScore: -6.0394163	Calculated score: -347.394163
+the se grievous	currentIndex: 13	numWords: 3	lmScore: -6.0394163	Calculated score: -347.394163
+the se gr	currentIndex: 7	numWords: 3	lmScore: -6.65378945	Calculated score: -359.5378945
+the se gr	currentIndex: 7	numWords: 3	lmScore: -6.65378945	Calculated score: -359.5378945
+thesegrievous	these grievous
+
+Havingrelated
+Having related	currentIndex: 13	numWords: 2	lmScore: -10.3808585	Calculated score: -290.808585
+Having related	currentIndex: 13	numWords: 2	lmScore: -10.3808585	Calculated score: -290.808585
+Having relate	currentIndex: 12	numWords: 2	lmScore: -10.763313799999999	Calculated score: -295.633138
+Having relate	currentIndex: 12	numWords: 2	lmScore: -10.763313799999999	Calculated score: -295.633138
+Having rel	currentIndex: 9	numWords: 2	lmScore: -11.8165565	Calculated score: -309.165565
+Having rel	currentIndex: 9	numWords: 2	lmScore: -11.8165565	Calculated score: -309.165565
+Having re	currentIndex: 8	numWords: 2	lmScore: -12.1264601	Calculated score: -313.26460099999997
+Having re	currentIndex: 8	numWords: 2	lmScore: -12.1264601	Calculated score: -313.26460099999997
+Ha vi	currentIndex: 4	numWords: 2	lmScore: -12.289115500000001	Calculated score: -318.891155
+Ha vin	currentIndex: 5	numWords: 2	lmScore: -12.837901500000001	Calculated score: -323.379015
+Havingrelated	Having related
+
+thatsleep
+that sleep	currentIndex: 9	numWords: 2	lmScore: -6.9803754	Calculated score: -260.803754
+that sleep	currentIndex: 9	numWords: 2	lmScore: -6.9803754	Calculated score: -260.803754
+thats lee	currentIndex: 8	numWords: 2	lmScore: -8.2690006	Calculated score: -274.690006
+that sl	currentIndex: 6	numWords: 2	lmScore: -8.332661	Calculated score: -277.32661
+that sl	currentIndex: 6	numWords: 2	lmScore: -8.332661	Calculated score: -277.32661
+th a	currentIndex: 3	numWords: 2	lmScore: -8.1007851	Calculated score: -278.00785099999996
+th at	currentIndex: 4	numWords: 2	lmScore: -8.326132099999999	Calculated score: -279.26132099999995
+thats le	currentIndex: 7	numWords: 2	lmScore: -9.2491136	Calculated score: -285.491136
+th ats	currentIndex: 5	numWords: 2	lmScore: -11.9665994	Calculated score: -314.665994
+tha ts	currentIndex: 5	numWords: 2	lmScore: -12.344549	Calculated score: -318.44549
+thatsleep	that sleep
+
+atwhat
+
+againI
+again I	currentIndex: 6	numWords: 2	lmScore: -10.080073800000001	Calculated score: -294.800738
+ag ai	currentIndex: 4	numWords: 2	lmScore: -12.0202607	Calculated score: -316.202607
+ag ain	currentIndex: 5	numWords: 2	lmScore: -12.485715299999999	Calculated score: -319.857153
+a ga in	currentIndex: 5	numWords: 3	lmScore: -5.0645132	Calculated score: -345.645132
+a ga in	currentIndex: 5	numWords: 3	lmScore: -5.0645132	Calculated score: -345.645132
+a ga i	currentIndex: 4	numWords: 3	lmScore: -5.2306624500000005	Calculated score: -348.3066245
+a ga i	currentIndex: 4	numWords: 3	lmScore: -5.2306624500000005	Calculated score: -348.3066245
+ag a in	currentIndex: 5	numWords: 3	lmScore: -5.4792647	Calculated score: -349.792647
+ag a i	currentIndex: 4	numWords: 3	lmScore: -5.64541395	Calculated score: -352.4541395
+a gain I	currentIndex: 6	numWords: 3	lmScore: -6.622594250000001	Calculated score: -360.2259425
+a gain I	currentIndex: 6	numWords: 3	lmScore: -6.622594250000001	Calculated score: -360.2259425
+a ga inI	currentIndex: 6	numWords: 3	lmScore: -7.2288636	Calculated score: -366.288636
+a ga inI	currentIndex: 6	numWords: 3	lmScore: -7.2288636	Calculated score: -366.288636
+ag a inI	currentIndex: 6	numWords: 3	lmScore: -7.6436151	Calculated score: -370.436151
+againI	again I
+
+orrepeat
+or repeat	currentIndex: 8	numWords: 2	lmScore: -6.756634699999999	Calculated score: -259.566347
+or repeat	currentIndex: 8	numWords: 2	lmScore: -6.756634699999999	Calculated score: -259.566347
+or rep	currentIndex: 5	numWords: 2	lmScore: -7.472878700000001	Calculated score: -269.728787
+or rep	currentIndex: 5	numWords: 2	lmScore: -7.472878700000001	Calculated score: -269.728787
+or re	currentIndex: 4	numWords: 2	lmScore: -7.8446242999999996	Calculated score: -274.446243
+or re	currentIndex: 4	numWords: 2	lmScore: -7.8446242999999996	Calculated score: -274.446243
+orr ep	currentIndex: 5	numWords: 2	lmScore: -12.0202607	Calculated score: -315.202607
+orrepeat	or repeat
+
+cautionto
+caution to	currentIndex: 9	numWords: 2	lmScore: -7.1384552	Calculated score: -262.384552
+caution to	currentIndex: 9	numWords: 2	lmScore: -7.1384552	Calculated score: -262.384552
+ca ut	currentIndex: 4	numWords: 2	lmScore: -9.6534654	Calculated score: -292.534654
+cautionto	caution to
+
+haveno
+have no	currentIndex: 6	numWords: 2	lmScore: -6.2025983	Calculated score: -256.025983
+have no	currentIndex: 6	numWords: 2	lmScore: -6.2025983	Calculated score: -256.025983
+ha ven	currentIndex: 5	numWords: 2	lmScore: -11.5667504	Calculated score: -310.667504
+haveno	have no
+
+mustnot
+must not	currentIndex: 7	numWords: 2	lmScore: -6.1502435	Calculated score: -254.502435
+must not	currentIndex: 7	numWords: 2	lmScore: -6.1502435	Calculated score: -254.502435
+must no	currentIndex: 6	numWords: 2	lmScore: -6.4854561	Calculated score: -258.854561
+must no	currentIndex: 6	numWords: 2	lmScore: -6.4854561	Calculated score: -258.854561
+mustnot	must not
+
+strangeness
+strange ness	currentIndex: 11	numWords: 2	lmScore: -10.5766833	Calculated score: -294.766833
+strange ness	currentIndex: 11	numWords: 2	lmScore: -10.5766833	Calculated score: -294.766833
+st ra	currentIndex: 4	numWords: 2	lmScore: -10.682606700000001	Calculated score: -302.826067
+strang ene	currentIndex: 9	numWords: 2	lmScore: -11.846086	Calculated score: -309.46086
+str ang	currentIndex: 6	numWords: 2	lmScore: -12.0202607	Calculated score: -314.202607
+str an gen	currentIndex: 8	numWords: 3	lmScore: -6.90038605	Calculated score: -361.0038605
+st ran gen	currentIndex: 8	numWords: 3	lmScore: -6.9672742	Calculated score: -361.67274199999997
+str an gene	currentIndex: 9	numWords: 3	lmScore: -7.07062235	Calculated score: -361.70622349999996
+st rang en	currentIndex: 8	numWords: 3	lmScore: -7.0261377000000005	Calculated score: -362.26137700000004
+st ran gene	currentIndex: 9	numWords: 3	lmScore: -7.1375105	Calculated score: -362.375105
+st range ness	currentIndex: 11	numWords: 3	lmScore: -7.4335395	Calculated score: -363.335395
+str an genes	currentIndex: 10	numWords: 3	lmScore: -7.34250535	Calculated score: -363.4250535
+st range ne	currentIndex: 9	numWords: 3	lmScore: -7.25235915	Calculated score: -363.5235915
+st ran genes	currentIndex: 10	numWords: 3	lmScore: -7.4093935	Calculated score: -364.093935
+str an ge	currentIndex: 7	numWords: 3	lmScore: -7.28932385	Calculated score: -365.8932385
+strang en es	currentIndex: 10	numWords: 3	lmScore: -7.599164999999999	Calculated score: -365.99165
+str a ng	currentIndex: 6	numWords: 3	lmScore: -7.2347947	Calculated score: -366.347947
+st ran ge	currentIndex: 7	numWords: 3	lmScore: -7.356212	Calculated score: -366.56212
+strange ne ss	currentIndex: 11	numWords: 3	lmScore: -7.80361605	Calculated score: -367.0361605
+strange ne ss	currentIndex: 11	numWords: 3	lmScore: -7.80361605	Calculated score: -367.0361605
+st rang ene	currentIndex: 9	numWords: 3	lmScore: -7.8335167000000006	Calculated score: -369.335167
+strangeness	strange ness
+
+daywas
+day was	currentIndex: 6	numWords: 2	lmScore: -6.4227164000000005	Calculated score: -258.227164
+day was	currentIndex: 6	numWords: 2	lmScore: -6.4227164000000005	Calculated score: -258.227164
+day wa	currentIndex: 5	numWords: 2	lmScore: -9.068500400000001	Calculated score: -285.68500400000005
+day wa	currentIndex: 5	numWords: 2	lmScore: -9.068500400000001	Calculated score: -285.68500400000005
+da yw	currentIndex: 4	numWords: 2	lmScore: -10.0116639	Calculated score: -296.116639
+daywas	day was
+
+wholeof
+whole of	currentIndex: 7	numWords: 2	lmScore: -6.7635164	Calculated score: -260.63516400000003
+who leo	currentIndex: 6	numWords: 2	lmScore: -8.3133871	Calculated score: -277.133871
+who leo	currentIndex: 6	numWords: 2	lmScore: -8.3133871	Calculated score: -277.133871
+who le	currentIndex: 5	numWords: 2	lmScore: -8.2268381	Calculated score: -277.268381
+who le	currentIndex: 5	numWords: 2	lmScore: -8.2268381	Calculated score: -277.268381
+wh ole	currentIndex: 5	numWords: 2	lmScore: -11.7345237	Calculated score: -312.345237
+wh ol	currentIndex: 4	numWords: 2	lmScore: -12.344549	Calculated score: -319.44549
+wholeof	whole of
+
+necessarylabors
+necessary labors	currentIndex: 15	numWords: 2	lmScore: -8.913929	Calculated score: -274.13928999999996
+necessary labors	currentIndex: 15	numWords: 2	lmScore: -8.913929	Calculated score: -274.13928999999996
+necessary la	currentIndex: 11	numWords: 2	lmScore: -8.623782	Calculated score: -275.23782
+necessary la	currentIndex: 11	numWords: 2	lmScore: -8.623782	Calculated score: -275.23782
+necessary lab	currentIndex: 12	numWords: 2	lmScore: -9.3210026	Calculated score: -281.21002599999997
+necessary lab	currentIndex: 12	numWords: 2	lmScore: -9.3210026	Calculated score: -281.21002599999997
+ne ces	currentIndex: 5	numWords: 2	lmScore: -9.6327933	Calculated score: -291.32793300000003
+nec es	currentIndex: 5	numWords: 2	lmScore: -11.282145	Calculated score: -307.82145
+ne ce	currentIndex: 4	numWords: 2	lmScore: -11.7312546	Calculated score: -313.312546
+necessarylabors	necessary labors
+
+foundmy
+found my	currentIndex: 7	numWords: 2	lmScore: -6.4172423	Calculated score: -257.172423
+found my	currentIndex: 7	numWords: 2	lmScore: -6.4172423	Calculated score: -257.172423
+fo un	currentIndex: 4	numWords: 2	lmScore: -11.017804	Calculated score: -306.17804
+fo und	currentIndex: 5	numWords: 2	lmScore: -11.8670778	Calculated score: -313.67077800000004
+foundmy	found my
+
+whowas
+who was	currentIndex: 6	numWords: 2	lmScore: -5.5316591	Calculated score: -249.316591
+who was	currentIndex: 6	numWords: 2	lmScore: -5.5316591	Calculated score: -249.316591
+who wa	currentIndex: 5	numWords: 2	lmScore: -8.1774431	Calculated score: -276.774431
+who wa	currentIndex: 5	numWords: 2	lmScore: -8.1774431	Calculated score: -276.774431
+wh ow	currentIndex: 4	numWords: 2	lmScore: -12.1999783	Calculated score: -317.999783
+whowas	who was
+
+mystrength
+my strength	currentIndex: 10	numWords: 2	lmScore: -7.0369501	Calculated score: -260.369501
+my strength	currentIndex: 10	numWords: 2	lmScore: -7.0369501	Calculated score: -260.369501
+my st	currentIndex: 4	numWords: 2	lmScore: -7.4606161	Calculated score: -270.606161
+my st	currentIndex: 4	numWords: 2	lmScore: -7.4606161	Calculated score: -270.606161
+my str	currentIndex: 5	numWords: 2	lmScore: -8.6536994	Calculated score: -281.536994
+my str	currentIndex: 5	numWords: 2	lmScore: -8.6536994	Calculated score: -281.536994
+mystrength	my strength
+
+atime
+a time	currentIndex: 5	numWords: 2	lmScore: -5.9270297	Calculated score: -254.270297
+a time	currentIndex: 5	numWords: 2	lmScore: -5.9270297	Calculated score: -254.270297
+at im	currentIndex: 4	numWords: 2	lmScore: -6.4110177	Calculated score: -260.110177
+a tim	currentIndex: 4	numWords: 2	lmScore: -7.7009361	Calculated score: -273.009361
+a tim	currentIndex: 4	numWords: 2	lmScore: -7.7009361	Calculated score: -273.009361
+ati me	currentIndex: 5	numWords: 2	lmScore: -8.1378698	Calculated score: -276.378698
+a ti	currentIndex: 3	numWords: 2	lmScore: -8.7644717	Calculated score: -284.644717
+a ti	currentIndex: 3	numWords: 2	lmScore: -8.7644717	Calculated score: -284.644717
+at ime	currentIndex: 5	numWords: 2	lmScore: -8.9898187	Calculated score: -284.898187
+at i me	currentIndex: 5	numWords: 3	lmScore: -4.3098341	Calculated score: -338.098341
+atime	a time
+
+standingover
+standing over	currentIndex: 12	numWords: 2	lmScore: -7.281430800000001	Calculated score: -260.814308
+standing over	currentIndex: 12	numWords: 2	lmScore: -7.281430800000001	Calculated score: -260.814308
+st a	currentIndex: 3	numWords: 2	lmScore: -6.9613631	Calculated score: -266.613631
+st an	currentIndex: 4	numWords: 2	lmScore: -7.4625214	Calculated score: -270.625214
+stand ing	currentIndex: 8	numWords: 2	lmScore: -9.6210041	Calculated score: -288.210041
+stan di	currentIndex: 6	numWords: 2	lmScore: -9.814047299999999	Calculated score: -292.140473
+st andi	currentIndex: 6	numWords: 2	lmScore: -10.2783914	Calculated score: -296.783914
+st andin	currentIndex: 7	numWords: 2	lmScore: -10.682606700000001	Calculated score: -299.826067
+stan din	currentIndex: 7	numWords: 2	lmScore: -11.3699383	Calculated score: -306.699383
+stan ding	currentIndex: 8	numWords: 2	lmScore: -11.5111046	Calculated score: -307.111046
+sta nd	currentIndex: 5	numWords: 2	lmScore: -12.0936153	Calculated score: -315.936153
+st and in	currentIndex: 7	numWords: 3	lmScore: -4.2544189	Calculated score: -335.544189
+st and i	currentIndex: 6	numWords: 3	lmScore: -4.42056815	Calculated score: -338.2056815
+stand in go	currentIndex: 9	numWords: 3	lmScore: -4.8369851	Calculated score: -339.369851
+stand in gov	currentIndex: 10	numWords: 3	lmScore: -6.0965057	Calculated score: -350.965057
+st and ing	currentIndex: 8	numWords: 3	lmScore: -5.98311825	Calculated score: -351.8311825
+stand i ngo	currentIndex: 9	numWords: 3	lmScore: -6.1005108	Calculated score: -352.005108
+stand i ng	currentIndex: 8	numWords: 3	lmScore: -6.4055234500000005	Calculated score: -356.0552345
+standingover	standing over
+
+untome
+unto me	currentIndex: 6	numWords: 2	lmScore: -6.6750443	Calculated score: -260.750443
+unto me	currentIndex: 6	numWords: 2	lmScore: -6.6750443	Calculated score: -260.750443
+un to	currentIndex: 4	numWords: 2	lmScore: -7.1802427	Calculated score: -267.80242699999997
+un tom	currentIndex: 5	numWords: 2	lmScore: -9.6420383	Calculated score: -291.420383
+un tome	currentIndex: 6	numWords: 2	lmScore: -10.754755	Calculated score: -301.54755
+untome	unto me
+
+whichI
+which I	currentIndex: 6	numWords: 2	lmScore: -9.2909548	Calculated score: -286.909548
+which I	currentIndex: 6	numWords: 2	lmScore: -9.2909548	Calculated score: -286.909548
+wh ich	currentIndex: 5	numWords: 2	lmScore: -11.8670778	Calculated score: -313.67077800000004
+wh i ch	currentIndex: 5	numWords: 3	lmScore: -7.05822225	Calculated score: -365.5822225
+wh i chI	currentIndex: 6	numWords: 3	lmScore: -7.53926035	Calculated score: -369.3926035
+whichI	which I
+
+wholematter
+whole matter	currentIndex: 11	numWords: 2	lmScore: -8.844717	Calculated score: -277.44717
+whole matt	currentIndex: 9	numWords: 2	lmScore: -9.291129399999999	Calculated score: -283.911294
+whole mat	currentIndex: 8	numWords: 2	lmScore: -10.0018119	Calculated score: -292.018119
+whole ma	currentIndex: 7	numWords: 2	lmScore: -10.2466264	Calculated score: -295.466264
+whole matte	currentIndex: 10	numWords: 2	lmScore: -10.6508417	Calculated score: -296.508417
+wh ole	currentIndex: 5	numWords: 2	lmScore: -11.7345237	Calculated score: -312.345237
+wh ol	currentIndex: 4	numWords: 2	lmScore: -12.344549	Calculated score: -319.44549
+who le matter	currentIndex: 11	numWords: 3	lmScore: -6.29564285	Calculated score: -351.9564285
+who le matter	currentIndex: 11	numWords: 3	lmScore: -6.29564285	Calculated score: -351.9564285
+who le matt	currentIndex: 9	numWords: 3	lmScore: -6.51884905	Calculated score: -356.1884905
+who le matt	currentIndex: 9	numWords: 3	lmScore: -6.51884905	Calculated score: -356.1884905
+who le mat	currentIndex: 8	numWords: 3	lmScore: -6.8741903	Calculated score: -360.741903
+who le mat	currentIndex: 8	numWords: 3	lmScore: -6.8741903	Calculated score: -360.741903
+who le matte	currentIndex: 10	numWords: 3	lmScore: -7.1987052	Calculated score: -361.987052
+who le matte	currentIndex: 10	numWords: 3	lmScore: -7.1987052	Calculated score: -361.987052
+who le ma	currentIndex: 7	numWords: 3	lmScore: -6.996597550000001	Calculated score: -362.9659755
+who le ma	currentIndex: 7	numWords: 3	lmScore: -6.996597550000001	Calculated score: -362.9659755
+wholematter	whole matter
+
+anddo
+and do	currentIndex: 5	numWords: 2	lmScore: -4.935314099999999	Calculated score: -244.353141
+and do	currentIndex: 5	numWords: 2	lmScore: -4.935314099999999	Calculated score: -244.353141
+an dd	currentIndex: 4	numWords: 2	lmScore: -7.9974989999999995	Calculated score: -275.97499
+a nd	currentIndex: 3	numWords: 2	lmScore: -8.3723717	Calculated score: -280.723717
+anddo	and do
+
+placewhere
+place where	currentIndex: 10	numWords: 2	lmScore: -6.818364600000001	Calculated score: -258.183646
+place where	currentIndex: 10	numWords: 2	lmScore: -6.818364600000001	Calculated score: -258.183646
+pl a	currentIndex: 3	numWords: 2	lmScore: -8.619901	Calculated score: -283.19901
+place wh	currentIndex: 7	numWords: 2	lmScore: -9.7852036	Calculated score: -290.852036
+place wh	currentIndex: 7	numWords: 2	lmScore: -9.7852036	Calculated score: -290.852036
+pl ac	currentIndex: 4	numWords: 2	lmScore: -11.5365043	Calculated score: -311.365043
+pla ce	currentIndex: 5	numWords: 2	lmScore: -12.3411446	Calculated score: -318.411446
+pl ace	currentIndex: 5	numWords: 2	lmScore: -12.3411446	Calculated score: -318.411446
+placewhere	place where
+
+owingto
+owing to	currentIndex: 7	numWords: 2	lmScore: -7.9582017	Calculated score: -272.582017
+owing to	currentIndex: 7	numWords: 2	lmScore: -7.9582017	Calculated score: -272.582017
+ow in	currentIndex: 4	numWords: 2	lmScore: -8.36463	Calculated score: -279.6463
+ow i	currentIndex: 3	numWords: 2	lmScore: -8.6969285	Calculated score: -283.969285
+ow ing	currentIndex: 5	numWords: 2	lmScore: -11.8220287	Calculated score: -313.220287
+owingto	owing to
+
+distinctness
+distinct ness	currentIndex: 12	numWords: 2	lmScore: -10.8136623	Calculated score: -296.136623
+distinct ness	currentIndex: 12	numWords: 2	lmScore: -10.8136623	Calculated score: -296.136623
+dis tin	currentIndex: 6	numWords: 2	lmScore: -11.680862399999999	Calculated score: -310.808624
+dis ti	currentIndex: 5	numWords: 2	lmScore: -12.344549	Calculated score: -318.44549
+di st in	currentIndex: 6	numWords: 3	lmScore: -5.58980355	Calculated score: -349.8980355
+di st i	currentIndex: 5	numWords: 3	lmScore: -5.7559528	Calculated score: -352.559528
+di st inc	currentIndex: 7	numWords: 3	lmScore: -6.7197051000000005	Calculated score: -360.197051
+dist in ct	currentIndex: 8	numWords: 3	lmScore: -6.964290699999999	Calculated score: -361.642907
+dist i nc	currentIndex: 7	numWords: 3	lmScore: -6.8960780999999995	Calculated score: -361.960781
+distinct ne ss	currentIndex: 12	numWords: 3	lmScore: -7.92210555	Calculated score: -367.22105550000003
+distinct ne ss	currentIndex: 12	numWords: 3	lmScore: -7.92210555	Calculated score: -367.22105550000003
+dist inc tn	currentIndex: 9	numWords: 3	lmScore: -7.88134005	Calculated score: -369.8134005
+distinctness	distinct ness
+
+knewthe
+knew the	currentIndex: 7	numWords: 2	lmScore: -6.0244941999999995	Calculated score: -253.24494199999998
+knew the	currentIndex: 7	numWords: 2	lmScore: -6.0244941999999995	Calculated score: -253.24494199999998
+knew th	currentIndex: 6	numWords: 2	lmScore: -9.5486317	Calculated score: -289.486317
+knew th	currentIndex: 6	numWords: 2	lmScore: -9.5486317	Calculated score: -289.486317
+knewthe	knew the
+
+
+hefted
+he ft ed	currentIndex: 6	numWords: 3	lmScore: -6.297756250000001	Calculated score: -356.9775625
+he ft ed	currentIndex: 6	numWords: 3	lmScore: -6.297756250000001	Calculated score: -356.9775625
+hefted	he ft ed
+
+PageJacob
+Page Jacob	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+Page Jacob	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+Page Ja	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Page Ja	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Pa ge Jacob	currentIndex: 9	numWords: 3	lmScore: -9.48428	Calculated score: -385.8428
+Pa ge Ja	currentIndex: 6	numWords: 3	lmScore: -9.48428	Calculated score: -388.8428
+PageJacob	Page Jacob
+
+SmithJohn
+Smith John	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+Smith John	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+Smith Jo	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+Smith Jo	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+Sm i th	currentIndex: 5	numWords: 3	lmScore: -7.350285550000001	Calculated score: -368.5028555
+Sm ith John	currentIndex: 9	numWords: 3	lmScore: -9.48428	Calculated score: -385.8428
+Sm ith Jo	currentIndex: 7	numWords: 3	lmScore: -9.48428	Calculated score: -387.8428
+SmithJohn	Smith John
+
+
+sss
+
+
+Judg
+
+Esth
+Es th	currentIndex: 4	numWords: 2	lmScore: -12.174214899999999	Calculated score: -317.742149
+Es th	currentIndex: 4	numWords: 2	lmScore: -12.174214899999999	Calculated score: -317.742149
+Esth	Es th
+
+Eccl
+
+Philem
+Phil em	currentIndex: 6	numWords: 2	lmScore: -12.5521645	Calculated score: -319.52164500000003
+Phil em	currentIndex: 6	numWords: 2	lmScore: -12.5521645	Calculated score: -319.52164500000003
+Ph i le	currentIndex: 5	numWords: 3	lmScore: -7.207523350000001	Calculated score: -367.0752335
+Ph il em	currentIndex: 6	numWords: 3	lmScore: -9.1286411	Calculated score: -385.286411
+Philem	Phil em
+
+Obad
+Ob ad	currentIndex: 4	numWords: 2	lmScore: -11.5111565	Calculated score: -311.111565
+Ob ad	currentIndex: 4	numWords: 2	lmScore: -11.5111565	Calculated score: -311.111565
+Obad	Ob ad
+
+Hab
+
+Hag
+
+archaic
+
+
+
+submittedby
+submitted by	currentIndex: 11	numWords: 2	lmScore: -6.786737199999999	Calculated score: -256.867372
+submitted by	currentIndex: 11	numWords: 2	lmScore: -6.786737199999999	Calculated score: -256.867372
+submit ted	currentIndex: 9	numWords: 2	lmScore: -9.69294	Calculated score: -287.9294
+submit te	currentIndex: 8	numWords: 2	lmScore: -9.812648	Calculated score: -290.12648
+sub mitt	currentIndex: 7	numWords: 2	lmScore: -10.7040884	Calculated score: -300.040884
+sub mi	currentIndex: 5	numWords: 2	lmScore: -10.6732821	Calculated score: -301.732821
+su bmi	currentIndex: 5	numWords: 2	lmScore: -11.4299315	Calculated score: -309.299315
+sub mit	currentIndex: 6	numWords: 2	lmScore: -11.5667504	Calculated score: -309.667504
+submittedby	submitted by
+
+OfficeBuilding
+Office Building	currentIndex: 14	numWords: 2	lmScore: -13.045517	Calculated score: -316.45517
+Office Build	currentIndex: 11	numWords: 2	lmScore: -13.045517	Calculated score: -319.45517
+Office Bu	currentIndex: 8	numWords: 2	lmScore: -13.045517	Calculated score: -322.45517
+Off i ceBu	currentIndex: 8	numWords: 3	lmScore: -7.7859366	Calculated score: -369.859366
+Off i ce	currentIndex: 6	numWords: 3	lmScore: -7.6098435	Calculated score: -370.098435
+Off ice Building	currentIndex: 14	numWords: 3	lmScore: -8.888357200000002	Calculated score: -374.883572
+Off ice Build	currentIndex: 11	numWords: 3	lmScore: -8.888357200000002	Calculated score: -377.883572
+Off ice Bu	currentIndex: 8	numWords: 3	lmScore: -8.888357200000002	Calculated score: -380.883572
+OfficeBuilding	Office Building
+
+1-801-240-1726
+1- 80 1-2 40 -1 726	currentIndex: 14	numWords: 6	lmScore: -6.3340390399999995	Calculated score: -649.3403904
+1- 80 1-2 40 -1 726	currentIndex: 14	numWords: 6	lmScore: -6.3340390399999995	Calculated score: -649.3403904
+1- 80 1- 240 -1 72	currentIndex: 13	numWords: 6	lmScore: -6.3942920999999995	Calculated score: -650.942921
+1- 80 1- 240 -1 72	currentIndex: 13	numWords: 6	lmScore: -6.3942920999999995	Calculated score: -650.942921
+1- 801 -2 40 -1 72	currentIndex: 13	numWords: 6	lmScore: -6.416077939999999	Calculated score: -651.1607794
+1- 801 -2 40 -1 72	currentIndex: 13	numWords: 6	lmScore: -6.416077939999999	Calculated score: -651.1607794
+1- 80 1-2 40 -1 7	currentIndex: 12	numWords: 6	lmScore: -6.40447628	Calculated score: -652.0447628
+1- 80 1-2 40 -1 7	currentIndex: 12	numWords: 6	lmScore: -6.40447628	Calculated score: -652.0447628
+1- 80 1- 240 -1 726	currentIndex: 14	numWords: 6	lmScore: -6.683371679999999	Calculated score: -652.8337168
+1- 80 1- 240 -1 726	currentIndex: 14	numWords: 6	lmScore: -6.683371679999999	Calculated score: -652.8337168
+1- 801 -2 40 -1 726	currentIndex: 14	numWords: 6	lmScore: -6.70515752	Calculated score: -653.0515752
+1- 801 -2 40 -1 726	currentIndex: 14	numWords: 6	lmScore: -6.70515752	Calculated score: -653.0515752
+1- 80 1- 24 0 -1	currentIndex: 11	numWords: 6	lmScore: -6.487547220000001	Calculated score: -653.8754722
+1- 80 1- 24 0 -1	currentIndex: 11	numWords: 6	lmScore: -6.487547220000001	Calculated score: -653.8754722
+1- 80 1- 2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.515116620000001	Calculated score: -654.1511662
+1- 80 1- 2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.515116620000001	Calculated score: -654.1511662
+1- 80 1 -2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.59595968	Calculated score: -654.9595968
+1- 80 1 -2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.59595968	Calculated score: -654.9595968
+1- 80 1- 240 -1 7	currentIndex: 12	numWords: 6	lmScore: -6.75380892	Calculated score: -655.5380892000001
+1- 80 1- 240 -1 7	currentIndex: 12	numWords: 6	lmScore: -6.75380892	Calculated score: -655.5380892000001
+1- 801 -2 40 -1 7	currentIndex: 12	numWords: 6	lmScore: -6.77559476	Calculated score: -655.7559476
+1- 801 -2 40 -1 7	currentIndex: 12	numWords: 6	lmScore: -6.77559476	Calculated score: -655.7559476
+1- 8 01 -2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.711041080000001	Calculated score: -656.1104108
+1- 8 01 -2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.711041080000001	Calculated score: -656.1104108
+1- 8 0 1-2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.79816686	Calculated score: -656.9816686
+1- 8 0 1-2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.79816686	Calculated score: -656.9816686
+1 -8 01 -2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.820798280000001	Calculated score: -657.2079828
+1- 80 1-2 4 0 -1	currentIndex: 11	numWords: 6	lmScore: -6.86913838	Calculated score: -657.6913838
+1- 80 1-2 4 0 -1	currentIndex: 11	numWords: 6	lmScore: -6.86913838	Calculated score: -657.6913838
+1 -8 0 1-2 40 -1	currentIndex: 11	numWords: 6	lmScore: -6.907924060000001	Calculated score: -658.0792406
+1- 8 0 1- 240 -1	currentIndex: 11	numWords: 6	lmScore: -7.1474995	Calculated score: -660.474995
+1- 8 0 1- 240 -1	currentIndex: 11	numWords: 6	lmScore: -7.1474995	Calculated score: -660.474995
+1- 8 0 1- 24 0	currentIndex: 9	numWords: 6	lmScore: -7.0325181	Calculated score: -661.325181
+1- 8 0 1- 24 0	currentIndex: 9	numWords: 6	lmScore: -7.0325181	Calculated score: -661.325181
+1- 801 -2 4 0 -1	currentIndex: 11	numWords: 6	lmScore: -7.240256860000001	Calculated score: -661.4025686
+1- 801 -2 4 0 -1	currentIndex: 11	numWords: 6	lmScore: -7.240256860000001	Calculated score: -661.4025686
+1 -8 0 1- 240 -1	currentIndex: 11	numWords: 6	lmScore: -7.257256700000001	Calculated score: -661.572567
+1- 8 0 1- 2 40	currentIndex: 9	numWords: 6	lmScore: -7.0600875	Calculated score: -661.600875
+1- 8 0 1- 2 40	currentIndex: 9	numWords: 6	lmScore: -7.0600875	Calculated score: -661.600875
+1- 80 1- 2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.13105902	Calculated score: -662.3105902
+1- 80 1- 2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.13105902	Calculated score: -662.3105902
+1- 8 0 1 -2 40	currentIndex: 9	numWords: 6	lmScore: -7.140930560000001	Calculated score: -662.4093056
+1- 8 0 1 -2 40	currentIndex: 9	numWords: 6	lmScore: -7.140930560000001	Calculated score: -662.4093056
+1 -8 0 1- 24 0	currentIndex: 9	numWords: 6	lmScore: -7.1422753	Calculated score: -662.4227530000001
+1 -8 0 1- 2 40	currentIndex: 9	numWords: 6	lmScore: -7.169844700000001	Calculated score: -662.698447
+1- 80 1 -2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.21190208	Calculated score: -663.1190208
+1- 80 1 -2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.21190208	Calculated score: -663.1190208
+1 -8 0 1 -2 40	currentIndex: 9	numWords: 6	lmScore: -7.250687760000003	Calculated score: -663.5068776
+1- 8 01 -2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.326983480000001	Calculated score: -664.2698348
+1- 8 01 -2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.326983480000001	Calculated score: -664.2698348
+1- 8 0 1-2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.414109260000001	Calculated score: -665.1410926
+1- 8 0 1-2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.414109260000001	Calculated score: -665.1410926
+1 -8 01 -2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.4367406800000015	Calculated score: -665.3674068
+1 -8 0 1-2 4 0	currentIndex: 9	numWords: 6	lmScore: -7.523866460000001	Calculated score: -666.2386646
+1- 8 0 1- 2 4	currentIndex: 8	numWords: 6	lmScore: -7.524749600000002	Calculated score: -667.247496
+1- 8 0 1- 2 4	currentIndex: 8	numWords: 6	lmScore: -7.524749600000002	Calculated score: -667.247496
+1- 8 0 1 -2 4	currentIndex: 8	numWords: 6	lmScore: -7.605592660000001	Calculated score: -668.0559266
+1- 8 0 1 -2 4	currentIndex: 8	numWords: 6	lmScore: -7.605592660000001	Calculated score: -668.0559266
+1 -8 0 1- 2 4	currentIndex: 8	numWords: 6	lmScore: -7.634506800000001	Calculated score: -668.345068
+1 -8 0 1 -2 4	currentIndex: 8	numWords: 6	lmScore: -7.715349860000002	Calculated score: -669.1534986
+1- 80 1-2 40 -1 72 6	currentIndex: 14	numWords: 7	lmScore: -6.124592633333333	Calculated score: -747.2459263333333
+1- 80 1-2 40 -1 72 6	currentIndex: 14	numWords: 7	lmScore: -6.124592633333333	Calculated score: -747.2459263333333
+1-801-240-1726	1- 80 1-2 40 -1 726
+
+scannedand
+scanned and	currentIndex: 10	numWords: 2	lmScore: -6.5525311	Calculated score: -255.525311
+scanned and	currentIndex: 10	numWords: 2	lmScore: -6.5525311	Calculated score: -255.525311
+scanned a	currentIndex: 8	numWords: 2	lmScore: -7.199114100000001	Calculated score: -263.991141
+scanned a	currentIndex: 8	numWords: 2	lmScore: -7.199114100000001	Calculated score: -263.991141
+scanned an	currentIndex: 9	numWords: 2	lmScore: -7.7002724	Calculated score: -268.002724
+scanned an	currentIndex: 9	numWords: 2	lmScore: -7.7002724	Calculated score: -268.002724
+sc a	currentIndex: 3	numWords: 2	lmScore: -8.2870005	Calculated score: -279.870005
+sc an	currentIndex: 4	numWords: 2	lmScore: -8.7881588	Calculated score: -283.88158799999997
+scan ne	currentIndex: 6	numWords: 2	lmScore: -10.1618213	Calculated score: -295.61821299999997
+sc ann	currentIndex: 5	numWords: 2	lmScore: -10.2180488	Calculated score: -297.18048799999997
+sc anne	currentIndex: 6	numWords: 2	lmScore: -10.7111245	Calculated score: -301.111245
+scan ned	currentIndex: 7	numWords: 2	lmScore: -10.916281999999999	Calculated score: -302.16282
+scannedand	scanned and
+
+ldschurch
+lds church	currentIndex: 9	numWords: 2	lmScore: -6.6811573	Calculated score: -257.811573
+lds church	currentIndex: 9	numWords: 2	lmScore: -6.6811573	Calculated score: -257.811573
+lds ch	currentIndex: 5	numWords: 2	lmScore: -9.160668099999999	Calculated score: -286.606681
+lds ch	currentIndex: 5	numWords: 2	lmScore: -9.160668099999999	Calculated score: -286.606681
+ld sc	currentIndex: 4	numWords: 2	lmScore: -10.3282733	Calculated score: -299.282733
+ld sch	currentIndex: 5	numWords: 2	lmScore: -10.6611738	Calculated score: -301.611738
+ldschurch	lds church
+
+call1-801-240-4914
+call 1-801-240-4914	currentIndex: 18	numWords: 2	lmScore: -10.0405754	Calculated score: -282.405754
+call 1-801-240-4914	currentIndex: 18	numWords: 2	lmScore: -10.0405754	Calculated score: -282.405754
+call 1-	currentIndex: 6	numWords: 2	lmScore: -9.4917894	Calculated score: -288.917894
+call 1-	currentIndex: 6	numWords: 2	lmScore: -9.4917894	Calculated score: -288.917894
+call 1	currentIndex: 5	numWords: 2	lmScore: -10.2481909	Calculated score: -297.481909
+call 1	currentIndex: 5	numWords: 2	lmScore: -10.2481909	Calculated score: -297.481909
+cal l1	currentIndex: 5	numWords: 2	lmScore: -12.630286	Calculated score: -321.30286
+call1-801-240-4914	call 1-801-240-4914
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOffOffOffOff
+Off Off Off Off Off	currentIndex: 15	numWords: 5	lmScore: -8.153448125	Calculated score: -566.53448125
+Off Off Off Off Of	currentIndex: 14	numWords: 5	lmScore: -8.153448125	Calculated score: -567.53448125
+Off Off Off Of fO	currentIndex: 13	numWords: 5	lmScore: -8.153448125	Calculated score: -568.53448125
+OffOffOffOffOff	Off Off Off Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOffOff
+Off Off Off	currentIndex: 9	numWords: 3	lmScore: -9.78413775	Calculated score: -388.8413775
+Off Off Of	currentIndex: 8	numWords: 3	lmScore: -9.78413775	Calculated score: -389.8413775
+Off Of fO	currentIndex: 7	numWords: 3	lmScore: -9.78413775	Calculated score: -390.8413775
+OffOffOff	Off Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+Epileptic
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+PD50051661
+PD 50051661	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+PD 50051661	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+PD 5005166	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+PD 5005166	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+PD 500516	currentIndex: 8	numWords: 2	lmScore: -13.045517	Calculated score: -322.45517
+PD 500516	currentIndex: 8	numWords: 2	lmScore: -13.045517	Calculated score: -322.45517
+PD 50051	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+PD 50051	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+PD 5005	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+PD 5005	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+PD 5	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+PD 5	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+PD 500 51	currentIndex: 7	numWords: 3	lmScore: -7.98259325	Calculated score: -372.8259325
+PD 500 51	currentIndex: 7	numWords: 3	lmScore: -7.98259325	Calculated score: -372.8259325
+PD 50 05	currentIndex: 6	numWords: 3	lmScore: -7.964951800000001	Calculated score: -373.649518
+PD 50 05	currentIndex: 6	numWords: 3	lmScore: -7.964951800000001	Calculated score: -373.649518
+PD 500 516	currentIndex: 8	numWords: 3	lmScore: -8.31630925	Calculated score: -375.1630925
+PD 500 516	currentIndex: 8	numWords: 3	lmScore: -8.31630925	Calculated score: -375.1630925
+PD 50 051661	currentIndex: 10	numWords: 3	lmScore: -8.590235750000002	Calculated score: -375.9023575
+PD 50 051661	currentIndex: 10	numWords: 3	lmScore: -8.590235750000002	Calculated score: -375.9023575
+PD 50 051	currentIndex: 7	numWords: 3	lmScore: -8.290378	Calculated score: -375.90378
+PD 50 051	currentIndex: 7	numWords: 3	lmScore: -8.290378	Calculated score: -375.90378
+PD 50 05166	currentIndex: 9	numWords: 3	lmScore: -8.590235750000002	Calculated score: -376.9023575
+PD 50 05166	currentIndex: 9	numWords: 3	lmScore: -8.590235750000002	Calculated score: -376.9023575
+PD 50 0516	currentIndex: 8	numWords: 3	lmScore: -8.590235750000002	Calculated score: -377.9023575
+PD 50 0516	currentIndex: 8	numWords: 3	lmScore: -8.590235750000002	Calculated score: -377.9023575
+PD 500 51661	currentIndex: 10	numWords: 3	lmScore: -8.834868499999999	Calculated score: -378.348685
+PD 500 51661	currentIndex: 10	numWords: 3	lmScore: -8.834868499999999	Calculated score: -378.348685
+PD 500 5166	currentIndex: 9	numWords: 3	lmScore: -8.834868499999999	Calculated score: -379.348685
+PD 500 5166	currentIndex: 9	numWords: 3	lmScore: -8.834868499999999	Calculated score: -379.348685
+PD 50 0	currentIndex: 5	numWords: 3	lmScore: -8.590235750000002	Calculated score: -380.9023575
+PD 50 0	currentIndex: 5	numWords: 3	lmScore: -8.590235750000002	Calculated score: -380.9023575
+PD 500 5	currentIndex: 6	numWords: 3	lmScore: -8.834868499999999	Calculated score: -382.348685
+PD 500 5	currentIndex: 6	numWords: 3	lmScore: -8.834868499999999	Calculated score: -382.348685
+PD50051661	PD 50051661
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+PD50051661
+PD 50051661	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+PD 50051661	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+PD 5005166	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+PD 5005166	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+PD 500516	currentIndex: 8	numWords: 2	lmScore: -13.045517	Calculated score: -322.45517
+PD 500516	currentIndex: 8	numWords: 2	lmScore: -13.045517	Calculated score: -322.45517
+PD 50051	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+PD 50051	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+PD 5005	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+PD 5005	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+PD 5	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+PD 5	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+PD 500 51	currentIndex: 7	numWords: 3	lmScore: -7.98259325	Calculated score: -372.8259325
+PD 500 51	currentIndex: 7	numWords: 3	lmScore: -7.98259325	Calculated score: -372.8259325
+PD 50 05	currentIndex: 6	numWords: 3	lmScore: -7.964951800000001	Calculated score: -373.649518
+PD 50 05	currentIndex: 6	numWords: 3	lmScore: -7.964951800000001	Calculated score: -373.649518
+PD 500 516	currentIndex: 8	numWords: 3	lmScore: -8.31630925	Calculated score: -375.1630925
+PD 500 516	currentIndex: 8	numWords: 3	lmScore: -8.31630925	Calculated score: -375.1630925
+PD 50 051661	currentIndex: 10	numWords: 3	lmScore: -8.590235750000002	Calculated score: -375.9023575
+PD 50 051661	currentIndex: 10	numWords: 3	lmScore: -8.590235750000002	Calculated score: -375.9023575
+PD 50 051	currentIndex: 7	numWords: 3	lmScore: -8.290378	Calculated score: -375.90378
+PD 50 051	currentIndex: 7	numWords: 3	lmScore: -8.290378	Calculated score: -375.90378
+PD 50 05166	currentIndex: 9	numWords: 3	lmScore: -8.590235750000002	Calculated score: -376.9023575
+PD 50 05166	currentIndex: 9	numWords: 3	lmScore: -8.590235750000002	Calculated score: -376.9023575
+PD 50 0516	currentIndex: 8	numWords: 3	lmScore: -8.590235750000002	Calculated score: -377.9023575
+PD 50 0516	currentIndex: 8	numWords: 3	lmScore: -8.590235750000002	Calculated score: -377.9023575
+PD 500 51661	currentIndex: 10	numWords: 3	lmScore: -8.834868499999999	Calculated score: -378.348685
+PD 500 51661	currentIndex: 10	numWords: 3	lmScore: -8.834868499999999	Calculated score: -378.348685
+PD 500 5166	currentIndex: 9	numWords: 3	lmScore: -8.834868499999999	Calculated score: -379.348685
+PD 500 5166	currentIndex: 9	numWords: 3	lmScore: -8.834868499999999	Calculated score: -379.348685
+PD 50 0	currentIndex: 5	numWords: 3	lmScore: -8.590235750000002	Calculated score: -380.9023575
+PD 50 0	currentIndex: 5	numWords: 3	lmScore: -8.590235750000002	Calculated score: -380.9023575
+PD 500 5	currentIndex: 6	numWords: 3	lmScore: -8.834868499999999	Calculated score: -382.348685
+PD 500 5	currentIndex: 6	numWords: 3	lmScore: -8.834868499999999	Calculated score: -382.348685
+PD50051661	PD 50051661
+
+myservice
+my service	currentIndex: 9	numWords: 2	lmScore: -6.5999105	Calculated score: -256.999105
+my service	currentIndex: 9	numWords: 2	lmScore: -6.5999105	Calculated score: -256.999105
+my se	currentIndex: 4	numWords: 2	lmScore: -7.8136987	Calculated score: -274.136987
+my se	currentIndex: 4	numWords: 2	lmScore: -7.8136987	Calculated score: -274.136987
+my ser	currentIndex: 5	numWords: 2	lmScore: -8.3145137	Calculated score: -278.145137
+my ser	currentIndex: 5	numWords: 2	lmScore: -8.3145137	Calculated score: -278.145137
+my serv	currentIndex: 6	numWords: 2	lmScore: -8.8716247	Calculated score: -282.716247
+my serv	currentIndex: 6	numWords: 2	lmScore: -8.8716247	Calculated score: -282.716247
+myservice	my service
+
+andprescription
+and prescription	currentIndex: 15	numWords: 2	lmScore: -6.5786213	Calculated score: -250.786213
+and prescription	currentIndex: 15	numWords: 2	lmScore: -6.5786213	Calculated score: -250.786213
+and pres	currentIndex: 7	numWords: 2	lmScore: -7.0543531	Calculated score: -263.54353100000003
+and pres	currentIndex: 7	numWords: 2	lmScore: -7.0543531	Calculated score: -263.54353100000003
+and pr	currentIndex: 5	numWords: 2	lmScore: -7.4542021	Calculated score: -269.542021
+and pr	currentIndex: 5	numWords: 2	lmScore: -7.4542021	Calculated score: -269.542021
+and pre	currentIndex: 6	numWords: 2	lmScore: -7.5691027	Calculated score: -269.691027
+and pre	currentIndex: 6	numWords: 2	lmScore: -7.5691027	Calculated score: -269.691027
+a nd	currentIndex: 3	numWords: 2	lmScore: -8.3723717	Calculated score: -280.723717
+andprescription	and prescription
+
+oflocal
+of local	currentIndex: 7	numWords: 2	lmScore: -6.03015	Calculated score: -253.3015
+of local	currentIndex: 7	numWords: 2	lmScore: -6.03015	Calculated score: -253.3015
+of lo	currentIndex: 4	numWords: 2	lmScore: -7.20096	Calculated score: -268.0096
+of lo	currentIndex: 4	numWords: 2	lmScore: -7.20096	Calculated score: -268.0096
+of loc	currentIndex: 5	numWords: 2	lmScore: -7.9347034	Calculated score: -274.347034
+of loc	currentIndex: 5	numWords: 2	lmScore: -7.9347034	Calculated score: -274.347034
+of loca	currentIndex: 6	numWords: 2	lmScore: -8.59839	Calculated score: -279.9839
+of loca	currentIndex: 6	numWords: 2	lmScore: -8.59839	Calculated score: -279.9839
+oflocal	of local
+
+OffOffOffOffOff
+Off Off Off Off Off	currentIndex: 15	numWords: 5	lmScore: -8.153448125	Calculated score: -566.53448125
+Off Off Off Off Of	currentIndex: 14	numWords: 5	lmScore: -8.153448125	Calculated score: -567.53448125
+Off Off Off Of fO	currentIndex: 13	numWords: 5	lmScore: -8.153448125	Calculated score: -568.53448125
+OffOffOffOffOff	Off Off Off Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+PD50051661
+PD 50051661	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+PD 50051661	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+PD 5005166	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+PD 5005166	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+PD 500516	currentIndex: 8	numWords: 2	lmScore: -13.045517	Calculated score: -322.45517
+PD 500516	currentIndex: 8	numWords: 2	lmScore: -13.045517	Calculated score: -322.45517
+PD 50051	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+PD 50051	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+PD 5005	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+PD 5005	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+PD 5	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+PD 5	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+PD 500 51	currentIndex: 7	numWords: 3	lmScore: -7.98259325	Calculated score: -372.8259325
+PD 500 51	currentIndex: 7	numWords: 3	lmScore: -7.98259325	Calculated score: -372.8259325
+PD 50 05	currentIndex: 6	numWords: 3	lmScore: -7.964951800000001	Calculated score: -373.649518
+PD 50 05	currentIndex: 6	numWords: 3	lmScore: -7.964951800000001	Calculated score: -373.649518
+PD 500 516	currentIndex: 8	numWords: 3	lmScore: -8.31630925	Calculated score: -375.1630925
+PD 500 516	currentIndex: 8	numWords: 3	lmScore: -8.31630925	Calculated score: -375.1630925
+PD 50 051661	currentIndex: 10	numWords: 3	lmScore: -8.590235750000002	Calculated score: -375.9023575
+PD 50 051661	currentIndex: 10	numWords: 3	lmScore: -8.590235750000002	Calculated score: -375.9023575
+PD 50 051	currentIndex: 7	numWords: 3	lmScore: -8.290378	Calculated score: -375.90378
+PD 50 051	currentIndex: 7	numWords: 3	lmScore: -8.290378	Calculated score: -375.90378
+PD 50 05166	currentIndex: 9	numWords: 3	lmScore: -8.590235750000002	Calculated score: -376.9023575
+PD 50 05166	currentIndex: 9	numWords: 3	lmScore: -8.590235750000002	Calculated score: -376.9023575
+PD 50 0516	currentIndex: 8	numWords: 3	lmScore: -8.590235750000002	Calculated score: -377.9023575
+PD 50 0516	currentIndex: 8	numWords: 3	lmScore: -8.590235750000002	Calculated score: -377.9023575
+PD 500 51661	currentIndex: 10	numWords: 3	lmScore: -8.834868499999999	Calculated score: -378.348685
+PD 500 51661	currentIndex: 10	numWords: 3	lmScore: -8.834868499999999	Calculated score: -378.348685
+PD 500 5166	currentIndex: 9	numWords: 3	lmScore: -8.834868499999999	Calculated score: -379.348685
+PD 500 5166	currentIndex: 9	numWords: 3	lmScore: -8.834868499999999	Calculated score: -379.348685
+PD 50 0	currentIndex: 5	numWords: 3	lmScore: -8.590235750000002	Calculated score: -380.9023575
+PD 50 0	currentIndex: 5	numWords: 3	lmScore: -8.590235750000002	Calculated score: -380.9023575
+PD 500 5	currentIndex: 6	numWords: 3	lmScore: -8.834868499999999	Calculated score: -382.348685
+PD 500 5	currentIndex: 6	numWords: 3	lmScore: -8.834868499999999	Calculated score: -382.348685
+PD50051661	PD 50051661
+
+
+W-9
+
+xfa
+
+APIVersion
+API Version	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+API Ver	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+AP IVe	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+AP IV	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+A PI	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+A PI	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+AP I	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+APIVersion	API Version
+
+Acroform
+Ac ro form	currentIndex: 8	numWords: 3	lmScore: -8.03740135	Calculated score: -372.3740135
+A cr ofo	currentIndex: 6	numWords: 3	lmScore: -8.74022025	Calculated score: -381.4022025
+A cr ofo	currentIndex: 6	numWords: 3	lmScore: -8.74022025	Calculated score: -381.4022025
+Ac ro fo	currentIndex: 6	numWords: 3	lmScore: -9.159260750000001	Calculated score: -385.5926075
+A cr of or	currentIndex: 7	numWords: 4	lmScore: -5.3605224	Calculated score: -446.605224
+A cr of or	currentIndex: 7	numWords: 4	lmScore: -5.3605224	Calculated score: -446.605224
+Acroform	Ac ro form
+
+xfa
+
+xmlns
+xml ns	currentIndex: 5	numWords: 2	lmScore: -11.1589703	Calculated score: -306.589703
+xml ns	currentIndex: 5	numWords: 2	lmScore: -11.1589703	Calculated score: -306.589703
+xmlns	xml ns
+
+xhtml
+
+xmlns
+xml ns	currentIndex: 5	numWords: 2	lmScore: -11.1589703	Calculated score: -306.589703
+xml ns	currentIndex: 5	numWords: 2	lmScore: -11.1589703	Calculated score: -306.589703
+xmlns	xml ns
+
+xfa
+
+xfa
+
+xfa-data
+
+text-valign
+
+Helvetica
+Hel vet ica	currentIndex: 9	numWords: 3	lmScore: -9.1992919	Calculated score: -382.99291900000003
+Hel vet i ca	currentIndex: 9	numWords: 4	lmScore: -6.488912	Calculated score: -455.88912
+He lv et i	currentIndex: 7	numWords: 4	lmScore: -6.728896333333332	Calculated score: -460.2889633333333
+He lv et i	currentIndex: 7	numWords: 4	lmScore: -6.728896333333332	Calculated score: -460.2889633333333
+He lv et ica	currentIndex: 9	numWords: 4	lmScore: -7.991825266666666	Calculated score: -470.91825266666666
+He lv et ica	currentIndex: 9	numWords: 4	lmScore: -7.991825266666666	Calculated score: -470.91825266666666
+Helvetica	Hel vet ica
+
+9pt
+9 pt	currentIndex: 3	numWords: 2	lmScore: -12.1264601	Calculated score: -318.26460099999997
+9 pt	currentIndex: 3	numWords: 2	lmScore: -12.1264601	Calculated score: -318.26460099999997
+9pt	9 pt
+
+xmlns
+xml ns	currentIndex: 5	numWords: 2	lmScore: -11.1589703	Calculated score: -306.589703
+xml ns	currentIndex: 5	numWords: 2	lmScore: -11.1589703	Calculated score: -306.589703
+xmlns	xml ns
+
+xhtml
+
+xmlns
+xml ns	currentIndex: 5	numWords: 2	lmScore: -11.1589703	Calculated score: -306.589703
+xml ns	currentIndex: 5	numWords: 2	lmScore: -11.1589703	Calculated score: -306.589703
+xmlns	xml ns
+
+xfa
+
+xfa
+
+xfa-data
+
+xfa
+
+APIVersion
+API Version	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+API Ver	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+AP IVe	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+AP IV	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+A PI	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+A PI	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+AP I	currentIndex: 3	numWords: 2	lmScore: -13.045517	Calculated score: -327.45517
+APIVersion	API Version
+
+xfa
+
+Helvetica
+Hel vet ica	currentIndex: 9	numWords: 3	lmScore: -9.1992919	Calculated score: -382.99291900000003
+Hel vet i ca	currentIndex: 9	numWords: 4	lmScore: -6.488912	Calculated score: -455.88912
+He lv et i	currentIndex: 7	numWords: 4	lmScore: -6.728896333333332	Calculated score: -460.2889633333333
+He lv et i	currentIndex: 7	numWords: 4	lmScore: -6.728896333333332	Calculated score: -460.2889633333333
+He lv et ica	currentIndex: 9	numWords: 4	lmScore: -7.991825266666666	Calculated score: -470.91825266666666
+He lv et ica	currentIndex: 9	numWords: 4	lmScore: -7.991825266666666	Calculated score: -470.91825266666666
+Helvetica	Hel vet ica
+
+font-stretch
+
+801-240-2411
+80 1-2 40 -2 411	currentIndex: 12	numWords: 5	lmScore: -6.414755925	Calculated score: -552.14755925
+80 1-2 40 -2 411	currentIndex: 12	numWords: 5	lmScore: -6.414755925	Calculated score: -552.14755925
+80 1- 240 -2 41	currentIndex: 11	numWords: 5	lmScore: -6.637012975	Calculated score: -555.37012975
+80 1- 240 -2 41	currentIndex: 11	numWords: 5	lmScore: -6.637012975	Calculated score: -555.37012975
+801 -2 40 -2 41	currentIndex: 11	numWords: 5	lmScore: -6.664245275	Calculated score: -555.64245275
+80 1- 240 -2 411	currentIndex: 12	numWords: 5	lmScore: -6.851421725	Calculated score: -556.51421725
+80 1- 240 -2 411	currentIndex: 12	numWords: 5	lmScore: -6.851421725	Calculated score: -556.51421725
+80 1-2 40 -2 4	currentIndex: 10	numWords: 5	lmScore: -6.6650599249999996	Calculated score: -556.65059925
+80 1-2 40 -2 4	currentIndex: 10	numWords: 5	lmScore: -6.6650599249999996	Calculated score: -556.65059925
+801 -2 40 -2 411	currentIndex: 12	numWords: 5	lmScore: -6.8786540249999995	Calculated score: -556.78654025
+80 1- 24 0 -2	currentIndex: 9	numWords: 5	lmScore: -6.7688986	Calculated score: -558.688986
+80 1- 24 0 -2	currentIndex: 9	numWords: 5	lmScore: -6.7688986	Calculated score: -558.688986
+80 1- 2 40 -2	currentIndex: 9	numWords: 5	lmScore: -6.80336035	Calculated score: -559.0336035
+80 1- 2 40 -2	currentIndex: 9	numWords: 5	lmScore: -6.80336035	Calculated score: -559.0336035
+80 1 -2 40 -2	currentIndex: 9	numWords: 5	lmScore: -6.904414175	Calculated score: -560.04414175
+80 1 -2 40 -2	currentIndex: 9	numWords: 5	lmScore: -6.904414175	Calculated score: -560.04414175
+80 1- 240 -2 4	currentIndex: 10	numWords: 5	lmScore: -7.101725725	Calculated score: -561.0172572500001
+80 1- 240 -2 4	currentIndex: 10	numWords: 5	lmScore: -7.101725725	Calculated score: -561.0172572500001
+801 -2 40 -2 4	currentIndex: 10	numWords: 5	lmScore: -7.128958024999999	Calculated score: -561.28958025
+8 01 -2 40 -2	currentIndex: 9	numWords: 5	lmScore: -7.048265925	Calculated score: -561.48265925
+8 0 1-2 40 -2	currentIndex: 9	numWords: 5	lmScore: -7.15717315	Calculated score: -562.5717314999999
+80 1-2 4 0 -2	currentIndex: 9	numWords: 5	lmScore: -7.24588755	Calculated score: -563.4588755
+80 1-2 4 0 -2	currentIndex: 9	numWords: 5	lmScore: -7.24588755	Calculated score: -563.4588755
+8 0 1- 24 0	currentIndex: 7	numWords: 5	lmScore: -7.349058375	Calculated score: -566.49058375
+8 0 1- 2 40	currentIndex: 7	numWords: 5	lmScore: -7.3835201249999995	Calculated score: -566.83520125
+8 0 1- 240 -2	currentIndex: 9	numWords: 5	lmScore: -7.593838949999999	Calculated score: -566.9383895
+80 1- 2 4 0	currentIndex: 7	numWords: 5	lmScore: -7.472234525000001	Calculated score: -567.72234525
+80 1- 2 4 0	currentIndex: 7	numWords: 5	lmScore: -7.472234525000001	Calculated score: -567.72234525
+8 0 1 -2 40	currentIndex: 7	numWords: 5	lmScore: -7.48457395	Calculated score: -567.8457395
+801 -2 4 0 -2	currentIndex: 9	numWords: 5	lmScore: -7.70978565	Calculated score: -568.0978565
+80 1 -2 4 0	currentIndex: 7	numWords: 5	lmScore: -7.57328835	Calculated score: -568.7328835
+80 1 -2 4 0	currentIndex: 7	numWords: 5	lmScore: -7.57328835	Calculated score: -568.7328835
+8 01 -2 4 0	currentIndex: 7	numWords: 5	lmScore: -7.7171401	Calculated score: -570.1714010000001
+8 0 1-2 4 0	currentIndex: 7	numWords: 5	lmScore: -7.826047325000001	Calculated score: -571.26047325
+8 0 1- 2 4	currentIndex: 6	numWords: 5	lmScore: -7.96434775	Calculated score: -573.6434775
+8 0 1 -2 4	currentIndex: 6	numWords: 5	lmScore: -8.065401575	Calculated score: -574.65401575
+80 1-2 40 -2 41 1	currentIndex: 12	numWords: 6	lmScore: -6.26482944	Calculated score: -650.6482943999999
+80 1-2 40 -2 41 1	currentIndex: 12	numWords: 6	lmScore: -6.26482944	Calculated score: -650.6482943999999
+801-240-2411	80 1-2 40 -2 411
+
+transcontracts
+trans contracts	currentIndex: 14	numWords: 2	lmScore: -10.1992207	Calculated score: -287.992207
+trans contracts	currentIndex: 14	numWords: 2	lmScore: -10.1992207	Calculated score: -287.992207
+trans con	currentIndex: 8	numWords: 2	lmScore: -10.0971294	Calculated score: -292.971294
+trans con	currentIndex: 8	numWords: 2	lmScore: -10.0971294	Calculated score: -292.971294
+trans cont	currentIndex: 9	numWords: 2	lmScore: -10.6175394	Calculated score: -297.175394
+trans cont	currentIndex: 9	numWords: 2	lmScore: -10.6175394	Calculated score: -297.175394
+trans co	currentIndex: 7	numWords: 2	lmScore: -10.527125	Calculated score: -298.27125
+trans co	currentIndex: 7	numWords: 2	lmScore: -10.527125	Calculated score: -298.27125
+trans contra	currentIndex: 11	numWords: 2	lmScore: -11.2036038	Calculated score: -301.03603799999996
+trans contra	currentIndex: 11	numWords: 2	lmScore: -11.2036038	Calculated score: -301.03603799999996
+trans contr	currentIndex: 10	numWords: 2	lmScore: -11.5365043	Calculated score: -305.365043
+trans contr	currentIndex: 10	numWords: 2	lmScore: -11.5365043	Calculated score: -305.365043
+tr ans	currentIndex: 5	numWords: 2	lmScore: -11.9665994	Calculated score: -314.665994
+tr an sc	currentIndex: 6	numWords: 3	lmScore: -7.219807599999999	Calculated score: -366.198076
+tr a ns	currentIndex: 5	numWords: 3	lmScore: -7.1356787	Calculated score: -366.356787
+transcontracts	trans contracts
+
+ldschurch
+lds church	currentIndex: 9	numWords: 2	lmScore: -6.6811573	Calculated score: -257.811573
+lds church	currentIndex: 9	numWords: 2	lmScore: -6.6811573	Calculated score: -257.811573
+lds ch	currentIndex: 5	numWords: 2	lmScore: -9.160668099999999	Calculated score: -286.606681
+lds ch	currentIndex: 5	numWords: 2	lmScore: -9.160668099999999	Calculated score: -286.606681
+ld sc	currentIndex: 4	numWords: 2	lmScore: -10.3282733	Calculated score: -299.282733
+ld sch	currentIndex: 5	numWords: 2	lmScore: -10.6611738	Calculated score: -301.611738
+ldschurch	lds church
+
+OffOffOff
+Off Off Off	currentIndex: 9	numWords: 3	lmScore: -9.78413775	Calculated score: -388.8413775
+Off Off Of	currentIndex: 8	numWords: 3	lmScore: -9.78413775	Calculated score: -389.8413775
+Off Of fO	currentIndex: 7	numWords: 3	lmScore: -9.78413775	Calculated score: -390.8413775
+OffOffOff	Off Off Off
+
+Taxpayer
+Tax payer	currentIndex: 8	numWords: 2	lmScore: -12.1264601	Calculated score: -313.26460099999997
+Tax payer	currentIndex: 8	numWords: 2	lmScore: -12.1264601	Calculated score: -313.26460099999997
+Tax pa	currentIndex: 5	numWords: 2	lmScore: -12.044301	Calculated score: -315.44301
+Tax pa	currentIndex: 5	numWords: 2	lmScore: -12.044301	Calculated score: -315.44301
+Ta xp	currentIndex: 4	numWords: 2	lmScore: -12.289115500000001	Calculated score: -318.891155
+Tax pay er	currentIndex: 8	numWords: 3	lmScore: -8.19356515	Calculated score: -373.9356515
+Tax pay er	currentIndex: 8	numWords: 3	lmScore: -8.19356515	Calculated score: -373.9356515
+Taxpayer	Tax payer
+
+domicile
+do mic i le	currentIndex: 8	numWords: 4	lmScore: -5.6492998666666665	Calculated score: -448.49299866666667
+do mic i le	currentIndex: 8	numWords: 4	lmScore: -5.6492998666666665	Calculated score: -448.49299866666667
+do mi ci le	currentIndex: 8	numWords: 4	lmScore: -6.614406033333332	Calculated score: -458.1440603333333
+do mi ci le	currentIndex: 8	numWords: 4	lmScore: -6.614406033333332	Calculated score: -458.1440603333333
+domicile	do mic i le
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOffOffOffOffOffOffOffOff
+Off Off Off Off Off Off Off Off Off	currentIndex: 27	numWords: 9	lmScore: -7.338103312500001	Calculated score: -946.381033125
+Off Off Off Off Off Off Off Off Of	currentIndex: 26	numWords: 9	lmScore: -7.338103312500001	Calculated score: -947.381033125
+Off Off Off Off Off Off Off Of fO	currentIndex: 25	numWords: 9	lmScore: -7.338103312500001	Calculated score: -948.381033125
+OffOffOffOffOffOffOffOffOff	Off Off Off Off Off Off Off Off Off
+
+issubject
+is subject	currentIndex: 9	numWords: 2	lmScore: -6.754920499999999	Calculated score: -258.549205
+is subject	currentIndex: 9	numWords: 2	lmScore: -6.754920499999999	Calculated score: -258.549205
+is su	currentIndex: 4	numWords: 2	lmScore: -7.5231356	Calculated score: -271.231356
+is su	currentIndex: 4	numWords: 2	lmScore: -7.5231356	Calculated score: -271.231356
+is sub	currentIndex: 5	numWords: 2	lmScore: -7.6599544999999996	Calculated score: -271.599545
+is sub	currentIndex: 5	numWords: 2	lmScore: -7.6599544999999996	Calculated score: -271.599545
+i ss	currentIndex: 3	numWords: 2	lmScore: -7.9192657	Calculated score: -276.192657
+issubject	is subject
+
+andsign
+and sign	currentIndex: 7	numWords: 2	lmScore: -5.7938187	Calculated score: -250.938187
+and sign	currentIndex: 7	numWords: 2	lmScore: -5.7938187	Calculated score: -250.938187
+and si	currentIndex: 5	numWords: 2	lmScore: -6.3735031	Calculated score: -258.735031
+and si	currentIndex: 5	numWords: 2	lmScore: -6.3735031	Calculated score: -258.735031
+an ds	currentIndex: 4	numWords: 2	lmScore: -8.291019299999999	Calculated score: -278.910193
+a nd	currentIndex: 3	numWords: 2	lmScore: -8.3723717	Calculated score: -280.723717
+andsign	and sign
+
+taxwithholding
+tax withholding	currentIndex: 14	numWords: 2	lmScore: -9.4882475	Calculated score: -280.882475
+tax withholding	currentIndex: 14	numWords: 2	lmScore: -9.4882475	Calculated score: -280.882475
+tax withhold	currentIndex: 11	numWords: 2	lmScore: -9.5709481	Calculated score: -284.709481
+tax withhold	currentIndex: 11	numWords: 2	lmScore: -9.5709481	Calculated score: -284.709481
+tax wit	currentIndex: 6	numWords: 2	lmScore: -10.1463532	Calculated score: -295.463532
+tax wit	currentIndex: 6	numWords: 2	lmScore: -10.1463532	Calculated score: -295.463532
+ta xw	currentIndex: 4	numWords: 2	lmScore: -12.630286	Calculated score: -322.30286
+tax with holding	currentIndex: 14	numWords: 3	lmScore: -5.51303755	Calculated score: -341.1303755
+tax with holding	currentIndex: 14	numWords: 3	lmScore: -5.51303755	Calculated score: -341.1303755
+tax with hold	currentIndex: 11	numWords: 3	lmScore: -5.4334793999999995	Calculated score: -343.334794
+tax with hold	currentIndex: 11	numWords: 3	lmScore: -5.4334793999999995	Calculated score: -343.334794
+tax with ho	currentIndex: 9	numWords: 3	lmScore: -6.0911782500000005	Calculated score: -351.9117825
+tax with ho	currentIndex: 9	numWords: 3	lmScore: -6.0911782500000005	Calculated score: -351.9117825
+taxwithholding	tax withholding
+
+perjury
+per jury	currentIndex: 7	numWords: 2	lmScore: -9.1939938	Calculated score: -284.939938
+per jury	currentIndex: 7	numWords: 2	lmScore: -9.1939938	Calculated score: -284.939938
+perjury	per jury
+
+taxpayer
+tax payer	currentIndex: 8	numWords: 2	lmScore: -10.0449371	Calculated score: -292.449371
+tax payer	currentIndex: 8	numWords: 2	lmScore: -10.0449371	Calculated score: -292.449371
+tax pa	currentIndex: 5	numWords: 2	lmScore: -9.962778	Calculated score: -294.62778000000003
+tax pa	currentIndex: 5	numWords: 2	lmScore: -9.962778	Calculated score: -294.62778000000003
+ta xp	currentIndex: 4	numWords: 2	lmScore: -12.0815	Calculated score: -316.815
+tax pay er	currentIndex: 8	numWords: 3	lmScore: -7.152803649999999	Calculated score: -363.5280365
+tax pay er	currentIndex: 8	numWords: 3	lmScore: -7.152803649999999	Calculated score: -363.5280365
+taxpayer	tax payer
+
+NACHA
+NA CH A	currentIndex: 5	numWords: 3	lmScore: -9.78413775	Calculated score: -392.8413775
+NA CH A	currentIndex: 5	numWords: 3	lmScore: -9.78413775	Calculated score: -392.8413775
+NACHA	NA CH A
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+OffOff
+Off Off	currentIndex: 6	numWords: 2	lmScore: -13.045517	Calculated score: -324.45517
+Off Of	currentIndex: 5	numWords: 2	lmScore: -13.045517	Calculated score: -325.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+Of fO	currentIndex: 4	numWords: 2	lmScore: -13.045517	Calculated score: -326.45517
+OffOff	Off Off
+
+PD50027868
+PD 50027868	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+PD 50027868	currentIndex: 10	numWords: 2	lmScore: -13.045517	Calculated score: -320.45517
+PD 5002786	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+PD 5002786	currentIndex: 9	numWords: 2	lmScore: -13.045517	Calculated score: -321.45517
+PD 500278	currentIndex: 8	numWords: 2	lmScore: -13.045517	Calculated score: -322.45517
+PD 500278	currentIndex: 8	numWords: 2	lmScore: -13.045517	Calculated score: -322.45517
+PD 50027	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+PD 50027	currentIndex: 7	numWords: 2	lmScore: -13.045517	Calculated score: -323.45517
+PD 5002	currentIndex: 6	numWords: 2	lmScore:
