@@ -1,0 +1,507 @@
+Pattern: <[^>\n]*>
+
+foundStr: <BR>
+
+foundStr: <WBO&#1;NJKO&#1;IFNFMTF>
+
+foundStr: <&#18;&#26;&#22;&#24;Џ&#18;&#26;&#23;&#23;>
+
+foundStr: <DFMFTUF>
+
+foundStr: <EFM&#1;TBDFSEP[JP>
+
+foundStr: <BSF>
+
+foundStr: <MF&#1;QFSTPOF>
+
+foundStr: <BNB>
+
+foundStr: <-ДJOEJWJEVP&#1;NFEFTJNP>
+
+foundStr: <&#18;&#26;&#25;&#18;>
+
+foundStr: <…>
+
+foundStr: <FOTO POR CORTESÍA DE RUBÉN ARANDA>
+
+foundStr: <1S¨USJ[&#1;MB>
+
+foundStr: <EFT&#1;1SJFTUFSUVNT>
+
+foundStr: <N¼TTFO>
+
+foundStr: <4¼OEFO>
+
+foundStr: <EJF&#1;.FOTDIFO>
+
+foundStr: <IBCF>
+
+foundStr: <-V#&#1;&#26;&#24;&#27;&#19;&#18;>
+
+foundStr: <*ISF>
+
+foundStr: <4BUBOF>
+
+foundStr: <&#18;&#26;&#22;&#24;Џ&#23;&#23;>
+
+foundStr: <&#18;&#26;&#22;&#21;Џ&#22;&#23;>
+
+foundStr: <&#18;&#26;&#24;&#23;>
+
+foundStr: <ɤɼɸɼʈʄʅʃʊ>
+
+foundStr: <ʈɹʖʐɼʄʈʉɹɷ>
+
+foundStr: <&#18;&#26;&#22;&#21;Џ&#18;&#26;&#22;&#23;>
+
+foundStr: <QBNQIMFU&#1;&#18;&#26;&#25;&#20;>
+
+foundStr: <IJNNFMTLF>
+
+foundStr: <OF&#1;QS¦TUFE¸NNFUT>
+
+foundStr: <F>
+
+foundStr: <http://buscon.rae.es/ draeI/>
+
+foundStr: <4¡DI>
+
+foundStr: <T¡DI&#1;Ñ³>
+
+foundStr: <Wφ&#1;D´OH&#1;WJόD&#1;DϬB&#1;D¡D&#1;BOI&#1;DIϐ&#1;FN>
+
+foundStr: <X&#1;/JFCJF>
+
+foundStr: <QPTJBEBOJB&#1;LBQāBăTUXB>
+
+foundStr: <DVEPXOF>
+
+foundStr: <ɘʊʇʌɷʄʒ>
+
+foundStr: <ʈɷʄɹɷɷʇ>
+
+foundStr: <QBNQIMFU&#1;&#19;&#17;&#17;&#18;>
+
+foundStr: <QSFTUFE¸NNFU>
+
+foundStr: <D©MFTUF>
+
+foundStr: <I©SJUFSB>
+
+foundStr: <MFT&#1;HFOT>
+
+foundStr: <EV>
+
+foundStr: <EV&#1;4FJHOFVS>
+
+foundStr: <OJ&#1;NBUBCFUF>
+
+foundStr: <TK¤MW>
+
+foundStr: <QS¤TUBE¶NFU>
+
+foundStr: < …>
+
+foundStr: < …>
+
+foundStr: <… >
+
+foundStr: <Ġ÷JSUT&#1;OP&#1;%JFWB&#1;LMÁUCĪUOFT>
+
+foundStr: <%FCFTV>
+
+foundStr: <QSJFTUFSëCBT>
+
+foundStr: <UJFLUJFT>
+
+foundStr: <ĽÓMTJSEëCBT>
+
+foundStr: <&#18;&#26;&#26;&#25;>
+
+foundStr: <&#18;&#26;&#24;&#19;>
+
+foundStr: <&#19;&#17;&#17;&#23;>
+
+foundStr: <DÃVUB>
+
+foundStr: <®ODFUÃN&#1;TÃ&#1;GJN>
+
+foundStr: <®ODFUÃN&#1;TÃ&#1;OF&#1;DSJUJDÃN>
+
+foundStr: <TÃ&#1;®ODFUÃN&#1;TÃ&#1;EPSNJN>
+
+foundStr: <TÃ&#1;OF&#1;DVMDÃN>
+
+foundStr: <GJN>
+
+foundStr: <TÃ&#1;OF&#1;TDVMÃN>
+
+foundStr: <EBĢJ>
+
+foundStr: <UBJWBBMMJTFO>
+
+foundStr: <QBQQFVEFO>
+
+foundStr: <?xml version="1.0"?>
+
+foundStr: <body xfa:APIVersion="Acroform:2.7.0.0" xfa:spec="2.1" xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+
+foundStr: <p dir="ltr" style="margin-top:0pt;margin-bottom:0pt;text-valign:middle;font-family:Helvetica;font-size:9pt">
+
+foundStr: </p>
+
+foundStr: </body>
+
+foundStr: <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:9.5.2" xfa:spec="2.0.2"  style="font-size:8.0pt;text-align:left;color:#000000;font-weight:normal;font-style:normal;font-family:Helvetica,sans-serif;font-stretch:normal">
+
+foundStr: <p>
+
+foundStr: <EFM&#1;TBDFSEPDJP>
+
+foundStr: <S>
+
+foundStr: <ʄɿʃɷʂ>
+
+foundStr: <ʈʃ&#15;&#1;ɪ&#15;&#1;ɿ&#1;ɞ&#15;&#1;&#21;&#23;&#27;&#18;&#20;>
+
+foundStr: <ɿʈʁɷʉʓ>
+
+foundStr: <ʃʒ>
+
+foundStr: <ʃʊ>
+
+foundStr: <&#1;ɪ&#15;&#1;ɿ&#1;ɞ&#15;&#1;&#26;&#24;&#27;&#19;&#18;>
+
+foundStr: <ʄɷʏɼɺʅ>
+
+foundStr: <ɢɿʎʄʅʈʉʓ>
+
+foundStr: <&#19;&#17;&#17;&#24;>
+
+foundStr: <IJNOFTLT>
+
+foundStr: <UBLJ>
+
+foundStr: <QSFTUE¦NJ°>
+
+foundStr: <MFJUB°>
+
+foundStr: <FS&#1;B°FJOT>
+
+foundStr: <¾BV>
+
+foundStr: <$IPYBIJM>
+
+foundStr: <UJKPOFMJM>
+
+foundStr: <&#20;&#23;&#20;&#23;&#20;&#1;&#19;&#26;&#26;>
+
+foundStr: <LJUB>
+
+foundStr: <!nps-playlist-sep!>
+
+foundStr: <VTJMPWBU>
+
+foundStr: <Papá, vamos a estar bien. Estaremos bien en casa esta noche>
+
+foundStr: <Y bien, ¿qué averiguaron?>
+
+foundStr: <Señor Patey, cuando llegamos a la bomba que estaba semienterrada a la puerta de su casa, la hallamos lista para estallar en cualquier momento. No tenía ninguna falla. No logramos entender por qué no hizo explosión>
+
+foundStr: <P&#1;MF&#1;QFSJTJUVB>
+
+foundStr: <CPZ>
+
+foundStr: <QP&#1;P&#1;TF&#1;ЗHBMVFHB&#1;PGPPGPHJBИ>
+
+foundStr: <P&#1;MF&#1;"UVB>
+
+foundStr: <NBNB>
+
+foundStr: <p dir="ltr" style="margin-top:0pt;margin-bottom:0pt;font-family:'Museo Slab 500';font-size:10pt;color:#ffffff">
+
+foundStr: <span dir="ltr" style="font-family:Helvetica;font-size:11pt">
+
+foundStr: </span>
+
+foundStr: <span dir="ltr">
+
+foundStr: <«>
+
+foundStr: <MJIFNJ>
+
+foundStr: <U>
+
+foundStr: <U«>
+
+foundStr: <K>
+
+foundStr: <OHSJUJ>
+
+foundStr: <IFRJN>
+
+foundStr: <UPOB&#1;U«>
+
+foundStr: <LJTIUF>
+
+foundStr: <TIJO>
+
+foundStr: <F&#1;TBK>
+
+foundStr: <O«&#1;U«&#1;HKZLVBSJO&#1;F&#1;OKFS«[WF>
+
+foundStr: <OB>
+
+foundStr: <O«>
+
+foundStr: <U&#1;UPOB>
+
+foundStr: <O&#1;F>
+
+foundStr: <J>
+
+foundStr: <N>
+
+foundStr: <TPO«>
+
+foundStr: <FK>
+
+foundStr: <JO>
+
+foundStr: <OB&#1;IB>
+
+foundStr: <>
+
+foundStr: <EF&#1; A9&#1;&#7;4FF8D&#2;74K&#1; 4<@FE &#1;EA>
+
+foundStr: <?&#1;F;4F&#1;?4DD<4:8&#1; 58FI88@&#1; 4&#1; ?4@&#1; 4@7&#1; 4&#1; IA?4@&#1; <E&#1; AD74<@87&#1; A9&#1; *A7&#1; 4@7&#1; F;4F&#1; F;8&#1;94?<>
+
+foundStr: <E&#1;68@FD4>
+
+foundStr: <@K&#1;A9&#1;+<E&#1;6;<>
+
+foundStr: <@&#1;F;8&#1;<?4:8&#1;A9&#1;*A7!&#1;)46;&#1;<E&#1;4&#1;58>
+
+foundStr: <D<F&#1;EA@&#1;AD&#1; 74G:;F8D&#1; A9&#1; ;84H8@>
+
+foundStr: <H<@8&#1; @4FGD8&#1; 4@7&#1; 78EF<@K!&#1; *8@78D&#1; <E&#1; 4@&#1; 8EE8@F<4>
+
+foundStr: <EF<6&#1; A9&#1; <@7<H<7G4>
+
+foundStr: <D<F&#1; EA@E&#1; 4@7&#1; 74G:;F8DE&#1; =@8I&#1; 4@7&#1; IADE;<BB87&#1; *A7&#1; 4E&#1; F;8<D&#1; )F8D@4>
+
+foundStr: <E&#1;B>
+
+foundStr: <6;&#1;+<E&#1; 6;<>
+
+foundStr: <@&#1; 4&#1; B;KE<64>
+
+foundStr: <@&#1; 84DF;>
+
+foundStr: <8@68&#1; FA&#1; BDA:D8EE&#1; FAI4D7&#1; B8D986F<A@&#1; 4@7&#1; G>
+
+foundStr: <?4F8>
+
+foundStr: <L8&#1; F;8<D&#1; 7<H<@8&#1; 78EF<@K&#1; 4E&#1; ;8<DE&#1; A9&#1; 8F8D@4>
+
+foundStr: <98!&#1; ;8&#1; 7<H<@8&#1; B>
+
+foundStr: <@8EE&#1; 8@45>
+
+foundStr: <A@E;<BE&#1; FA&#1; 58&#1; B8DB8FG4F87&#1; 58KA@7&#1; F;8&#1; :D4H8!&#1; 46D87&#1; AD7<@4@68E&#1; 4@7&#1; 6AH&#2; 8@4@FE&#1; 4H4<>
+
+foundStr: <@&#1; ;A>
+
+foundStr: <F&#1; BAEE<5>
+
+foundStr: <@7<H<7G4>
+
+foundStr: <8E&#1;FA&#1;58&#1;G@<F87&#1;8F8D@4>
+
+foundStr: <@87&#1; FA&#1; F;8<D&#1; BAF8@F<4>
+
+foundStr: <98!&#1; 28&#1; 786>
+
+foundStr: <E&#1; 6;<>
+
+foundStr: <B>
+
+foundStr: <E;&#1; F;8&#1; 84DF;&#1; D8?4<@E&#1; <@&#1; 9AD68!&#1; 28&#1; 9GDF;8D&#1; 786>
+
+foundStr: <A@&#1; 4D8&#1; FA&#1; 58&#1; 8?&#2; B>
+
+foundStr: <6;&#1; ?ADF4>
+
+foundStr: <98&#1; <E&#1; 6D84F87&#1; FA&#1; 58&#1; 7<H<@8>
+
+foundStr: <@F87!&#1; 28&#1; 49P&#1;D?&#1; F;8&#1; E4@6F<FK&#1; A9&#1; >
+
+foundStr: <98&#1; 4@7&#1; A9&#1; <FE&#1; <?BADF4@68&#1; <@&#1; *A7&#29;E&#1; 8F8D@4>
+
+foundStr: <5<>
+
+foundStr: <FK&#1; FA&#1; >
+
+foundStr: <D&#1; 6;<>
+
+foundStr: <F4:8&#1; A9&#1; F;8&#1; &#7;AD7N&#1; &#30;&#1;&#8;E4>
+
+foundStr: <D&#1;6;<>
+
+foundStr: <@&#1;>
+
+foundStr: <:;F8AGE@8EE &#1;FA&#1;BDAH<78&#1; 9AD&#1;F;8<D&#1;B;KE<64>
+
+foundStr: <D<FG4>
+
+foundStr: <7<@:&#1; 6<F<&#2; L8@E&#1; I;8D8H8D&#1; F;8K&#1; >
+
+foundStr: <H8!&#1; +GE54@7E&#1; 4@7&#1; I<H8EO ?AF;8DE&#1; 4@7&#1; 94F;8DEOI<>
+
+foundStr: <E6;4D:8&#1;A9&#1;F;8E8&#1;A5>
+
+foundStr: <E&#1;AD74<@87&#1;A9&#1;*A7!&#1;-4DD<4:8&#1;58FI88@&#1; ?4@&#1; 4@7&#1; IA?4@&#1; <E&#1; 8EE8@F<4>
+
+foundStr: <E&#1; 8F8D@4>
+
+foundStr: <DF;&#1; I<F;<@&#1; F;8&#1; 5A@7E&#1; A9&#1; ?4FD<?A@K &#1;4@7&#1;FA&#1;58&#1;D84D87&#1;5K&#1;4&#1;94F;8D&#1;4@7&#1;4&#1;?AF;8D&#1; I;A&#1; ;A@AD&#1; ?4D<F4>
+
+foundStr: <F;&#1; 6A?B>
+
+foundStr: <FK!&#1; +4BB<@8EE&#1; <@&#1; 94?<>
+
+foundStr: <98&#1; <E&#1; ?AEF&#1; >
+
+foundStr: <=8>
+
+foundStr: <8H87&#1; I;8@&#1; 9AG@787&#1; GBA@&#1; F;8&#1; F846;<@:E&#1; A9&#1; F;8&#1; &#7;AD7&#1; &#6;8EGE&#1; &#4;;D<EF!&#1; G668EE9G>
+
+foundStr: <4:8E&#1; 4@7&#1; 94?<&#2; >
+
+foundStr: <8E&#1; 4D8&#1; 8EF45>
+
+foundStr: <E;87&#1; 4@7&#1; ?4<@F4<@87&#1; A@&#1; BD<@6<B>
+
+foundStr: <F; &#1; BD4K8D &#1; D8B8@F4@68 &#1; 9AD:<H8@8EE &#1; D8EB86F &#1; >
+
+foundStr: <A@ &#1; IAD= &#1; 4@7&#1; I;A>
+
+foundStr: <A@4>
+
+foundStr: <H<F<8E!&#1; 'K&#1; 7<H<@8&#1; 78E<:@ &#1; 94F;8DE&#1; 4D8&#1; FA&#1; BD8E<78&#1; AH8D&#1; F;8<D&#1; 94?<>
+
+foundStr: <8E&#1; <@&#1; >
+
+foundStr: <:;F8AGE&#2; @8EE&#1;4@7&#1; 4D8&#1;D8EBA@E<5>
+
+foundStr: <78&#1; F;8&#1; @868EE<F<8E&#1; A9&#1;>
+
+foundStr: <98&#1;4@7&#1;BDAF86F<A@&#1;9AD&#1;F;8<D&#1;94?<>
+
+foundStr: <8E!&#1;-AF;8DE&#1;4D8&#1; BD<?4D<>
+
+foundStr: <5>
+
+foundStr: <F<8E &#1; 94F;8DE&#1; 4@7&#1; ?AF;8DE&#1;4D8&#1;A5>
+
+foundStr: <:4F87&#1;FA&#1;;8>
+
+foundStr: <E45<>
+
+foundStr: <FK &#1; 784F; &#1; AD&#1; AF;8D&#1; 6<D6G?EF4@68E&#1; ?4K&#1; @868EE<F4F8&#1; <@7<H<7G4>
+
+foundStr: <A@!&#1; )JF8@787&#1; 94?<>
+
+foundStr: <8E&#1;E;AG>
+
+foundStr: <A>
+
+foundStr: <FK &#1;I;A&#1;45GE8&#1;EBAGE8&#1;AD&#1;A99EBD<@: &#1;AD&#1;I;A&#1; 94<>
+
+foundStr: <F<8E&#1; I<>
+
+foundStr: <E<@F8:D4F<A@&#1;A9&#1;F;8&#1;94?<>
+
+foundStr: <@:&#1;GBA@&#1; <@7<H<7G4>
+
+foundStr: <F<8E &#1; 4@7&#1; @4F<A@E&#1; F;8&#1; 64>
+
+foundStr: <&#2; F<8E&#1;9AD8FA>
+
+foundStr: <F<L8@E&#1; 4@7&#1; A9P&#1;68DE&#1; A9&#1; :AH8D@?8@F&#1; 8H8DKI;8D8&#1; FA&#1; BDA?AF8&#1; F;AE8&#1; ?84EGD8E&#1; 78E<:@87&#1; FA&#1; ?4<@F4<@&#1; 4@7&#1; EFD8@:F;8@&#1; F;8&#1;94?<>
+
+foundStr: <IZ>
+
+foundStr: <POT>
+
+foundStr: <.FOOZFJ>
+
+foundStr: <B&#1;QBQT¡HPU>
+
+foundStr: <IFUK¼L>
+
+foundStr: <QSPDVSBS>
+
+foundStr: <=72&#26; 4>
+
+foundStr: <2/?2&#1;D/1082716&#1;?>
+
+foundStr: <12.27,&#1;,&#1;56@,027,&#1;B6=&#1;9206&#1;0/K/1&#1;&/&#26; @/1&#1;'0/D&#1;,&#1;58,/7,&#1;+/=6.,>
+
+foundStr: <&#1;96C06&#1;3/D202&#1; M:&#1;?6=20&#1;32&#1;567:@20&#1;P,<,@/49,&#1;0/72&#1;,&#1;32&#1;58,36A,&#26; >
+
+foundStr: </?/1&#1;65,0&#25;&#1;<2&#1;32&#1;1258/3120&#1;9-?&#1;4-.-8Q/140.6&#1;,&#1; 125-716&#1; 32&#1; 64-<12>
+
+foundStr: <2&#1; L240,/&#1;56<.67>
+
+foundStr: <9,&#1;32&#1;4/&#1;6A/<4?-8&#26; 0>
+
+foundStr: <?6;164002&#1;,?&#25;&#1;9206&#1;4-58:=&#1;,&#1;4-58:=2&#25;&#1; 32&#1;402120&#1;863,0/7,&#27;&#1;+,/&#1;<2>
+
+foundStr: <256./302&#1;12&#1; B6=&#1; 9-?&#1; +/=6.,0/&#1; 3/D2&#1; 32&#1; 4/&#1; 5763>
+
+foundStr: <5-7.20&#1; </?>
+
+foundStr: <2>
+
+foundStr: <256.>
+
+foundStr: </?1,>
+
+foundStr: <32.2&#25;&#1;/&#1;A6;/40./16&#1;5640216./1&#27;&#1;+,/&#1;560.-8&#26; ;32.2?/&#1;4./064002&#1;12&#1;;,.602&#1;,&#1;1/=6.202&#1;.2;1640&#1;.-.&#1; ./@1,>
+
+foundStr: <2&#1;38:=&#1;,&#1;<2&#1;4.6,0/&#1;3/D2&#27;&#1; #06&#25;&#1;1247/340.6&#1;60&#1;T645632&#1;42&#1;@/3202"&#1;&#23;&#1;&#2;427?,&#1;&#28;&#29;&#31; &#30;&#1;&#24;&#27;&#1; 4,&#1;.&#1;7JA6.&#1;,&#1;582./31640&#25;&#1;32&#1;4/&#1;=8,;20&#1;<2&#1;0/K1,0/&#1;P,&#26; <,@/49,&#1;,&#1;3:K6.1,&#1;1:;3,&#25;&#1;32&#1;=,&#1;:@20&#1;32&#1;4/&#1;6A,@20&#1;,&#1; 32&#1; 4,&#1; 47:;20&#25;&#1; 32&#1; 4-A7J32.20&#1; <256./3,0/&#1; B6;,,&#1; ,&#1;32&#1; A-320&#1;=82;321,&#25;&#1;452<.2L,&#1;<29612&#25;&#1;9-3/06&#1;,&#1;32&#1;;,./>
+
+foundStr: <,0/&#1; ,&#1; 4-58:=,0/&#25;&#1;?2C9,0/&#1;,&#1;A2L,0/&#1;L/&#1;A-320&#1; 60=6.681,&#1; 58/3&#1; B6=&#1; <2&#1; 42?664.6A6;32.21/06&#1; 60&#1; 0/<,&#1; 4.6,&#1;<23-7;/1,>
+
+foundStr: <92&#1;,&#1;32&#1;A-320&#1;60=7/321,&#1;60&#1;A2L2&#1; ,&#1; ?2C92&#25;&#1; 96,06&#1; ,<D>
+
+foundStr: <2./0,&#27;&#1; H240,/06&#1; .&#1; 4/?/C1,>
+
+foundStr: <.7/920/71,&#1; 3/C1640,&#27;&#1; &#2;6&#1; A6;/40./1&#1; 586/90&#1; A2L,0/&#1; 08>
+
+foundStr: <2&#1;;,.602&#1;,&#1; <2L,0202&#1;12&#1;4/?/C40.202&#1;4,&#27;&#1;M2C9,0/&#1;42&#1;60=6.681,&#1; 58/3,?16&#1;<2&#1;60=7/;321/06&#1;12&#1;3/D202&#1;4,&#27;&#1;&&#1;0/<,&#1;4./&#26; L/1,&#1;60=6.681640,&#1;A2L,0/&#1;,&#1;?2C9,0/&#1;42&#1;<23-7;/1,&#1; 32&#1;4,&#1;56?2=20&#1;9206&#1;82.16406C1,&#1;52801U68,&#27;&#1;+/3//&#26; 45646A1640&#25;&#1;4?-80&#1;,7,&#1;38:=,&#1;6A406>
+
+foundStr: <,49.20&#1;,13,.,3:2716&#1;58,45646A>
+
+foundStr: <2./0,0/&#1; <2&#1; D/76?-38,/&#25;&#1; 96,06&#1; A/<@/40>
+
+foundStr: <5-71>
+
+foundStr: <23-7;/1,>
+
+foundStr: <2&#1;06.2&#27;&#1;&#14;-L6&#1;0292&#1;58/3:58/;32.2?/&#25;&#1; @/&#1; 82<52321/06&#1;12&#1; 4/?/C40.606&#1; L/&#1;361/4/&#1;12&#1;603/7&#26; 1,0/&#1;K682&#25;&#1;6AL1640,0/&#1;,&#1;12D,,0/&#1;A/340.,>
+
+foundStr: <12@/1,&#1;32&#1;<252<>
+
+foundStr: <LVOJHZTU×T>
+
+foundStr: <I>
+
+foundStr: <UIF>
+
+foundStr: < >
+
+foundStr: < or >
+
+Total count: 60007
