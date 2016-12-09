@@ -49,7 +49,12 @@ public class SplitWords {
 	
 	public String splitWord(String combinedWord) {
 		int len = combinedWord.length();
-		
+		try {
+			logWriter.write("\n"+combinedWord+"\n");
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 		String beginStr = "";
 		String endStr = "";
 		ArrayList<SplitWordOption> possibleStrs = new ArrayList<SplitWordOption>();
@@ -75,20 +80,20 @@ public class SplitWords {
 //				System.out.println("current option: "+currentOption.words);
 				for (int j = len; j>currentOption.index; j--) {
 					String addWord = combinedWord.substring(currentOption.index, j);
-					if (combinedWord.equals("theneighborhood")) {
-						System.out.println("addWord: "+addWord);
-					}
+//					if (combinedWord.equals("theneighborhood")) {
+//						System.out.println("addWord: "+addWord);
+//					}
 					if (inDictionary(addWord)) {
 						String[] splitOption = currentOption.words.split(" ");
 						Double totalScore = 0.0;
 						for (String word : splitOption) {
 							if (dict.containsKey(word)) {
-								if (combinedWord.equals("theneighborhood")) {
-									System.out.println("Adding "+dict.get(word.toLowerCase())+" for "+word);
-								}
+//								if (combinedWord.equals("theneighborhood")) {
+//									System.out.println("Adding "+dict.get(word.toLowerCase())+" for "+word);
+//								}
 								totalScore += dict.get(word.toLowerCase());
 							} else {
-//								System.out.println("Adding defalt "+defaultLMScore+" for "+word);
+//								System.out.println("Adding default "+defaultLMScore+" for "+word);
 								totalScore += defaultLMScore;
 							}
 						}
@@ -109,6 +114,18 @@ public class SplitWords {
 				if (!possibleStrs.isEmpty()) {
 					Collections.sort(possibleStrs);
 					currentOption = possibleStrs.get(0);
+//					System.out.println(currentOption.index);
+					if (currentOption.index == len) {
+						try {
+							for (SplitWordOption option : possibleStrs) {
+//								System.out.println(option.words+"\tcurrentIndex: "+option.index+"\tnumWords: "+option.numWords+"\tlmScore: "+option.lmScore+"\tCalculated score: "+option.score+"\n");
+								logWriter.write(option.words+"\tcurrentIndex: "+option.index+"\tnumWords: "+option.numWords+"\tlmScore: "+option.lmScore+"\tCalculated score: "+option.score+"\n");
+
+							}
+						} catch (IOException e) {
+							e.printStackTrace();
+						}
+					}
 					possibleStrs.remove(0);
 					if (currentOption.index == len) {
 						return currentOption.words;
@@ -221,7 +238,7 @@ public class SplitWords {
 					} else {
 						if (!inDictionary(currentWord) && currentWord.length()>1) {
 							String splitWord = splitWord(currentWord);
-							System.out.println("Split words: "+currentWord);
+//							System.out.println("Split words: "+currentWord);
 							if (!splitWord.equals(currentWord)) {
 								splitWordCount++;
 								if (logWriter != null) {
@@ -265,7 +282,6 @@ public class SplitWords {
 				this.logWriter.close();
 			}
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

@@ -1,6 +1,7 @@
 package shared;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -15,6 +16,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.commons.lang.StringUtils;
+
+import spelling.Speller;
 
 public class ParseUtils {
 	public static String wordChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-'";
@@ -106,6 +109,7 @@ public class ParseUtils {
 	
 	public static void printNumInstances(ArrayList<File> files, String regex) {
 //		Pattern p = Pattern.compile("[\\t\\f\\r\\x0B\u0020\u00A0\u1680\u180E\u2000\u2001\u2002\u2003\u2004\u2005\u2006\u2007\u2008\u2009\u200A\u200B\u202F\u205F\u3000\uFEFF]");  // insert your pattern here
+		System.out.println(regex+"\n");
 		Pattern p = Pattern.compile(regex);
 		HashMap<String, Integer> instances = new HashMap<String, Integer>();
 		for (File file : files) {
@@ -121,6 +125,110 @@ public class ParseUtils {
 		}
 	}
 	
+	
+	public static void printNumCategories(ArrayList<File> files, String regex) {
+		Pattern regexPattern = Pattern.compile(regex.replace("||", "|"));
+		String[] regexes = regex.split("\\|\\|");
+		ArrayList<Pattern> patterns = new ArrayList<Pattern>();
+		try {
+		ArrayList<String> foundStrs = new ArrayList<String>();
+		BufferedWriter writer = FileUtils.getLineWriter("/home/joshuamonkey/498/text_correction/characters/output.txt");
+		for (String regCategory : regexes) {
+			System.out.println("Pattern: "+regCategory);
+
+			writer.write("Pattern: "+regCategory+"\n");
+			patterns.add(Pattern.compile(regCategory));
+		}
+		HashMap<String, Integer> instances = new HashMap<String, Integer>();
+		for (File file : files) {
+			String fileStr = ParseUtils.rmBlankSpace(FileUtils.readFile(file.getAbsolutePath()));
+			Matcher m = regexPattern.matcher(fileStr);
+			while (m.find()) {
+					String foundStr = m.group().replace("\\s", "");
+//					System.out.println("foundStr: "+foundStr);
+					if (!foundStrs.contains(foundStr)) {
+						System.out.println("foundStr: "+foundStr+"\n");
+						writer.write("foundStr: "+foundStr+"\n\n");
+						foundStrs.add(foundStr);
+					}
+					for (Pattern pattern : patterns) {
+						if (pattern.matcher(foundStr).matches()) {
+//							System.out.println("Pattern matched: "+pattern.toString());
+							instances = FileUtils.incrementOne(instances, pattern.toString());
+						}
+					}
+			}
+		}
+		LinkedHashMap<String, Integer> orderedInstances = FileUtils.sortHashMapByValues(instances, false);
+		for (String key : orderedInstances.keySet()) {
+			System.out.println(key+": "+orderedInstances.get(key));
+		}
+		writer.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	public static void writeUnknownWords(ArrayList<File> files, HashMap<String, Double> dict) {
+		BufferedWriter writer = FileUtils.getLineWriter("/home/joshuamonkey/498/unknown_words_6-5.txt");
+		HashMap<String, Integer> instances = new HashMap<String, Integer>();
+		try {
+			for (File file : files) {
+				if (!file.getName().contains("eng")) {
+					continue;
+				}
+				String text = FileUtils.readFile(file);
+				ArrayList<String> words = getWords(text);
+				for (String word : words) {
+					word = word.toLowerCase();
+					if (!dict.containsKey(word)) {
+						instances = FileUtils.incrementOne(instances, word);
+					}
+				}
+				
+			}
+			LinkedHashMap<String, Integer> orderedInstances = FileUtils.sortHashMapByValues(instances, false);
+			for (String key : orderedInstances.keySet()) {
+				writer.write(key+": "+orderedInstances.get(key)+"\n");
+			}
+		}
+		catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	
+	public static void writeSpellingSuggestions(ArrayList<File> files, HashMap<String, Double> dict) {
+		BufferedWriter writer = FileUtils.getLineWriter("/home/joshuamonkey/498/spelling_suggestions.txt");
+		HashMap<String, Integer> instances = new HashMap<String, Integer>();
+		Speller speller = new Speller(dict);
+		try {
+			for (File file : files) {
+				if (!file.getName().contains("eng")) {
+					continue;
+				}
+				String text = FileUtils.readFile(file);
+				ArrayList<String> words = getWords(text);
+				for (String word : words) {
+					word = word.toLowerCase();
+					String suggestion = speller.suggestSimilarWord(word);
+					if (!suggestion.equals(word)) {
+						instances = FileUtils.incrementOne(instances, word+": "+suggestion);
+					}
+				}
+
+			}
+			LinkedHashMap<String, Integer> orderedInstances = FileUtils.sortHashMapByValues(instances, false);
+			for (String key : orderedInstances.keySet()) {
+				writer.write(key+": "+orderedInstances.get(key)+"\n");
+			}
+		}
+		catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
 	//Removes blank lines and replaces all whitespace with a single space.
 	public static String rmBlankSpace(String fileStr) {
 //		int count = StringUtils.countMatches(fileStr, "^*\n\\s*(\n|$)");
@@ -128,23 +236,25 @@ public class ParseUtils {
 //		fileStr = fileStr.replaceAll("\n\\s*\n", "\n"); //Double or blank lines
 //		fileStr = fileStr.replaceAll("^\\s*\n|\n\\s*$", ""); //Space at beginning or end of file.
 //		fileStr = fileStr.replaceAll("\n\\s+|\\s+\n", "\n"); //Space at the beginning or end of a line.
-		Pattern p = Pattern.compile("\\t\\f\\r\\x0B\u0020\u00A0\u1680\u180E\u2000\u2001\u2002\u2003\u2004\u2005\u2006\u2007\u2008\u2009\u200A\u200B\u202F\u205F\u3000\uFEFF");  // insert your pattern here
-		Matcher m = p.matcher(fileStr);
-		if (m.find()) {
-			for (int i=1; i<=m.groupCount(); i++) {
-				System.out.println(m.group());
-			}
-		}
-		fileStr = fileStr.replaceAll("[\\t\\f\\r\\x0B\u0020\u00A0\u1680\u180E\u2000\u2001\u2002\u2003\u2004\u2005\u2006\u2007\u2008\u2009\u200A\u200B\u202F\u205F\u3000\uFEFF]", " ");
+//		Pattern p = Pattern.compile("\\t\\f\\r\\x0B\u0020\u00A0\u1680\u180E\u2000\u2001\u2002\u2003\u2004\u2005\u2006\u2007\u2008\u2009\u200A\u200B\u202F\u205F\u3000\uFEFF");  // insert your pattern here
+//		Matcher m = p.matcher(fileStr);
+//		if (m.find()) {
+//			for (int i=1; i<=m.groupCount(); i++) {
+//				System.out.println(m.group());
+//			}
+//		}
+		fileStr = fileStr.replaceAll("[\\t\\f\\x0B\u0020\u00A0\u1680\u180E\u2000\u2001\u2002\u2003\u2004\u2005\u2006\u2007\u2008\u2009\u200A\u200B\u202F\u205F\u3000\uFEFF]", " ");
+		fileStr = fileStr.replaceAll("[\\u000A\\u000D\u0085\u000B\u000C\u2028\u2029]", "\n");
 		fileStr = fileStr.replaceAll("^\\s+|\\s+$|\\s*(\n)\\s*|(\\s)\\s*", "$1$2"); //Replace double spacing and other non-line spacing with one space.
 		return fileStr;
 	}
 	
 	public static String rmCode(String fileStr) {
-		fileStr = fileStr.replaceAll("<[^>]*>|^[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,6}$", " "); //Remove HTML and XML
+		fileStr = fileStr.replaceAll("<[^>\n]*>", " "); //Remove HTML and XML
 		fileStr = fileStr.replaceAll("([^.@\\s]+)(\\.[^.@\\s]+)*@([^.@\\s]+\\.)+([^.@\\s]+)", " "); //Remove email addresses
-		fileStr = fileStr.replaceAll("Off(Off)+", " ");
-		fileStr = fileStr.replaceAll("_(_)+", " ");
+		fileStr = fileStr.replaceAll("((https?|ftp|gopher|telnet|file|Unsure|http):((//)|(\\\\))+[\\w\\d:#@%/;$()~_?\\+-=\\\\\\.&]*)", " "); //Remove URLs
+		fileStr = fileStr.replaceAll("Off(Off)+", " "); //Text extracted from PDF files often contain the word Off for each checkbox.
+		fileStr = fileStr.replaceAll("_(_)+", " "); //Remove fill in the blanks: ______
 		return fileStr;
 	}
 	

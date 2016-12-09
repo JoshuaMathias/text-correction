@@ -67,6 +67,7 @@ public class LangModel {
 		}
 	}
 	
+	
 	public void write1GramDict(String outFileName) {
 		BufferedWriter writer = FileUtils.getLineWriter(outFileName);
 //		ArrayList<String> dict = new ArrayList<String>();

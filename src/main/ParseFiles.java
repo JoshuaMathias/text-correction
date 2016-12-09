@@ -156,12 +156,16 @@ public class ParseFiles {
 //		writer.close();
 //		LangModel lm = new LangModel("/home/joshuamonkey/498/lm/eng_20160927.arpa",1);
 //		lm.printWordProbs("LDS");
-		ParseUtils.printNumInstances(files, "\\p{P}");
+		String regex = "<[^>\n]*>||([^.@\\s]+)(\\.[^.@\\s]+)*@([^.@\\s]+\\.)+([^.@\\s]+)||((https?|ftp|gopher|telnet|file|Unsure|http):((//)|(\\\\))+[\\w\\d:#@%/;$()~_?\\+-=\\\\\\.&]*)||Off(Off)+||_(_)+";
+		regex = "(^|\\s)\\p{Lu}[^\\s$]*\\p{Lu}[^\\s$]*";
+		ParseUtils.printNumCategories(files, regex);
+//		ParseUtils.printNumInstances(files, regex);
 //		ParseUtils.printBlankFiles(files);
 //		ParseUtils.printSmallFiles(files);
 		String splitLogFile = "/home/joshuamonkey/498/log/split_words_probs_log_cutoff_test.txt";
 		String dictPath = "/home/joshuamonkey/498/lexicon/eng_20160927_clean_lex_probs_cutoff_6-5.txt";
 //		HashMap<String, Double> dict = makeProbsDictionary(dictPath);
+//		ParseUtils.writeUnknownWords(files, dict);
 //		SplitWords splitWords = new SplitWords(dict, splitLogFile);
 		
 //		for (File file : files) {
@@ -184,7 +188,8 @@ public class ParseFiles {
 ////			correctedText = ParseUtils.rmCode(correctedText);
 ////			writeDict("/home/joshuamonkey/498/lm/eng_20160927.arpa");
 ////			writeLexicon(files, "/home/joshuamonkey/498/lexicon"+File.separator+"lexicon.txt");
-////			correctedText = splitWords(correctedText, "/home/joshuamonkey/498/lexicon/eng_20160927_clean_lex_probs_cutoff_6-5.txt", outputLoc, splitLogFile);
+////			(correctedText, "/home/joshuamonkey/498/lexicon/eng_20160927_clean_lex_probs_cutoff_6-5.txt", outputLoc, splitLogFile);
+//			correctedText = splitWords.splitWords(correctedText);
 ////			correctedText = splitWords.splitWords(correctedText);
 ////			correctedText = ParseUtils.rmBlankSpace(correctedText);
 ////			writer.write(correctedText);

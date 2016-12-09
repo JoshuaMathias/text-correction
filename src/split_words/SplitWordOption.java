@@ -19,7 +19,7 @@ public class SplitWordOption implements Comparable {
 	public void calculateScore() {
 		score = (double) index - 100*numWords + 10*lmScore;
 //		score = (double) index - numWords;
-		System.out.println("Words: "+words+"\tLM Score: "+lmScore+"\tScore: "+score);
+//		System.out.println("Words: "+words+"\tLM Score: "+lmScore+"\tScore: "+score);
 	}
 	
 	public int compareTo(Object obj) {

@@ -114,6 +114,16 @@ public class FileUtils {
 		}
 	}
 	
+	// Get text from file as one string from filename
+	public static String readFile(File file) {
+		try {
+			return readStream(new FileInputStream(file));
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+			return null;
+		}
+	}
+	
 	public static LinkedHashMap<String, Integer> sortHashMapByValues(
 	        HashMap<String, Integer> passedMap, boolean ascending) {
 	    List<String> mapKeys = new ArrayList<>(passedMap.keySet());
