@@ -1,0 +1,15717 @@
+Pattern: (^|\s)\p{Ll}+[^\s$]*\p{Lu}[^\s$]*
+foundStr:  apren-El
+
+foundStr:  kwisiMongameli
+
+foundStr:  seCawa
+
+foundStr:  yoVuko
+
+foundStr:  lukaYesu
+
+foundStr:  kaThixo.
+
+foundStr:  ngoJuni
+
+foundStr:  iNkosi
+
+foundStr:  ngabaProfeti
+
+foundStr:  uMoya
+
+foundStr:  oyiNgcwele
+
+foundStr:  uThixo
+
+foundStr:  noKrestu
+
+foundStr:  ngoYesu
+
+foundStr:  uYesu
+
+foundStr:  bakaBawo
+
+foundStr:  waseZulwini
+
+foundStr:  uBawo
+
+foundStr:  naMthandayo
+
+foundStr:  uNyana
+
+foundStr:  likaThixo
+
+foundStr:  nge-Ntlawulo
+
+foundStr:  kaYesu
+
+foundStr:  neMinqophiso
+
+foundStr:  uMsindisi.
+
+foundStr:  eNdikwenzileyo
+
+foundStr:  lukaKrestu
+
+foundStr:  yiNtlawulo
+
+foundStr:  kaMsindisi
+
+foundStr:  noVuko.
+
+foundStr:  nguKhrestu
+
+foundStr:  uMsindisi
+
+foundStr:  zikaMongameli
+
+foundStr:  noBawo
+
+foundStr:  noYesu
+
+foundStr:  noThixo
+
+foundStr: 
+noThixo.
+
+foundStr:  kuMoya
+
+foundStr:  oyiNgcwele,
+
+foundStr:  uThixo?
+
+foundStr:  eUSA.
+
+foundStr:  sesiNgesi:
+
+foundStr:  yeTempile
+
+foundStr:  wooMama
+
+foundStr:  kuBawo
+
+foundStr:  waseZulwini,
+
+foundStr:  noMoya
+
+foundStr:  oyiNgcwele.
+
+foundStr:  beNtlawulo
+
+foundStr:  iLizwi
+
+foundStr:  zeCawa.
+
+foundStr:  leNkosi.
+
+foundStr:  kwiZibhalo
+
+foundStr:  eziNgcwele
+
+foundStr:  iTempile
+
+foundStr:  abaNgcwele
+
+foundStr:  beNtsuku
+
+foundStr:  zokuGqibela
+
+foundStr:  boMbutho
+
+foundStr:  wooMamake,
+
+foundStr:  weNkosi,
+
+foundStr:  ku-Bawo
+
+foundStr:  kaVisitning
+
+foundStr:  oMundo:
+
+foundStr:  v.d.H.,
+
+foundStr:  store.LDS.org
+
+foundStr:  liahona.LDS.org;
+
+foundStr: 
+liahona@LDSchurch.org.
+
+foundStr: 
+cor-intellectualproperty@LDSchurch.org.
+
+foundStr: 
+languages.LDS.org.
+
+foundStr:  compreen-Fé,
+
+foundStr:  reliefsociety.LDS.org.
+
+foundStr:  scriptures.LDS.org.
+
+foundStr:  adorá-Lo.
+
+foundStr:  news.LDS.org
+
+foundStr: 
+hasteningthework.LDS.org
+
+foundStr:  conference.LDS.org,
+
+foundStr:  aceitá-Lo
+
+foundStr:  afastou-Se
+
+foundStr:  liahona.LDS.org,
+
+foundStr:  liahona@LDSchurch.org.
+
+foundStr:  pedi-Lhe
+
+foundStr:  iVakavuvuli
+
+foundStr:  iVakabula.
+
+foundStr:  yalo.“Au
+
+foundStr:  iVakabula,
+
+foundStr:  iVakabula
+
+foundStr:  iTokani,
+
+foundStr:  iColacola
+
+foundStr:  nyhetsarSend
+
+foundStr:  siste-dagers-HeLLige
+
+foundStr:  youTube,
+
+foundStr:  youTubekanal
+
+foundStr:  children—Gancci,
+
+foundStr:  lavakemaʻukefaiʻakietokoníʻihefoungaʻaeʻEikí.
+
+foundStr:  lds.org/go/Oct13Conf15
+
+foundStr:  strokes—“Pull.
+
+foundStr:  oportunidad:Celebrando
+
+foundStr:  laEducación
+
+foundStr:  laIglesia:
+
+foundStr:  deGratitud,
+
+foundStr:  presidenteHenry
+
+foundStr:  cuandoÉl
+
+foundStr:  deQuetzaltenango
+
+foundStr:  iTunes.lds.org.
+
+foundStr:  lasEscrituras
+
+foundStr:  iTunes
+
+foundStr:  iTunes)
+
+foundStr:  losSantos
+
+foundStr:  atPaglilingkod
+
+foundStr:  mgaTipan
+
+foundStr:  ngAting
+
+foundStr:  ngKapayapaan
+
+foundStr:  bawatPagasasalin:
+
+foundStr:  taga-Budapest,
+
+foundStr:  pa.”2—Elder
+
+foundStr:  pag-asa.”3—Elder
+
+foundStr:  ngIsang
+
+foundStr:  panahon.Kailangan
+
+foundStr:  org/Articles/2003/TraditionalFamiliesAccountforOnly7
+
+foundStr:  angSimbahan
+
+foundStr:  ngPamunuan
+
+foundStr:  saHinaharap
+
+foundStr:  mgaBasbas
+
+foundStr:  ebang-helyo.”—Quaid
+
+foundStr:  iyon.Ang
+
+foundStr:  na,‘Alam
+
+foundStr:  na.Hindi
+
+foundStr:  patotoo.(Maaarimoitongsimulansa“AngTotoongSimbahan”
+
+foundStr:  saMarso2009
+
+foundStr:  ldschurchnews.com/articles/62067/New-missions-created.html
+
+foundStr:  ngPaggaling
+
+foundStr:  mgaBiktima
+
+foundStr:  ipasuPag-asa,”
+
+foundStr:  froM
+
+foundStr:  lds.org/go/Apr13Conf13
+
+foundStr:  all—His
+
+foundStr:  lds.org/go/Apr13Conf14
+
+foundStr:  likha—Peanuts,
+
+foundStr:  saIlang
+
+foundStr:  faa-Peretania
+
+foundStr:  ράβδος—Λόγος
+
+foundStr:  σκότους—Πειρασμοί
+
+foundStr:  κτήριο—Περηφάνια
+
+foundStr:  π.Χ.;
+
+foundStr:  σιδερέ(Νεφί
+
+foundStr:  βασί-«Είναι
+
+foundStr:  μ.Χ.
+
+foundStr:  π.Χ.),
+
+foundStr:  π.Χ.)
+
+foundStr:  π.Χ.).
+
+foundStr:  προετοιμασίαςΙεροσύνης)
+
+foundStr:  aMe
+
+foundStr:  le“Gonne
+
+foundStr:  iTse
+
+foundStr:  kwaLegodimong
+
+foundStr:  iThuTa
+
+foundStr: 
+oBaMela
+
+foundStr:  yA
+
+foundStr:  nëKonferencën
+
+foundStr:  tëDitëve
+
+foundStr:  tëOrganizatave
+
+foundStr:  pabotuar;“Bëj
+
+foundStr:  year(April,
+
+foundStr:  year;Canada,
+
+foundStr:  iBesimit
+
+foundStr:  ndryshojmë.Është
+
+foundStr: 
+edheDoktrina
+
+foundStr:  eDrejtuesve
+
+foundStr:  ballafaquese.Është
+
+foundStr:  nëNenet
+
+foundStr:  t’Per’ndis’”,
+
+foundStr:  inkurajuar.Është
+
+foundStr:  iMormonit.
+
+foundStr:  dheMbesave
+
+foundStr: 
+prb.org/Publications/Datasheets/2012/
+
+foundStr:  iJezu
+
+foundStr:  lindaBurtonTalk.pdf.
+
+foundStr:  dheDashuria
+
+foundStr:  ësh-Ne
+
+foundStr:  pendo-Në
+
+foundStr:  nëRomë
+
+foundStr:  deR
+
+foundStr:  anmeRkunGen
+
+foundStr:  voN
+
+foundStr:  hettlingen/Zh,
+
+foundStr:  heiLiGen
+
+foundStr: 
+deR
+
+foundStr:  taGe
+
+foundStr:  angSeminary?
+
+foundStr:  saInyong
+
+foundStr:  kaPropeta
+
+foundStr:  angPanaw
+
+foundStr:  kangKristo:
+
+foundStr:  ugPagpaminaw
+
+foundStr:  mgaPrepress:
+
+foundStr:  saSa
+
+foundStr:  saLiahona,
+
+foundStr:  paggamitMarshallese,
+
+foundStr:  diliRomanian,
+
+foundStr:  priceAng
+
+foundStr:  taga-Nazaret
+
+foundStr:  ngaGahum
+
+foundStr:  taga-Pilipinas
+
+foundStr:  taga-Alabama,
+
+foundStr:  taga-Peru
+
+foundStr:  saTanang
+
+foundStr:  taga-England
+
+foundStr:  taga-Russia
+
+foundStr:  taga-Ukraine
+
+foundStr:  mag-“Ang
+
+foundStr:  secre-Melchizedek
+
+foundStr:  coun-Makahatag
+
+foundStr:  saPag-istoryahanay
+
+foundStr:  taga-Illinois,
+
+foundStr:  ngaKomunikasyon
+
+foundStr:  saAtong
+
+foundStr:  pang-Dominggo
+
+foundStr:  kaGamay
+
+foundStr:  ngaKalipay
+
+foundStr:  pagka-Santos
+
+foundStr:  saWorldwide
+
+foundStr:  iPad
+
+foundStr:  saQuetzaltenango
+
+foundStr:  pagka-Dominggo,
+
+foundStr:  nag-GroundBreaking
+
+foundStr:  ngaKinahanglanon
+
+foundStr:  nëpërmjetVizitës
+
+foundStr:  t’Ju
+
+foundStr:  einesWeltwunders
+
+foundStr:  geistigerGleichgültigkeit
+
+foundStr: 
+mInternet
+
+foundStr:  der„Kompass“
+
+foundStr:  orders(Visa,
+
+foundStr:  persönlicheEntscheidung?
+
+foundStr:  derArtikels
+
+foundStr:  ganzenSie
+
+foundStr:  üzeneT
+
+foundStr:  németh-Tóth
+
+foundStr: 
+varGa
+
+foundStr:  lava—Ua
+
+foundStr:  faaaliga,“O
+
+foundStr:  ia,“Ma
+
+foundStr:  ilahi-Nya.
+
+foundStr:  nama-Nya
+
+foundStr:  diri-Nya
+
+foundStr:  kudus-Nya,
+
+foundStr:  said,“My
+
+foundStr:  said,“I
+
+foundStr:  ways”(D&C75:29)
+
+foundStr:  said,“Let
+
+foundStr:  ujumBE
+
+foundStr:  mwaLimU
+
+foundStr:  mTembeLezi,
+
+foundStr:  укре-Подумайте,
+
+foundStr:  дру<BR>гому
+
+foundStr:  зада<BR>ние
+
+foundStr:  дорож-Пророков.
+
+foundStr:  обязанноСвою
+
+foundStr:  дней,Попросите
+
+foundStr:  иллю-Писаний):
+
+foundStr:  frelse:Dengang
+
+foundStr:  læring:Kirkens
+
+foundStr:  profiler:En
+
+foundStr:  beskyt-[Jeg
+
+foundStr:  kore-Alma
+
+foundStr:  woFässer
+
+foundStr:  d’Água
+
+foundStr:  paraAjudar
+
+foundStr:  languages.LDS.org.
+
+foundStr:  cor-intellectualproperty@LDSchurch.org.
+
+foundStr:  obedecer-Lhe,
+
+foundStr:  reliefsociety.LDS.org
+
+foundStr:  a.C.,
+
+foundStr:  traba-Joseph
+
+foundStr:  cha-Senhor,
+
+foundStr:  tes-Morôni
+
+foundStr:  annualtraining.LDS.org.
+
+foundStr: 
+training.LDS.org
+
+foundStr:  específi-Ao
+
+foundStr: 
+d’Água
+
+foundStr:  ex-Setenta
+
+foundStr:  pri-Concepción;
+
+foundStr:  auxí-Chilena,
+
+foundStr:  cesdevotionals.LDS.org.
+
+foundStr:  bem.Seguem-se
+
+foundStr:  indelicadeza.Mostraram
+
+foundStr:  virou-Se
+
+foundStr:  sempre:“Vinde
+
+foundStr:  tempo.Aprendam
+
+foundStr:  sigam-Me
+
+foundStr:  youth.LDS.org
+
+foundStr:  ochÅterlösare
+
+foundStr:  laEntonces
+
+foundStr:  preparou-Se
+
+foundStr:  d.C.,
+
+foundStr:  conhecê-Lo
+
+foundStr:  relaciona-Quais
+
+foundStr:  relaciona-Compartilhar
+
+foundStr:  conhecê-Lo.
+
+foundStr:  relacio-Valor
+
+foundStr:  particular”(D&C
+
+foundStr:  conhecê-Lo?
+
+foundStr:  influên-Espírito
+
+foundStr:  pré-“A
+
+foundStr:  compar-Como
+
+foundStr:  elas“Por
+
+foundStr:  biblevideos.LDS.org
+
+foundStr:  escorreu-Lhe
+
+foundStr:  ferindo-Lhe
+
+foundStr:  erguer-Se
+
+foundStr:  carregou-Lhe
+
+foundStr:  mundo”(João
+
+foundStr:  naConvide
+
+foundStr:  com-Éter
+
+foundStr:  intermé-Peça
+
+foundStr:  compar-No
+
+foundStr:  comunicar-Se
+
+foundStr:  oDeus
+
+foundStr:  coi-Convide
+
+foundStr:  aben-“A
+
+foundStr:  especí-Peça
+
+foundStr:  organiza-Sociedade
+
+foundStr:  servindo-O
+
+foundStr:  sacer-Estude
+
+foundStr:  prome-D&C
+
+foundStr:  servi-Lo
+
+foundStr:  rece-(Ver
+
+foundStr:  compar-O
+
+foundStr:  conce-M.
+
+foundStr:  tocava-Janelas
+
+foundStr:  feri-Lo
+
+foundStr:  magoá-Lo.
+
+foundStr:  começa-Nosso
+
+foundStr:  dasPermita
+
+foundStr:  vir-Realizar”,
+
+foundStr:  podemO
+
+foundStr:  pedir-Lhe
+
+foundStr:  enfrenta-D&C
+
+foundStr:  identifi-Física
+
+foundStr:  ins-Valor
+
+foundStr:  alegrava-Se
+
+foundStr:  thE
+
+foundStr:  epi-Channel
+
+foundStr:  estacaKatuba,
+
+foundStr:  wOMBA
+
+foundStr:  nAShiwAyA
+
+foundStr:  rOBErT
+
+foundStr:  www.LDS.org/pef
+
+foundStr:  www.LDSjobs.org
+
+foundStr:  www.institute.LDS.org
+
+foundStr:  org/Publications/Datasheets/2012/worldpopulation-data-sheet/data-sheet.aspx.
+
+foundStr:  v.C.
+
+foundStr:  pdf/archive/2013/lindaBurtonTalk.pdf.
+
+foundStr:  vanGod
+
+foundStr:  inRome
+
+foundStr:  an’nyVehivavy
+
+foundStr:  joSePha
+
+foundStr:  theNew
+
+foundStr: 
+s»And
+
+foundStr:  viZUalnih
+
+foundStr: 
+kaZalo
+
+foundStr:  first-Sunday
+
+foundStr: 
+iahona.LDS.org
+
+foundStr:  http://LDS.org/study/
+
+foundStr:  www.languages.LDS.org.
+
+foundStr:  conference.LDS.org.
+
+foundStr:  ensi-Geralmente
+
+foundStr:  buscá-Lo
+
+foundStr:  segui-Lo.
+
+foundStr:  conhecê-Lo,
+
+foundStr:  segui-Lo
+
+foundStr:  daque-Está
+
+foundStr:  parce-Projetos
+
+foundStr:  setem-No
+
+foundStr:  paraCombater
+
+foundStr:  news.LDS.org.
+
+foundStr:  create.LDS.org
+
+foundStr:  create.LDS.org.
+
+foundStr:  doTempo
+
+foundStr:  languages—Chinese,
+
+foundStr:  rahi―Te
+
+foundStr:  înÎmpărăţia
+
+foundStr:  spiritelor.Închisoarea
+
+foundStr:  оби-Познанието
+
+foundStr:  заявява,“Всеки,
+
+foundStr:  мъже),The
+
+foundStr:  мъжете),The
+
+foundStr:  hofMann,
+
+foundStr:  iLLustration
+
+foundStr:  thoMpson
+
+foundStr:  cHurcH
+
+foundStr:  budskap:Döttrar
+
+foundStr:  dag?Upplevelser
+
+foundStr:  presidentThomas
+
+foundStr:  familj:Förberedelser
+
+foundStr:  på:Vi
+
+foundStr:  igen:Gå
+
+foundStr:  statistikSveagatan
+
+foundStr:  store.lds.orgPriset
+
+foundStr:  ofLatter-day
+
+foundStr:  påUSA
+
+foundStr:  phone.(Canada
+
+foundStr:  greatLDS
+
+foundStr:  athLeteS,
+
+foundStr: 
+preSiDent
+
+foundStr:  pLanning
+
+foundStr:  frienDS
+
+foundStr:  yOuCan
+
+foundStr:  count—I’m
+
+foundStr:  billingSley
+
+foundStr:  faMilies
+
+foundStr:  keIth
+
+foundStr:  reIer
+
+foundStr:  geBhard
+
+foundStr:  coPy
+
+foundStr:  ngNararamdaman
+
+foundStr:  perheemme:Kohti
+
+foundStr:  haMaama
+
+foundStr:  faka-Tongá
+
+foundStr:  eMakasini
+
+foundStr:  faka-ʻAlapēniá,
+
+foundStr:  faka-Vietinemí.
+
+foundStr:  tupu.ʻE
+
+foundStr:  faka-Sāpaté.
+
+foundStr:  haKiʻi
+
+foundStr:  faka-Kalaisí.
+
+foundStr:  faka-Kalaisi
+
+foundStr: 
+faka-Kalisitiané.
+
+foundStr: 
+faka-ʻOtua
+
+foundStr:  faka-ʻOtua
+
+foundStr:  fakaʻOtua
+
+foundStr:  faka-Siasí.
+
+foundStr:  faka-Pilitānia
+
+foundStr:  foki,Sēkope
+
+foundStr:  fakaKalaisí—ʻoku
+
+foundStr:  faka-Kalaisí
+
+foundStr:  faka-Kalaisí,
+
+foundStr: 
+asp?ABID=324.
+
+foundStr:  faka-ʻOtuá.”3
+
+foundStr:  faka-Kalaisi,
+
+foundStr:  faka-ʻOtuá.
+
+foundStr:  faka-ʻOtuá.3
+
+foundStr:  masivá.ʻOku
+
+foundStr:  faka-Siasi
+
+foundStr:  tokoni.Ne
+
+foundStr:  faka-ʻĪtalí,
+
+foundStr:  faka-Hepeluú
+
+foundStr:  faka-Kalisitiané
+
+foundStr: 
+faka-Kalaisí,4
+
+foundStr:  faka-Kalisitiané.
+
+foundStr:  haTohi
+
+foundStr:  faka-Latiná
+
+foundStr:  fakaSamēlia
+
+foundStr:  fakalotofonua.ʻOku
+
+foundStr:  faka-Siamané.
+
+foundStr:  faka-Siamané
+
+foundStr:  faka-Siasí,
+
+foundStr:  ia.(Vakai,
+
+foundStr:  faka-Pilitāniá,
+
+foundStr:  faka-Sipeiní.
+
+foundStr:  eKau
+
+foundStr:  faka-Pilitāniá?”4
+
+foundStr:  faa-Peretania:
+
+foundStr:  malumalu?<BR><BR>
+
+foundStr:  faale-Ekalesia.
+
+foundStr:  faale-Lotu,
+
+foundStr:  faaKerisiano
+
+foundStr:  faa-Kerisiano
+
+foundStr:  faaleagaga.I
+
+foundStr:  olaga.O
+
+foundStr:  faatino-A
+
+foundStr:  alofa.E
+
+foundStr:  lafoaia.Mataupu
+
+foundStr:  alofatu-Alii,”
+
+foundStr:  uma.O
+
+foundStr:  vaega.Tuu
+
+foundStr:  ufufuo—Tazama,
+
+foundStr:  www.LDS.org/hostfair,
+
+foundStr:  www.LDS.org,
+
+foundStr:  www.LDS.org/hostfair.
+
+foundStr:  https://www.facebook.com/RootsTech.
+
+foundStr:  all’Inghilterra
+
+foundStr:  l’Argentina,
+
+foundStr:  l’Uruguay
+
+foundStr:  then-Elder
+
+foundStr:  нэрлэгддэг—Ариун
+
+foundStr: 
+гэгдсэнэсвэлтэмдэглэгдсэнбүхзүйлсийгцуглуул”(“YourFamily
+
+foundStr: 
+байдаг”(“HappyBirthday,”
+
+foundStr:  барсанНэр
+
+foundStr:  navštevUJúcich
+
+foundStr:  kenPanangsursuro
+
+foundStr:  лагід-The
+
+foundStr:  ми—Його
+
+foundStr:  жінка-піонер—Ловіза
+
+foundStr:  місіонер—Карл
+
+foundStr:  частинки—Святий
+
+foundStr:  пророка—Івана
+
+foundStr:  прихід—Царя
+
+foundStr:  найважливішим—Ісуса
+
+foundStr:  машинкоюЯі
+
+foundStr:  ser.Él
+
+foundStr:  l’Ouest,
+
+foundStr:  l’Ouest.
+
+foundStr:  d’Amérique
+
+foundStr:  l’Église
+
+foundStr:  ofThe
+
+foundStr:  orderseu@ldschurch.orgMagasin
+
+foundStr:  l’Église,
+
+foundStr:  l’Évangile
+
+foundStr:  l’Ancien
+
+foundStr:  l’Église.
+
+foundStr:  l’Évangile,
+
+foundStr:  d’Écritures
+
+foundStr:  d’Hyrum,
+
+foundStr:  del’Église
+
+foundStr:  d’Éden
+
+foundStr:  d’Adam
+
+foundStr: 
+d’Amérique
+
+foundStr: 
+l’Église.
+
+foundStr:  d’Améri
+
+foundStr: 
+l’Église
+
+foundStr: 
+l’Évangile,
+
+foundStr:  l’Expiation
+
+foundStr:  del’Église.
+
+foundStr: 
+d’Omar
+
+foundStr:  d’Omar
+
+foundStr:  d’Uruguay
+
+foundStr:  l’Ohio
+
+foundStr:  l’Utah,
+
+foundStr:  l’État
+
+foundStr:  d’Ohio,
+
+foundStr:  l’Évangile.
+
+foundStr:  eux-mê-Mais
+
+foundStr: 
+d’Utama
+
+foundStr:  qu’Alicia
+
+foundStr:  d’Apu
+
+foundStr:  d’Amulek
+
+foundStr:  l’Angleterre.
+
+foundStr:  l’Angleterre
+
+foundStr:  l’Esprit
+
+foundStr:  d’Angleterre
+
+foundStr:  d’Asie
+
+foundStr:  l’Inde,
+
+foundStr:  d’Indonésie
+
+foundStr:  enAfrique.
+
+foundStr:  d’Orsk,
+
+foundStr:  collè-Le
+
+foundStr:  d’Ilya
+
+foundStr:  d’Ilya.
+
+foundStr:  qu’Ilya
+
+foundStr:  d’Océanie
+
+foundStr:  pou-Son
+
+foundStr:  l’Ouest
+
+foundStr:  épisodes.Souvent,
+
+foundStr:  d’Okayama
+
+foundStr:  l’Idaho.
+
+foundStr:  l’Ordre
+
+foundStr:  neWs
+
+foundStr:  ngqabuThO
+
+foundStr:  baSSO
+
+foundStr:  yOu
+
+foundStr:  yOuR
+
+foundStr:  eitherCopyright
+
+foundStr:  orCopyright
+
+foundStr:  tIll
+
+foundStr:  rokYesus
+
+foundStr:  andEmotional
+
+foundStr:  fromwRockhampton
+
+foundStr:  sanDra-lee
+
+foundStr:  baptised—“Not
+
+foundStr: 
+erth—Aleisha
+
+foundStr:  aREa
+
+foundStr:  fifthSunday
+
+foundStr:  poMarshallovih
+
+foundStr:  klasika:Očiščevalna
+
+foundStr:  terena:Ključ
+
+foundStr:  domov:Jezus
+
+foundStr:  mojOdrešenik
+
+foundStr:  ponovMormonovo
+
+foundStr:  soBožji
+
+foundStr: 
+predsednikBoyd
+
+foundStr:  duhov-Juda
+
+foundStr:  naPapui
+
+foundStr: 
+oIlm
+
+foundStr:  napsautta<BR>malla
+
+foundStr: 
+hjeVi
+
+foundStr:  ngaKinatibuk-ang
+
+foundStr:  saPag-awdit
+
+foundStr:  mgaPanalangin
+
+foundStr:  mgaNasud
+
+foundStr:  saKomperensya
+
+foundStr:  mgaKababayen-anTalagsaon!
+
+foundStr:  ma-Dominggo
+
+foundStr:  saDepartamentosa
+
+foundStr:  saSimbahan,
+
+foundStr:  simbahan—Ang
+
+foundStr:  angUmaabut
+
+foundStr:  ba-“Aron
+
+foundStr:  ogKalipay
+
+foundStr:  saIkaduhang
+
+foundStr:  pagka-Oktubre
+
+foundStr:  ngaMananaug
+
+foundStr:  pinaagiKaniya
+
+foundStr:  ngaTemplo—ang
+
+foundStr:  saKaminyoon
+
+foundStr:  ugNagapanton
+
+foundStr:  gidangatan.Dili
+
+foundStr:  ngaMahimong
+
+foundStr:  saPagkamatinuoron
+
+foundStr:  ugPagkamatinud-anon
+
+foundStr:  pagka-Pasko
+
+foundStr:  panagway.9Kamo
+
+foundStr:  ngaKabahin
+
+foundStr:  templo—Fort
+
+foundStr:  saTemplo
+
+foundStr:  pa-Sa
+
+foundStr:  saPag-survey
+
+foundStr:  saLabing
+
+foundStr:  mgaPulong
+
+foundStr:  vaiFanua
+
+foundStr:  iNA
+
+foundStr: 
+faa-Kerisiano
+
+foundStr:  ingSBy
+
+foundStr:  address.Include
+
+foundStr:  napsal:„Žádná
+
+foundStr:  smím?Že
+
+foundStr:  posled-On
+
+foundStr:  naDruhý
+
+foundStr:  andělů“.(NaS
+
+foundStr:  řekl:„Žádná
+
+foundStr:  smrtelnosti.Účelem
+
+foundStr:  takéŽidům
+
+foundStr:  oJeho
+
+foundStr:  spolehnutí?Jak
+
+foundStr:  prosteBoha
+
+foundStr:  pří-Winnipeg
+
+foundStr:  členemCírkve.
+
+foundStr:  мөнХристийн
+
+foundStr:  амгаЭцэстээ,
+
+foundStr:  ойлгоТэр
+
+foundStr:  бо-Нэг
+
+foundStr:  iItalien:
+
+foundStr:  kærlighedJesus
+
+foundStr:  familie:Udfordringerne
+
+foundStr:  svar:Genkend
+
+foundStr:  unge:Tiende
+
+foundStr:  profet:Gordon
+
+foundStr:  besøgsunder-Tjeneste
+
+foundStr:  e.Kr..
+
+foundStr:  www.waldensian.info/History.htm.
+
+foundStr:  fremra-Kristi
+
+foundStr:  hvordanHelligånden
+
+foundStr:  mATOu,
+
+foundStr:  umA
+
+foundStr:  muAI
+
+foundStr:  uLuAI
+
+foundStr: 
+mATOu
+
+foundStr:  mA
+
+foundStr:  vALAAu
+
+foundStr:  faaPeretania:
+
+foundStr:  oN
+
+foundStr:  sMith
+
+foundStr:  fanjakan’Andriamanitra.”3
+
+foundStr:  lehiben’Andriamanitra
+
+foundStr:  d’Assise
+
+foundStr:  l’Eglise:
+
+foundStr:  nasIlhas
+
+foundStr:  paraResponder
+
+foundStr:  aSalvação
+
+foundStr:  aFamília
+
+foundStr:  separou-Se
+
+foundStr:  tornar-Se
+
+foundStr:  socorrê-Lo.
+
+foundStr:  conferên-Missionário
+
+foundStr:  countrywebsites.LDS.org/ph/index.php/dateline-philippines/
+
+foundStr:  comportamento.As
+
+foundStr:  dasChaves
+
+foundStr:  defendê-Lo.
+
+foundStr:  permane-“À
+
+foundStr:  deMórmon
+
+foundStr:  aTyndale
+
+foundStr:  prefiere‘Santos
+
+foundStr:  iLLustrations
+
+foundStr:  bunDerson;
+
+foundStr:  anDerson
+
+foundStr:  yeLiahona,
+
+foundStr:  profetasÉlder
+
+foundStr:  enseñanza<BR><BR>del
+
+foundStr:  luz!Élder
+
+foundStr:  mismaÉlder
+
+foundStr:  reflejan<BR><BR>la
+
+foundStr:  creyentesÉlder
+
+foundStr:  valentíaÉlder
+
+foundStr:  pecadoÉlder
+
+foundStr:  maligno!Élder
+
+foundStr: 
+diScurSoS
+
+foundStr:  diSponibleS
+
+foundStr: 
+menSajeS
+
+foundStr:  laS
+
+foundStr:  maeStraS
+
+foundStr:  viSitanteS
+
+foundStr: 
+fotografíaS
+
+foundStr:  dE
+
+foundStr:  lIahONa
+
+foundStr:  lakeCity,
+
+foundStr: 
+loS
+
+foundStr:  diScurSanteS
+
+foundStr:  temaS
+
+foundStr:  herma-Desde
+
+foundStr:  compli-Generales,
+
+foundStr:  deÉl
+
+foundStr:  respondió:“Ésa
+
+foundStr:  dijo.“¿Cómo
+
+foundStr:  dEl
+
+foundStr:  tardE
+
+foundStr:  santos.Él
+
+foundStr:  deJesucristo
+
+foundStr:  d.C.
+
+foundStr:  advirtió:“[Éste
+
+foundStr:  hijos;Él
+
+foundStr:  hijos.Después
+
+foundStr:  elÚnico
+
+foundStr:  deDoctrina
+
+foundStr:  porÉl.
+
+foundStr:  porDios,
+
+foundStr: 
+eL
+
+foundStr:  aPóstoLes
+
+foundStr:  eL
+
+foundStr:  ustedes.Últimamente
+
+foundStr:  deSantos
+
+foundStr:  queÉl
+
+foundStr:  elEspíritu
+
+foundStr:  comuni-El
+
+foundStr:  vida.Y
+
+foundStr:  deL
+
+foundStr:  conlleva.“Porque,
+
+foundStr:  puesÉl
+
+foundStr:  equivocadas,Él,
+
+foundStr:  aquí?”.Porque,
+
+foundStr:  voLuNtad,
+
+foundStr:  siNo
+
+foundStr:  pOR
+
+foundStr:  pACifiC
+
+foundStr:  pRESS
+
+foundStr:  pUbliSHiNg
+
+foundStr:  iNC.
+
+foundStr:  aÉl
+
+foundStr:  losÚltimos
+
+foundStr:  domingo.Él
+
+foundStr:  doMingo
+
+foundStr:  igLESiA
+
+foundStr:  on-Fort
+
+foundStr:  teMple
+
+foundStr: 
+índIce
+
+foundStr: 
+leccIón
+
+foundStr:  reunIr
+
+foundStr:  medIo
+
+foundStr:  lokalredaksjon:Redaksjonens
+
+foundStr:  adresse:Ole
+
+foundStr:  vietnamesisk.(Hyppigheten
+
+foundStr:  forbudt.Trykt
+
+foundStr:  hjemmet.Bildemateriale
+
+foundStr:  taxes.Periodicals
+
+foundStr:  instruksjoner.Han
+
+foundStr:  handlefrihet.Lytt
+
+foundStr:  helligeÅnds
+
+foundStr:  hun:“Å,
+
+foundStr:  omKirken.
+
+foundStr:  de.“Dette
+
+foundStr:  prestedømmet:“Jeg
+
+foundStr:  følgerÅndens
+
+foundStr:  avKirkens
+
+foundStr:  fårÅnden
+
+foundStr:  angåendeHjelpeforeningen
+
+foundStr:  mogen&#1;XF&#1;EPFO&#1;PQ&#1;EF&#1;TBCCBUEBH
+
+foundStr:  leerkracht:Wijs
+
+foundStr:  leerkracht:U
+
+foundStr:  mission:Den
+
+foundStr:  familie:Hjælp
+
+foundStr:  genkendeHelligånden
+
+foundStr:  unge:Udsigten
+
+foundStr:  påLDS.org
+
+foundStr:  iDet
+
+foundStr:  mgaPagtulun-an
+
+foundStr:  ugPagpamatuod:
+
+foundStr:  saDios
+
+foundStr:  ngaPagtudlo
+
+foundStr:  kaMinuto
+
+foundStr:  mgaKabatan-onan:
+
+foundStr:  saAmong
+
+foundStr:  saCebuano
+
+foundStr:  saPilipinas,
+
+foundStr:  mgaSantos
+
+foundStr:  payLiahona.lds.org
+
+foundStr:  paglig-Pamilya,
+
+foundStr:  mahi-(“Welcome
+
+foundStr:  pangina-Ang
+
+foundStr:  pagka-Dominggo.
+
+foundStr:  gi-Espiritu
+
+foundStr:  http://web.byui.edu/DevotionalsAndSpeeches.
+
+foundStr:  wikimediafoundation.org/wiki/FAQ/en;
+
+foundStr:  en.wikipedia.org/wiki/History_of_Wikipedia.
+
+foundStr: 
+iCrossing,”
+
+foundStr:  pa-Ni
+
+foundStr:  taga-Samaria
+
+foundStr:  magu-Rebecca
+
+foundStr:  pundasyon—“Diha
+
+foundStr:  tolda—Ang
+
+foundStr:  kang—Kylie
+
+foundStr:  namo—DILI!”
+
+foundStr:  gimi-“Hey,
+
+foundStr:  saEspirituhanon
+
+foundStr:  saPagdiskobre
+
+foundStr:  aT
+
+foundStr:  naturPersonligt
+
+foundStr:  värdeKunskap
+
+foundStr:  ansvarighetGoda
+
+foundStr:  gärningarRedbarhetDygd
+
+foundStr:  aOnO
+
+foundStr:  iTeRaniBa
+
+foundStr:  maing—Beretitenti
+
+foundStr:  atai—Beretitenti
+
+foundStr:  faith-Jesus
+
+foundStr:  per-Taylor,
+
+foundStr:  herScarboro,
+
+foundStr:  veryChislett
+
+foundStr:  missionaries—Sister
+
+foundStr:  восточНоевропейского
+
+foundStr:  региоНа
+
+foundStr:  аРхива.
+
+foundStr:  аРхива
+
+foundStr:  автоРа.
+
+foundStr:  восточноевроПейсКоГо
+
+foundStr:  реГиона
+
+foundStr:  njëMënyrë
+
+foundStr:  přímkaKnihyMormonovy
+
+foundStr:  seKnihy
+
+foundStr:  je.(Viz
+
+foundStr:  ukryl.(Viz
+
+foundStr:  deskyEnos(záznamy,
+
+foundStr:  zkrátiliJarom
+
+foundStr:  částEter
+
+foundStr:  ePub
+
+foundStr:  výtiskKnihy
+
+foundStr: 
+cHaPTer
+
+foundStr:  geBiedsleiding
+
+foundStr:  laaTsTe
+
+foundStr:  heT
+
+foundStr:  wooRd
+
+foundStr: 
+nooT
+
+foundStr: 
+foTo
+
+foundStr: 
+noTen:
+
+foundStr:  vAN
+
+foundStr:  foTo
+
+foundStr:  nFoRMaTie
+
+foundStr: 
+duTch
+
+foundStr:  amin’nyFisoronana
+
+foundStr:  fisoronan’Andriamanitra
+
+foundStr:  tamin’Andriamanitra
+
+foundStr:  avelan’Andriamanitra
+
+foundStr:  fanjakan’Andriamanitra
+
+foundStr:  fisoronan’Andriamanitra.”
+
+foundStr:  fitiavan’Andriamanitra
+
+foundStr:  kluMech
+
+foundStr:  kldMOkl
+
+foundStr: 
+artiKler
+
+foundStr:  artiKler
+
+foundStr:  omSLAGeT
+
+foundStr:  voKsne
+
+foundStr:  årGanG
+
+foundStr:  uSa;
+
+foundStr:  www.PersonalProgress.lds.org
+
+foundStr:  www.DutytoGod.lds.org.
+
+foundStr:  sProg
+
+foundStr:  oG
+
+foundStr: 
+uNDerVISNING
+
+foundStr:  uD
+
+foundStr:  luputa-Distriktet,
+
+foundStr:  lDS.org
+
+foundStr:  mIG
+
+foundStr:  aF
+
+foundStr:  riCHarD
+
+foundStr:  roMney
+
+foundStr:  newMan
+
+foundStr:  mAN
+
+foundStr:  meDLemmer
+
+foundStr:  www.New
+
+foundStr:  unGarn
+
+foundStr:  istoCkpHoto;
+
+foundStr:  tHoMas
+
+foundStr:  moDgang
+
+foundStr:  uNGArN
+
+foundStr:  enKle
+
+foundStr:  uSa?
+
+foundStr:  uSa’s
+
+foundStr:  mcKay,
+
+foundStr:  winborG
+
+foundStr: 
+forkyNder
+
+foundStr:  vidNer
+
+foundStr:  oM
+
+foundStr: 
+beGynDenDe
+
+foundStr:  josepH
+
+foundStr:  smitH
+
+foundStr:  tillaDelse
+
+foundStr:  sMitH
+
+foundStr: 
+deN
+
+foundStr:  younG
+
+foundStr:  anDerson,
+
+foundStr:  aDventistkirken;
+
+foundStr:  skriften:Triumftoget
+
+foundStr:  publiCations
+
+foundStr:  e.Kr.
+
+foundStr: 
+øjenViDneBereTninger
+
+foundStr:  aDaM
+
+foundStr:  koForD
+
+foundStr:  uDsnit
+
+foundStr:  bloCH,
+
+foundStr:  d’Arc
+
+foundStr:  rutH
+
+foundStr:  www.lds.org/fundamental-premises-Herren
+
+foundStr:  www.PersonalProgress.lds.org.
+
+foundStr:  buDskAb
+
+foundStr:  moD
+
+foundStr:  guD
+
+foundStr:  bunDerson
+
+foundStr:  uSA
+
+foundStr:  dageS
+
+foundStr:  røSter
+
+foundStr: 
+haVde
+
+foundStr:  bisKop
+
+foundStr: 
+evaNgeliet
+
+foundStr: 
+fotoGrafI
+
+foundStr: 
+fotoIllustratIoner:
+
+foundStr:  smIth
+
+foundStr:  engleS
+
+foundStr:  rIChard
+
+foundStr:  unGe
+
+foundStr:  busath.Com;
+
+foundStr:  fotoIllustratIon:
+
+foundStr:  helmrICh
+
+foundStr:  troFaSt
+
+foundStr:  præSteDøMMeManD
+
+foundStr: 
+malerI:
+
+foundStr:  fotoGrafI
+
+foundStr:  douG
+
+foundStr: 
+udsnIt
+
+foundStr:  tiL
+
+foundStr:  bloCh,
+
+foundStr:  tIlladelse
+
+foundStr:  natIonalhIstorIsk
+
+foundStr:  frederIksborG
+
+foundStr:  hIllerød,
+
+foundStr:  koPIeres
+
+foundStr: 
+tIl
+
+foundStr:  dIlleen
+
+foundStr:  tIl
+
+foundStr:  udsnIt
+
+foundStr:  mand,aF
+
+foundStr:  heInrIch
+
+foundStr:  hoFMann,
+
+foundStr:  gengIvet
+
+foundStr:  harrIson
+
+foundStr:  conroY
+
+foundStr:  caseY
+
+foundStr:  craIg
+
+foundStr:  stapleY
+
+foundStr:  photographY
+
+foundStr:  nyHEdEr
+
+foundStr:  udvik-Programmet
+
+foundStr: 
+mørKet
+
+foundStr:  aLL
+
+foundStr:  suPerstock
+
+foundStr:  preaChing
+
+foundStr:  sCorned,
+
+foundStr: 
+danieL
+
+foundStr:  tweLve
+
+foundStr:  apostLes,
+
+foundStr: 
+peaCe,
+
+foundStr:  stiLL,
+
+foundStr:  friBerg,
+
+foundStr:  coPyrigHted
+
+foundStr:  friBerg
+
+foundStr:  tHe
+
+foundStr:  frederiksBorg
+
+foundStr:  heinriCh
+
+foundStr:  historiC
+
+foundStr:  hillerØd,
+
+foundStr:  remembranCe
+
+foundStr:  teaCh
+
+foundStr:  knoCking
+
+foundStr:  ameriCas,
+
+foundStr:  sCott,
+
+foundStr:  aaroniC
+
+foundStr:  smiTh
+
+foundStr:  joHn
+
+foundStr:  kennetH
+
+foundStr:  smiTh,
+
+foundStr: 
+daVid
+
+foundStr:  sPencer
+
+foundStr:  teMesia
+
+foundStr:  aFariu
+
+foundStr:  iaLiahona,
+
+foundStr:  mi-I
+
+foundStr:  outou.A
+
+foundStr:  d’Ivoire
+
+foundStr:  iS
+
+foundStr:  rESourCE
+
+foundStr:  see.”—Britton
+
+foundStr:  welcome.”—Amy
+
+foundStr:  school.”—Taylor
+
+foundStr:  come.”—Ashley
+
+foundStr:  peacemaker.”—Joshua
+
+foundStr:  meetings.”—James
+
+foundStr:  challenges.”—Zac
+
+foundStr:  church.”—Makayla
+
+foundStr:  rough.”—Tianna
+
+foundStr:  shorter.”—Zac
+
+foundStr:  do.”—Bronson
+
+foundStr:  gud-Certifikater
+
+foundStr: 
+genneMgang
+
+foundStr: 
+adMinistration
+
+foundStr:  præstedøMMeordinanCer
+
+foundStr:  koMMe
+
+foundStr: 
+tiL
+
+foundStr:  kristUs
+
+foundStr:  erFaringer
+
+foundStr:  stUdér
+
+foundStr:  skriFten
+
+foundStr:  dinE
+
+foundStr:  projEkT
+
+foundStr:  blivEr
+
+foundStr: 
+gEnnEMgå
+
+foundStr:  dErEs
+
+foundStr: 
+pligT
+
+foundStr:  gUd
+
+foundStr:  cErTiFikaTEr
+
+foundStr: 
+brUg
+
+foundStr:  pligT
+
+foundStr:  gUdprograMMET
+
+foundStr:  sTYrkE
+
+foundStr:  kvorUMMET
+
+foundStr: 
+ordinancEr
+
+foundStr:  dET
+
+foundStr:  aronskE
+
+foundStr:  præsTEdØMME
+
+foundStr: 
+noTEr
+
+foundStr: 
+iKarua
+
+foundStr:  nikua.E
+
+foundStr:  iApositolo
+
+foundStr: 
+iMatai,
+
+foundStr:  iVola
+
+foundStr:  cake.Au
+
+foundStr:  bula.Sa
+
+foundStr:  keda.O
+
+foundStr: 
+iVakavuvuli
+
+foundStr: 
+iMatai
+
+foundStr:  iSakisaki
+
+foundStr:  vaka-Latini,
+
+foundStr:  зигзаги.—Ми
+
+foundStr:  він.—Від
+
+foundStr:  www.reliefSociety.lds.org.
+
+foundStr:  fourth-Sunday
+
+foundStr:  matter.We
+
+foundStr:  wrote.“Rejoice
+
+foundStr: 
+aCtivities
+
+foundStr: 
+sPrinting
+
+foundStr:  izy—Ary
+
+foundStr:  pahasoavan’Andriamanitra
+
+foundStr:  herin'Andriamanitra
+
+foundStr:  nyBokin’i
+
+foundStr:  tenin’Andriamanitra
+
+foundStr:  nyFinoantsika
+
+foundStr:  an'nyAndrontsika
+
+foundStr:  fitaomampanahin’Andriamanitra.
+
+foundStr:  nyFamokarana
+
+foundStr:  ofJesus
+
+foundStr:  didin’Andriamanitra.
+
+foundStr:  antànan’Andriamanitra”
+
+foundStr: 
+n’Andriamanitra,
+
+foundStr:  anatrehan’Andriamanitra
+
+foundStr:  amin’Andriamanitra
+
+foundStr:  mpaminanin’Andriamanitra
+
+foundStr:  nomen’Andriamanitra
+
+foundStr:  an’Andriamanitra,
+
+foundStr:  herin’Andriamanitra
+
+foundStr:  anankitelo—Oliver
+
+foundStr:  fanomezam-pahasoavan’Andriamanitra
+
+foundStr:  an’Andriamanitra.
+
+foundStr:  naterak’Andriamanitra
+
+foundStr:  herin’Andriamanitra.
+
+foundStr:  asan’Andriamanitra
+
+foundStr:  maha-Izy
+
+foundStr:  ireo—Lamana,
+
+foundStr:  hoeLamanita.
+
+foundStr:  zanakalahin’nyMpanjaka
+
+foundStr:  an’iKôriantomira
+
+foundStr:  nankanyZarahemla
+
+foundStr:  ireo.Taty
+
+foundStr:  nyMôsià
+
+foundStr:  amin’Andriamanitra,
+
+foundStr:  an’Andriamanitra”
+
+foundStr:  koa’[Môrmôna
+
+foundStr:  amin’Ilay
+
+foundStr:  nitiavan’Andriamanitra
+
+foundStr:  nyJakôba
+
+foundStr:  lamin’Andriamanitra,
+
+foundStr:  maha-Zanak’Andriamanitra
+
+foundStr:  an’Andriamanitra
+
+foundStr:  nyZavatra
+
+foundStr:  ePub,
+
+foundStr:  fihaonamben’nyFiangonana.
+
+foundStr:  fihaonamben’nyFiangonana
+
+foundStr:  tenin’Andriamanitra.
+
+foundStr:  tenin'Andriamanitra
+
+foundStr:  tenin’Andriamanitra,
+
+foundStr:  fahalalan’Andriamanitra
+
+foundStr:  amin’Andriamanitraizany.
+
+foundStr:  an’iJesoa
+
+foundStr:  vavolom-Ny
+
+foundStr:  fiambanian’Andriamanitra?”
+
+foundStr:  didin’Andriamanitra
+
+foundStr:  anoloan’Andriamanitra”
+
+foundStr:  nyMomba
+
+foundStr:  nyFilazantsara
+
+foundStr:  zanak’Andriamanitra
+
+foundStr:  tenin’Andriamanitra;
+
+foundStr:  anoloan’Andriamanitra
+
+foundStr:  amin’nyBokin’i
+
+foundStr:  maha-Andriamanitra
+
+foundStr:  mandrakizain’Andriamanitra.
+
+foundStr:  lalàn’Andriamanitra’
+
+foundStr:  napetrak’Andriamanitra
+
+foundStr:  vavolombelon’Andriamanitra
+
+foundStr:  voavotr’Andriamanitra
+
+foundStr:  tànan’Andriamanitra
+
+foundStr:  toetoetran’Andriamanitra
+
+foundStr:  nasain’Andriamanitra
+
+foundStr:  fitaomam-panahin’Andriamanitra
+
+foundStr:  fitaomam-panahin’Andriamanitra,
+
+foundStr:  amin’Ny
+
+foundStr:  fisian’Andriamanitra
+
+foundStr:  amin’Andriamanitra.
+
+foundStr:  maha-tenin’Andriamanitra
+
+foundStr:  amin’Adriamanitra
+
+foundStr:  l’Église:
+
+foundStr:  nyMôrônia
+
+foundStr:  fahamarinan’ny[Famerenana
+
+foundStr:  torola-Izany
+
+foundStr:  ma-Môrmôna
+
+foundStr:  tenin’Andriama
+
+foundStr:  nampanan-mpaminan’Andriamanitra.
+
+foundStr:  fi-Natory
+
+foundStr:  fangatahan-Nilaza
+
+foundStr:  tian’Andriamanitra
+
+foundStr:  fanampian’Andriamanitra,
+
+foundStr:  fanomezampahasoavan’Andriamanitra
+
+foundStr:  lavitr’Ezaka
+
+foundStr:  amin’ireoFitaovana
+
+foundStr:  ahoanaMôrmôna.
+
+foundStr:  hano-Ny
+
+foundStr:  mire-Zanany
+
+foundStr:  tanjon’Andriamanitra
+
+foundStr:  atoTalohan’i
+
+foundStr:  herin’Andriamanitra,
+
+foundStr:  amin’nyApokalypsy
+
+foundStr:  nytenin’Andriamanitra.
+
+foundStr:  mpaminanin’An
+
+foundStr: 
+dian’Andriamanitra
+
+foundStr:  fahasoavan’Andriamanitra
+
+foundStr:  angImong
+
+foundStr:  ngaMasabtan
+
+foundStr:  mgaBabaye
+
+foundStr:  saAlbanian,
+
+foundStr:  ngaPagpadayag
+
+foundStr:  ugPagpamatuod
+
+foundStr:  saWalay
+
+foundStr:  panahon—Siya
+
+foundStr:  mag-Facebook.
+
+foundStr:  ngaMohangad
+
+foundStr:  ngaGugma
+
+foundStr:  saAaronic
+
+foundStr:  pagka-Mesiyas,
+
+foundStr:  miingon.“Kini
+
+foundStr:  pagka-Aaronic
+
+foundStr:  ngaMag-inusara
+
+foundStr:  kahangturan.”1Sugod
+
+foundStr:  niMormon—Basahon
+
+foundStr:  kini—“Ang
+
+foundStr:  saWall
+
+foundStr:  pagka-Sabado
+
+foundStr:  taga-Corinto
+
+foundStr:  taga-Idaho.
+
+foundStr:  angKinabuhing
+
+foundStr:  post-Soviet
+
+foundStr:  taga-Russia.
+
+foundStr:  mgaLalaki)
+
+foundStr:  makasaysaya-Iyang
+
+foundStr:  kinatibuk-Masabtan
+
+foundStr:  taga-Corinto.
+
+foundStr: 
+mgaPakigsaad
+
+foundStr:  saLDS
+
+foundStr:  ngaMakatabang
+
+foundStr:  mgaBatan-on
+
+foundStr:  saArt
+
+foundStr:  vezeTőségi
+
+foundStr:  uTOlsó
+
+foundStr:  szenT
+
+foundStr: 
+keDvenc
+
+foundStr:  szenTírÁsOM
+
+foundStr:  gErgő
+
+foundStr:  zSoLT
+
+foundStr:  hisStatues
+
+foundStr:  l’Espiazione
+
+foundStr:  dell’Espiazione?
+
+foundStr:  pregarLo
+
+foundStr:  conoscerLo
+
+foundStr:  dell’Espiazione
+
+foundStr:  nell’“Elenco
+
+foundStr:  dell’Antico
+
+foundStr:  espe-Mentre
+
+foundStr:  l’Espiazione,
+
+foundStr:  l’Espiazione).
+
+foundStr:  dall’Eterno»
+
+foundStr:  dell’Europa,
+
+foundStr:  all’Espiazione,
+
+foundStr:  dell’Espiazione,
+
+foundStr:  sull’Espiazione
+
+foundStr:  dell’Espiazione.
+
+foundStr:  dell’Espiazione?”
+
+foundStr:  sull’Espiazione?
+
+foundStr:  l’Espiazione?
+
+foundStr:  nell’Espiazione
+
+foundStr:  sull’Espiazione.
+
+foundStr:  all’Espiazione.
+
+foundStr:  defini-Grazie
+
+foundStr:  hoRowley
+
+foundStr:  spostarsi”Nash
+
+foundStr:  supplicarLo
+
+foundStr:  all’Espiazione
+
+foundStr:  all’Espiazione?
+
+foundStr:  nell’Espiazione?
+
+foundStr:  faoseKe;
+
+foundStr:  reIer;
+
+foundStr:  whIttaKer;rIght,
+
+foundStr:  baCKground
+
+foundStr: 
+theLORD
+
+foundStr: 
+eteRnAl
+
+foundStr:  возНложена
+
+foundStr:  чувство-Духа.
+
+foundStr:  за-Хельге
+
+foundStr:  испольСправа
+
+foundStr:  аПророк
+
+foundStr:  бПро
+
+foundStr:  deseretnews.com/article/865582639/1-in-12-households-headed-bysingle-dad-Pew-study-finds.html.
+
+foundStr:  baibōļ,“Ejjeļo̧k
+
+foundStr:  angAnak
+
+foundStr:  saIntellectual
+
+foundStr:  taga-El
+
+foundStr:  saEspirituwal
+
+foundStr:  implu-Naaalala
+
+foundStr:  pamantayan.Ano
+
+foundStr:  taga-North
+
+foundStr:  taga-Cameroon,
+
+foundStr:  taga-Switzerland,
+
+foundStr:  ayNagbangon
+
+foundStr:  ayBubuhayin
+
+foundStr:  marami—Chinese,
+
+foundStr:  nagbibigay-Tagapayo
+
+foundStr:  pinaka-Sunbeam
+
+foundStr: 
+nell’al-Data
+
+foundStr:  n.Data
+
+foundStr:  faka-Pilitāniá:
+
+foundStr:  folofolá)Taʻengatá,”
+
+foundStr:  heNgaahi
+
+foundStr:  ia)Lotó,”
+
+foundStr:  faka-Ako
+
+foundStr:  eʻAlamā
+
+foundStr:  heʻOku
+
+foundStr:  kitautolu)Tuí
+
+foundStr:  folo-Lēsoni
+
+foundStr:  heTuʻu
+
+foundStr:  faka-Ensign
+
+foundStr:  lotu.Fakaafeʻi
+
+foundStr:  faka-Ngaahi
+
+foundStr:  faka-Latina
+
+foundStr:  http://www.reference.com/browse/wiki/Testimony;
+
+foundStr:  heT&F
+
+foundStr:  ofThomas
+
+foundStr:  pīT&F
+
+foundStr:  ka-Faka-ʻēloné.
+
+foundStr:  sīpingá.ʻI
+
+foundStr:  fakakaukau?ʻOku
+
+foundStr:  kehe?ʻE
+
+foundStr:  auGust
+
+foundStr: 
+küLastusõPEtusE
+
+foundStr:  d’Aaron
+
+foundStr:  d’Abinadi,
+
+foundStr:  d’Hélaman,
+
+foundStr:  l’INSTANT
+
+foundStr:  l’Éternel,
+
+foundStr:  ngPagkadisipulo
+
+foundStr:  iVakatawa,
+
+foundStr:  iSau—kei
+
+foundStr:  iYaloyalo
+
+foundStr:  iYau
+
+foundStr:  iVakarau”
+
+foundStr:  iDola
+
+foundStr:  iValavala
+
+foundStr:  iTabatamata
+
+foundStr:  iTuvaki
+
+foundStr:  iKo”
+
+foundStr:  iVakadinadina
+
+foundStr:  enaMaroroi
+
+foundStr:  meVakusakusataka
+
+foundStr:  iTuvatuva
+
+foundStr:  iTalanoa
+
+foundStr:  iTukutuku
+
+foundStr: 
+iVakaleka
+
+foundStr:  iDolamasu:
+
+foundStr:  iSogomasu:
+
+foundStr: 
+iDolamasu:
+
+foundStr: 
+iSogomasu:
+
+foundStr:  vei-Inisitute
+
+foundStr:  iSoqosoqo
+
+foundStr:  iTaba
+
+foundStr:  enaVienna,
+
+foundStr: 
+iVukevuke
+
+foundStr:  iYaya
+
+foundStr:  iNuinui,
+
+foundStr:  iVakadinadina,
+
+foundStr:  iVakaraitaki,
+
+foundStr:  iVakatakila,
+
+foundStr:  iVolanikalou,
+
+foundStr:  vaka-Api,
+
+foundStr:  va-Kalou.15
+
+foundStr:  naTuraga
+
+foundStr:  iVakavuvuli,
+
+foundStr:  iVakavuvuli”
+
+foundStr:  iVakaro
+
+foundStr:  iApositolo,
+
+foundStr:  iMatai
+
+foundStr:  iApositolo;
+
+foundStr:  naiYaloyalo
+
+foundStr:  iVakabula?
+
+foundStr:  iKarua
+
+foundStr:  iKarua,
+
+foundStr:  yalewa—Atama
+
+foundStr: 
+iVola
+
+foundStr:  iTabagone
+
+foundStr:  iVakadinadina,”
+
+foundStr: 
+iVakabula
+
+foundStr:  iVakabula—kei
+
+foundStr:  iWasewase,
+
+foundStr:  iWasewase
+
+foundStr:  naTabacakacaka
+
+foundStr:  iKatini—ka
+
+foundStr: 
+iTeki........................................
+
+foundStr: 
+iWiliwili
+
+foundStr:  vaka“Ni
+
+foundStr:  vaka-Latini:
+
+foundStr:  iVakabula:
+
+foundStr:  iMomani
+
+foundStr:  iVakaraitaki
+
+foundStr:  iVakabula.”
+
+foundStr:  vakaiVakabula.
+
+foundStr:  iVolanikalou
+
+foundStr:  iVakabula].”22
+
+foundStr:  va-Karisito
+
+foundStr: 
+iVunau
+
+foundStr:  vaka-Silesitieli.
+
+foundStr: 
+iTukutuku
+
+foundStr: 
+iVoladusidusi
+
+foundStr:  iNaki
+
+foundStr:  vakaoqo—“Sai
+
+foundStr:  iVurevure
+
+foundStr:  iSolisoli
+
+foundStr:  niVeivakalesui
+
+foundStr:  iValu
+
+foundStr:  iVakavuvuli.
+
+foundStr:  iTinitini
+
+foundStr:  iTaukei
+
+foundStr:  iDusidusi
+
+foundStr:  iTabagone.
+
+foundStr:  article/865597546/Mormons-in-theOlympics-3-medals-for-LDS-athletes-at-theWinter-Games.html.
+
+foundStr:  com/article/865596771/Noelle-PikusPace-wears-LDS-Young-Women-necklacethroughout-Olympics.html.
+
+foundStr:  article/865597390/Army-faith-helpedpush-Mormon-bobsledder-Chris-Fogt-toOlympic-success.html.
+
+foundStr:  today.com/sochi/snowboarderkelly-clark-hug-competitor-helped-mewin-bronze-2D12108132.
+
+foundStr:  iUsana
+
+foundStr:  iKoya
+
+foundStr:  iVolaniveisiga
+
+foundStr:  iVakatawa
+
+foundStr:  vaka-Eparaama.
+
+foundStr: 
+iTinitini
+
+foundStr: 
+iKatolu,
+
+foundStr:  iNaki,”
+
+foundStr: 
+iKarua,
+
+foundStr:  kaya—Sa
+
+foundStr:  naVunau
+
+foundStr:  vaka-“Ni
+
+foundStr:  va-Kalou.”33
+
+foundStr:  va-Karisito,
+
+foundStr:  iVakabula!”
+
+foundStr:  kaVakaukauwataki
+
+foundStr:  iToko
+
+foundStr:  talei-Ena
+
+foundStr:  va-Kiriki
+
+foundStr:  vaka-Korea
+
+foundStr:  koMalachi
+
+foundStr:  saManluluwas
+
+foundStr:  saPanahon
+
+foundStr:  mgaKinatumyan
+
+foundStr:  mgaIstorya
+
+foundStr:  saSimbahan:
+
+foundStr:  apanHingpit
+
+foundStr:  saInternet
+
+foundStr:  pagtugot.Gi-imprinta
+
+foundStr:  saTawag
+
+foundStr:  saKatungdanan
+
+foundStr:  saIyang
+
+foundStr:  siya.“Ania
+
+foundStr:  tagaLondon—mga
+
+foundStr:  kanako.Ug
+
+foundStr:  newsroom.lds.org/article/elder-oaksreligious-freedom-Chapman-University.
+
+foundStr:  ad-Samtang
+
+foundStr:  pagdu-Susama
+
+foundStr:  ngaInyong
+
+foundStr:  magpaka-Marta
+
+foundStr:  nagpaka-Marta
+
+foundStr:  angKamatuoran
+
+foundStr:  taga-Tennessee,
+
+foundStr:  taga-California,
+
+foundStr:  saSimbahan
+
+foundStr:  mgaSumbanan
+
+foundStr:  mgaKabatan-onan
+
+foundStr:  nayFamilySearch
+
+foundStr:  iPhone
+
+foundStr:  saPagpadayag
+
+foundStr:  dig?”Äldste
+
+foundStr:  niJesucristo:
+
+foundStr:  akon.Sa
+
+foundStr:  mgaKasulatan
+
+foundStr:  familier:Ta
+
+foundStr:  igjen:Håp
+
+foundStr:  morgen-Seminar-klasse.»
+
+foundStr:  hjemme-studie-Seminar
+
+foundStr:  utarbei-Høyprestenes
+
+foundStr:  basket-Den
+
+foundStr:  d’Israele......................261
+
+foundStr:  dell’Agnello
+
+foundStr:  terra.È
+
+foundStr:  ringraziarLo
+
+foundStr:  esprimerGli
+
+foundStr:  chiederGli
+
+foundStr:  implorarLo,
+
+foundStr:  ringraziarLo,
+
+foundStr:  l’Eterno,
+
+foundStr:  dall’Egitto
+
+foundStr:  all’Ensign
+
+foundStr:  l’Antico
+
+foundStr:  dell’Egitto.
+
+foundStr:  l’Ensign,
+
+foundStr:  seguirLo
+
+foundStr:  l’Agnello
+
+foundStr:  l’Unigenito
+
+foundStr:  dell’Altissimo
+
+foundStr:  cercarLo.
+
+foundStr:  averLo
+
+foundStr:  battezzarLo
+
+foundStr:  immergendoLo
+
+foundStr:  tentarLo.
+
+foundStr:  indurLo
+
+foundStr:  amarLo
+
+foundStr: 
+k&&#1;RVFTUP&#1;¨&#1;JM&#1;7BOHFMP&#1;DIF&#1;WJ&#1;IP&#1;EBUPАDIF&#1;TPOP&#1;WFOVUP&#1;OFM&#1;
+
+foundStr:  dell’Eterno
+
+foundStr:  cercarLo,
+
+foundStr:  l’Espiazione.
+
+foundStr: 
+l’Espiazione
+
+foundStr:  obbedirGli
+
+foundStr: 
+dell’Espiazione.
+
+foundStr:  d’Aronne»
+
+foundStr:  dell’Essere
+
+foundStr:  sacerdozio…Il
+
+foundStr:  k2VFMMP&#1;DIF&#1;PHOJ&#1;BO[JBOPАF&#1;BODIF&#1;PHOJ&#1;TPSFMMBАEFWF&#1;TBQFSF&#27;&#1;
+
+foundStr:  d’Israele
+
+foundStr:  dell’Apocalisse.
+
+foundStr:  l’Apostasia
+
+foundStr:  dell’Apostasia,
+
+foundStr:  dell’Eterno…
+
+foundStr:  dell’Eterno,
+
+foundStr:  chiedendoGli
+
+foundStr:  dicendo:«È
+
+foundStr:  dall’Ebraico
+
+foundStr:  all’Altissimo
+
+foundStr:  possiamo&#1;GBSF&#1;MB&#1;EPNFOJDB
+
+foundStr:  all’Eterno»
+
+foundStr:  adorarLo.
+
+foundStr:  l’Eterno
+
+foundStr:  offrirGli
+
+foundStr:  l’olo-DBVTUP
+
+foundStr:  d’Israele:
+
+foundStr:  glieLo
+
+foundStr:  primarie.È
+
+foundStr:  ascoltarLo,
+
+foundStr:  d’Israele,
+
+foundStr:  dimostrarGli
+
+foundStr:  l’Internet
+
+foundStr:  k2VFTUP&#1;¨&#1;JM&#1;QSJODJQBMF&#1;PCJFUUJWP&#1;EFMMB&#1;OPTUSB&#1;
+
+foundStr: 
+k.BFTUSP&#1;RVBM&#1;¨&#1;OFMMB&#1;MFHHF&#1;JM&#1;HSBO&#1;DPNBOEBNFOUP
+
+foundStr:  l’Abanah
+
+foundStr:  obbedirGli.
+
+foundStr: 
+k#MVFQSJOU&#1;GPS&#1;'BNJMZ&#1;-JWJOH{&#1;Improvement
+
+foundStr:  d’Israele.
+
+foundStr:  delSignore”
+
+foundStr:  nazione…Il
+
+foundStr:  d’Egitto”,
+
+foundStr:  l’Eterno»
+
+foundStr:  d’Israele…
+
+foundStr:  terra…Il
+
+foundStr: 
+l’Espiazione,
+
+foundStr:  священстві—Чому”,
+
+foundStr:  пеСаклі,
+
+foundStr:  theLord,”
+
+foundStr:  липня—День
+
+foundStr:  вересня—День,
+
+foundStr:  jr.,Yoshihiko
+
+foundStr:  vietnamita.(La
+
+foundStr:  riservati.Printed
+
+foundStr:  l’Ufficio
+
+foundStr:  dell’Honduras,
+
+foundStr:  vederLo.
+
+foundStr:  l’Autorità
+
+foundStr:  l’Arkansas,
+
+foundStr:  l’Illinois.
+
+foundStr:  l’Onnipotente
+
+foundStr:  l’Università
+
+foundStr:  nell’Antico
+
+foundStr:  un’inVangelo
+
+foundStr:  prioPoiché
+
+foundStr:  dall’Irlanda,
+
+foundStr:  dI
+
+foundStr:  fotografIe
+
+foundStr:  puBBlIcate
+
+foundStr:  gentIle
+
+foundStr:  concessIone
+
+foundStr:  dell’anzIano
+
+foundStr:  d’Avorio
+
+foundStr: cHAPter
+
+foundStr:  noi.El
+
+foundStr:  hyun-Gyu
+
+foundStr:  helmrIch
+
+foundStr:  alBert
+
+foundStr:  mcKay
+
+foundStr:  feJezet
+
+foundStr:  stessi…È
+
+foundStr:  circonda.È
+
+foundStr:  terreno.È
+
+foundStr:  avÅnden
+
+foundStr:  kamai-Koroboki
+
+foundStr:  taBo
+
+foundStr:  iRoun
+
+foundStr:  missioon:Trööstija
+
+foundStr: 
+http://publicaffairs.lds.org/Static%20Files/DPA/
+
+foundStr:  vårFrälsare
+
+foundStr: 
+deDiscernimento
+
+foundStr:  lds.org/go/E24service)
+
+foundStr: 
+cAPItoLuL
+
+foundStr:  să-L
+
+foundStr:  nu-L
+
+foundStr:  să-Şi
+
+foundStr:  spunându-I
+
+foundStr:  să-I
+
+foundStr:  faţaSalvatorului
+
+foundStr:  a-Şi
+
+foundStr:  pilDă
+
+foundStr:  trEia
+
+foundStr:  scripturaCartea
+
+foundStr:  a-L
+
+foundStr:  aducându-I
+
+foundStr:  cerându-I
+
+foundStr:  acuzându-L
+
+foundStr:  d.H.
+
+foundStr:  d.H.)
+
+foundStr:  town—Jamieson
+
+foundStr:  oF
+
+foundStr:  uSEd
+
+foundStr:  wITH
+
+foundStr:  pERMISSIon
+
+foundStr: 
+nEw
+
+foundStr:  zEaLand
+
+foundStr:  rIbEIrO
+
+foundStr:  dA
+
+foundStr:  gONçALVES
+
+foundStr:  rOCHA
+
+foundStr:  mErCêS
+
+foundStr:  любите,—Мої
+
+foundStr:  iLutua
+
+foundStr:  iVakadewa
+
+foundStr:  iVoladusidusi
+
+foundStr:  below.Subscription
+
+foundStr:  слу-Иными
+
+foundStr:  прой-Давайте
+
+foundStr:  былиКмаленькими,
+
+foundStr:  причастОного
+
+foundStr:  www.byui.edu/Presentations/
+
+foundStr:  go/Apr14Conf19
+
+foundStr:  dell’Area
+
+foundStr:  nell’Area
+
+foundStr:  itaLiano
+
+foundStr:  dell’Unione
+
+foundStr:  l’Emilia
+
+foundStr: 
+coMe
+
+foundStr:  poJezus
+
+foundStr:  faryzeKontekst
+
+foundStr:  ewanKtóre
+
+foundStr:  móChrystus
+
+foundStr:  pytaniePodczas
+
+foundStr:  sposóbChrystus
+
+foundStr:  dochowyChrystusie,
+
+foundStr:  zmartwychStopnie
+
+foundStr:  iPokuta
+
+foundStr:  odpowieW
+
+foundStr:  skromnoPodziel
+
+foundStr:  udoWszystko
+
+foundStr:  skutOrganizacja
+
+foundStr:  pouczaBóg
+
+foundStr:  pytanieKiedy
+
+foundStr:  święCo
+
+foundStr:  członkówKościoła,
+
+foundStr:  swojemuOjcu
+
+foundStr:  jestOjcem
+
+foundStr:  przezBoga
+
+foundStr:  kapocsÍrta:
+
+foundStr:  jövővel!Írta:
+
+foundStr:  folyójaÍrta:
+
+foundStr:  egyházban:A
+
+foundStr:  rejlikÍrta:
+
+foundStr:  orderseu@ldschurch.orgOnline
+
+foundStr:  www.prb.org/Articles/2003/TraditionalFamiliesAccountforOnly7Percen
+
+foundStr:  tofUSHouseholds.aspx.
+
+foundStr:  uno„Most
+
+foundStr:  aKrisztusban
+
+foundStr:  családun-„Milyen
+
+foundStr:  családtago„Milyen
+
+foundStr:  d’Israele;
+
+foundStr:  familier:Vi
+
+foundStr:  misjonsmarken:Et
+
+foundStr:  ungdom:Du
+
+foundStr:  tyngdekraften:Gå
+
+foundStr:  byThe
+
+foundStr:  presidentDieter
+
+foundStr:  presidentBoyd
+
+foundStr:  p.m.—Combined
+
+foundStr:  p.m.—Utah
+
+foundStr:  p.m.—Sterling
+
+foundStr:  p.m.—Salt
+
+foundStr:  kaotioti—E
+
+foundStr:  toki—Ao
+
+foundStr:  uruakaki—Ao
+
+foundStr:  naake-Teniman
+
+foundStr:  burabeti—Moomon
+
+foundStr:  mwaane—Oliver
+
+foundStr:  kaakea-Kristo,
+
+foundStr: 
+beritanaki—Natin
+
+foundStr:  manAna
+
+foundStr:  aoBotanaomata
+
+foundStr:  teTamnei
+
+foundStr:  tam-I
+
+foundStr:  ka-Boki
+
+foundStr:  robErt
+
+foundStr: 
+d’Apurement
+
+foundStr:  d’Ogden
+
+foundStr:  d’Israël
+
+foundStr:  auMaryland
+
+foundStr:  l’Englise
+
+foundStr:  d’Aaron,
+
+foundStr:  l’Internet,
+
+foundStr:  d’Osaka,
+
+foundStr:  l’École
+
+foundStr:  l’Éternel
+
+foundStr:  l’Agneau
+
+foundStr:  lesMarines.
+
+foundStr:  l’Autorité
+
+foundStr:  l’Esprit.
+
+foundStr:  del’Évangile.
+
+foundStr:  àÉnoch,
+
+foundStr:  del’Évangile
+
+foundStr:  d’Utah
+
+foundStr:  l’Expiation.
+
+foundStr:  del’Église,
+
+foundStr:  vivrel’Évangile,
+
+foundStr:  d’Élizabeth
+
+foundStr:  cetteÉglise
+
+foundStr:  l’Évangile6.
+
+foundStr:  l’Église7.
+
+foundStr:  l’Église9.
+
+foundStr:  l’Évangile13
+
+foundStr:  femmes.Dans
+
+foundStr:  l’Église17.
+
+foundStr:  d’Auckland
+
+foundStr:  l’Expiation,
+
+foundStr:  consécration.À
+
+foundStr:  aujourd’hui.Écoutons-les
+
+foundStr:  d’Australie
+
+foundStr:  l’Idaho
+
+foundStr:  d’Apurement
+
+foundStr:  pres-Il
+
+foundStr:  approu-Présidence,
+
+foundStr:  l’Épiscopat
+
+foundStr:  lesÉcritures
+
+foundStr:  bénissel’Église
+
+foundStr:  d’Église
+
+foundStr:  mormone.Que
+
+foundStr:  l’Églisel’Église
+
+foundStr:  àl’Église.
+
+foundStr:  attendent.À
+
+foundStr:  l’Église14.
+
+foundStr:  lesÉcritures.
+
+foundStr:  d’Utah,
+
+foundStr:  d’Hélaman
+
+foundStr:  l’Utah
+
+foundStr:  estl’Église.
+
+foundStr:  l’Amérique
+
+foundStr:  grandeur…[C’]est
+
+foundStr:  etÈve,
+
+foundStr:  l’Égypte,
+
+foundStr:  sonÉvangile
+
+foundStr:  l’Australie,
+
+foundStr:  néo-zélandais.À
+
+foundStr:  l’Empire
+
+foundStr: 
+l’Utah.
+
+foundStr:  prier.Nous
+
+foundStr:  l’Atlantique
+
+foundStr:  surl’Église
+
+foundStr:  d’Harmony,en
+
+foundStr:  suivent.Cela
+
+foundStr:  d’Aaron.
+
+foundStr:  l’Esprit-Saint
+
+foundStr:  l’Écriture
+
+foundStr:  d’Angleterre,
+
+foundStr:  d’Eton
+
+foundStr:  d’Oxford.
+
+foundStr:  d’Autorité
+
+foundStr:  ravageaitl’Église
+
+foundStr:  l’Esprit,
+
+foundStr:  d’Adam.
+
+foundStr:  sonÉglise
+
+foundStr:  missionnaire.Il
+
+foundStr:  quel’Église
+
+foundStr:  qu’Heber
+
+foundStr:  surl’Évangile
+
+foundStr:  véritableÉglise
+
+foundStr:  satisfaire,l’Église
+
+foundStr:  l’Évangileen
+
+foundStr:  d’Alma
+
+foundStr:  paroles.C’est
+
+foundStr:  d’Entraide
+
+foundStr:  l’Amazone
+
+foundStr:  d’Hamilton,
+
+foundStr:  deKirtland
+
+foundStr:  d’Illinois.
+
+foundStr:  mesÉcritures
+
+foundStr:  céleste.L’Évangile
+
+foundStr:  leDieu
+
+foundStr:  dansl’Église
+
+foundStr:  deChrist
+
+foundStr:  leSauveur
+
+foundStr:  desÉtats-Unis
+
+foundStr:  desÉcritures
+
+foundStr:  d’Israël,
+
+foundStr:  sonÉglise,
+
+foundStr:  d’Adam3.
+
+foundStr:  cetÉvangile
+
+foundStr:  l’Ensign
+
+foundStr:  mondiale.Les
+
+foundStr:  véritableÉglise…
+
+foundStr:  d’Israël.
+
+foundStr:  fillesd’Alpine
+
+foundStr:  deDraper
+
+foundStr:  theLord
+
+foundStr:  l’Éternel)
+
+foundStr:  d’Ensign
+
+foundStr:  d’Alpine
+
+foundStr:  l’Apocalypse
+
+foundStr:  leFils
+
+foundStr:  d’Élie
+
+foundStr:  d’Alma.
+
+foundStr:  l’Internet.
+
+foundStr:  àCuautla,
+
+foundStr:  d’Océanie.
+
+foundStr:  d’Auckland,
+
+foundStr:  d’Utah.
+
+foundStr: 
+eGrand
+
+foundStr:  familleWaddell.
+
+foundStr:  l’Université
+
+foundStr:  d’Alberta
+
+foundStr:  l’US
+
+foundStr:  d’Harvard
+
+foundStr:  baptiser.La
+
+foundStr: 
+l’Évangile.
+
+foundStr:  d’Apia.
+
+foundStr:  travail,l’Église
+
+foundStr:  l’Entraide
+
+foundStr:  l’Église1.
+
+foundStr:  rien…Les
+
+foundStr:  l’Église),
+
+foundStr:  desÉtats-Unis,
+
+foundStr:  d’Europe
+
+foundStr:  l’Océanie.
+
+foundStr:  l’Argentine,
+
+foundStr: 
+d’Entraide
+
+foundStr:  devientl’Évangile
+
+foundStr:  l’Égliseapporté
+
+foundStr:  d’Études
+
+foundStr:  desDes
+
+foundStr: 
+d’Études
+
+foundStr:  duDépartement
+
+foundStr:  d’Éducation
+
+foundStr:  etl’Église
+
+foundStr:  d’Études,
+
+foundStr:  d’Écritures.
+
+foundStr:  zatrudnie-Natasia
+
+foundStr:  con-Apr.
+
+foundStr:  hus?Å
+
+foundStr:  сладко“8.То
+
+foundStr:  azÚr
+
+foundStr:  dirvoje.Ištikimasis
+
+foundStr:  vardan:Kas
+
+foundStr:  portretas:Vilfordas
+
+foundStr:  susiTai
+
+foundStr:  išgelbė„Šjimo
+
+foundStr:  aplanKairėje:
+
+foundStr:  pranašauta.Žmonės
+
+foundStr:  neAugustina
+
+foundStr:  padėti.Kai
+
+foundStr:  pinigai.Kai
+
+foundStr:  anD
+
+foundStr:  lefT:
+
+foundStr:  righT:
+
+foundStr:  courTesy
+
+foundStr:  hisTory
+
+foundStr:  arT;
+
+foundStr:  borDer
+
+foundStr:  saW
+
+foundStr:  vanJoseph
+
+foundStr:  jeugd:Ik
+
+foundStr:  profeet:Harold
+
+foundStr:  vanJezus
+
+foundStr:  gemeen-Mexico-Stad
+
+foundStr:  alsHij
+
+foundStr:  doet.We
+
+foundStr:  riTA
+
+foundStr:  eh-DEET
+
+foundStr:  baltHasar
+
+foundStr:  imaGes;
+
+foundStr:  bloCH
+
+foundStr:  frederiksborG
+
+foundStr:  edsberG,
+
+foundStr:  riCHard
+
+foundStr:  adultS
+
+foundStr:  oriGinal
+
+foundStr:  suPerstoCk,
+
+foundStr:  mattHew
+
+foundStr:  smitH,
+
+foundStr:  scriptures—Isaiah’s
+
+foundStr: 
+notES
+
+foundStr:  ﬁrst-Sunday
+
+foundStr:  sEsja
+
+foundStr:  exact.Then
+
+foundStr:  ofYouth:
+
+foundStr:  forHis
+
+foundStr:  inLouisiana,
+
+foundStr:  throughoutHistory
+
+foundStr:  doI
+
+foundStr:  eternA
+
+foundStr:  ewigeFamilie
+
+foundStr:  budskap:Besöksverksamheten
+
+foundStr:  kyrkan:Möjligheterna
+
+foundStr:  familj:Rådgör
+
+foundStr:  igen:En
+
+foundStr:  edlundcg@ldschurch.orgFör
+
+foundStr:  kontaktaCustomer
+
+foundStr:  nycklarKimball,
+
+foundStr:  kyr-Vi
+
+foundStr:  påProphets.LDS.org
+
+foundStr:  sõnum:Lepingute
+
+foundStr:  perekond:Kõlbelise
+
+foundStr:  klassika:Õigemeelsuse
+
+foundStr:  tunnistaja:Miks
+
+foundStr:  kodus:Preesterluse
+
+foundStr:  postiaadressilLiahona,
+
+foundStr:  uueMKK
+
+foundStr:  lernen:Material
+
+foundStr:  dieMöglichkeiten
+
+foundStr:  göttlicheMission
+
+foundStr:  schlie-Bemühungen
+
+foundStr:  damalsUNDheute
+
+foundStr:  vielNachsinnen
+
+foundStr:  imJahr
+
+foundStr:  sindMann
+
+foundStr:  innerenStärke
+
+foundStr:  jungerMensch
+
+foundStr:  er-Wort
+
+foundStr:  wie-Japan
+
+foundStr:  nora[Betero]
+
+foundStr:  ma-Kristo
+
+foundStr:  maiura—I
+
+foundStr:  kata-“Te
+
+foundStr:  teAra
+
+foundStr:  odiá-Lo.
+
+foundStr:  dosMuitas
+
+foundStr: iTosotoso
+
+foundStr: 
+iTeki
+
+foundStr: 
+iTikotiko
+
+foundStr:  iVolavakarau
+
+foundStr:  ngaAramidentayo?
+
+foundStr:  exaMple
+
+foundStr:  sCott
+
+foundStr:  iDeas
+
+foundStr:  detaIl
+
+foundStr:  toM
+
+foundStr:  heʻOtuá
+
+foundStr:  mateu-ʻI
+
+foundStr:  faka-Siasí
+
+foundStr:  rồi—Tôi
+
+foundStr:  không?”Anh
+
+foundStr:  егоїста—“Що
+
+foundStr:  і—завжди—Спасителя.
+
+foundStr:  lds.org/go/Oct13Conf18
+
+foundStr:  psycnet.apa.org/?&fa=main.doiLanding&
+
+foundStr:  adevărată…Au
+
+foundStr:  mie:«Bunătatea
+
+foundStr:  perguntou:“Quem
+
+foundStr:  throughUplifting
+
+foundStr:  prepared-Media,
+
+foundStr:  charity—Christlike
+
+foundStr:  then-President
+
+foundStr:  byIvy
+
+foundStr:  kuYesus
+
+foundStr:  замисъл.Ако
+
+foundStr:  отВторото
+
+foundStr:  иИсус
+
+foundStr:  иВторо
+
+foundStr:  иАароново
+
+foundStr:  иПророци
+
+foundStr:  иДар
+
+foundStr:  ми-Божества.
+
+foundStr:  моло-Отце?»,
+
+foundStr:  выбран-Спросите
+
+foundStr:  вы-«Служить
+
+foundStr:  испы-Какие
+
+foundStr:  сердцах?»Попросите
+
+foundStr:  про-Какие
+
+foundStr:  полученныПасхи.
+
+foundStr:  каСпаситель
+
+foundStr:  anak-Nya,
+
+foundStr:  kepada-Nya
+
+foundStr:  teladan-Nya
+
+foundStr:  sõnum:Templilepingud
+
+foundStr:  fotoillustratsioon.Esikaane
+
+foundStr:  vajaMormoni
+
+foundStr:  portree:Wilford
+
+foundStr:  tali„Ttused,
+
+foundStr:  pidada.Õhtu
+
+foundStr:  sigitus-Issanda
+
+foundStr:  www.LDS.org/topics/
+
+foundStr: 
+mED
+
+foundStr:  frA
+
+foundStr:  biSKoPSrÅDET
+
+foundStr:  elektro/EDB-ingeniør,
+
+foundStr: 
+fAmiLiEn
+
+foundStr:  rAnnVEig
+
+foundStr:  aV
+
+foundStr:  sIste-dagers-heLLIge
+
+foundStr:  morrrELL
+
+foundStr:  explain.Heavenly
+
+foundStr:  se-Señor
+
+foundStr:  delLibro
+
+foundStr:  elLibro
+
+foundStr:  clienteTeléfono
+
+foundStr:  orderseu@ldschurch.orgEn
+
+foundStr:  store.lds.orgEl
+
+foundStr:  aLiahona,
+
+foundStr:  mismo.Las
+
+foundStr:  presidenteThomas
+
+foundStr:  compar-Smith
+
+foundStr:  obediente.Él
+
+foundStr:  nacióJesucristo.
+
+foundStr:  guerras.(Véase
+
+foundStr:  deMosíah,
+
+foundStr:  porJarom
+
+foundStr:  élderDavid
+
+foundStr:  presidenteEzra
+
+foundStr:  deMormón
+
+foundStr:  conApocalipsis
+
+foundStr:  reier,excePt
+
+foundStr:  promised,“If
+
+foundStr:  hAnD
+
+foundStr:  frOm
+
+foundStr:  nePhi
+
+foundStr:  revelation—Written
+
+foundStr:  destroyed—To
+
+foundStr:  thereof—Sealed
+
+foundStr:  toheaven—Which
+
+foundStr:  forever—And
+
+foundStr:  theEternal
+
+foundStr:  nations—And
+
+foundStr:  sMiTh,
+
+foundStr: 
+inTrOdUCTiOn
+
+foundStr:  gospel.The
+
+foundStr:  ofEight
+
+foundStr:  thatThe
+
+foundStr:  eighT
+
+foundStr:  lightning.The
+
+foundStr:  fulfilled—Ishould
+
+foundStr:  theUrim
+
+foundStr:  againI
+
+foundStr:  andI
+
+foundStr:  whichI
+
+foundStr:  andThummim,
+
+foundStr:  thatI
+
+foundStr:  exPLAnATiOn
+
+foundStr:  bOOk
+
+foundStr:  mOrmOn
+
+foundStr:  firsT
+
+foundStr: 
+hiS
+
+foundStr:  miniSTry
+
+foundStr:  people—Lehi
+
+foundStr:  prophecy—Hepraises
+
+foundStr:  theMessiah,
+
+foundStr:  theJews.
+
+foundStr:  bZedekiah,
+
+foundStr:  cJerusalem
+
+foundStr:  fJerusalem
+
+foundStr:  sawOne
+
+foundStr:  aSpiritof
+
+foundStr:  bJerusalem—that
+
+foundStr:  aJews
+
+foundStr:  adMessiah,
+
+foundStr:  theirproperty—Lehi
+
+foundStr:  thecommandments—Laman
+
+foundStr:  father—Nephi
+
+foundStr:  aRed
+
+foundStr:  wereLaman,
+
+foundStr:  wilderness.And
+
+foundStr:  brass—Laban
+
+foundStr:  up—Nephi
+
+foundStr:  brethren—Labansteals
+
+foundStr:  them—Laman
+
+foundStr:  smiteNephi
+
+foundStr:  theLord,
+
+foundStr:  aAs
+
+foundStr:  theSpirit
+
+foundStr:  whenLaban
+
+foundStr:  deliverLaban
+
+foundStr:  stratagem—Zoram
+
+foundStr:  wilderness.About
+
+foundStr:  thanLaban
+
+foundStr:  thebRed
+
+foundStr:  aLord
+
+foundStr:  aInasmuch
+
+foundStr:  whomI
+
+foundStr:  theJews,
+
+foundStr:  whenLaman
+
+foundStr:  andSam.
+
+foundStr:  aZoram
+
+foundStr:  sons—They
+
+foundStr:  sacrifices—The
+
+foundStr:  theprophets—The
+
+foundStr:  saying:I
+
+foundStr:  ofGod
+
+foundStr:  thingsI
+
+foundStr:  father,Lehi,
+
+foundStr:  ofZedekiah,
+
+foundStr:  aZedekiah;
+
+foundStr:  bJeremiah.
+
+foundStr:  dJoseph;yea,
+
+foundStr:  eJacob,
+
+foundStr:  ofEgypt,
+
+foundStr:  fathers.And
+
+foundStr:  aJoseph,
+
+foundStr:  aJoseph.
+
+foundStr:  journey—Lamanand
+
+foundStr:  rebel—Nephi
+
+foundStr:  hisdestruction—He
+
+foundStr:  faith—His
+
+foundStr:  forgiveness—Lehi
+
+foundStr:  him,Lehi,
+
+foundStr:  theLord.
+
+foundStr:  untoLemuel:
+
+foundStr:  cJerusalem;
+
+foundStr:  aSpirit
+
+foundStr:  dJeremiah
+
+foundStr:  whenI,
+
+foundStr:  whenI
+
+foundStr:  ofIshmael,
+
+foundStr:  likewise—He
+
+foundStr:  aNephi
+
+foundStr:  aLaman
+
+foundStr:  motherSariah,
+
+foundStr:  aNephi;
+
+foundStr:  forLaman
+
+foundStr:  theLord;
+
+foundStr:  records—Eachis
+
+foundStr:  ofNephi;
+
+foundStr:  words.And
+
+foundStr:  tree—Nephi
+
+foundStr:  aJerusalem,
+
+foundStr:  cBabylon,
+
+foundStr:  leftJerusalem,
+
+foundStr:  cJews—
+
+foundStr:  dMessiah,
+
+foundStr:  aPrepare
+
+foundStr:  aBethabara,
+
+foundStr:  beyondJordan;
+
+foundStr:  theMessiah
+
+foundStr:  aLamb
+
+foundStr:  aIsrael
+
+foundStr:  cGentiles
+
+foundStr:  dGospel,
+
+foundStr:  gIsrael,
+
+foundStr:  theirLord
+
+foundStr:  theSon
+
+foundStr:  cMessiah
+
+foundStr:  come—I,
+
+foundStr:  eHoly
+
+foundStr:  cHoly
+
+foundStr:  ofGod;
+
+foundStr:  life—He
+
+foundStr:  aBelievest
+
+foundStr:  ofJerusalem,
+
+foundStr:  aNazareth
+
+foundStr:  me:Behold
+
+foundStr:  bSon
+
+foundStr:  cFather!
+
+foundStr:  saying:Yea,
+
+foundStr:  saying:Look!
+
+foundStr:  theLamb
+
+foundStr:  theTwelve
+
+foundStr:  ofGod,
+
+foundStr:  ofIsrael.
+
+foundStr:  me:Look!
+
+foundStr:  me:These
+
+foundStr:  ofZion.
+
+foundStr:  theGentiles.
+
+foundStr:  aGentiles
+
+foundStr:  theGentiles
+
+foundStr:  me:Knowest
+
+foundStr:  cJews,
+
+foundStr:  bGentiles,
+
+foundStr:  afterI
+
+foundStr:  eGentiles
+
+foundStr:  bZion
+
+foundStr:  eSavior
+
+foundStr:  dShepherd
+
+foundStr:  devil—The
+
+foundStr:  church—The
+
+foundStr:  world.About
+
+foundStr:  saying:Thou
+
+foundStr:  ofGod.
+
+foundStr:  aJohn,
+
+foundStr:  days—Thegathering
+
+foundStr:  again—Nephi
+
+foundStr:  aWe
+
+foundStr:  said?—If
+
+foundStr:  bMessiah
+
+foundStr:  dGentiles
+
+foundStr:  theGentiles,
+
+foundStr:  aIsaiah,
+
+foundStr:  again.And
+
+foundStr:  saying:What
+
+foundStr:  beforeGod,
+
+foundStr:  brethren.Amen.
+
+foundStr:  wilderness—Messagesfrom
+
+foundStr:  time—Ishmael
+
+foundStr:  ofIshmael
+
+foundStr:  dZoram
+
+foundStr:  him.And
+
+foundStr: 
+aShazer.
+
+foundStr:  ofShazer.
+
+foundStr:  aIshmael
+
+foundStr:  bNahom.
+
+foundStr:  ship—His
+
+foundStr:  him—He
+
+foundStr:  ofGod’s
+
+foundStr:  aBountiful,
+
+foundStr:  aArise,
+
+foundStr:  bGod;
+
+foundStr:  saying:We
+
+foundStr:  ofMoses;
+
+foundStr:  aEgyptians
+
+foundStr:  commandedMoses
+
+foundStr:  aMoses
+
+foundStr:  thatMoses,
+
+foundStr:  theirRedeemer,
+
+foundStr:  righteous?Behold,
+
+foundStr:  evenAbraham,
+
+foundStr:  cIsaac,
+
+foundStr:  dJacob;
+
+foundStr:  eEgypt.
+
+foundStr:  bMoses,
+
+foundStr:  againstGod;
+
+foundStr:  theJews
+
+foundStr:  yourGod.
+
+foundStr:  theAlmighty
+
+foundStr:  aIf
+
+foundStr:  bSpirit
+
+foundStr:  finished—The
+
+foundStr:  mentioned—The
+
+foundStr:  promisedland—The
+
+foundStr:  rebellion—Nephi
+
+foundStr:  tempest—Nephiis
+
+foundStr:  stormceases—The
+
+foundStr:  didI
+
+foundStr:  aJacob
+
+foundStr:  bJoseph.
+
+foundStr:  aIshmael;
+
+foundStr:  ofJerusalem.
+
+foundStr:  people—The
+
+foundStr:  andcrucifixion—The
+
+foundStr:  beforeI
+
+foundStr:  aGod
+
+foundStr:  cGod
+
+foundStr:  gZenock,
+
+foundStr:  ofjZenos,
+
+foundStr:  bZenos.
+
+foundStr:  ofIsrael,
+
+foundStr:  prophetZenos,
+
+foundStr:  perhapsI
+
+foundStr:  bIsaiah;
+
+foundStr: 
+aHearken
+
+foundStr:  say—Mine
+
+foundStr:  say—Behold
+
+foundStr:  forI
+
+foundStr:  them?The
+
+foundStr:  bBabylon,and
+
+foundStr:  theChaldeans.
+
+foundStr:  bSpirit,
+
+foundStr:  aRedeemer,
+
+foundStr:  aGo
+
+foundStr:  bChaldeans,
+
+foundStr:  prisoners—Israel
+
+foundStr:  days—Kings
+
+foundStr:  fathers—Compare
+
+foundStr: 
+aAnd
+
+foundStr:  cGentiles,
+
+foundStr:  yourselves.They
+
+foundStr:  aSing,
+
+foundStr:  aGentiles,
+
+foundStr:  cSavior
+
+foundStr:  dMighty
+
+foundStr:  earth—The
+
+foundStr:  days—Israel
+
+foundStr:  stubble—The
+
+foundStr:  bound.About
+
+foundStr:  read?Behold,
+
+foundStr:  them:Behold
+
+foundStr:  thebSpirit;
+
+foundStr:  thedGentiles
+
+foundStr:  gLord
+
+foundStr:  hSavior
+
+foundStr:  againstZion
+
+foundStr:  whomMoses
+
+foundStr:  ofIsrael;
+
+foundStr:  bSatan
+
+foundStr:  seConD
+
+foundStr:  liberty—His
+
+foundStr:  bMessiah,
+
+foundStr:  bjustGod
+
+foundStr:  butI
+
+foundStr:  perish.And
+
+foundStr:  himI
+
+foundStr:  progression—Adam
+
+foundStr:  be—Men
+
+foundStr:  life.About
+
+foundStr:  you:Thou
+
+foundStr:  men.And
+
+foundStr:  bHoly
+
+foundStr:  cMessiah;
+
+foundStr:  theSpirit,
+
+foundStr:  sin.If
+
+foundStr:  misery.And
+
+foundStr:  bEden,
+
+foundStr:  aAdam
+
+foundStr:  aMessiah
+
+foundStr:  aMediator,
+
+foundStr:  hisHoly
+
+foundStr:  vision—He
+
+foundStr:  aJoseph
+
+foundStr:  loins.And
+
+foundStr:  aMoses,
+
+foundStr:  ofEgypt.
+
+foundStr:  bJudah
+
+foundStr:  thee,O
+
+foundStr:  them.And
+
+foundStr:  spoken.Remember
+
+foundStr:  posterity—He
+
+foundStr:  buried—Nephiglories
+
+foundStr:  aJoseph,who
+
+foundStr:  them:Behold,
+
+foundStr:  ofLemuel
+
+foundStr:  aIshmael,
+
+foundStr:  brotherNephi.
+
+foundStr:  exclaimeth:O
+
+foundStr:  mountains.And
+
+foundStr:  temple—Because
+
+foundStr:  bNephi,should
+
+foundStr:  thatI,
+
+foundStr:  me.And
+
+foundStr:  itNephi.
+
+foundStr:  cSolomon
+
+foundStr:  fSolomon;
+
+foundStr:  aking.But
+
+foundStr:  nevertheless,I
+
+foundStr:  aMake
+
+foundStr:  theMessiah.
+
+foundStr:  aIsaiah.
+
+foundStr:  aThus
+
+foundStr:  bI
+
+foundStr:  words.For
+
+foundStr:  againstZion,
+
+foundStr:  isGod,
+
+foundStr:  aFor
+
+foundStr:  bMighty
+
+foundStr:  theLord:
+
+foundStr:  messianically—The
+
+foundStr:  thelearned—He
+
+foundStr:  smiters—He
+
+foundStr: 
+aYea,
+
+foundStr:  bThis
+
+foundStr:  comfortZion
+
+foundStr:  joy—Compare
+
+foundStr:  bSarah,
+
+foundStr:  bZion,
+
+foundStr:  dEden,
+
+foundStr:  aAwake,
+
+foundStr:  bstrength,O
+
+foundStr:  cRahab,
+
+foundStr:  aI
+
+foundStr:  cZion;
+
+foundStr:  neck,O
+
+foundStr:  promise—The
+
+foundStr:  paradise—They
+
+foundStr:  judged—The
+
+foundStr:  torment—The
+
+foundStr:  forth—The
+
+foundStr:  aCreator
+
+foundStr:  theHoly
+
+foundStr:  cAdam.
+
+foundStr:  yourMaker.
+
+foundStr:  dAlmighty—butI
+
+foundStr:  things?Would
+
+foundStr:  rule—Reconcile
+
+foundStr:  grace.About
+
+foundStr:  thatChrist—for
+
+foundStr:  fGod.
+
+foundStr:  bWhen
+
+foundStr:  aYea,
+
+foundStr:  untoGod,
+
+foundStr:  bIsaiah,
+
+foundStr:  dRedeemer,
+
+foundStr:  true.Wherefore,
+
+foundStr:  peace—The
+
+foundStr: 
+aThe
+
+foundStr:  andJerusalem:
+
+foundStr:  ofZion
+
+foundStr:  ofJacob,
+
+foundStr:  bPhilistines,
+
+foundStr:  ofBashan;
+
+foundStr:  disobedience—The
+
+foundStr:  worldliness—Compare
+
+foundStr: 
+aFor
+
+foundStr:  bSodom,
+
+foundStr:  it.Wo
+
+foundStr:  day—Compare
+
+foundStr:  ofZion,
+
+foundStr:  scattered—Woes
+
+foundStr:  scatteredstate—The
+
+foundStr:  judge,I
+
+foundStr:  vineyard—Iwill
+
+foundStr:  ofHosts
+
+foundStr:  forgiven—He
+
+foundStr:  prophesy—He
+
+foundStr:  teachings—A
+
+foundStr:  return—Compare
+
+foundStr: 
+aIn
+
+foundStr:  aWhom
+
+foundStr:  b.C.
+
+foundStr:  people—Hear
+
+foundStr:  long?And
+
+foundStr:  againstJudah—Christ
+
+foundStr:  virgin—Compare
+
+foundStr:  ofbAhaz
+
+foundStr:  cJotham,
+
+foundStr:  dRezin,
+
+foundStr:  ePekah
+
+foundStr:  aIt
+
+foundStr:  isSamaria,
+
+foundStr:  thyGod;
+
+foundStr:  sign—Behold,
+
+foundStr:  bImmanuel.
+
+foundStr:  bEphraimdeparted
+
+foundStr:  ofAssyria.
+
+foundStr:  offense—Seek
+
+foundStr:  wizards—Turn
+
+foundStr:  guidance—Compare
+
+foundStr:  bMaher-shalal-hash-baz.
+
+foundStr:  ofJeberechiah.
+
+foundStr:  aCall
+
+foundStr:  dSamaria
+
+foundStr:  eAssyria.
+
+foundStr:  aShiloah
+
+foundStr:  bRezin
+
+foundStr:  aAssyria
+
+foundStr:  land,O
+
+foundStr:  aAssociate
+
+foundStr:  aBind
+
+foundStr:  light—Unto
+
+foundStr:  born—He
+
+foundStr:  onDavid’s
+
+foundStr:  throne—Compare
+
+foundStr: 
+aNevertheless,
+
+foundStr:  cZebulun,
+
+foundStr:  dNaphtali,
+
+foundStr:  theRed
+
+foundStr:  cMighty
+
+foundStr:  dEverlasting
+
+foundStr:  ePeace.
+
+foundStr:  cDavid,
+
+foundStr:  aRezin
+
+foundStr:  andEphraim,
+
+foundStr:  bJudah.
+
+foundStr:  again—The
+
+foundStr: 
+aWo
+
+foundStr:  aCalno
+
+foundStr:  bCarchemish?
+
+foundStr:  notSamaria
+
+foundStr:  cDamascus?
+
+foundStr:  ofJerusalem
+
+foundStr:  aAssyria,
+
+foundStr:  bMidian
+
+foundStr:  cEgypt.
+
+foundStr:  aHe
+
+foundStr:  atbGeba;
+
+foundStr:  cGibeah
+
+foundStr:  aGallim;
+
+foundStr:  bAnathoth.
+
+foundStr:  aNob
+
+foundStr:  righteousness—The
+
+foundStr:  bGentiles
+
+foundStr:  bAssyria,and
+
+foundStr:  cShinar,
+
+foundStr:  cJudah,
+
+foundStr:  aPhilistines
+
+foundStr:  bEdom
+
+foundStr:  cMoab;
+
+foundStr:  them—Compare
+
+foundStr:  say:O
+
+foundStr:  bJehovah
+
+foundStr:  aPraise
+
+foundStr:  aSing
+
+foundStr:  aCry
+
+foundStr:  forever—Compare
+
+foundStr:  bBabylon,
+
+foundStr:  whichIsaiah
+
+foundStr:  aMedes
+
+foundStr:  aBabylon,
+
+foundStr:  bSodom
+
+foundStr:  rest—Lucifer
+
+foundStr:  rebellion—Israel
+
+foundStr:  world)—Compare
+
+foundStr:  onJacob,
+
+foundStr:  aHell
+
+foundStr:  aHow
+
+foundStr:  bLucifer,
+
+foundStr:  aAhaz
+
+foundStr:  aZion,
+
+foundStr:  plainness—Isaiah’sprophecies
+
+foundStr:  days—The
+
+foundStr:  fromBabylon,
+
+foundStr:  scourged—They
+
+foundStr:  behold,Isaiah
+
+foundStr:  bJews,
+
+foundStr:  ofIsaiah
+
+foundStr:  aJerusalem;
+
+foundStr:  bOnly
+
+foundStr:  theFather
+
+foundStr:  cBabylon
+
+foundStr:  eSon
+
+foundStr:  err.And
+
+foundStr:  beholdI
+
+foundStr:  wherefore,I
+
+foundStr:  inChrist,
+
+foundStr:  hispeople—They
+
+foundStr:  thedust—The
+
+foundStr:  combinations—The
+
+foundStr:  priestcrafts.About
+
+foundStr:  aO
+
+foundStr:  dEternal
+
+foundStr:  eGod;
+
+foundStr:  bHolyGhost;
+
+foundStr:  aCome
+
+foundStr:  forth—Three
+
+foundStr:  book—The
+
+foundStr:  wonder—Compare
+
+foundStr:  people.Wherefore
+
+foundStr:  aRead
+
+foundStr:  say:I
+
+foundStr:  aTouch
+
+foundStr:  aForasmuch
+
+foundStr:  aAnd
+
+foundStr:  days—They
+
+foundStr:  doctrines—Apostasywill
+
+foundStr:  teach-ers—The
+
+foundStr:  men—He
+
+foundStr:  aEat,
+
+foundStr:  say:We
+
+foundStr:  aWo
+
+foundStr:  ofMormon—They
+
+foundStr:  manynations—He
+
+foundStr:  aBible!
+
+foundStr:  aBible;
+
+foundStr:  dJews
+
+foundStr:  them?Yea,
+
+foundStr:  aBible,
+
+foundStr:  gAbraham
+
+foundStr:  people—Many
+
+foundStr:  delightsome—Israel
+
+foundStr:  destroyed.About
+
+foundStr:  forI,
+
+foundStr:  bJews
+
+foundStr:  baptized—Men
+
+foundStr:  saved—Repentance
+
+foundStr:  path—Eternal
+
+foundStr:  bLamb
+
+foundStr:  aFollow
+
+foundStr:  faithful.He
+
+foundStr:  brethren,I
+
+foundStr:  yourLord
+
+foundStr:  enter.For
+
+foundStr:  dFather
+
+foundStr:  you,Nay;
+
+foundStr:  eFather,
+
+foundStr:  aAngels
+
+foundStr:  aSpiritwhich
+
+foundStr:  true—They
+
+foundStr:  whatI
+
+foundStr:  aJew—I
+
+foundStr:  aJew,
+
+foundStr:  earth,I
+
+foundStr:  aJews,
+
+foundStr:  brOTher
+
+foundStr:  commandments—Nephi
+
+foundStr:  dies—Wickednessprevails
+
+foundStr:  aChrist
+
+foundStr:  ofIsrael
+
+foundStr:  aLamanites
+
+foundStr:  bZoramites,
+
+foundStr:  ofNephi,
+
+foundStr:  cNephites,
+
+foundStr:  unchastity—Men
+
+foundStr:  fellowmen—TheLord
+
+foundStr:  onewife—The
+
+foundStr:  you,Nay.
+
+foundStr:  crimes.For
+
+foundStr:  aSolomon
+
+foundStr:  heart.Look
+
+foundStr:  aThese
+
+foundStr:  theAtonement—The
+
+foundStr:  gOnly
+
+foundStr:  cOnly
+
+foundStr:  aSpiritspeaketh
+
+foundStr:  trees—They
+
+foundStr:  theGentiles—The
+
+foundStr:  prefigured—Allusions
+
+foundStr:  aZenos,
+
+foundStr:  aIsrael,
+
+foundStr:  thereofI
+
+foundStr:  thee,I
+
+foundStr:  first.But,
+
+foundStr:  aWhat
+
+foundStr:  themselves.Behold,
+
+foundStr:  couldI
+
+foundStr:  might.For
+
+foundStr:  willI
+
+foundStr:  whereforeI
+
+foundStr:  withfire—Men
+
+foundStr:  aZenos
+
+foundStr:  aSherem.
+
+foundStr:  said,Yea.
+
+foundStr:  aEnos:
+
+foundStr:  words.Brethren,
+
+foundStr:  sins—The
+
+foundStr:  day—The
+
+foundStr:  hisRedeemer.
+
+foundStr:  aEnos,
+
+foundStr:  aBecause
+
+foundStr:  untoGod
+
+foundStr:  theLamanites.
+
+foundStr:  destruction.And
+
+foundStr:  fatherLehi
+
+foundStr:  land—Many
+
+foundStr:  dLamanites,
+
+foundStr:  theNephites,
+
+foundStr:  oMni
+
+foundStr:  therecords—Mosiah
+
+foundStr:  them—The
+
+foundStr:  brotherChemish.
+
+foundStr:  aMosiah,
+
+foundStr:  ofZarahemla.
+
+foundStr:  thatMosiah
+
+foundStr:  aZarahemla
+
+foundStr:  andMosiah,
+
+foundStr:  bMosiah
+
+foundStr:  aCoriantumr,
+
+foundStr:  aBenjamin,
+
+foundStr:  aBenjamin
+
+foundStr:  ofNephi—He
+
+foundStr:  plates—King
+
+foundStr:  concerningChrist,
+
+foundStr:  fromJacob
+
+foundStr:  kingdBenjamin,
+
+foundStr:  ofChrist;
+
+foundStr:  kingBenjamin,
+
+foundStr:  kingBenjamin—he
+
+foundStr:  aChrists,
+
+foundStr:  fathers—Their
+
+foundStr:  plates—Mosiah
+
+foundStr:  theEgyptians
+
+foundStr:  kingBenjamin
+
+foundStr:  people—Herecounts
+
+foundStr:  reign—He
+
+foundStr:  bKing!
+
+foundStr:  another—Isay,
+
+foundStr:  now.And
+
+foundStr:  address—The
+
+foundStr:  clay—Blood
+
+foundStr:  world—His
+
+foundStr:  salvationcomes—Men
+
+foundStr:  behold,I
+
+foundStr:  bAwake;
+
+foundStr:  bOmnipotent
+
+foundStr:  aJesus
+
+foundStr:  bChrist,
+
+foundStr:  cSon
+
+foundStr:  eCreator
+
+foundStr:  ofAdam,
+
+foundStr:  againstGod!
+
+foundStr:  bLord
+
+foundStr:  cLord
+
+foundStr:  bSavior
+
+foundStr:  thatbAdam
+
+foundStr:  address—Salvation
+
+foundStr:  saved—Retain
+
+foundStr:  faithfulness—Impart
+
+foundStr:  poor—Do
+
+foundStr:  aGod;
+
+foundStr:  strength.And
+
+foundStr:  faith—They
+
+foundStr:  out.I
+
+foundStr:  teachthem—Mosiah
+
+foundStr:  aMosiah
+
+foundStr:  kingMosiah
+
+foundStr:  king—Limhi’s
+
+foundStr:  history—A
+
+foundStr:  things—Those
+
+foundStr:  bLehi-Nephi,
+
+foundStr:  cZarahemla;
+
+foundStr:  aAmmon,
+
+foundStr:  ofLehi-Nephi;
+
+foundStr:  bShilom,
+
+foundStr:  aAmmon
+
+foundStr:  ofbNephi.
+
+foundStr:  aShilom;
+
+foundStr:  aLimhi,
+
+foundStr:  cZeniff
+
+foundStr:  alive.And
+
+foundStr:  bGod,
+
+foundStr:  dIsrael
+
+foundStr:  eRed
+
+foundStr:  kingLaman,
+
+foundStr:  aGod,
+
+foundStr:  dGod,
+
+foundStr:  seers—No
+
+foundStr:  kingLimhi
+
+foundStr:  aZeniff
+
+foundStr:  beforeAmmon,
+
+foundStr:  him:Being
+
+foundStr:  again:Knowest
+
+foundStr:  theland—There
+
+foundStr: 
+aI,
+
+foundStr:  bZeniff,
+
+foundStr:  cNephi,
+
+foundStr:  theLamanites
+
+foundStr:  ofShilom.
+
+foundStr:  aLaman,
+
+foundStr:  kingLaman
+
+foundStr:  aShilom,
+
+foundStr:  dead.And
+
+foundStr:  dies—His
+
+foundStr:  traditions—Zeniff
+
+foundStr:  aShemlon,
+
+foundStr:  this—Believingthat
+
+foundStr:  theLord—therefore
+
+foundStr:  wickedness—Herevels
+
+foundStr:  concubines—Abinadi
+
+foundStr:  bond-age—His
+
+foundStr:  thatZeniff
+
+foundStr:  uponNoah,
+
+foundStr:  kingNoah
+
+foundStr:  cShemlon,
+
+foundStr:  aAbinadi;
+
+foundStr:  whenAbinadi
+
+foundStr:  aWho
+
+foundStr:  thereforeI
+
+foundStr:  saying—Abinadi,
+
+foundStr:  generation!And
+
+foundStr:  saying:Thus
+
+foundStr:  king:Behold,
+
+foundStr:  aThy
+
+foundStr:  aDoth
+
+foundStr:  bSinai,
+
+foundStr:  aThou
+
+foundStr:  power—He
+
+foundStr:  ofMoses
+
+foundStr:  alone—God
+
+foundStr:  people.About
+
+foundStr:  priests:Away
+
+foundStr:  aHonor
+
+foundStr:  thyGod
+
+foundStr:  afterAbinadi
+
+foundStr:  thatGod
+
+foundStr:  messianically—TheMessiah’s
+
+foundStr:  forth—He
+
+foundStr:  transgressors—Compare
+
+foundStr:  people—They
+
+foundStr:  bEternal
+
+foundStr:  cFather
+
+foundStr:  untoZion:
+
+foundStr:  throughChrist,
+
+foundStr:  beforeChrist
+
+foundStr:  againstGod,
+
+foundStr:  state—Those
+
+foundStr:  redemption—Christ
+
+foundStr:  throughChrist
+
+foundStr:  aEternal
+
+foundStr:  fire—He
+
+foundStr:  aAlma,
+
+foundStr:  people.O
+
+foundStr:  aAbinadi
+
+foundStr:  private—He
+
+foundStr:  priests—They
+
+foundStr:  people—Alma
+
+foundStr:  king.And
+
+foundStr:  ofMormon,
+
+foundStr:  hisSpirit
+
+foundStr:  exclaimed:This
+
+foundStr:  thatAlma
+
+foundStr:  towardsGod,
+
+foundStr:  land—King
+
+foundStr:  fire—Limhi
+
+foundStr:  aLimhi.
+
+foundStr:  aGideon
+
+foundStr:  ofLimhi
+
+foundStr:  aShemlon
+
+foundStr:  angerI
+
+foundStr:  ofLimhi.
+
+foundStr:  meetAmmon
+
+foundStr:  converted—They
+
+foundStr:  tellAmmon
+
+foundStr:  ofNephi.
+
+foundStr:  bprison.And
+
+foundStr:  ofNoah
+
+foundStr:  andAmmon
+
+foundStr:  ofAmmon,
+
+foundStr:  bondage—The
+
+foundStr:  drunk—The
+
+foundStr:  aShilom.
+
+foundStr:  bShilom
+
+foundStr:  king—He
+
+foundStr:  priest—The
+
+foundStr:  theLamanite
+
+foundStr:  soI
+
+foundStr:  fromGod.
+
+foundStr:  aHelam.
+
+foundStr:  aAmulon;
+
+foundStr:  aAmulon.
+
+foundStr:  aAmulon
+
+foundStr:  ofHelam,
+
+foundStr:  theypray—The
+
+foundStr:  light—He
+
+foundStr:  ofNephi
+
+foundStr:  ofAbinadi;
+
+foundStr:  uponAlma
+
+foundStr:  morrowI
+
+foundStr:  people—Mosiah
+
+foundStr:  theChurch
+
+foundStr:  bMulek,
+
+foundStr:  deliveringAlma
+
+foundStr:  ofZarahemla
+
+foundStr:  afterAlma
+
+foundStr:  unbelievers—Alma
+
+foundStr:  life—Those
+
+foundStr:  forgiveness—Churchmembers
+
+foundStr:  ofChrist.
+
+foundStr:  verilyI
+
+foundStr:  didAlma
+
+foundStr:  enjoinsequality—Alma
+
+foundStr:  course—Alma
+
+foundStr:  dumb—All
+
+foundStr:  gainsalvation—Alma
+
+foundStr:  toAlma.
+
+foundStr:  ofGod?
+
+foundStr:  aThis
+
+foundStr:  said:Behold,
+
+foundStr:  aHelam,
+
+foundStr:  ofAlma,
+
+foundStr:  him.Yea,
+
+foundStr:  cGod;
+
+foundStr:  theirRedeemer.
+
+foundStr:  theLamanites—Using
+
+foundStr:  stones,Mosiah
+
+foundStr:  plates.About
+
+foundStr:  cNephi
+
+foundStr:  aThat
+
+foundStr:  bNephi,
+
+foundStr:  king—Unrighteous
+
+foundStr:  sin—Alma
+
+foundStr:  people—He
+
+foundStr:  people.And
+
+foundStr:  such,I
+
+foundStr:  people—I
+
+foundStr:  crimes—Priestcrafts
+
+foundStr:  people—Thepriests
+
+foundStr:  aGideon;
+
+foundStr:  aNehor;
+
+foundStr:  people—His
+
+foundStr:  king—The
+
+foundStr:  defeated—The
+
+foundStr:  defeated—Almaslays
+
+foundStr:  bGideon
+
+foundStr:  againstAmlici,
+
+foundStr:  aAmlicites;
+
+foundStr:  theNephites
+
+foundStr:  theAmlicites
+
+foundStr:  whenAlma
+
+foundStr:  bNehor
+
+foundStr:  bAmlicites,
+
+foundStr:  cNephi,we
+
+foundStr:  ofGideon
+
+foundStr:  bZarahemla.
+
+foundStr:  withAmlici;
+
+foundStr:  word—TheLamanites
+
+foundStr:  rebellion—Men
+
+foundStr:  themselves—The
+
+foundStr:  aAmlicites
+
+foundStr:  theAmlicites,
+
+foundStr:  theLamanites;
+
+foundStr:  converts—Iniquity
+
+foundStr:  hindered—Nephihah
+
+foundStr:  judge—Alma,
+
+foundStr:  baptized.And
+
+foundStr:  thatAlma,
+
+foundStr:  aNephihah,
+
+foundStr:  bNephihah.
+
+foundStr:  people—Those
+
+foundStr:  repent—Thenames
+
+foundStr:  bGod
+
+foundStr:  you,Yea,
+
+foundStr:  fatherAlma
+
+foundStr:  bsay—Lord,
+
+foundStr:  aAbraham,
+
+foundStr:  apride?I
+
+foundStr:  bKing
+
+foundStr:  people—Repent,
+
+foundStr:  saith:The
+
+foundStr:  order—Alma
+
+foundStr:  ofZarahemla,
+
+foundStr:  life—Filthiness
+
+foundStr:  saying—aRepent
+
+foundStr:  bJerusalem
+
+foundStr:  yea,I
+
+foundStr:  twAbout
+
+foundStr:  the—He
+
+foundStr:  haZarahown
+
+foundStr:  aMelek,
+
+foundStr:  aAmmonihah.
+
+foundStr:  aNephihah;
+
+foundStr:  aAmulek,
+
+foundStr:  saying—Repentye,
+
+foundStr:  repent—The
+
+foundStr:  days—If
+
+foundStr:  name.About
+
+foundStr:  aAmmonihah,
+
+foundStr:  bLamanites
+
+foundStr:  aRepentye,
+
+foundStr:  spared—Unrighteous
+
+foundStr:  bAmulek
+
+foundStr:  aManasseh,
+
+foundStr:  bJoseph
+
+foundStr:  yetI
+
+foundStr:  designs.But
+
+foundStr:  bangels:Repent
+
+foundStr:  cNoah,
+
+foundStr:  withAmulek,
+
+foundStr:  setforth—Amulek
+
+foundStr: 
+rom—Christ
+
+foundStr:  theirsins—Only
+
+foundStr:  saved—All
+
+foundStr:  immortality—There
+
+foundStr:  me—Behold
+
+foundStr:  livingGod,
+
+foundStr:  oneGod;
+
+foundStr:  thoughI
+
+foundStr:  veryEternal
+
+foundStr:  bFather,
+
+foundStr:  faith-ful—Men
+
+foundStr:  works—The
+
+foundStr:  death—This
+
+foundStr:  state—Theplan
+
+foundStr:  theResurrection
+
+foundStr:  ofAmulek
+
+foundStr:  forAdam
+
+foundStr:  bIf
+
+foundStr:  mineOnly
+
+foundStr:  works—They
+
+foundStr:  commandments—Through
+
+foundStr:  these—Angels
+
+foundStr:  theland—They
+
+foundStr:  aMelchizedek,
+
+foundStr:  andMelchizedek
+
+foundStr:  aNow
+
+foundStr:  aHaving
+
+foundStr:  smitten—The
+
+foundStr:  fire—These
+
+foundStr:  glory—The
+
+foundStr:  andfall—Alma
+
+foundStr:  destroyAlma
+
+foundStr:  withAlma
+
+foundStr:  andAmulek.
+
+foundStr:  saying:Behold,
+
+foundStr:  untoAlma:
+
+foundStr:  asked:What
+
+foundStr:  aNehor,
+
+foundStr:  said:Why
+
+foundStr:  saying:Will
+
+foundStr:  aAmmonihah
+
+foundStr:  church—Alma
+
+foundStr:  prospers—Alma
+
+foundStr:  andAmulek
+
+foundStr:  inChrist.
+
+foundStr:  aZeezrom
+
+foundStr:  aboutSidom,
+
+foundStr:  bNehor,
+
+foundStr:  ofAmmonihah—Zoram
+
+foundStr:  word—They
+
+foundStr:  theNephites.
+
+foundStr:  ofbManti.
+
+foundStr:  ofAmmonihah
+
+foundStr:  bNehors;
+
+foundStr:  ofNehor,
+
+foundStr:  revelation—They
+
+foundStr:  asAlma
+
+foundStr:  aManti,
+
+foundStr:  thereforeAlma
+
+foundStr:  bSpirit,and
+
+foundStr:  bIshmael,
+
+foundStr:  kingLamoni
+
+foundStr:  withAmmon,
+
+foundStr:  kingLamoni.
+
+foundStr:  he,I
+
+foundStr:  fearAmmon,
+
+foundStr:  bGreat
+
+foundStr:  theseLamanites
+
+foundStr:  whenAmmon
+
+foundStr:  aRabbanah,
+
+foundStr:  heart?Thou
+
+foundStr:  aGreat
+
+foundStr:  again:Believest
+
+foundStr:  aSpiritdwelleth
+
+foundStr:  seeangels—Ammon
+
+foundStr:  miraculously—He
+
+foundStr:  desire.Therefore,
+
+foundStr:  queen:He
+
+foundStr:  inGod,
+
+foundStr:  aNephites.
+
+foundStr:  toGod
+
+foundStr:  faith—therefore,Mosiah
+
+foundStr:  theGreat
+
+foundStr:  blessedJesus,
+
+foundStr:  brethren—Ammon
+
+foundStr:  land—Ammoncompels
+
+foundStr:  thatAmmon
+
+foundStr:  aMiddoni;
+
+foundStr:  alsoMuloki
+
+foundStr:  ofMiddoni;
+
+foundStr:  me—Go
+
+foundStr:  ofLamoni,
+
+foundStr:  said:Lamoni,
+
+foundStr:  slayAmmon
+
+foundStr:  aIshmael.
+
+foundStr:  hisGod,
+
+foundStr:  said:Because
+
+foundStr:  sonLamoni
+
+foundStr:  ofMiddoni.
+
+foundStr:  ofAaron,
+
+foundStr:  inMiddoni—After
+
+foundStr:  manyconverts—Lamoni
+
+foundStr:  bJerusalem,
+
+foundStr:  theAmalekites
+
+foundStr:  cGod.
+
+foundStr:  aMiddoni.
+
+foundStr:  theAmalekites,
+
+foundStr:  things.And
+
+foundStr:  areconverted—The
+
+foundStr:  them:What
+
+foundStr:  said—aIf
+
+foundStr:  whenAaron
+
+foundStr:  afterAaron
+
+foundStr:  day.And
+
+foundStr:  onAaron
+
+foundStr:  all?Therefore
+
+foundStr:  her.And
+
+foundStr:  towardsAaron
+
+foundStr:  cZarahemla
+
+foundStr:  dManti,
+
+foundStr:  aBountiful.
+
+foundStr:  aDesolation,
+
+foundStr:  cDesolation,
+
+foundStr:  landBountiful,
+
+foundStr:  proclaimed—TheLamanites
+
+foundStr:  themselvesAnti-Nephi-Lehies
+
+foundStr:  curse—The
+
+foundStr:  theLamanites,
+
+foundStr:  allLamanites.
+
+foundStr:  bAmulonites;
+
+foundStr:  withAaron
+
+foundStr:  aAnti-Nephi-Lehies;
+
+foundStr:  bLamanites.
+
+foundStr:  angels—They
+
+foundStr:  themselves—More
+
+foundStr:  aAmulon,
+
+foundStr:  bHelam,
+
+foundStr:  cJerusalem,
+
+foundStr:  dAnti-Nephi-Lehi,were
+
+foundStr:  ofMidian,
+
+foundStr:  greatGod
+
+foundStr:  greatGod,
+
+foundStr:  withGod,
+
+foundStr:  bNehors.
+
+foundStr:  spread—Theseed
+
+foundStr:  asAbinadi
+
+foundStr:  prophesied—Many
+
+foundStr:  inChrist
+
+foundStr:  bAnti-Nephi-Lehi
+
+foundStr:  theNephites;
+
+foundStr:  bAnti-Nephi-Lehi.
+
+foundStr:  inChrist;
+
+foundStr:  knowledge—By
+
+foundStr:  repentance—God
+
+foundStr:  aBlessed
+
+foundStr:  saying:Ammon,
+
+foundStr:  theLord?
+
+foundStr:  truth?Do
+
+foundStr:  beginning?Now
+
+foundStr:  you,Nay,
+
+foundStr:  myGod,
+
+foundStr:  forever.Amen.
+
+foundStr:  safety—Upon
+
+foundStr:  strength—The
+
+foundStr:  ofJershon—They
+
+foundStr:  ofAmmon.
+
+foundStr:  cAnti-Nephi-Lehi;
+
+foundStr:  asAmmon
+
+foundStr:  andHimni;
+
+foundStr:  aAntiNephi-Lehi.
+
+foundStr:  bJershon,
+
+foundStr:  landJershon;
+
+foundStr:  ofJershon,
+
+foundStr:  battle—Tens
+
+foundStr:  slain—The
+
+foundStr:  aJershon,
+
+foundStr:  ofNephi—
+
+foundStr:  zeal—The
+
+foundStr:  nations—Alma
+
+foundStr:  it.I
+
+foundStr:  anti-Christ,
+
+foundStr:  prophecy—He
+
+foundStr:  noChrist—Alma
+
+foundStr:  dumb—The
+
+foundStr:  say—Korihor
+
+foundStr:  aAnti-Christ,
+
+foundStr:  aChoose
+
+foundStr:  aJershon
+
+foundStr:  wasGiddonah.
+
+foundStr:  aChrist.
+
+foundStr:  noGod?
+
+foundStr:  aZoramites,
+
+foundStr:  wasZoram—and
+
+foundStr:  setprayers—The
+
+foundStr:  theZoramites
+
+foundStr:  aAntionum,
+
+foundStr:  aAmulek
+
+foundStr:  bMelek;
+
+foundStr:  aShiblon
+
+foundStr:  bCorianton;
+
+foundStr:  cZoramites,
+
+foundStr:  theirGod
+
+foundStr:  say—We
+
+foundStr:  people?O
+
+foundStr:  andOmner,
+
+foundStr:  ofAlma;
+
+foundStr:  them—Faith
+
+foundStr:  children—Alma
+
+foundStr:  seed—It
+
+foundStr:  nourished—Then
+
+foundStr:  aOnidah,
+
+foundStr:  said,What
+
+foundStr:  worshipGod
+
+foundStr:  say:If
+
+foundStr:  words.Ye
+
+foundStr:  yourselves—It
+
+foundStr:  you,Yea;
+
+foundStr:  thySon
+
+foundStr:  butbZenock
+
+foundStr:  aMoses;
+
+foundStr:  salvation—Unless
+
+foundStr:  perish—The
+
+foundStr:  repentance—Pray
+
+foundStr:  blessings—This
+
+foundStr:  meetGod—Work
+
+foundStr:  ofChrist,
+
+foundStr:  bZenock;
+
+foundStr:  cMoses,
+
+foundStr:  need—I
+
+foundStr:  cworshipGod,
+
+foundStr:  afterAmulek
+
+foundStr:  aJershon.
+
+foundStr:  ofAmmon
+
+foundStr:  ofJershon
+
+foundStr:  cZoramites
+
+foundStr:  angel—He
+
+foundStr:  soul—He
+
+foundStr:  asI
+
+foundStr:  butGod
+
+foundStr:  aLehi
+
+foundStr:  eEgyptians
+
+foundStr:  salvation—The
+
+foundStr:  wickedness—Their
+
+foundStr:  people—Counsel
+
+foundStr:  doings—As
+
+foundStr:  theLiahona
+
+foundStr:  plates,Ammon
+
+foundStr:  sonHelaman,
+
+foundStr:  aPreach
+
+foundStr:  aCounsel
+
+foundStr:  sake—Salvation
+
+foundStr:  world—Bridle
+
+foundStr:  untoHelaman,
+
+foundStr:  aZoramites.
+
+foundStr:  world.Behold,
+
+foundStr:  abomination—Corianton’s
+
+foundStr:  word—Christ’s
+
+foundStr:  bZoramites;
+
+foundStr:  aCommand
+
+foundStr:  aSeek
+
+foundStr:  men—The
+
+foundStr:  resurrection—All
+
+foundStr:  theResurrection.
+
+foundStr:  moreI
+
+foundStr:  resurrection—Behold,
+
+foundStr:  righteous,I
+
+foundStr:  endlessmisery—Wickedness
+
+foundStr:  happiness—Carnal
+
+foundStr:  world—Every
+
+foundStr:  mortality.About
+
+foundStr:  yourGod
+
+foundStr:  mankind—Redemptioncomes
+
+foundStr:  world—Mercyis
+
+foundStr:  repent—All
+
+foundStr:  justice—Mercy
+
+foundStr:  aEden,
+
+foundStr:  andGod
+
+foundStr:  mayGod
+
+foundStr:  word—The
+
+foundStr:  war—Moroni
+
+foundStr:  armor—The
+
+foundStr:  religion—The
+
+foundStr:  aZoramites
+
+foundStr:  bZerahemnah
+
+foundStr:  aAmalekites
+
+foundStr:  cZoramites.
+
+foundStr:  andZoramites,
+
+foundStr:  aManti
+
+foundStr:  andMoroni,
+
+foundStr:  ofManti,
+
+foundStr:  aLehi,
+
+foundStr:  bInasmuch
+
+foundStr:  destroyed—Zerahemnah
+
+foundStr:  resumes—Moroni’s
+
+foundStr:  aZerahemnah:
+
+foundStr:  hands.And
+
+foundStr:  withMoroni,
+
+foundStr:  ofMoroni
+
+foundStr:  untoMoroni,
+
+foundStr:  theNephites—He
+
+foundStr:  theland—Alma
+
+foundStr:  again:Will
+
+foundStr:  bLamanites,
+
+foundStr:  extinct.And
+
+foundStr:  toHelaman,
+
+foundStr:  ofbMelek.
+
+foundStr:  aSpirit,
+
+foundStr:  aHelaman
+
+foundStr:  king—Moroni
+
+foundStr:  liberty—He
+
+foundStr:  religion—True
+
+foundStr:  preserved—Amalickiah
+
+foundStr:  aAmalickiah.
+
+foundStr:  byAmalickiah
+
+foundStr:  theirGod,
+
+foundStr:  it—aIn
+
+foundStr:  dChristians
+
+foundStr:  cChristians
+
+foundStr:  bDesolation,
+
+foundStr:  south—A
+
+foundStr:  whenMoroni
+
+foundStr:  bJoseph,
+
+foundStr:  said—Evenas
+
+foundStr:  whenAmalickiah
+
+foundStr:  ofAmalickiah,
+
+foundStr:  toOnidah,
+
+foundStr:  wasLehonti,
+
+foundStr:  whenLehonti
+
+foundStr:  thatAmalickiah
+
+foundStr:  down.And
+
+foundStr:  gore,Amalickiah
+
+foundStr:  untoAmalickiah,
+
+foundStr:  also:They
+
+foundStr:  theChristians—He
+
+foundStr:  aAmalickiah
+
+foundStr:  whileAmalickiah
+
+foundStr:  bChristians.
+
+foundStr:  aMoroni,
+
+foundStr:  aNoah,
+
+foundStr:  king,Amalickiah,
+
+foundStr:  aNephite
+
+foundStr:  cities—Warsand
+
+foundStr:  abominations—Morianton
+
+foundStr:  aMoroni;
+
+foundStr:  andMoroni;
+
+foundStr:  aNephihah.
+
+foundStr:  bLehi,
+
+foundStr:  cMorianton,
+
+foundStr:  ofMoroni,
+
+foundStr:  bDesolation;
+
+foundStr:  bslayMorianton
+
+foundStr:  ofMorianton
+
+foundStr:  ofMorianton,
+
+foundStr:  ofLehi;
+
+foundStr:  thatNephihah,
+
+foundStr:  aPahoran.
+
+foundStr:  king—Pahoran
+
+foundStr:  people—Moroni
+
+foundStr:  death—Amalickiah
+
+foundStr:  cities—Teancum
+
+foundStr:  ofNephihah;
+
+foundStr:  bNephihah,
+
+foundStr:  cLehi,
+
+foundStr:  dMorianton,
+
+foundStr:  eGid,
+
+foundStr:  theZoramite
+
+foundStr:  aMulek,
+
+foundStr:  bAmmoron;
+
+foundStr:  kingAmmoron,
+
+foundStr:  aZoramite,
+
+foundStr:  aMulek;
+
+foundStr:  whileTeancum
+
+foundStr:  meetMoroni
+
+foundStr:  toLamanite
+
+foundStr:  victories—Helaman
+
+foundStr:  ofMulek
+
+foundStr:  untoLehi.
+
+foundStr:  bBountiful.
+
+foundStr:  ofZarahemla;
+
+foundStr:  themselvesNephites.
+
+foundStr:  thatHelaman
+
+foundStr:  prisoners—Moroni
+
+foundStr:  attacks—Ammoron
+
+foundStr:  aAmmoron
+
+foundStr:  this,I
+
+foundStr:  amMoroni;
+
+foundStr:  aZoram,
+
+foundStr:  prison-ers—The
+
+foundStr:  freed—The
+
+foundStr:  thatAmmoron
+
+foundStr:  byAmalickiah.
+
+foundStr:  aGid;
+
+foundStr:  cityGid,
+
+foundStr:  aMorianton;
+
+foundStr:  aMoroni
+
+foundStr:  fromHelaman,
+
+foundStr:  brother,I
+
+foundStr:  bJudea,
+
+foundStr:  bCumeni,
+
+foundStr:  byAmmoron
+
+foundStr:  year.And
+
+foundStr:  ofSidon,
+
+foundStr:  us.Now
+
+foundStr:  aAmmonites,
+
+foundStr:  slain—Gid
+
+foundStr:  aCumeni.
+
+foundStr:  cityCumeni,
+
+foundStr:  aJudea,
+
+foundStr:  hands.For
+
+foundStr:  prisoners.And
+
+foundStr:  say-ing—Behold,
+
+foundStr:  stratagem—TheLamanites
+
+foundStr:  withdraw—The
+
+foundStr:  bands.For
+
+foundStr:  andTeomner,
+
+foundStr:  land.But
+
+foundStr:  brother,Moroni,
+
+foundStr:  bPahoran,
+
+foundStr:  whileMoroni
+
+foundStr:  ofAmmoron
+
+foundStr:  aNephihah
+
+foundStr:  armies—The
+
+foundStr:  beslain—The
+
+foundStr:  enemies—Moroni
+
+foundStr:  armies.About
+
+foundStr:  toPahoran,
+
+foundStr:  things?Behold
+
+foundStr:  feet.Behold,
+
+foundStr:  thisI
+
+foundStr:  behold,God
+
+foundStr:  government—The
+
+foundStr:  rebels.About
+
+foundStr:  aPahoran,
+
+foundStr:  andTeancum
+
+foundStr:  death—Pahoran
+
+foundStr:  slaysAmmoron
+
+foundStr:  established—Helamanreturns
+
+foundStr:  andPahoran
+
+foundStr:  came,Moroni
+
+foundStr:  nowMoroni
+
+foundStr:  aLehi.
+
+foundStr:  withAmmoron,
+
+foundStr:  whenLehi
+
+foundStr:  afflictions.But
+
+foundStr:  afterMoroni
+
+foundStr:  bMoronihah;
+
+foundStr:  records—ManyNephites
+
+foundStr:  northward—Hagoth
+
+foundStr:  sea—Moronihah
+
+foundStr:  bBountiful,
+
+foundStr:  bHelaman,
+
+foundStr:  cHelaman,
+
+foundStr:  aMoronihah,
+
+foundStr:  ofMoronihah,
+
+foundStr:  helAMAn
+
+foundStr:  seat—Coriantumr
+
+foundStr:  aPahoran
+
+foundStr:  aKishkumen,
+
+foundStr:  brotherPahoran;
+
+foundStr:  aCoriantumr;
+
+foundStr:  aAmmoron,
+
+foundStr:  theNephites—
+
+foundStr:  cityZarahemla.
+
+foundStr:  aBountiful;
+
+foundStr:  aCoriantumr
+
+foundStr:  judge—Gadianton
+
+foundStr:  aHelaman,
+
+foundStr:  aGadianton,
+
+foundStr:  destroyHelaman.
+
+foundStr:  destroyHelaman—
+
+foundStr:  metKishkumen,
+
+foundStr:  aGadianton
+
+foundStr:  landnorthward—They
+
+foundStr:  records—Tensof
+
+foundStr:  baptized—The
+
+foundStr:  salvation—Nephi
+
+foundStr:  aNephi,
+
+foundStr:  bGadianton
+
+foundStr:  bNephi
+
+foundStr:  wickedness—The
+
+foundStr:  judges,Moronihah
+
+foundStr:  topreaching—Their
+
+foundStr:  forebears—Christ
+
+foundStr:  repent—Nephi
+
+foundStr:  encirclesthem—A
+
+foundStr:  cCezoram.
+
+foundStr:  ofGid
+
+foundStr:  whichAmmon
+
+foundStr:  burned.Nevertheless,
+
+foundStr:  aFear
+
+foundStr:  aRepent
+
+foundStr:  man:Behold,
+
+foundStr:  cAmulek,
+
+foundStr:  bLehi
+
+foundStr:  aHoly
+
+foundStr:  aPeace,
+
+foundStr:  plenty—Lucifer,
+
+foundStr:  bringMulek
+
+foundStr:  land.And
+
+foundStr:  aCezoram
+
+foundStr:  aGadianton.
+
+foundStr:  aCezoram,
+
+foundStr:  andKishkumen.
+
+foundStr:  cGadianton
+
+foundStr:  aCain,
+
+foundStr:  heaven.And
+
+foundStr:  aNephites
+
+foundStr:  ofHelaman—God
+
+foundStr:  ofHelaman,
+
+foundStr:  fatherNephi
+
+foundStr:  aWhywill
+
+foundStr:  judge.About
+
+foundStr:  whenNephi
+
+foundStr:  bLet
+
+foundStr:  man,Moses,
+
+foundStr:  aAbraham
+
+foundStr:  ofAbraham
+
+foundStr:  aZenock,
+
+foundStr:  bEzias,
+
+foundStr:  cIsaiah,
+
+foundStr:  dJeremiah,
+
+foundStr:  eJerusalem)
+
+foundStr:  aJerusalem
+
+foundStr:  cMulek?
+
+foundStr:  seat—They
+
+foundStr:  released—By
+
+foundStr:  inspirationNephi
+
+foundStr:  mur-derer—Nephi
+
+foundStr:  saying:Where
+
+foundStr:  againstNephi,
+
+foundStr:  thatNephi
+
+foundStr:  asNephi
+
+foundStr:  sealingpower—He
+
+foundStr:  heaven—He
+
+foundStr:  leavingNephi
+
+foundStr:  famine—Many
+
+foundStr:  peopleperish—They
+
+foundStr:  rain—Nephi
+
+foundStr:  andLehi
+
+foundStr:  revelations—TheGadianton
+
+foundStr:  untoNephi:
+
+foundStr:  strife.But
+
+foundStr:  andLehi,
+
+foundStr:  ofGadianton.
+
+foundStr:  evil—The
+
+foundStr:  chastensHis
+
+foundStr:  damnation.About
+
+foundStr:  theearth—Move—it
+
+foundStr:  deep—bBe
+
+foundStr:  thismountain—Be
+
+foundStr:  say—Let
+
+foundStr:  say—Bethou
+
+foundStr:  man—Because
+
+foundStr:  say—Because
+
+foundStr:  theLamanite,
+
+foundStr:  repent—They
+
+foundStr:  cursed—They
+
+foundStr:  aSamuel,
+
+foundStr:  bLamanite,
+
+foundStr:  soul.And
+
+foundStr:  aWalk
+
+foundStr:  you?Yea,
+
+foundStr:  birth—Christ
+
+foundStr:  death—The
+
+foundStr:  aFather
+
+foundStr:  becauseHe
+
+foundStr:  them—Converted
+
+foundStr:  faith—The
+
+foundStr:  prophetbZenos,
+
+foundStr:  theNephites:
+
+foundStr:  angels—Theunbelievers
+
+foundStr:  inJerusalem.
+
+foundStr:  city.And
+
+foundStr:  untoNephi
+
+foundStr:  bTake
+
+foundStr:  nePhi,
+
+foundStr:  heLAmAn
+
+foundStr:  records—Though
+
+foundStr:  slayNephi,
+
+foundStr:  righteous—The
+
+foundStr:  arrives—The
+
+foundStr:  arises—Lyings
+
+foundStr:  thatLehi
+
+foundStr:  bLachoneus
+
+foundStr:  bySamuel
+
+foundStr:  whenNephi,
+
+foundStr:  ofMoses.
+
+foundStr:  theGadianton
+
+foundStr:  andLamanites
+
+foundStr:  robbers—Converted
+
+foundStr:  aImagining
+
+foundStr:  leftJerusalem.
+
+foundStr:  thoseLamanites
+
+foundStr:  lands—Lachoneus
+
+foundStr:  aLachoneus,
+
+foundStr:  word—Go
+
+foundStr:  aGiddianhi;
+
+foundStr:  wrongs.I
+
+foundStr:  whenLachoneus
+
+foundStr:  ofLachoneus
+
+foundStr:  aGidgiddoni.
+
+foundStr:  aPray
+
+foundStr:  them:The
+
+foundStr:  calledNephites,
+
+foundStr:  robbers—Giddianhi
+
+foundStr:  hanged—TheNephites
+
+foundStr:  ofGiddianhi,
+
+foundStr:  whichGiddianhi
+
+foundStr:  aGidgiddoni
+
+foundStr:  ofGidgiddoni.
+
+foundStr:  aAlmighty,
+
+foundStr:  theirsins—Mormon
+
+foundStr:  them—Israel
+
+foundStr:  byNephi.
+
+foundStr:  aMormon,
+
+foundStr:  bJacob,
+
+foundStr:  prosper—Pride,
+
+foundStr:  arise—The
+
+foundStr:  dissensions—Satan
+
+foundStr:  rebellion—Many
+
+foundStr:  areslain—Their
+
+foundStr:  aGidgiddoni,
+
+foundStr:  bLachoneus,
+
+foundStr:  this—aSatan
+
+foundStr:  ofLachoneus,
+
+foundStr:  tribes—Jacob,
+
+foundStr:  combination—Nephi
+
+foundStr:  dead—Many
+
+foundStr:  aNephi—having
+
+foundStr:  book.And
+
+foundStr:  destroyed—Darkness
+
+foundStr:  days—Those
+
+foundStr:  prophetSamuel,
+
+foundStr:  aMoronihah.
+
+foundStr:  wickedness—He
+
+foundStr:  aMoronihah
+
+foundStr:  ofGimgimno,
+
+foundStr:  cityJacobugath,
+
+foundStr:  bAlpha
+
+foundStr:  manyhours—The
+
+foundStr:  herchickens—The
+
+foundStr:  yea,O
+
+foundStr:  alsoZenock
+
+foundStr:  aLamanites,
+
+foundStr:  aShowing
+
+foundStr:  proclaimsHis
+
+foundStr:  side—They
+
+foundStr:  baptism—The
+
+foundStr:  thedevil—Christ’s
+
+foundStr:  bBountiful;
+
+foundStr:  aBeloved
+
+foundStr:  whenJesus
+
+foundStr:  them—Behold,
+
+foundStr:  baptize.And
+
+foundStr:  cHolyGhost
+
+foundStr:  disciples—He
+
+foundStr:  perfect—CompareMatthew
+
+foundStr:  untoNephi,
+
+foundStr:  dBlessed
+
+foundStr:  spirit.Behold,
+
+foundStr:  brother,Raca,
+
+foundStr:  say,Thou
+
+foundStr:  aAgree
+
+foundStr:  bYea,
+
+foundStr:  aGive
+
+foundStr:  aOld
+
+foundStr:  inheaven—The
+
+foundStr:  things—CompareMatthew
+
+foundStr: 
+aVerily,
+
+foundStr:  thyFather,
+
+foundStr:  other.Ye
+
+foundStr:  aSufficient
+
+foundStr:  prophets—He
+
+foundStr:  aAsk,
+
+foundStr:  yourFather
+
+foundStr:  day:Lord,
+
+foundStr:  inJerusalem—Because
+
+foundStr:  theLord’s
+
+foundStr:  cJoseph.
+
+foundStr:  aOther
+
+foundStr:  aGentiles;
+
+foundStr:  againZion.
+
+foundStr:  atJerusalem,
+
+foundStr:  you:At
+
+foundStr:  understanding—He
+
+foundStr:  sick—He
+
+foundStr:  bewritten—Angels
+
+foundStr:  andJesus
+
+foundStr:  ground,Jesus
+
+foundStr:  name—Those
+
+foundStr:  damned—The
+
+foundStr:  aSatan
+
+foundStr:  theFather,
+
+foundStr:  world.Behold
+
+foundStr:  ofangels—Jesus
+
+foundStr:  written—He
+
+foundStr:  theirGod.
+
+foundStr:  thou,Father,
+
+foundStr:  aSo
+
+foundStr:  untoMoses,
+
+foundStr:  prophets—Others
+
+foundStr:  bIsaiah
+
+foundStr:  cNew
+
+foundStr:  eI
+
+foundStr:  aA
+
+foundStr:  you.And
+
+foundStr:  aIn
+
+foundStr:  people,O
+
+foundStr:  joy—aSing
+
+foundStr:  strength,O
+
+foundStr:  aDepart
+
+foundStr:  inAmerica—They
+
+foundStr:  destroyed—Israel
+
+foundStr:  bNew
+
+foundStr:  tenderness—They
+
+foundStr:  triumph—Compare
+
+foundStr:  thyRedeemer,
+
+foundStr:  thyRedeemer.
+
+foundStr:  condemn.This
+
+foundStr:  things.Yea,
+
+foundStr:  ofbIsaiah.
+
+foundStr:  saved.Search
+
+foundStr:  aNephi:
+
+foundStr:  judgment—Israel
+
+foundStr:  offerings—A
+
+foundStr:  kept—Compare
+
+foundStr:  bReturn
+
+foundStr:  ofHosts.
+
+foundStr:  stubble—Elijah
+
+foundStr:  aSon
+
+foundStr:  aHoreb
+
+foundStr:  aElijahthe
+
+foundStr:  end—Babes
+
+foundStr:  bewritten—Those
+
+foundStr:  them.About
+
+foundStr:  bMormon,
+
+foundStr:  name—His
+
+foundStr:  gospel—Men
+
+foundStr:  is.About
+
+foundStr:  aRepent,
+
+foundStr:  aWrite
+
+foundStr:  die—The
+
+foundStr:  again—They
+
+foundStr:  men.About
+
+foundStr:  theFather?
+
+foundStr:  bJohn,
+
+foundStr:  fulfillHis
+
+foundStr:  covenants—Those
+
+foundStr: 
+fourTh
+
+foundStr:  nePhi—One
+
+foundStr:  diSCiPLeS
+
+foundStr:  land—After
+
+foundStr:  arise—After
+
+foundStr:  wicked—Ammaron
+
+foundStr:  aNephi,he
+
+foundStr:  aAmos
+
+foundStr:  iniquity.And
+
+foundStr:  aNephites,
+
+foundStr:  calledLamanites,
+
+foundStr:  aAmmaron,
+
+foundStr:  records—War
+
+foundStr:  away—Wickedness,
+
+foundStr:  bBook
+
+foundStr:  aAmmaron
+
+foundStr:  bShim;
+
+foundStr:  theJosephites
+
+foundStr:  thousand.And
+
+foundStr:  bSamuel
+
+foundStr:  armies—Blood
+
+foundStr:  land—TheNephites
+
+foundStr:  damned—Their
+
+foundStr:  passed—Mormon
+
+foundStr:  continue.About
+
+foundStr:  aAaron;
+
+foundStr:  untoJesus
+
+foundStr:  theNephites—They
+
+foundStr:  strength—Mormonrefuses
+
+foundStr:  away.And
+
+foundStr:  people—Repent
+
+foundStr:  aVengeance
+
+foundStr:  you,Gentiles,
+
+foundStr:  continue—The
+
+foundStr:  wicked—Greater
+
+foundStr:  allIsrael—Women
+
+foundStr:  idols—The
+
+foundStr:  aDesolation.
+
+foundStr:  cityTeancum
+
+foundStr:  cityDesolation.
+
+foundStr:  aShim,
+
+foundStr:  carnage—The
+
+foundStr:  them—They
+
+foundStr:  butI,
+
+foundStr:  cI
+
+foundStr:  bJews;
+
+foundStr:  livingGod;
+
+foundStr:  battles—Mormon
+
+foundStr:  destroyed—Hundreds
+
+foundStr:  bCumorah,
+
+foundStr:  theLord!
+
+foundStr:  acceptHis
+
+foundStr:  say,Do
+
+foundStr:  not.But
+
+foundStr:  repent—He
+
+foundStr:  faithful—Miracles
+
+foundStr:  unbelief—Signs
+
+foundStr:  whobelieve—Men
+
+foundStr:  theChrist,
+
+foundStr:  dLamb,
+
+foundStr:  bWho
+
+foundStr:  aDoubt
+
+foundStr:  eTher
+
+foundStr:  accountI
+
+foundStr:  aEther,
+
+foundStr:  ofShez.
+
+foundStr:  aKib
+
+foundStr:  bOrihah,
+
+foundStr:  aJared
+
+foundStr:  land—It
+
+foundStr:  off—The
+
+foundStr:  hours—The
+
+foundStr:  barges—The
+
+foundStr:  bNimrod,
+
+foundStr:  aMoriancumer;
+
+foundStr:  veil—Interpreters
+
+foundStr:  mountbShelem,
+
+foundStr:  bBecause
+
+foundStr:  disciples—Men
+
+foundStr:  eFather
+
+foundStr:  me—thatI
+
+foundStr:  land—The
+
+foundStr:  goodness—Orihah
+
+foundStr:  them—Jaredand
+
+foundStr:  bOrihah
+
+foundStr:  righteousness—Amidusurpation
+
+foundStr:  up—Prophets
+
+foundStr:  aMoron
+
+foundStr:  neverthelessKib
+
+foundStr:  andShule
+
+foundStr:  untoShule,
+
+foundStr:  kingdom—Akish
+
+foundStr:  king—Secret
+
+foundStr:  begatOmer,
+
+foundStr:  stead.And
+
+foundStr:  andCoriantumr;
+
+foundStr:  father.And
+
+foundStr:  thingAkish
+
+foundStr:  aAkish.
+
+foundStr:  bCain,
+
+foundStr:  ofJared
+
+foundStr:  andJared
+
+foundStr:  repentance—Afamine
+
+foundStr:  cShim,
+
+foundStr:  calledAblom,
+
+foundStr:  andAkish
+
+foundStr:  wasNimrah)
+
+foundStr:  thatEmer
+
+foundStr:  aHeth
+
+foundStr:  cZarahemla.
+
+foundStr:  another—Some
+
+foundStr:  wicked—When
+
+foundStr: 
+aHeth
+
+foundStr:  thatRiplakish
+
+foundStr:  begatCorom,
+
+foundStr:  copper.And
+
+foundStr:  begatHearthom.
+
+foundStr:  thatHearthom
+
+foundStr:  kingdom.And
+
+foundStr:  overAmgid,
+
+foundStr:  life—Prophets
+
+foundStr:  ofCom
+
+foundStr:  thatCoriantor
+
+foundStr:  faith—Faith
+
+foundStr:  humble—Thebrother
+
+foundStr:  faith—Faith,
+
+foundStr:  salvation—Moroni
+
+foundStr:  aEther
+
+foundStr:  things;I
+
+foundStr:  ofJared,
+
+foundStr:  aFools
+
+foundStr:  aRemove—and
+
+foundStr:  aNew
+
+foundStr:  aEgypt,
+
+foundStr:  cAbraham.
+
+foundStr:  ofEther;
+
+foundStr:  bCoriantumr
+
+foundStr:  werebCoriantumr.
+
+foundStr:  withShared,
+
+foundStr:  beatCoriantumr,
+
+foundStr:  land—Coriantumr
+
+foundStr:  untoCoriantumr,
+
+foundStr:  ofCoriantumr,
+
+foundStr:  aMoron,
+
+foundStr:  untoLib,
+
+foundStr:  afterCoriantumr,
+
+foundStr:  land—Who
+
+foundStr:  ofShiz?
+
+foundStr:  ofShiz,
+
+foundStr:  ofShurr
+
+foundStr:  hillComnor,
+
+foundStr:  andCoriantumr,
+
+foundStr:  battle—Shiz
+
+foundStr:  combat—TheSpirit
+
+foundStr:  withthem—The
+
+foundStr:  utterlydestroyed—Only
+
+foundStr:  whenShiz
+
+foundStr:  ofShiz
+
+foundStr:  calledOgath.
+
+foundStr:  fatherMormon
+
+foundStr:  ofCoriantumr;
+
+foundStr:  untoShiz,
+
+foundStr:  whenCoriantumr
+
+foundStr:  eSpirit
+
+foundStr:  thewine—Behold,
+
+foundStr:  dSpirit
+
+foundStr:  andfellowshipped—Church
+
+foundStr:  forgiven—Meetings
+
+foundStr:  realintent—The
+
+foundStr:  evil—Satanpersuades
+
+foundStr:  doevil—The
+
+foundStr:  minister—Menshould
+
+foundStr:  thatChrist
+
+foundStr:  cWhatsoever
+
+foundStr:  faileth.Wherefore,
+
+foundStr:  abomination—Little
+
+foundStr:  aListen
+
+foundStr:  fAdam
+
+foundStr:  cComforter
+
+foundStr:  them.But
+
+foundStr:  degenerate—They
+
+foundStr:  other—Mormon
+
+foundStr:  andSatan
+
+foundStr:  aAaron
+
+foundStr:  scene.Behold,
+
+foundStr:  aJaredites,
+
+foundStr:  faithful—Spiritual
+
+foundStr:  faith—Moroni’s
+
+foundStr:  dust—Come
+
+foundStr:  aLamanites;
+
+foundStr:  cSpirit
+
+foundStr:  everlastingGod;
+
+foundStr:  bZion;
+
+foundStr:  gJehovah,
+
+foundStr:  hJudge
+
+foundStr:  gUide
+
+foundStr:  deNauvoo
+
+foundStr:  leLivre
+
+foundStr:  store.lds.orgPrix
+
+foundStr:  d’Étienne
+
+foundStr:  l’Afrique
+
+foundStr:  qu’Harriet
+
+foundStr: 
+l’Évangile
+
+foundStr:  d’Asiedu
+
+foundStr:  d’Okinawa,
+
+foundStr:  d’État
+
+foundStr:  l’Action
+
+foundStr:  d’Abraham.
+
+foundStr:  d’Ésaïe
+
+foundStr:  d’Esprit
+
+foundStr:  esprit.Les
+
+foundStr:  l’Église…
+
+foundStr: 
+www.byui.edu/Presentations/
+
+foundStr:  désirable…Le
+
+foundStr:  d’Éden,
+
+foundStr:  enseignements.L’apprentissage
+
+foundStr:  l’Écriture,
+
+foundStr:  d’Oscar
+
+foundStr:  modernes,Wilford
+
+foundStr:  d’Hénoc
+
+foundStr:  l’Évangile…
+
+foundStr:  escalierDes
+
+foundStr:  ans(Venezuela)
+
+foundStr:  buaka—Te
+
+foundStr:  w’Abasɛm
+
+foundStr:  m’Aheman
+
+foundStr:  diStrict)
+
+foundStr:  ces-manuals@LDSchurch.org
+
+foundStr:  prometida?(Ver1
+
+foundStr:  achegar-Se
+
+foundStr:  lembra-Se
+
+foundStr:  scriptures.LDS.org;
+
+foundStr: 
+doSenhor”.
+
+foundStr:  recordá-Lo
+
+foundStr:  a.C.
+
+foundStr:  ojuízodeDeusrecairiasobreeles(versículo
+
+foundStr:  revelaçõesdeDeus.Fomosaconselhadosaatenderao
+
+foundStr:  lugarparamorar.Àsvezeséprecisoesforçar-nosbastanteparafazeroquefomosinspiradosa
+
+foundStr:  todos.Comoessaverdadeinfluenciaoquevocê
+
+foundStr:  sentequantoaoSalvador?Comoessaverdadeinfluenciasua
+
+foundStr:  lembrar-Se
+
+foundStr:  represen-tá-Lo,
+
+foundStr:  aatençãodosalunosparaIsaías
+
+foundStr:  dicionarios/Bluteau/formBuscaDicionarioPlChave.asp),
+
+foundStr:  épocadeIsaías(verversículo
+
+foundStr:  ensinadosnaépocadeIsaías(verversículo
+
+foundStr:  humilhar-Se
+
+foundStr:  deleita-Se
+
+foundStr:  www.LDSces.org).
+
+foundStr:  sinta-Se
+
+foundStr: 
+amá-Lo.
+
+foundStr:  porvoltadoano160a.C.
+
+foundStr:  colô-Zaraenla
+
+foundStr:  aDeus(verMosias
+
+foundStr:  sacerdotesdeDeus?
+
+foundStr:  scriptures.LDS.org).
+
+foundStr:  segui-Lo,
+
+foundStr:  tri-Conclua
+
+foundStr:  www.LDSces.org,
+
+foundStr:  louvaram-No,
+
+foundStr:  desesperados:‘Salvem-na!
+
+foundStr: 
+chorando:‘Graças
+
+foundStr:  gritos:‘Salvem-na!
+
+foundStr:  precisa-“Ao
+
+foundStr: 
+deJesusCristo=
+
+foundStr: 
+dosÚltimosDias=
+
+foundStr:  lembrou-Se
+
+foundStr:  deJaredeviu(versículo
+
+foundStr:  servi-Lo.
+
+foundStr:  des-¿Qué
+
+foundStr:  ewPisekin
+
+foundStr:  củaTôi
+
+foundStr:  ông.Ông
+
+foundStr:  sao?—Nếu
+
+foundStr:  ởKirtland.
+
+foundStr:  tưởng.Ông
+
+foundStr:  ngủi—Ngài
+
+foundStr:  ởY
+
+foundStr:  rưỡi.Ông
+
+foundStr:  củaÊ
+
+foundStr:  choPhi
+
+foundStr:  trênNúi
+
+foundStr:  nênÊ
+
+foundStr:  đồ”(Ê
+
+foundStr:  lên.Ông
+
+foundStr:  mình.Ví
+
+foundStr:  vềSự
+
+foundStr:  giới,—Giáo
+
+foundStr:  đường.Ông
+
+foundStr:  sáchXuất
+
+foundStr:  mình:Ân
+
+foundStr:  hộiSi
+
+foundStr:  tôi.’”“Đây
+
+foundStr:  củaSi
+
+foundStr:  trongChức
+
+foundStr:  ta.Ý
+
+foundStr:  tôi.Ông
+
+foundStr:  từThượng
+
+foundStr:  têm”(Ê
+
+foundStr: 
+đúng—“Điều
+
+foundStr:  phúc.”2Việc
+
+foundStr:  củaMột
+
+foundStr:  mình.Tiên
+
+foundStr:  tộcY
+
+foundStr:  củaY
+
+foundStr:  vấn.Ông
+
+foundStr:  là—FamilySearch
+
+foundStr:  nhằmGiúp
+
+foundStr:  l’AncienTestament
+
+foundStr:  l’Égliseparler
+
+foundStr:  deJésus-Christ
+
+foundStr:  nom-Liahona
+
+foundStr:  l’Évangile4.
+
+foundStr:  qu’Adam
+
+foundStr:  d’Abraham…
+
+foundStr:  d’Ur
+
+foundStr:  d’Isaac,
+
+foundStr:  d’Alzheimer.
+
+foundStr:  d’Orson
+
+foundStr:  l’Afrique,
+
+foundStr:  d’Afrique
+
+foundStr:  pre-Rhodésie
+
+foundStr: 
+d’Afrique
+
+foundStr:  l’Église2.
+
+foundStr:  d’Harare
+
+foundStr:  d’Hubert
+
+foundStr:  d’Oshika.
+
+foundStr:  ren-Corianton
+
+foundStr:  d’Internet,
+
+foundStr:  l’Évan
+
+foundStr:  l’Église.’
+
+foundStr:  d’Hannah,
+
+foundStr:  l’Evangile
+
+foundStr:  tentations.Ne
+
+foundStr:  toujoursvrais.Faites-vous
+
+foundStr:  d’Hawaï
+
+foundStr:  d’État.
+
+foundStr:  d’Aleksander.
+
+foundStr:  d’Andrea.
+
+foundStr:  isigka-Kaigsoonan.
+
+foundStr:  pagka-Ene.
+
+foundStr:  danSertifikat
+
+foundStr:  šalyje.Filipinai
+
+foundStr:  pranašai.Mozė
+
+foundStr:  meluojaŠėtonas.
+
+foundStr:  yraDangiškojo
+
+foundStr:  pasaulio.Aš
+
+foundStr:  portretas.Hovardas
+
+foundStr:  irIšpirkėjas
+
+foundStr:  mūsųIšpirkėjas
+
+foundStr:  irIšgelbėjimas
+
+foundStr:  vadovaujaSavo
+
+foundStr:  pasi-Smitas
+
+foundStr:  elgtis.Jei
+
+foundStr:  apčiuo-Tokia
+
+foundStr:  trauki-Nors
+
+foundStr:  saPlano
+
+foundStr:  saEbanghelyo
+
+foundStr:  saTibuok
+
+foundStr:  mgaPamilya
+
+foundStr:  mgaPanimalay
+
+foundStr:  ugPagtabangNiadtong
+
+foundStr:  ma-OK
+
+foundStr:  kanunay.Mahonry
+
+foundStr: 
+ni-Papa,
+
+foundStr:  pagka-Abril
+
+foundStr:  pagka-Mayo
+
+foundStr:  pagka-Sabado,
+
+foundStr:  saTindahan
+
+foundStr:  iPad,
+
+foundStr:  ngaPagpahinungod
+
+foundStr:  pagka-Hunyo
+
+foundStr:  admits.“I
+
+foundStr: 
+iMatai—Levu
+
+foundStr: 
+iKarua—Nodra
+
+foundStr:  iTeki.
+
+foundStr: 
+iKatolu—Nodra
+
+foundStr: 
+iKava—Sasaga
+
+foundStr:  niVeivakabulabulataki
+
+foundStr:  vaka-Papua
+
+foundStr:  iTalatala
+
+foundStr:  vaka-Amerika.
+
+foundStr:  ba-Yalo)
+
+foundStr:  iTeki
+
+foundStr:  vaka-Amerika
+
+foundStr:  iTabagone,
+
+foundStr:  heSpy
+
+foundStr:  faaKorea
+
+foundStr:  faaPeretania,
+
+foundStr:  faaPeretania
+
+foundStr:  panagungar—Adtoy,
+
+foundStr:  itiMateo
+
+foundStr:  n’Apamfo
+
+foundStr:  n’Asɔr
+
+foundStr:  pa—Nyame
+
+foundStr:  burgiN
+
+foundStr:  gewünschteTätigkeit
+
+foundStr:  großenBekanntenkreis
+
+foundStr:  amTag
+
+foundStr:  proTag.
+
+foundStr: 
+regeLn
+
+foundStr:  jedeVerpflichtung
+
+foundStr:  ein.DasA
+
+foundStr:  vor.Verwenden
+
+foundStr:  inVerbindung.Auch
+
+foundStr: 
+seinerTätigkeit,wie
+
+foundStr:  висловПисань
+
+foundStr:  зПотім
+
+foundStr:  євангеліюЧому,
+
+foundStr:  спе-“Розумійте
+
+foundStr:  величніБога)
+
+foundStr:  допома-Батька
+
+foundStr:  єванге-Чому
+
+foundStr:  розуміСпаситель
+
+foundStr:  будеУривки
+
+foundStr:  вчителя—Духа
+
+foundStr:  од-“Музика
+
+foundStr:  величніMusic
+
+foundStr:  розумі-Навчати,
+
+foundStr:  подо-Бог
+
+foundStr:  свідЯкова
+
+foundStr:  сто-Церкви—учитель”
+
+foundStr:  порів-Даллін
+
+foundStr:  мо-Лука
+
+foundStr:  спо-Відео:
+
+foundStr:  nyAntontan’isa
+
+foundStr:  supus.În
+
+foundStr:  l’Esprit-Saint,
+
+foundStr: 
+sÉMinaires
+
+foundStr:  reLiGion
+
+foundStr:  d’Adam,
+
+foundStr:  slova„Žijícího
+
+foundStr:  aldri»:En
+
+foundStr:  klassikere:Far
+
+foundStr:  familier:Hvordan
+
+foundStr:  hjem:Vår
+
+foundStr:  liv.”Etter
+
+foundStr:  dem.”Frelseren
+
+foundStr:  dere.”Jeg
+
+foundStr:  profeten.Forbered
+
+foundStr:  presidentHenry
+
+foundStr:  iArgentina
+
+foundStr:  andCanada,
+
+foundStr:  toLiahona,
+
+foundStr:  life—God
+
+foundStr:  reNo
+
+foundStr:  р.Кларкийн
+
+foundStr:  р.Холланд
+
+foundStr:  р.Холландын
+
+foundStr:  ургууд”Ensign
+
+foundStr:  мэдээ-Өсвөр
+
+foundStr:  хийхийгАврагч
+
+foundStr:  go/Apr14Conf18
+
+foundStr:  steInberg,
+
+foundStr:  margorIe
+
+foundStr:  power.This
+
+foundStr:  conditions.The
+
+foundStr:  throwing.The
+
+foundStr:  race.An
+
+foundStr:  awesome.The
+
+foundStr:  goal.The
+
+foundStr:  games.Another
+
+foundStr:  women.They
+
+foundStr:  d’Elspeth
+
+foundStr:  d’Écritures,
+
+foundStr:  d’Italie,
+
+foundStr:  d’Argentine,
+
+foundStr:  d’Anabel
+
+foundStr:  qu’Eliana
+
+foundStr:  qu’Anabel
+
+foundStr:  d’Eliana
+
+foundStr:  l’Évangile7.
+
+foundStr:  d’Azogues.
+
+foundStr:  d’Ammonihah
+
+foundStr:  d’Écriture,
+
+foundStr:  l’Argentine.
+
+foundStr:  d’Idaho,
+
+foundStr:  del’Éternel
+
+foundStr:  d’Abinadi
+
+foundStr:  d’Écriture
+
+foundStr:  notreÉglise
+
+foundStr:  d’Alexandre.
+
+foundStr:  d’Alexandre
+
+foundStr: 
+auxNÉPHITES
+
+foundStr:  d’Abondance
+
+foundStr:  d’Ajeltake,
+
+foundStr:  d’Amapá
+
+foundStr:  d’Hawaii,
+
+foundStr:  d’Idaho
+
+foundStr:  etd’Utah
+
+foundStr: 
+d’Idaho,
+
+foundStr: 
+d’Hawaii
+
+foundStr:  qu’Amulek
+
+foundStr:  l’Acheteur
+
+foundStr: 
+ê&#1;4JOH&#1;å)FBE&#1;4IPVMEFST&#1;,OFFT&#1;BOE&#1;5PFTæ&#1;
+
+foundStr: 
+ê&#1;4JOH&#1;å*&#1;)PQF&#1;5IFZ&#1;
+
+foundStr:  denganIman
+
+foundStr:  dariKesejahteraan
+
+foundStr:  kepadaBangsa
+
+foundStr:  dariKehidupan
+
+foundStr:  bumi—Juruselamat
+
+foundStr:  pekerjaan-Nya
+
+foundStr:  anak-anak-Nya
+
+foundStr:  hidup-Nya
+
+foundStr:  kehidupan-Nya
+
+foundStr:  firman-Nya
+
+foundStr:  murid-Nya
+
+foundStr:  murid-murid-Nya
+
+foundStr:  tubuh-Ku.”
+
+foundStr:  darah-Ku,
+
+foundStr:  imamat-Nya
+
+foundStr:  mengingat-Ku.
+
+foundStr:  mengingat-Ku
+
+foundStr:  rasul-Nya,
+
+foundStr:  kudus-Ku;
+
+foundStr:  perintah-perintah-Nya
+
+foundStr:  murid-Nya,
+
+foundStr:  ajaran-ajaran-Nya
+
+foundStr:  kita.Saya
+
+foundStr:  perintahperintah-Nya
+
+foundStr:  hari-Nya
+
+foundStr:  kasih-Nya
+
+foundStr:  roh-Nya
+
+foundStr:  jawaban-Nya
+
+foundStr:  perintah-perintah-Nya,
+
+foundStr:  suara-Nya
+
+foundStr:  kehendak-Nya
+
+foundStr:  roh-Nya.
+
+foundStr:  teladan-Nya,
+
+foundStr:  musuh-musuh-Nya
+
+foundStr:  menyiksa-Nya
+
+foundStr:  sahabat-sahabat-Nya
+
+foundStr:  kasihan-Nya
+
+foundStr:  perintah-perintah-Nya.
+
+foundStr:  kepada-Nya,
+
+foundStr:  mengikuti-Mu
+
+foundStr:  mengasihi-Mu.”
+
+foundStr:  janji-janji-Nya
+
+foundStr:  kepada-Ku,
+
+foundStr:  mengutus-Ku
+
+foundStr:  kepada-Ku
+
+foundStr:  kepada-Ku.”10
+
+foundStr:  rohani.”Dan
+
+foundStr:  umat-Nya
+
+foundStr:  sanubari-Nya
+
+foundStr:  bantuan-Nya?”
+
+foundStr:  fana-Nya
+
+foundStr:  memahami-Nya
+
+foundStr:  pribadi-Nya
+
+foundStr:  kepada-Nya.
+
+foundStr:  dikenal-Nya
+
+foundStr:  kuasa-Nya.
+
+foundStr:  penyembuhan-Nya.
+
+foundStr:  milik-Ku
+
+foundStr:  karunia[-Nya].”25
+
+foundStr:  anggur-Nya
+
+foundStr:  untukMelakukan
+
+foundStr:  pekerjaan-Nya.
+
+foundStr: 
+anak-Nya
+
+foundStr: 
+anak-anak-Nya
+
+foundStr:  cara-Nya
+
+foundStr:  besar-Nya
+
+foundStr:  nama-Nya.
+
+foundStr:  kepada-Nya:
+
+foundStr:  nama-Ku;
+
+foundStr:  nama-Ku
+
+foundStr:  kepentingan-Ku.
+
+foundStr:  gereja-Ku
+
+foundStr:  nama-Ku?
+
+foundStr:  gereja-Ku,
+
+foundStr:  rasul-Nya
+
+foundStr:  berkata,“Saya
+
+foundStr:  pernyataan-Nya
+
+foundStr:  rupa-Nya,
+
+foundStr:  perintah-Nya.
+
+foundStr:  malaikat-Ku
+
+foundStr:  malaikat-Nya
+
+foundStr:  bagi-Nya.
+
+foundStr:  putra-Ku,
+
+foundStr:  ini—Tuhan
+
+foundStr:  nama-Ku,
+
+foundStr:  kata-kata-Nya
+
+foundStr:  kepada-Nya!
+
+foundStr:  perjanjian-Nya.
+
+foundStr:  kebaikan-Nya
+
+foundStr:  umat-Nya.13
+
+foundStr:  kehendak-Nya.15
+
+foundStr:  hamba-Mu
+
+foundStr:  kepada-Mu.
+
+foundStr:  kepada-Mulah
+
+foundStr:  kepada-Mu,
+
+foundStr:  nama-Mu
+
+foundStr:  anak-anak-Nya.
+
+foundStr:  diciptakan-Nya
+
+foundStr:  bersama-Nya.2
+
+foundStr:  anakanak-Nya,
+
+foundStr:  kekal-Nya.
+
+foundStr:  waktu-Nya
+
+foundStr:  diri-Ku
+
+foundStr:  kehendak-Nya,
+
+foundStr:  ajaran-Ku
+
+foundStr:  perintah-Ku”
+
+foundStr:  mencari-Ku
+
+foundStr:  menemukan-Ku,
+
+foundStr:  menemukan-Ku;
+
+foundStr:  pendamaian-Nya
+
+foundStr:  hadirat-Nya
+
+foundStr:  sukacita-Nya.
+
+foundStr:  muridmurid-Ku,
+
+foundStr:  melihat-Nya
+
+foundStr:  bagiKedatangan
+
+foundStr:  tangan-Nya
+
+foundStr:  kedatangan-Nya
+
+foundStr:  pilihan-Ku
+
+foundStr:  pilihan-Ku.”14
+
+foundStr:  misionaris-Nya.
+
+foundStr:  menemui-Nya.”26
+
+foundStr:  kaki-Nya
+
+foundStr:  suara-Nya,
+
+foundStr:  pengikut-Nya
+
+foundStr:  pelayanan-Nya.
+
+foundStr:  utusan-Nya,
+
+foundStr:  kerajaan-Nya
+
+foundStr:  kemuliaan-Nya
+
+foundStr:  kegenapan-Nya.”13
+
+foundStr:  wajah-Mu.”18
+
+foundStr:  dukungan-Nya
+
+foundStr:  imamat-Nya.
+
+foundStr:  mengenal-Nya.
+
+foundStr:  rasul-Nya.
+
+foundStr:  anakanak-Nya.
+
+foundStr:  kedamaian-Nya
+
+foundStr:  bisikan-Nya
+
+foundStr:  mencari-Nya
+
+foundStr:  menghormati-Nya
+
+foundStr:  jalan-Nya.
+
+foundStr:  daripadaOrang-Orang
+
+foundStr:  yangMenang,
+
+foundStr:  yangTelah
+
+foundStr:  itu.”Memang
+
+foundStr:  yangMenguduskan
+
+foundStr:  muridmurid-Nya.
+
+foundStr:  bantuan-Nya
+
+foundStr:  murid-murid-Ku,
+
+foundStr:  perintahperintah-Nya,
+
+foundStr:  terang-Nya.
+
+foundStr:  pekerjaanNya.”Kesederhanaan
+
+foundStr:  mematuhi-Nya.7
+
+foundStr:  putri-Nya
+
+foundStr:  nabi-Nya
+
+foundStr:  danKuhajar”
+
+foundStr:  hadirat-Nya”
+
+foundStr:  perjanjianperjanjian-Nya,
+
+foundStr:  anak-anak-Nya,
+
+foundStr:  bersama-Nya
+
+foundStr:  dikasihi-Nya”
+
+foundStr:  umat-Ku
+
+foundStr:  kerajaan-Ku”
+
+foundStr:  menyangkal-Ku,
+
+foundStr:  umat-Nya;
+
+foundStr:  karunia-Nya
+
+foundStr:  koreksi-Nya
+
+foundStr:  pengharapan-Nya
+
+foundStr:  terbesar-Nya.
+
+foundStr:  janji-Nya
+
+foundStr:  diminta-Nya
+
+foundStr:  umat-Nya.
+
+foundStr:  janji-janji-Nya,
+
+foundStr:  rupa-Nya
+
+foundStr:  sifat-sifat-Nya
+
+foundStr:  sifat-Nya.
+
+foundStr:  gereja-Ku;
+
+foundStr:  pada-Ku”
+
+foundStr:  kehidupan-Nya.
+
+foundStr:  ban-tuan-Nya,3
+
+foundStr:  itu.”Dengan
+
+foundStr:  pedoman-Nya
+
+foundStr:  sesuatu.”Dan
+
+foundStr:  jalan-Nya
+
+foundStr:  suci-Nya
+
+foundStr:  kematian-Nya,
+
+foundStr:  kepedihan-Nya
+
+foundStr:  umat-Nya.”11
+
+foundStr:  umat-Nya.”
+
+foundStr:  diri-Ku,
+
+foundStr:  hadapan-Ku,
+
+foundStr:  saudara-saudara-Ku
+
+foundStr:  kepadaBangsa-Bangsa
+
+foundStr:  pesan-pesan-Nya.
+
+foundStr:  didengar.”Aku
+
+foundStr:  nabi-Nya.15
+
+foundStr: 
+memuji-Nya.
+
+foundStr:  menahan-Nya.
+
+foundStr:  jalan-Nya.”4
+
+foundStr:  nyawa-Nya
+
+foundStr:  jalan-Nya”
+
+foundStr:  kudus-Nya.
+
+foundStr:  hamba-Nya
+
+foundStr:  kerajaan-Nya.
+
+foundStr:  kebahagiaan-Nya.
+
+foundStr:  kebenaran.”Dia
+
+foundStr:  sifatsifat-Nya.
+
+foundStr:  kejujuran-Nya,
+
+foundStr:  fana-Nya.
+
+foundStr:  kudus-Nya.”8
+
+foundStr:  perintah-Nya
+
+foundStr:  putri-Nya,
+
+foundStr:  pemimpinMerayakanKesejahteraan,MengumumkanBait
+
+foundStr:  motivasi-Nya,
+
+foundStr:  dengan-Nya
+
+foundStr:  ke-B
+
+foundStr:  cara-Ku
+
+foundStr:  umat-Nya,”
+
+foundStr:  yangPara
+
+foundStr:  dilakukan-Nya
+
+foundStr:  denganLebih
+
+foundStr:  auxÉcritures
+
+foundStr:  d’Alfred
+
+foundStr: 
+l’Esprit,
+
+foundStr:  d’Ogden,
+
+foundStr:  l’Église)
+
+foundStr:  l’Égliseet
+
+foundStr:  d’Achacachi
+
+foundStr:  d’Alma,
+
+foundStr:  d’Eliza
+
+foundStr:  d’Autorités
+
+foundStr:  d’Anne
+
+foundStr:  qu’Anne
+
+foundStr:  l’Institut.
+
+foundStr:  d’Internet
+
+foundStr:  qu’IL
+
+foundStr:  momentTout
+
+foundStr:  lentementWatoy
+
+foundStr:  appels,Temple
+
+foundStr:  l’Amériquedu
+
+foundStr:  pentruBiserica
+
+foundStr:  zonei-Cei
+
+foundStr:  asiakaspalveluun:Puhelinnumero:
+
+foundStr:  rcstockholm@ldschurch.orgVerkkotilaukset:
+
+foundStr:  store.lds.orgVuositilaushinta:
+
+foundStr:  osoitteellaLiahona,
+
+foundStr: 
+hengelle.Uuden
+
+foundStr:  vankilassaCarthagen
+
+foundStr:  youth.lds.org—FamilySearch
+
+foundStr:  inMy
+
+foundStr:  ewigenSegnungen
+
+foundStr:  temPle
+
+foundStr:  sëNdihmës
+
+foundStr:  said,“They
+
+foundStr:  iBongA
+
+foundStr: 
+nAKoAniBongA
+
+foundStr:  tiBwauaia
+
+foundStr:  kataBeam
+
+foundStr:  kamateBwaia
+
+foundStr:  koroBoki
+
+foundStr:  taBu
+
+foundStr:  nAmwAkAinA
+
+foundStr:  kAro
+
+foundStr:  kAiriri
+
+foundStr:  nakoaniBonga
+
+foundStr:  taBeman
+
+foundStr:  nAmwAkAinA:
+
+foundStr: 
+iBUKin
+
+foundStr:  i-Korinto
+
+foundStr: 
+kAriAiA
+
+foundStr:  mAi
+
+foundStr:  irouiA
+
+foundStr:  kAAro
+
+foundStr:  mATAniwi
+
+foundStr: 
+kATAuTAuAn
+
+foundStr:  nA
+
+foundStr:  iAi
+
+foundStr:  riBooti
+
+foundStr:  nanOn
+
+foundStr:  tiAinA
+
+foundStr:  tiAAinA
+
+foundStr:  tiA
+
+foundStr:  nakOaniBOnga
+
+foundStr: 
+kaOia
+
+foundStr:  nikaBane
+
+foundStr:  nakOn
+
+foundStr:  kRisTO
+
+foundStr:  kaRaOa
+
+foundStr:  kaRikiRake
+
+foundStr: 
+katoto—Reirei
+
+foundStr:  mAtAniwi
+
+foundStr: 
+kAtAutAuAn
+
+foundStr:  enA
+
+foundStr:  kO
+
+foundStr:  kaMaTeBwaia
+
+foundStr:  kOROBOki
+
+foundStr:  kORORaOi
+
+foundStr:  aM
+
+foundStr:  kAriAiA
+
+foundStr:  bAne
+
+foundStr:  bwAAi
+
+foundStr:  nAMAKinA
+
+foundStr: 
+bARAAKinA
+
+foundStr:  bwAi
+
+foundStr:  inAnonA
+
+foundStr: 
+buoKiiA
+
+foundStr: 
+bebwA
+
+foundStr:  bwAAti
+
+foundStr:  iAon
+
+foundStr:  nAKon
+
+foundStr:  buRoKuRAeM
+
+foundStr: 
+otenAnti
+
+foundStr:  nAKoAnibongA
+
+foundStr:  atonga,“Man
+
+foundStr: 
+bwAAi
+
+foundStr:  tARAAKi
+
+foundStr:  iPod
+
+foundStr:  brother—I
+
+foundStr:  deadline—Friday,
+
+foundStr:  rằng—Đây
+
+foundStr:  becomeIf
+
+foundStr: 
+www.New.FamilySearch.
+
+foundStr:  leFt:
+
+foundStr:  istoCkphoto;
+
+foundStr:  aDversity
+
+foundStr:  wrong—I
+
+foundStr:  coercion—“I
+
+foundStr:  tEStamEnt
+
+foundStr: 
+uuS
+
+foundStr:  granT,
+
+foundStr:  alberT
+
+foundStr:  riCHards,
+
+foundStr:  tHomas
+
+foundStr:  atAwtoridad
+
+foundStr:  ngPriesthood
+
+foundStr:  ofReligion
+
+foundStr:  andVietnamese.
+
+foundStr:  reserved.Printed
+
+foundStr:  go/Apr14Conf1
+
+foundStr:  go/Apr14Conf2
+
+foundStr:  woman—Adam
+
+foundStr:  anti-Christ
+
+foundStr:  go/Apr14Conf3
+
+foundStr:  go/Apr14Conf4
+
+foundStr:  go/Apr14Conf5
+
+foundStr:  go/Apr14Conf6
+
+foundStr:  go/Apr14Conf7
+
+foundStr:  go/Apr14Conf8
+
+foundStr:  go/Apr14Conf9
+
+foundStr:  conclude—“That’s
+
+foundStr:  action—“I
+
+foundStr:  go/Apr14Conf10
+
+foundStr:  go/Apr14Conf11
+
+foundStr:  go/Apr14Conf12
+
+foundStr:  go/Apr14Conf13
+
+foundStr:  go/Apr14Conf14
+
+foundStr:  competitor—I
+
+foundStr: 
+article/865597546/Mormons-in-theOlympics-3-medals-for-LDS-athletes-atthe-Winter-Games.html.
+
+foundStr:  today.com/sochi/snowboarder-kelly-clarkhug-competitor-helped-me-win-bronze2D12108132.
+
+foundStr:  go/Apr14Conf15
+
+foundStr:  go/Apr14Conf16
+
+foundStr:  go/Apr14Conf17
+
+foundStr:  throughOur
+
+foundStr:  go/Apr14Conf20
+
+foundStr:  go/Apr14Conf21
+
+foundStr:  iTunes,
+
+foundStr:  iOS
+
+foundStr: 
+opeTTaJa
+
+foundStr: 
+ruKoile
+
+foundStr:  tutKi
+
+foundStr: 
+selonteKo
+
+foundStr:  allekirjOitus
+
+foundStr:  jOhtajan
+
+foundStr:  toimituKsia
+
+foundStr:  luoKse
+
+foundStr: 
+nuoRTen
+
+foundStr:  projeKti
+
+foundStr: 
+arviOitu
+
+foundStr:  suOrittamisPäivä
+
+foundStr:  luoKSe
+
+foundStr:  raporToi
+
+foundStr:  pYhiä
+
+foundStr:  projeKTi
+
+foundStr:  hyVäksyntä
+
+foundStr: 
+arVioitu
+
+foundStr:  suorittamispäiVä
+
+foundStr:  kokEmuksistasi
+
+foundStr:  oPi
+
+foundStr: 
+kEskitY
+
+foundStr:  siihEn,
+
+foundStr:  hEistä
+
+foundStr:  tuLossa
+
+foundStr:  nuoRia
+
+foundStr:  miEhiä
+
+foundStr: 
+sEuRaa
+
+foundStr:  hEidän
+
+foundStr:  jumaLaa
+
+foundStr: 
+käYtä
+
+foundStr:  kooRumin
+
+foundStr:  ihmissuhtEidEn
+
+foundStr: 
+aaRonin
+
+foundStr:  toimituksEt
+
+foundStr: 
+muistiinPanoja
+
+foundStr:  eLotó
+
+foundStr:  heNgāue
+
+foundStr:  eʻAlo
+
+foundStr:  faka-ʻAlapēniá,ʻAmēnia,
+
+foundStr:  heʻInitanetí
+
+foundStr:  faka-Kilisimasi.
+
+foundStr:  faka-Kilisimasi,
+
+foundStr:  eNgaahi
+
+foundStr:  faka-Siu
+
+foundStr:  heʻIunaiteti
+
+foundStr:  faka-Siú
+
+foundStr:  faka-Pilitāniá.
+
+foundStr:  faka-Kilisimasi
+
+foundStr:  koeʻOku
+
+foundStr:  heʻEikí
+
+foundStr:  faka-Pilitāniá
+
+foundStr:  faka-Kilisimasí,
+
+foundStr:  faka-Kilisimasí
+
+foundStr: 
+faka-Kilisimasi
+
+foundStr:  faka-Kilisimasi”
+
+foundStr:  faka-Kilisimasí.
+
+foundStr: 
+faka-Kalisitiané
+
+foundStr:  leva,ʻ“Oku
+
+foundStr:  faka-Putá
+
+foundStr:  faka-Siainá,
+
+foundStr:  faka-Sipeini.
+
+foundStr:  faka-Sipeiní
+
+foundStr:  faka-Havasikí
+
+foundStr:  faka-Malakasí
+
+foundStr:  faka-Tuai
+
+foundStr:  faka-ʻAmēniá
+
+foundStr:  fakaSiainá
+
+foundStr:  aKasuratan
+
+foundStr:  tiVisiting
+
+foundStr:  társaságára.Viselkedésünk
+
+foundStr:  res-Virtude
+
+foundStr:  afir-Ao
+
+foundStr:  aju-Profeta
+
+foundStr:  pavi-Convide
+
+foundStr:  impresConvide-as
+
+foundStr:  alunos”(Ensino,
+
+foundStr:  teste-Depois
+
+foundStr:  dá-Los
+
+foundStr:  lhesIncentive
+
+foundStr:  porta-D&C
+
+foundStr:  juntos”(Sheri
+
+foundStr:  apa.org/?&fa=main.doiLanding&d
+
+foundStr:  ofAbraham’s
+
+foundStr:  traits.How
+
+foundStr:  go/122F].
+
+foundStr:  org/go/122G].
+
+foundStr:  lds.org/go/122H.
+
+foundStr:  aKhir
+
+foundStr: 
+diterBitKan
+
+foundStr:  citY,
+
+foundStr:  aS,
+
+foundStr: 
+iSi
+
+foundStr:  daLaM
+
+foundStr:  tuLiSan
+
+foundStr:  a&P
+
+foundStr:  jS—M
+
+foundStr:  jS—S
+
+foundStr:  josephYl.
+
+foundStr:  tjS
+
+foundStr:  terjemahanMi.
+
+foundStr: 
+iBr
+
+foundStr:  oLeH
+
+foundStr:  ataS
+
+foundStr:  israel—Ditulis
+
+foundStr:  wahyu—Ditulis
+
+foundStr:  penafsirannya—Dimeteraikan
+
+foundStr:  israel—Penafsirannya
+
+foundStr:  langit—Yang
+
+foundStr:  selamanya—Dan
+
+foundStr:  bangsa—Dan
+
+foundStr:  naBi
+
+foundStr: 
+naMa
+
+foundStr:  daN
+
+foundStr:  bangsanya—Lehi
+
+foundStr:  nubuat—Dia
+
+foundStr:  aNefi,
+
+foundStr:  bZedekia,
+
+foundStr:  takhta-Nya,
+
+foundStr:  akilau-Nya
+
+foundStr:  mengikuti-Nya,
+
+foundStr:  dariNefi.
+
+foundStr: 
+a&P
+
+foundStr:  mereka—Lehi
+
+foundStr:  perintah-perintah—Laman
+
+foundStr:  mereka—Nefi
+
+foundStr: 
+rah—Mereka
+
+foundStr:  perintah-perintah-Ku,
+
+foundStr:  terhadap-Ku,
+
+foundStr:  terhadap-Ku
+
+foundStr:  itu—Nefi
+
+foundStr:  kakak-kakaknya—Laban
+
+foundStr:  mereka—Laman
+
+foundStr:  mus-lihat—Zoram
+
+foundStr:  tujuan-Nya
+
+foundStr:  aSejauh
+
+foundStr:  bperintah-perintah-Ku,
+
+foundStr:  mereka—Mereka
+
+foundStr:  kurban—Lempengan-lempengan
+
+foundStr:  nabi—Lempengan-lempengan
+
+foundStr:  aSaria,
+
+foundStr:  aZedekia;
+
+foundStr:  penghancuran-nya—Dia
+
+foundStr:  iman—Kakak-kakaknya
+
+foundStr:  pengampunan—Lehi
+
+foundStr:  kepada-Nya?
+
+foundStr:  kehidupan—Dia
+
+foundStr:  orang-orang—Saria,
+
+foundStr:  tJS,
+
+foundStr:  catatan—Masing-masing
+
+foundStr:  menu-rut-Nya,
+
+foundStr:  firman-Nya.
+
+foundStr:  zaitun—Nefi
+
+foundStr:  cBabilon,
+
+foundStr:  aPersiapkanlah
+
+foundStr:  ka-sut-Nya
+
+foundStr:  aBetabara,
+
+foundStr:  diri-Nya,
+
+foundStr:  israel—Pencerai-beraian
+
+foundStr:  mencari-Nya,
+
+foundStr:  menyaksi-kan-Nya
+
+foundStr: 
+da-Nya
+
+foundStr:  melihat-Nya;
+
+foundStr:  aNazaret;
+
+foundStr:  bPutra
+
+foundStr:  cBapa
+
+foundStr:  anak-anak-Nya;
+
+foundStr:  menyembah-Nya.
+
+foundStr:  hadapan-Nya.
+
+foundStr:  mendengar-Nya;
+
+foundStr:  mengusir-Nya
+
+foundStr:  mengikuti-Nya.
+
+foundStr:  darah-Nya.
+
+foundStr:  iblis—Gereja
+
+foundStr:  israel—Pence
+
+foundStr:  kuasa-Ku
+
+foundStr:  ainjil-Ku,
+
+foundStr:  karang-Ku
+
+foundStr:  keselamatan-Ku.
+
+foundStr:  bSion-Ku
+
+foundStr:  injil-Ku,
+
+foundStr:  aCatatan-catatan
+
+foundStr:  dJuruselamat
+
+foundStr:  cGembala
+
+foundStr:  iblis—Para
+
+foundStr:  dperjanjianperjanjian-Nya,
+
+foundStr:  akhir—Pengumpulan
+
+foundStr:  kembali—Nefi
+
+foundStr:  oleh-Nya;
+
+foundStr:  ajar-an-Nya,
+
+foundStr:  kuasa-Nya
+
+foundStr:  keras—Para
+
+foundStr:  belantara—Pesan
+
+foundStr:  waktu—Ismael
+
+foundStr:  cZoram
+
+foundStr:  kapal—Kakak-kakaknya
+
+foundStr:  menentangnya—Dia
+
+foundStr:  perintah-perintah-Ku;
+
+foundStr:  perintah-perintah-Ku
+
+foundStr:  oleh-Ku
+
+foundStr:  perintah-Nya,
+
+foundStr:  kaki-Nya.
+
+foundStr:  tong-kat-Nya;
+
+foundStr:  firman-Nya;
+
+foundStr:  aJika
+
+foundStr:  selesai—Kelahiran
+
+foundStr:  disebutkan—Rombongan
+
+foundStr:  terjanjikan—Para
+
+foundStr:  pemberontakan—Nefi
+
+foundStr:  berhenti—Orang-orang
+
+foundStr:  kuasa-Nya,
+
+foundStr:  memuji-Nya
+
+foundStr:  bangsanya—Allah
+
+foundStr:  penyaliban-Nya—Orang-orang
+
+foundStr:  melecehkan-Nya,
+
+foundStr:  nasihat-Nya.
+
+foundStr:  menghakimi-Nya
+
+foundStr:  mencambuk-Nya,
+
+foundStr:  menghantam-Nya,
+
+foundStr:  ameludahi-Nya,
+
+foundStr:  hati-Nya
+
+foundStr:  kepanjangsabaran-Nya
+
+foundStr:  oleh-Nya,
+
+foundStr:  fZenok,
+
+foundStr:  iZenos,
+
+foundStr:  kematian-Nya
+
+foundStr:  mulut-Ku,
+
+foundStr:  berkata—aBerhalaku
+
+foundStr:  anama-Ku
+
+foundStr:  amarah-Ku,
+
+foundStr:  pujian-Ku
+
+foundStr:  kepentingan-Ku
+
+foundStr:  kemulia-an-Ku
+
+foundStr:  oleh-Ku,
+
+foundStr:  tangan-Ku
+
+foundStr:  kanan-Ku
+
+foundStr:  kesenangan-Nya
+
+foundStr:  bBabilon,
+
+foundStr:  roh-Nya,
+
+foundStr:  perintah-perintahKu—maka
+
+foundStr:  aBenih
+
+foundStr:  hadapan-Ku.
+
+foundStr:  aPergilah
+
+foundStr:  bhamba-Nya,
+
+foundStr:  tahanan—Israel
+
+foundStr:  terakhir—Para
+
+foundStr:  mere-ka—Bandingkan
+
+foundStr:  panah-Nya
+
+foundStr:  ahamba-Ku,
+
+foundStr:  hamba-Nya,
+
+foundStr:  kepada-Nya—walaupun
+
+foundStr:  hamba-Ku
+
+foundStr:  keselamatan-Ku
+
+foundStr:  gunung-Ku
+
+foundStr:  raya-Ku
+
+foundStr:  aBernyanyilah,
+
+foundStr:  umat-Nya,
+
+foundStr:  tangan-Ku;
+
+foundStr:  btunggul-Ku
+
+foundStr:  cmenunggu-Ku.
+
+foundStr:  bumi—Orang-orang
+
+foundStr:  terakhir—Israel
+
+foundStr:  jerami—Kerajaan
+
+foundStr:  terhadap-Nya
+
+foundStr:  israel—Sepuluh
+
+foundStr:  lengan-Nya
+
+foundStr:  perjanjian-Nya
+
+foundStr:  injil-Nya
+
+foundStr:  kemurkaan-Nya
+
+foundStr:  domba-domba-Nya,
+
+foundStr:  mengenal-Nya;
+
+foundStr:  aSetan
+
+foundStr:  kemerdekaan—Benih
+
+foundStr: 
+aN
+
+foundStr:  melayani-Nya
+
+foundStr:  dari-Nya
+
+foundStr:  kemuliaan-Nya,
+
+foundStr:  kasih-Nya.
+
+foundStr:  akemurkaan-Nya
+
+foundStr:  bjalan-Nya
+
+foundStr:  bperintah-perintah-Ku
+
+foundStr:  hadirat-Ku.
+
+foundStr:  kemajuan—Adam
+
+foundStr:  ada—Manusia
+
+foundStr:  kemuliaan-Nya;
+
+foundStr:  hadirat-Nya,
+
+foundStr:  oleh-Nya
+
+foundStr:  kekal-Nya;
+
+foundStr:  kekal-Nya
+
+foundStr:  aPerantara
+
+foundStr:  perintah-perin-tah-Nya
+
+foundStr:  firman-Nya,
+
+foundStr:  mata-Ku;
+
+foundStr:  pekerjaan-Ku.
+
+foundStr:  umat-Ku,
+
+foundStr:  firman-Ku
+
+foundStr:  firman-Ku,
+
+foundStr:  perjanjian-perjanjian-Ku,
+
+foundStr:  pekerjaan-Ku
+
+foundStr:  tangan-Nya,
+
+foundStr:  hukum-Ku,
+
+foundStr:  kebijaksana-an-Ku
+
+foundStr:  mulut-Ku
+
+foundStr:  perjanjian-Ku
+
+foundStr:  cucunya—Dia
+
+foundStr:  dikuburkan—Nefi
+
+foundStr:  akasih-Nya,
+
+foundStr:  hadapan-Nya;
+
+foundStr:  roh-Nyalah
+
+foundStr:  abdikasi-Nya
+
+foundStr:  aNefi;
+
+foundStr:  hadirat-Nya.
+
+foundStr:  terhadap-Nya,
+
+foundStr:  mengingat-Ku,
+
+foundStr:  pandangan-Ku,
+
+foundStr:  tunggul-Ku
+
+foundStr:  amenunggu-Ku.
+
+foundStr:  mencambuk-Nya
+
+foundStr:  bmenyalibkan-Nya,
+
+foundStr:  cperjanjian-perjanjian-Nya
+
+foundStr:  bmenunggu-Nya;
+
+foundStr:  kepada-Nya;
+
+foundStr:  aKarena
+
+foundStr:  aPenebusmu,
+
+foundStr:  terpelajar—Dia
+
+foundStr:  penghantam—Dia
+
+foundStr:  di-permalukan—Bandingkan
+
+foundStr:  utang-Ku
+
+foundStr:  hardikan-Ku
+
+foundStr:  tangan-Ku—kamu
+
+foundStr:  besar—Bandingkan
+
+foundStr:  bSara,
+
+foundStr:  aSion,
+
+foundStr:  umat-Ku;
+
+foundStr:  bangsa-Ku;
+
+foundStr:  dari-Ku,
+
+foundStr:  penghakiman-Ku
+
+foundStr:  lengan-Ku
+
+foundStr:  menunggu-Ku,
+
+foundStr:  kebenaran-Ku
+
+foundStr:  iBr
+
+foundStr:  ombak-Nya
+
+foundStr:  nama-Ku.
+
+foundStr:  tangan-Ku,
+
+foundStr:  aumat-Ku.
+
+foundStr:  bkegeramanNya—engkau
+
+foundStr:  kegeraman-Ku;
+
+foundStr:  cSion;
+
+foundStr:  dijanjikan—Pendamaian
+
+foundStr:  firdaus—Mereka
+
+foundStr:  dihakimi—Pendamaian
+
+foundStr:  akhir—Yang
+
+foundStr:  dinyatakan—Yang
+
+foundStr:  aPencipta
+
+foundStr:  karunia-Nya!
+
+foundStr:  kekal-Nya,
+
+foundStr:  mulut-Nya,
+
+foundStr:  hukum-Nya
+
+foundStr:  suara-Nya;
+
+foundStr:  hadapan-Nya
+
+foundStr:  nama-Nya,
+
+foundStr:  anama-Nya,
+
+foundStr:  dari-Nya.
+
+foundStr:  keadilan-Nya
+
+foundStr:  tanggungJawab.
+
+foundStr:  muka-Nya,
+
+foundStr:  amata-Nya
+
+foundStr:  hadapan-Nya,
+
+foundStr:  kudus-Nya
+
+foundStr:  keagungan-Nya,
+
+foundStr:  kasihan-Nya,
+
+foundStr:  kepada-Nya—Amerika
+
+foundStr:  memerintah—Perdamaikanlah
+
+foundStr:  karunia-Nya.
+
+foundStr:  namaNya—akan
+
+foundStr:  cmenyalibkan-Nya—karena
+
+foundStr:  bBilamana
+
+foundStr:  mata-Ku,
+
+foundStr:  israel—Pencerai
+
+foundStr:  melawan-Ku
+
+foundStr:  firman-Ku.
+
+foundStr:  aperjanjian-perjanjian-Ku
+
+foundStr:  untuk-Ku
+
+foundStr:  emenentang-Ku,
+
+foundStr:  janji-janji-Ku
+
+foundStr:  menyembah-Ku,
+
+foundStr:  mengingat-Nya,
+
+foundStr:  kesenangan-Nya.
+
+foundStr:  bPenebusku,
+
+foundStr:  melihat-Nya.
+
+foundStr:  amelihat-Nya
+
+foundStr:  karunia-Nya,
+
+foundStr:  milenium—Yang
+
+foundStr:  jalan-Nya,
+
+foundStr:  jalan-Nya;
+
+foundStr:  olehNefi
+
+foundStr:  keagungan-Nya
+
+foundStr:  umat-Nya—Para
+
+foundStr:  mereka—Bandingkan
+
+foundStr:  kemuliaan-Nya.
+
+foundStr:  aSodom,
+
+foundStr:  aSetelan
+
+foundStr:  milenium—Bandingkan
+
+foundStr:  tercerai-berai—Celaka
+
+foundStr:  tercerai-berai—Tuhan
+
+foundStr:  anggur-Nya.
+
+foundStr:  anggur-Ku.
+
+foundStr:  anggur-Ku
+
+foundStr:  anggur-Ku—aku
+
+foundStr:  tanaman-Nya
+
+foundStr:  telinga-Ku,
+
+foundStr:  tangan-Nya.
+
+foundStr:  pekerjaan-Nya,
+
+foundStr: 
+melihat-Nya.
+
+foundStr:  amarah-Nya
+
+foundStr:  diampuni—Dia
+
+foundStr:  bernubuat—Dia
+
+foundStr:  kembali—Bandingkan
+
+foundStr:  aSyear
+
+foundStr:  melukai—Carilah
+
+foundStr:  berciap-ciap—Berpalinglah
+
+foundStr:  bimbingan—Bandingkan
+
+foundStr:  amaherSyalal-hash-Bas.
+
+foundStr:  maher-Syalalhash-Bas.
+
+foundStr:  murid-Ku.
+
+foundStr:  muka-Nya
+
+foundStr:  menantikan-Nya.
+
+foundStr:  besar—Bagi
+
+foundStr:  lahir—Dia
+
+foundStr:  bahu-Nya;
+
+foundStr:  dBapa
+
+foundStr:  ePangeran
+
+foundStr:  bamarah-Nya
+
+foundStr:  ctangan-Nya
+
+foundStr:  kembali—Sisa
+
+foundStr:  itu—Bandingkan
+
+foundStr:  kemurkaan-Ku
+
+foundStr:  aSisanya
+
+foundStr:  amarah-Ku
+
+foundStr:  tongkat-Nya
+
+foundStr:  kebenaran—Pengetahuan
+
+foundStr:  mata-Nya,
+
+foundStr:  telinga-Nya.
+
+foundStr:  bibir-Nya
+
+foundStr:  aurat-Nya,
+
+foundStr:  pinggang-Nya.
+
+foundStr:  kudus-Ku,
+
+foundStr:  dahsyat-Nya,
+
+foundStr:  aPujilah
+
+foundStr:  perbuatan-Nya
+
+foundStr:  selamanya—Bandingkan
+
+foundStr: 
+aBeban
+
+foundStr:  aorang-orang-Ku
+
+foundStr:  perkasa-Ku,
+
+foundStr:  ketinggian-Ku.
+
+foundStr:  keberangan-Nya,
+
+foundStr:  dahsyat-Nya.
+
+foundStr:  milenium—Lusifer
+
+foundStr:  pemberontakan—Israel
+
+foundStr:  aBabilon,
+
+foundStr:  aBetapa
+
+foundStr:  jahat(Babilon)
+
+foundStr:  tanah-Ku,
+
+foundStr:  bgunung-gunung-Ku
+
+foundStr:  kegamblangan—Nubuat-nubuat
+
+foundStr:  menolak-Nya,
+
+foundStr: 
+amenyalibkan-Nya;
+
+foundStr:  sayap-sayap-Nya;
+
+foundStr:  mengenai-Nya,
+
+foundStr:  hari-Nya,
+
+foundStr:  gereja-Nya.
+
+foundStr:  cBabilon
+
+foundStr:  afirman-Nya
+
+foundStr:  mengenai-Nya
+
+foundStr:  menyangkal-Nya;
+
+foundStr:  menyangkal-Nya
+
+foundStr:  menyembah-Nya
+
+foundStr:  bangsanya—Mereka
+
+foundStr:  debu—Orangorang
+
+foundStr:  rahasia—Tuhan
+
+foundStr:  bkelahiran-Nya,
+
+foundStr:  kebangkitan-Nya;
+
+foundStr:  bersama-Nya,
+
+foundStr: 
+diri-Nya
+
+foundStr:  keselamatan-Nya.
+
+foundStr:  dari-Ku?
+
+foundStr:  kepa-da-Ku
+
+foundStr:  akeselamatan-Nya?
+
+foundStr:  kebaikan-Nya?
+
+foundStr:  aSion
+
+foundStr:  kebaikan-Nya;
+
+foundStr:  terakhir—Kitab
+
+foundStr:  itu—Orang
+
+foundStr:  termeterai—Tuhan
+
+foundStr:  keajaiban—Bandingkan
+
+foundStr:  bagi-Nya
+
+foundStr:  aBacalah
+
+foundStr:  aJanganlah
+
+foundStr:  waktu-Ku
+
+foundStr:  bagi-Ku,
+
+foundStr:  kebijaksanaan-Ku
+
+foundStr:  bmenghormati-Ku,
+
+foundStr:  na-ma-Ku,
+
+foundStr:  terakhir—Mereka
+
+foundStr:  bodoh—Kemurtadan
+
+foundStr:  palsu—Iblis
+
+foundStr:  manu-sia—Dia
+
+foundStr:  yesusKristus—hakim.
+
+foundStr:  ajaran-Ku,
+
+foundStr:  nasihat-Ku,
+
+foundStr:  aCelakalah
+
+foundStr:  sekalilengan-Ku
+
+foundStr:  menyangkal-Ku;
+
+foundStr:  kepada-Ku;
+
+foundStr:  blengan-Ku
+
+foundStr:  lagi—Tuhan
+
+foundStr:  bangsa—Dia
+
+foundStr:  bperjanjian-perjanjian-Ku
+
+foundStr:  kepa-da-Ku,
+
+foundStr:  umat-Ku.
+
+foundStr:  firman-Ku?
+
+foundStr:  kesenangan-Ku
+
+foundStr:  afirman-Ku;
+
+foundStr:  perjanjian—Banyak
+
+foundStr:  menyenangkan—Israel
+
+foundStr:  israel—Sepu
+
+foundStr:  mulut-Nya;
+
+foundStr:  dibaptis—Manusia
+
+foundStr:  diselamatkan—Pertobatan
+
+foundStr:  sempit—Kehidupan
+
+foundStr:  perintahperintah-Nya.
+
+foundStr:  atas-Nya
+
+foundStr:  terkasih-Ku.
+
+foundStr:  mengenal-Ku.
+
+foundStr:  terkasih-Ku
+
+foundStr:  amenyangkal-Ku,
+
+foundStr:  eBapa,
+
+foundStr:  benar—Itu
+
+foundStr:  penghakiman-Nya.
+
+foundStr:  penghakiman-Nya;
+
+foundStr:  akerajaan-Nya
+
+foundStr: 
+adiK
+
+foundStr:  laKi-laKi
+
+foundStr:  perintah-perintah-Nya—Nefi
+
+foundStr:  mati—Kejahatan
+
+foundStr: 
+areNa
+
+foundStr:  aKristus
+
+foundStr:  kerajaan-Nya,
+
+foundStr:  bperistirahatan-Nya,
+
+foundStr:  bmenggusarkan-Nya
+
+foundStr:  csalib-Nya
+
+foundStr: 
+cian—Orang-orang
+
+foundStr:  mereka—Yakub
+
+foundStr:  jamak—Tuhan
+
+foundStr:  penghakiman-Nya
+
+foundStr:  mata-Nya
+
+foundStr:  perintah-perin-tah-Nya,
+
+foundStr:  aperintah-perintah-Nya
+
+foundStr:  memuliakan-Nya
+
+foundStr:  aSalomo
+
+foundStr:  pandangan-Nya
+
+foundStr:  lengan-Ku,
+
+foundStr:  bagi-Ku
+
+foundStr:  hadapan-Ku;
+
+foundStr: 
+umat-Ku
+
+foundStr:  menyenangkan—Kesalehan
+
+foundStr:  kasih-Nya;
+
+foundStr:  kedatangan-Nya;
+
+foundStr:  dPutra
+
+foundStr:  tunggal-Nya.
+
+foundStr:  djalan-Nya
+
+foundStr:  kesenangan-Nya?
+
+foundStr:  tunggal-Nya,
+
+foundStr:  tentang-Nya,
+
+foundStr:  kegamblangan-Nya
+
+foundStr:  liar—Itu
+
+foundStr:  sebelumnya—Pengibaratan
+
+foundStr:  terakhir—Dunia
+
+foundStr:  api—Manusia
+
+foundStr:  ckuasa-Nya,
+
+foundStr:  anggur-Nya;
+
+foundStr:  btangan-Nya
+
+foundStr:  mengenai-Nya;
+
+foundStr:  pendamaianNya—Orang-orang
+
+foundStr:  aroh-Nya
+
+foundStr: 
+nyangkal-Nya;
+
+foundStr:  dosa-dosanya—Suara
+
+foundStr:  perintahperintah-Ku.
+
+foundStr:  dariNya—bahwa
+
+foundStr:  dari-Ku
+
+foundStr: 
+eKaraNG,
+
+foundStr:  itu—Banyak
+
+foundStr:  lengan-Nya,
+
+foundStr:  aKoriantumur,
+
+foundStr:  penghakiman-Nya,
+
+foundStr:  aBenyamin
+
+foundStr:  keselamatan-Nya,
+
+foundStr:  penebusan-Nya.
+
+foundStr:  lain—Raja
+
+foundStr:  dBenyamin
+
+foundStr:  kehendak-Nya.
+
+foundStr:  aKristus-Kristus
+
+foundStr:  mereka—Agama
+
+foundStr:  lempengan—Mosia
+
+foundStr:  cmisteri-misteri-Nya,
+
+foundStr:  rakyatnya—Dia
+
+foundStr:  pemerintahannya—Dia
+
+foundStr:  bperintah-perintah-Nya;
+
+foundStr:  ceramahnya—Tuhan
+
+foundStr:  fana—Darah
+
+foundStr:  dunia—Milik-Nya
+
+foundStr:  ekepedihan-Nya
+
+foundStr:  dibu-Nya
+
+foundStr:  milik-Nya,
+
+foundStr:  nama-Nya;
+
+foundStr:  menganggap-Nya
+
+foundStr:  dmencambuk-Nya,
+
+foundStr:  emenyalibkan-Nya.
+
+foundStr:  adarah-Nya
+
+foundStr:  diperlihatkan-Nya
+
+foundStr:  cKristus,
+
+foundStr:  ceramahnya—Keselamatan
+
+foundStr:  kesetiaan—Berikanlah
+
+foundStr:  miskin—Lakukanlah
+
+foundStr:  kebijaksanaan-Nya,
+
+foundStr:  kesabaran-Nya,
+
+foundStr:  kasih-Nya,
+
+foundStr:  iman—Mereka
+
+foundStr:  putra-Nya,
+
+foundStr:  putri-Nya;
+
+foundStr:  eputra-Nya
+
+foundStr:  putri-Nya.
+
+foundStr:  mi-lik-Nya,
+
+foundStr:  mereka—Mosia
+
+foundStr:  keputusan-Nya
+
+foundStr:  peraturan-Nya,
+
+foundStr:  raja—Rakyat
+
+foundStr:  mereka—Seorang
+
+foundStr:  sesuatu—Mereka
+
+foundStr:  lehi-Nefi,
+
+foundStr:  lehi-Nefi;
+
+foundStr:  bZarahemla;
+
+foundStr:  aSilom,
+
+foundStr:  aNefi.
+
+foundStr:  aZarahemla,
+
+foundStr:  itu—Ada
+
+foundStr:  daya-Nya;
+
+foundStr:  mati—Rakyatnya
+
+foundStr:  palsu—Zenif
+
+foundStr:  ini—Percaya
+
+foundStr:  kejahatan—Dia
+
+foundStr:  selirnya—Abinadi
+
+foundStr:  perbudakan—Nyawanya
+
+foundStr:  amarah-Ku.
+
+foundStr:  firman-Ku;
+
+foundStr:  dahsyat-Ku
+
+foundStr:  aSinai,
+
+foundStr:  ilahi—Dia
+
+foundStr:  saja—Allah
+
+foundStr:  membenci-Ku;
+
+foundStr:  mengasihi-Ku
+
+foundStr:  perintah-perintah-Ku.
+
+foundStr:  terhadap-Nya.
+
+foundStr:  umat-Nya?
+
+foundStr:  dinyatakan—Dia
+
+foundStr:  pelanggar—Bandingkan
+
+foundStr:  umat-Nya—
+
+foundStr:  keturunan-Nya—Dia
+
+foundStr:  bBapa,
+
+foundStr:  bBapa
+
+foundStr:  cKekal
+
+foundStr:  mulut-Nya.
+
+foundStr:  adiri-Nya
+
+foundStr:  angkatan-Nya?
+
+foundStr:  jiwa-Nya
+
+foundStr:  keturunan-Nya.
+
+foundStr:  keturunan-Nya?
+
+foundStr:  keturunan-Nya,
+
+foundStr:  melawan-Nya
+
+foundStr:  penebusan—Kristus
+
+foundStr: 
+kiman-Nya
+
+foundStr:  aBapa
+
+foundStr:  api—Dia
+
+foundStr:  diam-diam—Dia
+
+foundStr:  imam—Mereka
+
+foundStr:  orangorang—Alma
+
+foundStr:  kenaikan-Nya
+
+foundStr:  dengan-Nya,
+
+foundStr: 
+tisan—Baptisan
+
+foundStr:  aPerairan
+
+foundStr:  pujian-Nya
+
+foundStr:  itu—Raja
+
+foundStr:  api—Limhi
+
+foundStr:  diinsafkan—Mereka
+
+foundStr:  mabuk—Orangorang
+
+foundStr:  raja—Dia
+
+foundStr:  kebenaran-Nya.
+
+foundStr: 
+jalan-Nya
+
+foundStr:  dahsyat-Nya
+
+foundStr:  umatnya—Mereka
+
+foundStr:  berdoa—Tuhan
+
+foundStr:  ringan—Dia
+
+foundStr:  rakyatnya—Mosia
+
+foundStr:  bPerairan
+
+foundStr:  percaya—Alma
+
+foundStr:  kekal—Mereka
+
+foundStr:  pengampunan—Para
+
+foundStr:  ham-ba-Ku
+
+foundStr:  anama-Ku;
+
+foundStr:  milik-Ku.
+
+foundStr:  hamba-Ku;
+
+foundStr:  melayani-Ku
+
+foundStr:  domba-domba-Ku.
+
+foundStr:  suara-Ku
+
+foundStr:  adomba-Ku;
+
+foundStr:  kanan-Ku.
+
+foundStr:  na-ma-Ku
+
+foundStr:  amengenal-Ku
+
+foundStr:  bmengenal-Ku
+
+foundStr:  suara-Ku,
+
+foundStr:  terhadap-Ku.
+
+foundStr:  kesetaraan—Alma
+
+foundStr:  mekebisuan—Seluruh
+
+foundStr:  keselamatan—Alma
+
+foundStr:  jahat—Alma
+
+foundStr:  ham-ba-Nya
+
+foundStr:  ciptaan-Nya,
+
+foundStr:  dmata-Nya
+
+foundStr:  bNefi
+
+foundStr:  raja—Para
+
+foundStr:  dosa—Alma
+
+foundStr:  rakyat—Dia
+
+foundStr:  bBenyamin
+
+foundStr:  perin-tah-perintah-Nya,
+
+foundStr:  keja-hatannya—Penipuan
+
+foundStr:  orang-orang—Para
+
+foundStr:  rakyat—Para
+
+foundStr:  dikalahkan—Orang-orang
+
+foundStr:  aZarahemla.
+
+foundStr:  mereka—Orangorang
+
+foundStr:  insaf—Kedurhakaan
+
+foundStr:  terintangi—Nefiha
+
+foundStr:  kepala—Alma,
+
+foundStr:  menyeaNefiha,
+
+foundStr:  umat-Nya—Mereka
+
+foundStr:  iblis—Alma
+
+foundStr:  suara-Nya!
+
+foundStr:  mengikuti-Nya;
+
+foundStr:  kekuasaan-Nya.
+
+foundStr:  ini—Bertobatlah,
+
+foundStr:  aGembala
+
+foundStr:  kawanan-Nya,
+
+foundStr:  domba-domba-Nya;
+
+foundStr:  ditertibkan—Alma
+
+foundStr:  kekal—Kekotoran
+
+foundStr:  fana-Nya;
+
+foundStr: 
+mengatakan—aBertobatlah
+
+foundStr:  pembebasan-Nya;
+
+foundStr:  ajalan-Nya
+
+foundStr:  pergi—Seorang
+
+foundStr:  orang-orang—Dia
+
+foundStr:  aSungai
+
+foundStr:  mengatakan—aBertobatlah
+
+foundStr:  amarah-Ku;
+
+foundStr:  dahsyat-Ku.
+
+foundStr:  bertobat—Tuhan
+
+foundStr:  terakhir—Jika
+
+foundStr: 
+segera—Dia
+
+foundStr:  aSiapakah
+
+foundStr:  jangsabaran-Nya
+
+foundStr:  amarah-Nya,
+
+foundStr:  aBertobatlah
+
+foundStr: 
+dup—Para
+
+foundStr: 
+asa-Nya
+
+foundStr:  misteri-Nya
+
+foundStr:  amalaikat-Nya:
+
+foundStr:  tangan-Ku.
+
+foundStr:  tangan-Nya;
+
+foundStr:  dinyatakan—Amulek
+
+foundStr:  mereka—Hanya
+
+foundStr:  diselamatkan—Semua
+
+foundStr:  kebakaan—Tidak
+
+foundStr:  umat-Nya—seakan-akan
+
+foundStr:  fir-man-Nya,
+
+foundStr:  setia—Manusia
+
+foundStr:  mereka—Yang
+
+foundStr:  percobaan—Rencana
+
+foundStr:  dosa-dosa—Orang
+
+foundStr:  roh-Nya;
+
+foundStr:  misteri-misteri-Nya;
+
+foundStr: 
+kekuasaan-Nya,
+
+foundStr:  bpenghakiman-Nya
+
+foundStr:  bJika
+
+foundStr:  tunggal-Ku;
+
+foundStr:  tunggal-Ku,
+
+foundStr:  cperistirahatan-Ku.
+
+foundStr:  peristirahatan-Ku.
+
+foundStr:  menggusarkan-Nya
+
+foundStr:  kedua-Nya
+
+foundStr:  perintah-perintah—Melalui
+
+foundStr:  ini—Para
+
+foundStr:  aperistirahatan-Nya—
+
+foundStr:  bprapengetahuan-Nya
+
+foundStr:  ter-tib-Nya,
+
+foundStr:  tertib-Nya,
+
+foundStr:  menanti-nantikan-Nya
+
+foundStr:  kedatangan-Nya,
+
+foundStr:  cperistirahatan-Nya.
+
+foundStr:  dihantam—Orang
+
+foundStr:  api—Para
+
+foundStr:  kemuliaan—Tembok-tembok
+
+foundStr:  roboh—Alma
+
+foundStr:  berhasil—Alma
+
+foundStr:  danalmamembaptisZezrom
+
+foundStr:  meLaman—Alma
+
+foundStr:  firman—Mereka
+
+foundStr:  kebangkitan-Nya
+
+foundStr:  kedatangan-Nya—
+
+foundStr:  berkat-berkat-Nya
+
+foundStr:  wahyu—Mereka
+
+foundStr:  broh-Nya,
+
+foundStr:  malaikat—Amon
+
+foundStr:  ajaib—Dia
+
+foundStr:  ke-baikan-Nya—ya,
+
+foundStr:  ditahan—Amon
+
+foundStr:  kepadaku—Pergi
+
+foundStr:  pendamaian-Nya—Harun
+
+foundStr:  insaf—Lamoni
+
+foundStr:  insaf—Pembagian
+
+foundStr:  katakan—aJika
+
+foundStr:  bZarahemla
+
+foundStr:  aKelimpahan.
+
+foundStr:  aKemusnahan,
+
+foundStr:  dimaklumkan—Orang-orang
+
+foundStr:  insaf—Mereka
+
+foundStr:  aantiNefi-lehi;
+
+foundStr:  malaikat—Mereka
+
+foundStr:  mereka—Lebih
+
+foundStr:  banti-Nefilehi,
+
+foundStr:  anti-Nefi-lehi.
+
+foundStr:  anti-Nefi-lehi,
+
+foundStr:  malaikat-Nya,
+
+foundStr:  anti-Nefi-lehi
+
+foundStr:  bNehor.
+
+foundStr:  menyebar—Benih
+
+foundStr:  nubuatkan—Banyak
+
+foundStr:  aanti-Nefi-lehi
+
+foundStr:  aanti-Nefi-lehi.
+
+foundStr:  peraturan-Nya.
+
+foundStr:  pengetahuan—Melalui
+
+foundStr:  pertobatan—Allah
+
+foundStr:  milik-Nya;
+
+foundStr:  pujian-Nya,
+
+foundStr:  bkekuatan-Nya
+
+foundStr:  abadi-Nya,
+
+foundStr: 
+keadilan-Nya
+
+foundStr:  keamanan—Saat
+
+foundStr:  kekuatannya—Orang-orang
+
+foundStr:  banti-Nefilehi;
+
+foundStr:  hebat—Berlaksa-laksa
+
+foundStr:  malaikat—Tuhan
+
+foundStr:  bangsa—Alma
+
+foundStr:  gereja-Nya;
+
+foundStr:  gereja-Nya
+
+foundStr:  anti-Kristus,
+
+foundStr:  kebisuan—Iblis
+
+foundStr:  dikatakan—Korihor
+
+foundStr: 
+anti-Nefi-lehi.
+
+foundStr:  aanti-Kristus,
+
+foundStr:  melayani-Nya;
+
+foundStr:  anti-Kristus
+
+foundStr:  murtad—Orang-orang
+
+foundStr:  ditentukan—Para
+
+foundStr:  ber-kata—Kami
+
+foundStr:  mereka—Iman
+
+foundStr:  benar—Alma
+
+foundStr:  anak—Alma
+
+foundStr:  benih—Itu
+
+foundStr:  dipelihara—Kemudian
+
+foundStr:  bZenok
+
+foundStr:  binasa—Seluruh
+
+foundStr:  pertobatan—Berdoalah
+
+foundStr:  rohani—Kehidupan
+
+foundStr:  aBerserulah
+
+foundStr:  menerima-Nya,
+
+foundStr:  malaikat—Dia
+
+foundStr:  jiwanya—Dia
+
+foundStr: 
+aPutraku,
+
+foundStr:  itu—Jika
+
+foundStr:  keselamatan—Orangorang
+
+foundStr:  mereka—Sumpah
+
+foundStr:  orang-orang—Berundinglah
+
+foundStr:  perbuatanmu—Sebagaimana
+
+foundStr:  lintasan-Nya
+
+foundStr:  melayani-Ku,
+
+foundStr:  aBerundinglah
+
+foundStr:  dunia—Kekanglah
+
+foundStr:  perintah-perintah-Nya;
+
+foundStr:  amalaikat-Nya
+
+foundStr:  keke-jian—Dosa
+
+foundStr:  firman—Penebusan
+
+foundStr:  aPerintahkanlah
+
+foundStr:  kedatangan-Nya.
+
+foundStr:  kedatangan-Nya?
+
+foundStr:  orang—Orang
+
+foundStr:  mereka—Segala
+
+foundStr:  akenaikan-Nya
+
+foundStr:  aJiwa
+
+foundStr:  akhir—Kejahatan
+
+foundStr:  kebahagiaan—Manusia
+
+foundStr:  dunia—Setiap
+
+foundStr:  manusia—Penebusan
+
+foundStr:  dunia—Belas
+
+foundStr:  bertobat—Semua
+
+foundStr:  firman—Orang-orang
+
+foundStr:  perang—Moroni
+
+foundStr:  pertahanan—Tuhan
+
+foundStr:  mereka—Pasukan
+
+foundStr:  anti-Nefilehi,
+
+foundStr:  bSejauh
+
+foundStr:  dihancurkan—Zerahemna
+
+foundStr:  la-gi—Pasukan
+
+foundStr:  itu—Alma
+
+foundStr:  raja—Moroni
+
+foundStr:  kemerdekaan—Dia
+
+foundStr:  mereka—Orang
+
+foundStr:  atasnya—aSebagai
+
+foundStr:  selatan—Sebuah
+
+foundStr:  berkata—Bahkan
+
+foundStr:  aOnida,
+
+foundStr:  dibentengi—Amalikia
+
+foundStr:  baru—Peperangan
+
+foundStr:  mereka—Morianton
+
+foundStr:  aKemusnahan;
+
+foundStr:  raja—Pahoran
+
+foundStr:  mati—Amalikia
+
+foundStr:  dibentengi—Teankum
+
+foundStr:  tahanan—Moroni
+
+foundStr:  membunuh—Amoron
+
+foundStr:  mahakuasa-Nya,
+
+foundStr:  tahanan—Para
+
+foundStr:  dibebaskan—Kota
+
+foundStr:  terbunuh—Gid
+
+foundStr:  muslihat—Orang-orang
+
+foundStr:  diri—Para
+
+foundStr:  keputusan-Nya,
+
+foundStr:  hadirat-Nya;
+
+foundStr:  pasukan—Tuhan
+
+foundStr:  dibunuh—Orang-orang
+
+foundStr:  mereka—Moroni
+
+foundStr:  pemerintah—Orang-orang
+
+foundStr:  mati—Pahoran
+
+foundStr:  terbunuh—Orang-orang
+
+foundStr:  ditegakkan—Helaman
+
+foundStr:  sakral—Banyak
+
+foundStr:  utara—Haberlayar
+
+foundStr:  barat—Moroniha
+
+foundStr:  aSiblon
+
+foundStr:  kehakiman—Koriantumur
+
+foundStr:  aKoriantumur
+
+foundStr:  kepala—Gadianton
+
+foundStr:  aKiskumen,
+
+foundStr:  utara—Mereka
+
+foundStr:  catatan—Berlaksa-laksa
+
+foundStr:  dibaptis—Firman
+
+foundStr:  keselamatan—Nefi
+
+foundStr:  mereka—Gereja
+
+foundStr:  aNefi
+
+foundStr:  pengkhotbahan—Nama
+
+foundStr:  mereka—Kristus
+
+foundStr:  bertobat—Nefi
+
+foundStr:  mereka—Awan
+
+foundStr:  orang—Tanah
+
+foundStr:  dunia—Orang
+
+foundStr:  hamba-Ku.
+
+foundStr:  terkasih-Ku,
+
+foundStr:  jahat—Kedua
+
+foundStr:  kelimpahan—Lusifer,
+
+foundStr:  aSezoram
+
+foundStr:  aKain,
+
+foundStr:  kekuatanKu,
+
+foundStr:  aZenok,
+
+foundStr:  masa-Nya
+
+foundStr:  dibebaskan—Melalui
+
+foundStr:  pembunuh—Nefi
+
+foundStr:  pemeteraian—Dia
+
+foundStr:  surga—Dia
+
+foundStr:  binasa—Roh
+
+foundStr:  ckehendak-Ku,
+
+foundStr:  kehendak-Ku.
+
+foundStr:  malaikat-Ku,
+
+foundStr:  kelaparan—Banyak
+
+foundStr:  binasa—Mereka
+
+foundStr:  hujan—Nefi
+
+foundStr:  wahyu—Para
+
+foundStr:  jahat—Tuhan
+
+foundStr:  umatNya—Ketidakberartian
+
+foundStr:  terbatas-Nya
+
+foundStr:  bmengingat-Nya.
+
+foundStr:  nasihat-nasihat-Nya,
+
+foundStr:  bumi—Bergeraklah—itu
+
+foundStr:  raya—bKeringlah
+
+foundStr:  berfirman—Biarlah
+
+foundStr:  berfirman—Karena
+
+foundStr:  hadirat-Ku—dia
+
+foundStr:  kegenapan-Nya
+
+foundStr:  bertobat—Mereka
+
+foundStr:  roh-Ku
+
+foundStr:  dahsyat-Ku,
+
+foundStr:  bagi-Ku;
+
+foundStr:  ba-gi-Ku;
+
+foundStr:  rohani—Tanda-tanda
+
+foundStr:  bjasa-Nya.
+
+foundStr:  kematian-Nya.
+
+foundStr:  menurut-Nya
+
+foundStr:  iman—Tuhan
+
+foundStr:  peraturan-Nya
+
+foundStr:  bZenos,
+
+foundStr:  domba-domba-Nya.
+
+foundStr:  bertobat—Sebagian
+
+foundStr:  malaikat—Yang
+
+foundStr: 
+dak-Ku,
+
+foundStr:  yaNG
+
+foundStr:  helamaN
+
+foundStr:  catatan-catatan—Walaupun
+
+foundStr:  saleh—Malam
+
+foundStr:  tiba—Tanda
+
+foundStr:  muncul—Dusta
+
+foundStr:  kudus-Ku.
+
+foundStr:  milik-Ku,
+
+foundStr:  daging-Ku.
+
+foundStr:  orang-orang—Orang-orang
+
+foundStr:  mereka—Lakoneus
+
+foundStr:  pasukan—Orang-orang
+
+foundStr:  perkataan—Pergilah
+
+foundStr:  aGidgidoni.
+
+foundStr:  digantung—Orang
+
+foundStr:  aGidgidoni
+
+foundStr:  mereka—Mormon
+
+foundStr:  mereka—Israel
+
+foundStr:  makmur—Kesombongan,
+
+foundStr:  timbul—Gereja
+
+foundStr:  pertengkaran—Setan
+
+foundStr:  terbuka—Banyak
+
+foundStr:  dibunuh—Para
+
+foundStr:  ini—Setan
+
+foundStr:  penderitaan-Nya.
+
+foundStr:  suku-suku—Yakub,
+
+foundStr:  aNefi—
+
+foundStr:  dihancurkan—Kegelapan
+
+foundStr:  hari—Mereka
+
+foundStr:  mereka—Dia
+
+foundStr:  keilahian-Nya,
+
+foundStr:  muka-Ku,
+
+foundStr:  kasih-an-Ku
+
+foundStr:  kepada-Ku.
+
+foundStr:  amenerima-Ku.
+
+foundStr:  kedatangan-Ku
+
+foundStr:  menerima-Ku,
+
+foundStr:  kepadaKu
+
+foundStr:  nyawa-Ku,
+
+foundStr:  berjam-jam—Suara
+
+foundStr:  anak-anaknya—Bagian
+
+foundStr:  tubuh-Nya
+
+foundStr:  pelayanan-Nya
+
+foundStr:  pendamaian-Nya—Orang-orang
+
+foundStr:  sisi-Nya—Mereka
+
+foundStr:  baptisan—Semangat
+
+foundStr:  iblis—Ajaran
+
+foundStr:  aPutra
+
+foundStr:  nama-Ku—dengarlah
+
+foundStr:  sisi-Ku,
+
+foundStr:  kaki-Ku,
+
+foundStr:  sisi-Nya
+
+foundStr:  kaki-Nya;
+
+foundStr:  amenyembah-Nya.
+
+foundStr:  ajar-an-Ku,
+
+foundStr:  aajaran-Ku.
+
+foundStr:  aajaran-Ku,
+
+foundStr:  karang-Ku,
+
+foundStr:  karang-Ku;
+
+foundStr:  sempurna—Bandingkan
+
+foundStr:  melihat-Ku
+
+foundStr:  melihat-Ku,
+
+foundStr:  kepentingan-Ku;
+
+foundStr:  aBerilah
+
+foundStr:  matahari-Nya
+
+foundStr:  surga—Dua
+
+foundStr:  duniawi—Bandingkan
+
+foundStr:  kebenaran-Nya,
+
+foundStr:  palsu—Dia
+
+foundStr:  mulut-Nya
+
+foundStr:  ma-ta-Nya
+
+foundStr:  murid-Ku;
+
+foundStr:  suara-Ku;
+
+foundStr:  memerintahkan-Ku,
+
+foundStr:  memahami-Ku,
+
+foundStr:  memahami-Ku
+
+foundStr:  sua-ra-Ku;
+
+foundStr:  suara-Ku—bahwa
+
+foundStr:  melihat-Ku;
+
+foundStr:  domba-domba-Ku,
+
+foundStr:  asuara-Ku,
+
+foundStr:  domba-dom-ba-Ku,
+
+foundStr:  bersama-Ku
+
+foundStr:  pelayanan-Ku,
+
+foundStr:  injil-Ku
+
+foundStr:  injil-Ku.
+
+foundStr:  memerintahkan-Ku—bahwa
+
+foundStr:  dituliskan—Para
+
+foundStr:  awaktu-Ku
+
+foundStr:  meminta-Nya
+
+foundStr:  sanubari-Ku
+
+foundStr:  kaki-Nya,
+
+foundStr:  menyembah-Nya;
+
+foundStr:  sekitar-Nya,
+
+foundStr:  mendengar-Nya.
+
+foundStr:  sukacita-Ku
+
+foundStr:  nama-Nya—
+
+foundStr:  daging-Nya
+
+foundStr:  darah-Nya
+
+foundStr:  dilaknat—Para
+
+foundStr:  tubuh-Ku,
+
+foundStr:  mu-rid-Nya
+
+foundStr:  na-ma-Ku;
+
+foundStr:  karang-Ku.
+
+foundStr:  aBapa-Ku
+
+foundStr:  darah-Ku
+
+foundStr:  adarah-Ku
+
+foundStr:  darah-Ku.
+
+foundStr:  adomba-domba-Ku,
+
+foundStr:  atangan-Nya
+
+foundStr:  malaikat—Yesus
+
+foundStr:  dituliskan—Dia
+
+foundStr: 
+dus—Para
+
+foundStr:  murid-Nya;
+
+foundStr:  orang-orang—Sisa
+
+foundStr:  nabi—Umat
+
+foundStr:  murid-Nya.
+
+foundStr:  tubuh-Ku
+
+foundStr:  memerintahkan-Ku
+
+foundStr:  umat-Ku—
+
+foundStr:  keadilan-Ku
+
+foundStr:  aumat-Ku,
+
+foundStr:  aSeorang
+
+foundStr:  membangkitkan-Ku
+
+foundStr:  aBangunlah,
+
+foundStr:  israel—Pengumpulan
+
+foundStr:  namaKu;
+
+foundStr:  aBerangkatlah
+
+foundStr:  memerintahkan-Ku.
+
+foundStr:  tampil—Orang-orang
+
+foundStr:  dihancurkan—Israel
+
+foundStr:  kelembutan—Mereka
+
+foundStr:  menang—Bandingkan
+
+foundStr:  israel—Pengum
+
+foundStr:  muka-Ku
+
+foundStr:  ba-gi-Ku,
+
+foundStr:  hati-Ku
+
+foundStr:  damai-Ku
+
+foundStr:  oleh-Ku;
+
+foundStr:  menja-wab-Nya
+
+foundStr:  penghakiman—Israel
+
+foundStr:  persembahan—Sebuah
+
+foundStr:  disimpan—Bandingkan
+
+foundStr:  autusan-Ku,
+
+foundStr:  suci-Nya,
+
+foundStr:  cara-Ku,
+
+foundStr:  bKembalilah
+
+foundStr:  merampok-Ku.
+
+foundStr:  merampok-Ku,
+
+foundStr:  rumah-Ku;
+
+foundStr:  menentang-Ku,
+
+foundStr:  permata-perma-ta-Ku;
+
+foundStr:  jerami—Elia
+
+foundStr:  melayani-Nya.
+
+foundStr:  hamba-Ku,
+
+foundStr:  akhir—Bayi
+
+foundStr:  dituliskan—Mereka
+
+foundStr:  akemuliaan-Nya—ya,
+
+foundStr:  prafanaKristus.
+
+foundStr:  na-ma-Ku?
+
+foundStr:  agereja-bKu
+
+foundStr:  injil-Ku;
+
+foundStr:  mengutus-Ku.
+
+foundStr:  ha-dapan-Ku,
+
+foundStr:  kerajaan-Nya;
+
+foundStr:  bperistirahatan-Nya
+
+foundStr:  aBertobatlah,
+
+foundStr:  hadapan-Ku
+
+foundStr:  mendukacitakan-Ku
+
+foundStr:  menju-al-Ku
+
+foundStr:  murid-Nya:
+
+foundStr:  mati—Tiga
+
+foundStr:  kembali—Mereka
+
+foundStr:  dari-Ku;
+
+foundStr:  kerajaan-Ku;
+
+foundStr:  dari-Ku.
+
+foundStr:  kemuliaan-Ku
+
+foundStr:  da-ri-Ku,
+
+foundStr: 
+yanan-Ku,
+
+foundStr:  membe-ri-Ku
+
+foundStr:  jari-Nya
+
+foundStr:  akuasa-Nya
+
+foundStr:  kebijaksanaan-Nya
+
+foundStr:  menerima-Nya;
+
+foundStr:  perjanjian-Nya—Mereka
+
+foundStr:  akhir-Nya
+
+foundStr:  bkeadilan-Nya
+
+foundStr:  kanan-Nya;
+
+foundStr:  pekerjaan-Nya!
+
+foundStr: 
+yaNG
+
+foundStr:  yeSuS
+
+foundStr:  itu—Setelah
+
+foundStr:  jahat—Amaron
+
+foundStr:  injil-Nya,
+
+foundStr:  sakral—Perang
+
+foundStr:  diam-bil—Kejahatan,
+
+foundStr:  aSim;
+
+foundStr:  negeri—Orang
+
+foundStr:  terlaknat—Masa
+
+foundStr:  berlalu—Mormon
+
+foundStr:  sendiri—Mormon
+
+foundStr:  iman—Kitab
+
+foundStr:  ini—Bertobatlah
+
+foundStr:  berlanjut—Yang
+
+foundStr:  jahat—Kejahatan
+
+foundStr:  berhala—Orang-orang
+
+foundStr:  aSim,
+
+foundStr:  massal—Kitab
+
+foundStr:  kebijaksanaan-Nya.
+
+foundStr:  terkasih-Nya,
+
+foundStr:  cperjanjian-Nya;
+
+foundStr:  terakhir—Mormon
+
+foundStr:  dihancurkan—Ratusan
+
+foundStr:  kasihan-Nya.
+
+foundStr:  bertobat—Dia
+
+foundStr:  setia—Mukjizat
+
+foundStr:  ketidakpercayaan—Tanda
+
+foundStr:  percaya—Manusia
+
+foundStr:  hukum-hukum-Nya?
+
+foundStr: 
+penghakiman-Nya,
+
+foundStr:  firman-Nya?
+
+foundStr:  aBijaklah
+
+foundStr:  dinyatakan—Bahasa
+
+foundStr:  ama-rah-Nya
+
+foundStr:  terjanji-kan—Itu
+
+foundStr:  habis—Tuhan
+
+foundStr:  jam—Orangorang
+
+foundStr:  barkas—Tuhan
+
+foundStr:  aNimrod,
+
+foundStr:  aroh-Ku
+
+foundStr:  pi-kiran-Ku
+
+foundStr:  batu—Kristus
+
+foundStr:  tabir—Alat-alat
+
+foundStr:  jari-Nya.
+
+foundStr:  ha-dapan-Ku
+
+foundStr:  jari-Ku.
+
+foundStr:  bKarena
+
+foundStr:  hadirat-Ku;
+
+foundStr:  dputra-Ku
+
+foundStr:  putri-Ku.
+
+foundStr: 
+pa-Ku
+
+foundStr:  rupa-Ku
+
+foundStr:  aroh-Ku;
+
+foundStr:  roh-Ku;
+
+foundStr:  fir-man-Nya
+
+foundStr:  murid-Nya—Manusia
+
+foundStr:  wahyu-Ku,
+
+foundStr:  perintah-Ku
+
+foundStr: 
+pada-Ku,
+
+foundStr:  roh-Ku,
+
+foundStr:  da-ri-Ku;
+
+foundStr:  memercayai-Ku—
+
+foundStr:  memercayai-Ku
+
+foundStr:  kepadaKu,
+
+foundStr:  awahyu-wahyu-Ku
+
+foundStr:  kebaikan-Nya—Oriha
+
+foundStr:  mereka—Yared
+
+foundStr:  kesalehan—Di
+
+foundStr:  ditegakkan—Para
+
+foundStr:  kerajaan—Akis
+
+foundStr:  raja—Komplotan
+
+foundStr:  bKain,
+
+foundStr:  pembunuhan—Emer
+
+foundStr:  pertobatan—Bencana
+
+foundStr:  kemurkaan-Ku.
+
+foundStr:  lain—Beberapa
+
+foundStr:  jahat—Ketika
+
+foundStr:  iman—Iman
+
+foundStr: 
+hati—Saudara
+
+foundStr:  iman—Iman,
+
+foundStr:  keselamatan—Moroni
+
+foundStr:  ajari-Nya
+
+foundStr:  karunia-Ku
+
+foundStr:  kepada-Ku—sumber
+
+foundStr:  aPindahlah—dan
+
+foundStr:  bmelayani-Nya
+
+foundStr:  bKoriantumur.
+
+foundStr:  negeri—Koriantumur
+
+foundStr:  negeri—Siapakah
+
+foundStr:  kemurkaan-Nya,
+
+foundStr:  pertempuran—Siz
+
+foundStr:  maut—Roh
+
+foundStr:  mereka—Bangsa
+
+foundStr:  dihancurkan—Hanya
+
+foundStr:  amurid-Nya,
+
+foundStr:  rasul-Ku.
+
+foundStr: 
+aCara
+
+foundStr:  droh-Nya
+
+foundStr:  ditemani—Anggota
+
+foundStr:  diampuni—Pertemuanpertemuan
+
+foundStr:  sungguh-sung-guh—Roh
+
+foundStr:  jahat—Setan
+
+foundStr:  melayani—Manusia
+
+foundStr:  apemanggilan-Nya
+
+foundStr:  mela-wan-Nya
+
+foundStr:  melayani-Nya,
+
+foundStr:  menyang-kal-Nya,
+
+foundStr:  hak-Nya
+
+foundStr:  dari-Nya;
+
+foundStr:  menurut-Ku.
+
+foundStr: 
+kebangkitan-Nya,
+
+foundStr:  jahat—Anak
+
+foundStr:  pelayanan-Nya,
+
+foundStr:  cPenghibur
+
+foundStr:  akhlaknya—Mereka
+
+foundStr:  lain—Mormon
+
+foundStr:  kepanjangsabaran-Nya,
+
+foundStr:  takhta-Nya
+
+foundStr:  kekuasaan-Nya,
+
+foundStr:  setia—Karunia-karunia
+
+foundStr:  iman—Kata-kata
+
+foundStr:  debu—Datanglah
+
+foundStr:  afirman-Ku
+
+foundStr:  bSion;
+
+foundStr: 
+dAri
+
+foundStr:  memuAt
+
+foundStr:  diberiKAn
+
+foundStr:  jOsePh
+
+foundStr:  sAnG
+
+foundStr:  nAbi
+
+foundStr: 
+denGAn
+
+foundStr:  beberAPA
+
+foundStr:  tAmbAhAn
+
+foundStr: 
+dAlAm
+
+foundStr: 
+duA
+
+foundStr:  belAs
+
+foundStr:  rAsul
+
+foundStr:  tentAnG
+
+foundStr:  dAn
+
+foundStr: 
+urutAn
+
+foundStr:  dAri
+
+foundStr: 
+imAklAH,
+
+foundStr:  cSimaklah
+
+foundStr:  ke-Allah-an.
+
+foundStr:  fBabilon
+
+foundStr:  yangBaru
+
+foundStr:  kegelapanRohani.
+
+foundStr:  cRoh-ku
+
+foundStr:  aRoh
+
+foundStr:  mendukungPemimpin
+
+foundStr:  gereja;Wewenang.
+
+foundStr: 
+iHATlAH,
+
+foundStr:  aElia
+
+foundStr: 
+aPEkERJAAn,
+
+foundStr:  aAllah
+
+foundStr:  aJuruselamat
+
+foundStr:  kepadanya—Dia
+
+foundStr:  dRoh-ku;
+
+foundStr:  aPandanglah
+
+foundStr: 
+aOlivER
+
+foundStr:  cRoh
+
+foundStr:  aUrim
+
+foundStr:  aBerdoalah
+
+foundStr:  berfirman—aDomba-domba
+
+foundStr:  bTuhanmu
+
+foundStr:  aSion.
+
+foundStr:  bRoh
+
+foundStr:  bersamaAllah.
+
+foundStr:  aHyrum,
+
+foundStr:  aYesus
+
+foundStr: 
+aSUATU
+
+foundStr:  imamatHarun
+
+foundStr:  cAllah
+
+foundStr:  diri-Nya.
+
+foundStr:  dBapa-ku.
+
+foundStr: 
+aSimAklAH,
+
+foundStr:  dUrim
+
+foundStr:  aTuhanmu
+
+foundStr:  dJoseph.
+
+foundStr:  aPenebusmu
+
+foundStr:  aDua
+
+foundStr:  aFirman
+
+foundStr: 
+kU
+
+foundStr:  aAlfa
+
+foundStr:  bTanpa
+
+foundStr:  aHukuman
+
+foundStr:  fRoh
+
+foundStr:  aBerikanlah
+
+foundStr:  aTinggalkanlah
+
+foundStr:  menyerukan—Hosana,
+
+foundStr: 
+aBERDiRinYA
+
+foundStr:  bAllah
+
+foundStr:  yangHancur.
+
+foundStr:  namaYesus
+
+foundStr:  aKewajiban
+
+foundStr:  baptisan.—Penatua
+
+foundStr:  aBaptisan
+
+foundStr:  eRohnya
+
+foundStr:  aCara
+
+foundStr:  aDiilhami
+
+foundStr:  cPenghibur,
+
+foundStr: 
+aorang-orangYahudi
+
+foundStr:  aSamuel;
+
+foundStr:  bColesville,
+
+foundStr:  aPenghibur,
+
+foundStr:  aBersabarlah
+
+foundStr: 
+imAklAHsuaraTuhan
+
+foundStr:  aElias,
+
+foundStr:  a(Elias)
+
+foundStr:  bYohanes,
+
+foundStr:  cHarun;
+
+foundStr:  aAdam,
+
+foundStr:  aOliver,
+
+foundStr: 
+cPenghibur,
+
+foundStr:  aHarun,
+
+foundStr:  bSion
+
+foundStr:  bSetan
+
+foundStr:  pilihan-Nya;
+
+foundStr:  aAku
+
+foundStr:  tertulis—Apa
+
+foundStr: 
+kristus—Pemerintahan
+
+foundStr:  mereka—aPergilah
+
+foundStr:  kehidupanPrafana.
+
+foundStr:  ePutra
+
+foundStr:  aDavid,
+
+foundStr:  aPeter,
+
+foundStr:  aPenghibur
+
+foundStr:  aParley
+
+foundStr:  aZiba
+
+foundStr:  aBukalah
+
+foundStr:  aOrson,
+
+foundStr:  aTerang
+
+foundStr:  aTuhan
+
+foundStr:  bAlfa
+
+foundStr:  aYohanes,
+
+foundStr:  bElia
+
+foundStr:  bJoseph;
+
+foundStr:  aTaatilah
+
+foundStr:  cSetan
+
+foundStr:  terhadapAlkitab,
+
+foundStr:  aYang
+
+foundStr:  bEdward,
+
+foundStr:  bPenghibur,
+
+foundStr:  aSelamatkanlah
+
+foundStr:  aCollesville;
+
+foundStr:  aOhio,
+
+foundStr:  bagianOhio.
+
+foundStr:  aOhio;
+
+foundStr: 
+imAklAH
+
+foundStr:  bAku
+
+foundStr:  aJames,
+
+foundStr: 
+imAk
+
+foundStr:  aEdward
+
+foundStr:  bYerusalem
+
+foundStr:  cAlkitab
+
+foundStr:  aYerusalem
+
+foundStr:  imamatHarun.
+
+foundStr:  bRoh-ku;
+
+foundStr:  mengatakan—Bertobatlah,
+
+foundStr:  bSimpanlah
+
+foundStr:  aBersungguh-sungguhlah.
+
+foundStr:  aRoh-ku
+
+foundStr:  diri-Nya;
+
+foundStr:  aHenokh,
+
+foundStr:  israel—Pencerai-
+
+foundStr:  aPerjanjian
+
+foundStr:  kerajaan—Aku
+
+foundStr: 
+aPenghibur,
+
+foundStr:  kristus—Wewenang.
+
+foundStr:  aBertobat
+
+foundStr:  aYakub
+
+foundStr:  aRoh,
+
+foundStr:  bPenghibur
+
+foundStr:  danAku
+
+foundStr:  aBerjagalah,
+
+foundStr:  yangBaik.
+
+foundStr:  karang;Yesus
+
+foundStr:  ham-John
+
+foundStr:  aThomas
+
+foundStr:  bOrson
+
+foundStr:  ePanen
+
+foundStr:  suci-Mu
+
+foundStr:  bSion.
+
+foundStr:  aWilliam
+
+foundStr:  aOliver
+
+foundStr:  itu—Biarlah
+
+foundStr:  aAllahmu
+
+foundStr:  aDia
+
+foundStr:  bagiAllah
+
+foundStr:  aSion—Aku,
+
+foundStr:  mengampuni;Pengampunan
+
+foundStr:  akanDosa-Dosa.
+
+foundStr:  cBabilon.
+
+foundStr:  aEfraim,
+
+foundStr:  berseru—Persiapkan
+
+foundStr:  imAklAH,
+
+foundStr:  orang—aPersiapkanlah
+
+foundStr:  mclellin—Diberkatilah
+
+foundStr:  aTumpangkanlah
+
+foundStr:  aTeruslah
+
+foundStr:  aAllahmu,
+
+foundStr:  ke-Allah-an—
+
+foundStr:  penatua-Nya;
+
+foundStr:  wahyu-wahyu-Nya;
+
+foundStr: 
+iHAT
+
+foundStr:  aOrson
+
+foundStr:  cHarun.
+
+foundStr:  aHarun
+
+foundStr:  aPresidensi
+
+foundStr:  keluarga—Tang
+
+foundStr:  aSabat
+
+foundStr:  imAklAH
+
+foundStr:  men-Allahmu,
+
+foundStr:  aJohn
+
+foundStr:  aSidney
+
+foundStr:  danSidney
+
+foundStr:  aPersiapkan
+
+foundStr:  miste-Kristus;
+
+foundStr: 
+aDEngARlAH,
+
+foundStr:  bAllah,
+
+foundStr:  dJuruselamat.
+
+foundStr:  aBesarlah
+
+foundStr:  cBapa,
+
+foundStr:  bAllah;
+
+foundStr:  cAnak
+
+foundStr:  aDia,
+
+foundStr:  aAnak
+
+foundStr:  bHenokh,
+
+foundStr:  cAllah—
+
+foundStr:  yangDijanjikan.
+
+foundStr:  bSion,
+
+foundStr:  bAnak
+
+foundStr:  aPaulus,
+
+foundStr:  cElias
+
+foundStr:  dSion—
+
+foundStr:  cAdam-ondi-Ahman;
+
+foundStr:  aAhman,
+
+foundStr:  aOrdo
+
+foundStr:  gudangPenyimpanan.
+
+foundStr:  eYerusalem
+
+foundStr: 
+bYitro;
+
+foundStr:  aHabel,
+
+foundStr:  dAdam,
+
+foundStr:  bHarun
+
+foundStr:  fYohanes,
+
+foundStr:  bAbraham,
+
+foundStr:  danPerjanjian
+
+foundStr:  dRoh
+
+foundStr:  aBapamu,
+
+foundStr:  olehAllah
+
+foundStr:  cSion
+
+foundStr:  aBumi
+
+foundStr:  aSouth
+
+foundStr:  bSabaot,
+
+foundStr:  muka-Nya;
+
+foundStr:  cSabaot,
+
+foundStr:  bRoh;
+
+foundStr:  bYusuf,
+
+foundStr:  dPenghibur,
+
+foundStr:  aRigdon,
+
+foundStr:  aApokrifa—Ada
+
+foundStr:  kegenapan-Nya;
+
+foundStr:  bPenebus
+
+foundStr:  bUnsur-unsur
+
+foundStr:  aUnsur-unsur
+
+foundStr:  kehidupanPrafana;
+
+foundStr:  keluarga—Tanggung
+
+foundStr:  rumah-Nya
+
+foundStr:  aAhman;
+
+foundStr:  bTuhanmu.
+
+foundStr:  aYusuf
+
+foundStr:  ber-Aku
+
+foundStr:  kepaRoh-ku,
+
+foundStr: 
+bParley
+
+foundStr:  aSion—yang
+
+foundStr:  hukum-hukum-Nya
+
+foundStr:  aHyde
+
+foundStr:  aUndang-Undang
+
+foundStr:  aDihalau
+
+foundStr:  baya—Berkumpullah
+
+foundStr:  aPasak
+
+foundStr:  aRoh-ku;
+
+foundStr:  lihatlah,Akutelah
+
+foundStr:  genapi—Aku
+
+foundStr:  aFiraun,
+
+foundStr:  aFreedom
+
+foundStr:  bHarun,
+
+foundStr:  aTata
+
+foundStr:  bPresidensi
+
+foundStr:  bRasul,
+
+foundStr:  aTujuh
+
+foundStr:  aDewan
+
+foundStr:  aSet,
+
+foundStr:  aHenokh
+
+foundStr:  bAdam-ondi-Ahman,
+
+foundStr: 
+aTERimA
+
+foundStr:  memfirmankan—Adakanlah
+
+foundStr:  aBerbelaskasihanlah,
+
+foundStr:  aDaud;
+
+foundStr:  aYehuda
+
+foundStr:  rumah-Nya;
+
+foundStr:  dYehova,
+
+foundStr:  aElias
+
+foundStr:  hamba-Nya;
+
+foundStr:  hamba-Nya.
+
+foundStr: 
+kU,
+
+foundStr:  aBerselisih
+
+foundStr:  aSidney,
+
+foundStr:  bHyrum,
+
+foundStr:  aBersihkanlah
+
+foundStr: 
+iAPAkAH
+
+foundStr:  bSidney
+
+foundStr:  aBangkit
+
+foundStr:  aAdam-ondi-Ahman,
+
+foundStr:  bAdam
+
+foundStr:  cYang
+
+foundStr:  ting-William
+
+foundStr:  bSineha,
+
+foundStr: 
+ondi-Ahman.
+
+foundStr:  kehendak-Mu,
+
+foundStr:  umat-Mu
+
+foundStr:  aTeman-temanmu
+
+foundStr:  aAyub;
+
+foundStr:  cHari-harimu
+
+foundStr:  aHyrum
+
+foundStr:  bEdward
+
+foundStr:  cJoseph
+
+foundStr:  bJackson
+
+foundStr:  aRoh-ku,
+
+foundStr:  bOliver
+
+foundStr:  aBrigham
+
+foundStr:  aDavid
+
+foundStr:  penggantinya—David
+
+foundStr:  bAjaran
+
+foundStr:  cYehova
+
+foundStr:  jemaat-Ku
+
+foundStr:  kekal—Tata
+
+foundStr:  dFayette,
+
+foundStr:  cRafael,
+
+foundStr:  eAdam
+
+foundStr:  bPutra,
+
+foundStr:  pertanyaan—Bukankah
+
+foundStr:  bSouth
+
+foundStr:  dSetan
+
+foundStr:  bSara
+
+foundStr:  cHagar
+
+foundStr:  bYakub
+
+foundStr:  aDaud
+
+foundStr:  cUria
+
+foundStr:  aEmma
+
+foundStr:  firmanTuhan
+
+foundStr:  ditebus-Nya;
+
+foundStr:  aBabilon.
+
+foundStr:  bYerusalem,
+
+foundStr:  bEfraim
+
+foundStr:  aYehuda,
+
+foundStr:  israel—Dua
+
+foundStr:  fYerusalem
+
+foundStr:  hAnak
+
+foundStr:  dalamAlkitab.
+
+foundStr: 
+nTUk
+
+foundStr:  cPenjara
+
+foundStr:  dHyrum
+
+foundStr:  bPelihat
+
+foundStr:  dingin.”—Pagi
+
+foundStr:  cPemberi
+
+foundStr: 
+iRmAn
+
+foundStr:  bRasul.
+
+foundStr:  aJagalah
+
+foundStr:  kejujuran;Utang.
+
+foundStr:  lAngiT
+
+foundStr:  cPutra.
+
+foundStr:  bAbraham;
+
+foundStr:  eAlvin,
+
+foundStr:  mackSmith.
+
+foundStr:  bPontus,
+
+foundStr:  aHawa
+
+foundStr:  cSet,
+
+foundStr:  bSem,
+
+foundStr:  dAbraham,
+
+foundStr:  fYakub,
+
+foundStr:  aDaniel,
+
+foundStr:  bPerubahan
+
+foundStr:  bElia—
+
+foundStr: 
+mAklUmAT
+
+foundStr:  mAniFESTO
+
+foundStr:  naraSi
+
+foundStr: 
+joSeph
+
+foundStr: 
+naBi,
+
+foundStr:  pelihaT,
+
+foundStr:  peWahyu
+
+foundStr:  perTaMa
+
+foundStr:  kriSTuS
+
+foundStr: 
+prakaTa
+
+foundStr:  uruTan
+
+foundStr:  kiTaB-kiTaB
+
+foundStr:  dalaM
+
+foundStr:  dihuni—Dunia-dunia
+
+foundStr: 
+irMan
+
+foundStr:  bMusa
+
+foundStr:  aMahakuasa,
+
+foundStr:  putra-Ku;
+
+foundStr:  btangan-Ku;
+
+foundStr:  cpekerjaan-Ku
+
+foundStr:  efirman-Ku,
+
+foundStr:  pekerja-an-Ku,
+
+foundStr:  kemuliaan-Ku;
+
+foundStr:  kemuliaan-Ku,
+
+foundStr:  cJuruselamat,
+
+foundStr:  bersa-ma-Ku,
+
+foundStr:  aSembahlah
+
+foundStr:  bMintalah
+
+foundStr:  terpilih-Ku.
+
+foundStr:  btujuan-Ku
+
+foundStr:  pada-Ku.
+
+foundStr:  kua-sa-Ku,
+
+foundStr:  tujuan-Ku
+
+foundStr:  kuasa-Ku.
+
+foundStr:  hamba-Mu,
+
+foundStr:  pekerjaan-Ku,
+
+foundStr:  apekerjaan-Ku
+
+foundStr:  bkemuliaan-Ku—
+
+foundStr:  put-ra-Ku,
+
+foundStr:  bu-mi—Segala
+
+foundStr:  dicip-takan—Allah
+
+foundStr:  kuasa-Ku,
+
+foundStr:  aDaratan;
+
+foundStr: 
+gal-Ku
+
+foundStr:  bumi—Dia
+
+foundStr:  bumi—Wanita
+
+foundStr:  bpekerjaan-Ku
+
+foundStr:  putra-Mu,
+
+foundStr:  kehormatan-Mu.
+
+foundStr:  bYang
+
+foundStr:  kepada-Ku—cBapa,
+
+foundStr:  dkehendak-Mu
+
+foundStr:  milik-Mu
+
+foundStr:  melawan-Ku,
+
+foundStr:  suara-Ku.
+
+foundStr:  aHawa,
+
+foundStr:  berfirman—Janganlah
+
+foundStr:  berfirman—Kamu
+
+foundStr:  suara-Mu
+
+foundStr: 
+memfirmankan—Janganlah
+
+foundStr:  anak-anak—Adam
+
+foundStr:  lahir—Kain
+
+foundStr:  menyebar—Injil
+
+foundStr:  aHabel.
+
+foundStr:  bBuatlah
+
+foundStr:  aKebinasaan;
+
+foundStr:  bMahan,
+
+foundStr:  aPelarian
+
+foundStr:  muka-Mu
+
+foundStr:  kenangan—Anak
+
+foundStr:  aSet.
+
+foundStr:  aKenan.
+
+foundStr:  aMetusalah.
+
+foundStr:  mereka—Bertobatlah,
+
+foundStr:  pandangan-Mu,
+
+foundStr:  hamba-Mu?
+
+foundStr:  bagi-Ku.
+
+foundStr:  aPilihlah
+
+foundStr:  bersama-Ku.
+
+foundStr:  cYesus
+
+foundStr:  fHakim
+
+foundStr:  aPenghibur;
+
+foundStr:  bputra-Ku.
+
+foundStr:  gunung—Kota
+
+foundStr:  ditegakkan—Henokh
+
+foundStr:  pendamaian-Nya,
+
+foundStr:  memfirmankan—Berbaliklah
+
+foundStr:  bPandanglah,
+
+foundStr:  mereka—aBertobatlah,
+
+foundStr:  tinggal-Ku
+
+foundStr:  bciptaan-Mu;
+
+foundStr:  tirai-Mu
+
+foundStr:  dada-Mu
+
+foundStr:  ciptaan-Mu,
+
+foundStr:  takhta-Mu;
+
+foundStr:  atangan-Ku
+
+foundStr:  memilih-Ku,
+
+foundStr:  keberangan-Ku
+
+foundStr:  ketidaksenangan-Ku
+
+foundStr:  aManusia
+
+foundStr:  amata-Ku
+
+foundStr:  mu-ka-Ku.
+
+foundStr:  aMesias,
+
+foundStr:  cBatu
+
+foundStr:  melalui-Ku
+
+foundStr:  takhta-Mu,
+
+foundStr:  karunia-Mu
+
+foundStr:  kepada-Mu
+
+foundStr:  kedatangan-Ku;
+
+foundStr:  suci-Ku,
+
+foundStr:  gYerusalem
+
+foundStr:  tinggal-Ku,
+
+foundStr:  bernubuat—Nuh
+
+foundStr:  diindahkan—Allah
+
+foundStr:  aMetusalah,
+
+foundStr:  bSem
+
+foundStr:  cHam.
+
+foundStr:  aPercaya
+
+foundStr: 
+rEPrODUKSi
+
+foundStr:  aBraHaM
+
+foundStr:  kebapabangsaan—Dia
+
+foundStr:  menyelamatkannya—Asal-usul
+
+foundStr:  aHam.
+
+foundStr:  aUr,
+
+foundStr:  aHam,
+
+foundStr:  aMesir
+
+foundStr:  semua—Dia
+
+foundStr:  aHaran,
+
+foundStr:  bTerah,
+
+foundStr:  cnama-Ku
+
+foundStr:  kaki-Ku;
+
+foundStr:  kuda-Ku;
+
+foundStr:  gununggunung—Pergilah
+
+foundStr:  abraham—Benih
+
+foundStr:  malaikat-Mu
+
+foundStr:  sua-ra-Mu,
+
+foundStr:  bUr,
+
+foundStr:  dKanaan,
+
+foundStr:  aBetel,
+
+foundStr:  aSarai,
+
+foundStr:  berkata—Dia
+
+foundStr:  kepadaku—Oleh
+
+foundStr:  roh—Dia
+
+foundStr:  aKolob,
+
+foundStr:  dengan-Ku,
+
+foundStr:  putra-Ku
+
+foundStr:  aKolob
+
+foundStr:  dengan-Ku.
+
+foundStr: 
+an-Ku
+
+foundStr:  bKita
+
+foundStr:  penguasa-Ku;
+
+foundStr:  atasnya—Rencana
+
+foundStr:  bKolob;
+
+foundStr: 
+arEna
+
+foundStr:  aBukit
+
+foundStr:  ckedatangan-Mu,
+
+foundStr:  cYerusalem,
+
+foundStr:  pilihan-Ku;
+
+foundStr:  afirman-Ku,
+
+foundStr:  pilih-an-Ku,
+
+foundStr: 
+iSEBaBKan
+
+foundStr:  bGereja
+
+foundStr:  dHyrum,
+
+foundStr:  eSamuel
+
+foundStr:  a“Tengoklah,
+
+foundStr:  lain—Inilah
+
+foundStr:  eTerkasih-Ku.
+
+foundStr:  de-Metodis,
+
+foundStr:  aSosok,
+
+foundStr:  bangsa—Moroni
+
+foundStr:  suci—Tempat
+
+foundStr:  diungkapkan—Moroni
+
+foundStr:  bUrim
+
+foundStr:  bMaleakhi;
+
+foundStr:  aImamat,
+
+foundStr:  itu—Martin
+
+foundStr:  aMartin
+
+foundStr:  aImamat
+
+foundStr:  bLewi
+
+foundStr:  aYohanes
+
+foundStr:  bPetrus,
+
+foundStr:  cYakobus,
+
+foundStr:  dYohanes,
+
+foundStr:  fMelkisedek,
+
+foundStr:  gPenatua
+
+foundStr:  lewi—Suku
+
+foundStr:  berhenti.”—Messenger
+
+foundStr:  aKHir
+
+foundStr: 
+aMi
+
+foundStr:  cPutra-nya,
+
+foundStr:  aPendamaian
+
+foundStr:  cPertobatan;
+
+foundStr:  dBaptisan
+
+foundStr:  dKitab
+
+foundStr:  bSepuluh
+
+foundStr: 
+cSion
+
+foundStr:  abjaD
+
+foundStr:  joSePh
+
+foundStr: 
+alkiTab
+
+foundStr:  alkiTab
+
+foundStr:  kkM
+
+foundStr:  tJS
+
+foundStr:  tOPIk
+
+foundStr:  aBJaD
+
+foundStr:  iSrAeL.
+
+foundStr:  tunggalNya,
+
+foundStr:  rupaNya
+
+foundStr:  perintahperintahNya
+
+foundStr:  hiduP.
+
+foundStr: 
+anajaranNya.
+
+foundStr:  mukaNya
+
+foundStr:  terpilihNya
+
+foundStr:  kerajaanNya.
+
+foundStr:  ajaranNya,
+
+foundStr:  duniA.
+
+foundStr:  akU
+
+foundStr:  aDa
+
+foundStr:  aDaLaH
+
+foundStr:  aDa,
+
+foundStr:  oMegA.
+
+foundStr:  nabiNya
+
+foundStr:  kemurkaanNya
+
+foundStr:  tanganNya
+
+foundStr:  antiNefiLehi;
+
+foundStr:  antiNefiLehi
+
+foundStr:  rahasiarahasiaNya
+
+foundStr:  doMBA
+
+foundStr:  kepadaNya,
+
+foundStr:  duniawiNya,
+
+foundStr:  dAMSYiK.
+
+foundStr:  fanaNya
+
+foundStr:  rohaniNya
+
+foundStr:  tUHaN
+
+foundStr:  inJiL.
+
+foundStr:  iBrAni.
+
+foundStr:  umatNya
+
+foundStr:  suciNya,
+
+foundStr:  kudusNya?,
+
+foundStr:  namaNya,
+
+foundStr:  giLeAd
+
+foundStr:  tunggalNya
+
+foundStr:  kepadaNya
+
+foundStr:  kepadaNya?
+
+foundStr:  persembunyianNya,
+
+foundStr:  bersamaNya
+
+foundStr:  penguburanNya,
+
+foundStr:  denganNya
+
+foundStr:  melayaniNya
+
+foundStr:  perintahperintahNya,
+
+foundStr:  rasulNya,
+
+foundStr:  pekerjaanNya
+
+foundStr:  karangNya
+
+foundStr:  pendamaianNya.
+
+foundStr:  kasihanNya
+
+foundStr:  kasihanNya,
+
+foundStr:  mukaMu,
+
+foundStr:  firmanNya,
+
+foundStr:  anakanakNya
+
+foundStr:  karuniaNya
+
+foundStr:  pelukanNya
+
+foundStr:  janjijanjiNya,
+
+foundStr:  firmanNya
+
+foundStr: 
+dAging.
+
+foundStr: 
+dAMAi,
+
+foundStr: 
+dAMBA,
+
+foundStr: 
+dAMSYiK
+
+foundStr: 
+dAn.
+
+foundStr: 
+dAnieL
+
+foundStr: 
+dArAh.
+
+foundStr:  darahNya,
+
+foundStr: 
+dAriuS.
+
+foundStr: 
+dATAng.
+
+foundStr: 
+dAud.
+
+foundStr: 
+dAvid
+
+foundStr: 
+deBorA
+
+foundStr: 
+deLiLA.
+
+foundStr: 
+derAAn.
+
+foundStr: 
+deSAK,
+
+foundStr:  deSAKAn.
+
+foundStr: 
+deSAS-deSuS.
+
+foundStr: 
+deSereT.
+
+foundStr: 
+deWAn
+
+foundStr:  duA
+
+foundStr: 
+diAKen.
+
+foundStr: 
+diLAhirKAn
+
+foundStr: 
+diPerAnAKKAn.
+
+foundStr:  menerimaNya,
+
+foundStr:  kemuliaanNya
+
+foundStr:  umatNya,
+
+foundStr: 
+diSPenSASi.
+
+foundStr:  kerajaanNya
+
+foundStr: 
+doA.
+
+foundStr: 
+doA
+
+foundStr:  muridNya
+
+foundStr: 
+doSA.
+
+foundStr: 
+doSA
+
+foundStr:  menyalibkanNya
+
+foundStr: 
+duniA.
+
+foundStr: 
+duniA
+
+foundStr: 
+duSTA.
+
+foundStr: 
+edWArd
+
+foundStr: 
+efrAiM.
+
+foundStr:  kebangkitanNya,
+
+foundStr:  ilahiNya
+
+foundStr: 
+egiPTuS
+
+foundStr: 
+eKSKoMuniKASi.
+
+foundStr: 
+eLi.
+
+foundStr: 
+eLiA.
+
+foundStr: 
+eLiAS.
+
+foundStr: 
+eLiSA
+
+foundStr: 
+eLiSABeT.
+
+foundStr: 
+eLohiM.
+
+foundStr: 
+eMAnueL.
+
+foundStr:  eMMA
+
+foundStr:  hALe
+
+foundStr: 
+enoS,
+
+foundStr: 
+eSAu.
+
+foundStr: 
+eSAYAS
+
+foundStr: 
+eSTer
+
+foundStr: 
+eTer.
+
+foundStr: 
+eZrA
+
+foundStr: 
+fAnA,
+
+foundStr: 
+fASiK.
+
+foundStr: 
+fAYeTTe,
+
+foundStr:  neW
+
+foundStr: 
+fiLeMon.
+
+foundStr: 
+fiLiPuS
+
+foundStr: 
+firAun.
+
+foundStr: 
+firdAuS.
+
+foundStr: 
+firMAn.
+
+foundStr: 
+firMAn
+
+foundStr:  pengikutNya
+
+foundStr: 
+fiTnAh.
+
+foundStr: 
+frederiCK
+
+foundStr: 
+gABrieL.
+
+foundStr: 
+gAd,
+
+foundStr: 
+gAd
+
+foundStr: 
+gAdiS.
+
+foundStr: 
+gALiLeA
+
+foundStr:  waktuNya
+
+foundStr:  mukjizatmukjizatNya
+
+foundStr: 
+gAMALieL.
+
+foundStr: 
+gArAM
+
+foundStr: 
+geMBALA.
+
+foundStr: 
+geMBALA
+
+foundStr: 
+baNya
+
+foundStr:  dombadombaNya
+
+foundStr:  mengenalNya,
+
+foundStr: 
+gereJA
+
+foundStr:  namaNya;
+
+foundStr:  olehNya
+
+foundStr:  hambaNya
+
+foundStr: 
+orAng-orAng
+
+foundStr: 
+geTSeMAni.
+
+foundStr:  mengkhianatiNya.
+
+foundStr: 
+godAAn.
+
+foundStr: 
+goLgoTA.
+
+foundStr: 
+goLiAT.
+
+foundStr: 
+goMorA.
+
+foundStr: 
+goSiP.
+
+foundStr: 
+gudAng
+
+foundStr:  hukumNya
+
+foundStr: 
+hABAKuK
+
+foundStr:  nabiNya,
+
+foundStr: 
+hABeL.
+
+foundStr: 
+hAgAi
+
+foundStr:  suciNya.
+
+foundStr: 
+hAgAr.
+
+foundStr: 
+hAgoT
+
+foundStr: 
+hAK
+
+foundStr: 
+hAM.
+
+foundStr: 
+hAnA
+
+foundStr:  mengenaliNya
+
+foundStr: 
+hAnAS.
+
+foundStr: 
+hArAPAn.
+
+foundStr: 
+hAri
+
+foundStr:  mengingatNya
+
+foundStr: 
+hArMAgedon.
+
+foundStr: 
+hArun,
+
+foundStr: 
+hArTA
+
+foundStr: 
+hASTA
+
+foundStr: 
+hATi.
+
+foundStr:  hatiNya
+
+foundStr: 
+hATi
+
+foundStr:  hAnCur.
+
+foundStr:  diriNya
+
+foundStr: 
+hAWA.
+
+foundStr: 
+hAWA
+
+foundStr:  nAfSu.
+
+foundStr: 
+heBron
+
+foundStr: 
+heLAMAn,
+
+foundStr:  heLAMAn
+
+foundStr:  rAJA
+
+foundStr: 
+henoKh.
+
+foundStr: 
+herodeS
+
+foundStr: 
+herodiAS
+
+foundStr: 
+hiduP.
+
+foundStr:  antipas,arkhelausFilipus,
+
+foundStr:  raja(Mat.
+
+foundStr:  wilayah(Mat.
+
+foundStr:  wilayahMrk.
+
+foundStr: 
+hiMni.
+
+foundStr: 
+hiZKiA
+
+foundStr: 
+hoMoSeKSuALiTAS.
+
+foundStr: 
+horMAT.
+
+foundStr:  kehormatanMu,
+
+foundStr:  melayaniNya,
+
+foundStr: 
+hoSAnA
+
+foundStr: 
+hoSeA
+
+foundStr:  umatNya.
+
+foundStr:  deraanNya
+
+foundStr:  kasihNya
+
+foundStr: 
+huJAT,
+
+foundStr:  terhadapNya
+
+foundStr: 
+huKuM.
+
+foundStr: 
+huKuM
+
+foundStr: 
+huKuMAn.
+
+foundStr: 
+huKuMAn
+
+foundStr: 
+huTAn
+
+foundStr: 
+hYruM
+
+foundStr: 
+iBA.
+
+foundStr: 
+iBAdAT.
+
+foundStr:  menyembahNya,
+
+foundStr: 
+iBLiS.
+
+foundStr: 
+iBu.
+
+foundStr: 
+iLhAM.
+
+foundStr: 
+iMAM,
+
+foundStr:  iMAMAT
+
+foundStr:  hArun.
+
+foundStr:  kudusNya,
+
+foundStr: 
+iMAM
+
+foundStr: 
+iMAMAT.
+
+foundStr: 
+iMAMAT
+
+foundStr: 
+iMAn.
+
+foundStr:  mematuhiNya.
+
+foundStr:  menyenangkanNya,
+
+foundStr:  namaNya
+
+foundStr: 
+iMAnueL.
+
+foundStr: 
+inJiL.
+
+foundStr: 
+inSAf,
+
+foundStr: 
+inTegriTAS.
+
+foundStr: 
+iSAi.
+
+foundStr: 
+iSAKhAr.
+
+foundStr: 
+iShAK.
+
+foundStr: 
+iSMAeL,
+
+foundStr: 
+iSrAeL.
+
+foundStr:  keimamatanNya,
+
+foundStr:  menerimaNya
+
+foundStr:  perintahperintahNya.
+
+foundStr:  anakanakNya,
+
+foundStr: 
+iSTirAhAT.
+
+foundStr:  setiaNya
+
+foundStr:  peristirahatanNya,
+
+foundStr:  peristirahatanNya
+
+foundStr:  kemuliaanNya,
+
+foundStr: 
+iSTri.
+
+foundStr: 
+iZeBeL.
+
+foundStr:  jalanNya,
+
+foundStr:  jalanNya
+
+foundStr:  anakNya
+
+foundStr:  kedatanganNya?
+
+foundStr:  pengetahuanNya
+
+foundStr:  pendamaianNya,
+
+foundStr:  rohAni.
+
+foundStr:  mengasihiNya,
+
+foundStr:  karuniaNya,
+
+foundStr:  rohNya
+
+foundStr:  hadapanNya,
+
+foundStr:  denganNya.
+
+foundStr:  perempuanNya,
+
+foundStr:  keadilanNya,
+
+foundStr:  jasmaniNya:
+
+foundStr:  makamNya
+
+foundStr:  menyentuhNya,
+
+foundStr:  nyawaNya
+
+foundStr:  anggurNya
+
+foundStr:  anggurNya,
+
+foundStr:  melihatNya
+
+foundStr:  melihatNya,
+
+foundStr:  keduaNya,
+
+foundStr:  keturunanNya,
+
+foundStr:  hAWA.
+
+foundStr:  roMAWi.
+
+foundStr:  hambaMu
+
+foundStr:  tuaNya,
+
+foundStr:  pengaruhNya;
+
+foundStr:  ajaranajaranMu,
+
+foundStr:  melupakanNya,
+
+foundStr:  dariNya,
+
+foundStr:  kebangkitanNya.
+
+foundStr:  kerajaanMu
+
+foundStr:  kehendakMu
+
+foundStr:  firmanNya.
+
+foundStr:  mencariNya,
+
+foundStr:  rasulNya
+
+foundStr:  hambaNya.
+
+foundStr:  rumahNya,
+
+foundStr:  rASuL.
+
+foundStr:  hAKiM-hAKiM
+
+foundStr:  iMAMAT.
+
+foundStr:  kitabNya,
+
+foundStr:  pelayananNya
+
+foundStr:  inJiL
+
+foundStr:  pelayananYohanes
+
+foundStr:  denganNikodemus
+
+foundStr:  hariSabat
+
+foundStr:  hiLAng.
+
+foundStr:  hambaNya,
+
+foundStr:  wahyuwahyuNya
+
+foundStr:  rATAPAn
+
+foundStr:  rAhASiA.
+
+foundStr:  adalahOtniel
+
+foundStr:  diPeristiwa-peristiwa
+
+foundStr:  dalamIsrael:
+
+foundStr:  menjarahYerusalem.
+
+foundStr:  didirikan;Nabonasar
+
+foundStr:  tiglatPileser
+
+foundStr:  bernubuat;Daniel
+
+foundStr:  keBabilon.
+
+foundStr:  meninggalkanYerusalem.
+
+foundStr:  orangorangNefi.
+
+foundStr:  putraMosia
+
+foundStr:  ajaranNya:
+
+foundStr:  pilihanNya
+
+foundStr: 
+riBKA.
+
+foundStr:  kemuliaanNya.
+
+foundStr:  langitMu,
+
+foundStr: 
+jariMu,
+
+foundStr: 
+pinNya
+
+foundStr:  orAng
+
+foundStr:  hATi,
+
+foundStr:  dAdA.
+
+foundStr: 
+eMAS.
+
+foundStr:  fanaNya.
+
+foundStr:  perbuatanNya.
+
+foundStr:  kebangkitanNya
+
+foundStr:  kananNya,
+
+foundStr:  uBAhAn
+
+foundStr:  reSMi—1.
+
+foundStr:  reSMi—2.
+
+foundStr:  mereka—Maleakhi
+
+foundStr:  iBu
+
+foundStr:  membaringkanNya
+
+foundStr:  ibuNya,
+
+foundStr:  hArriS.
+
+foundStr:  rasul—Seleksi
+
+foundStr:  pekerjaanNya.
+
+foundStr:  kuasaNya
+
+foundStr:  ajaranajaranNya.
+
+foundStr:  pekerjaanNya,
+
+foundStr: 
+gereJA.
+
+foundStr: 
+pemimpinNya.
+
+foundStr: 
+kristus—Hakim
+
+foundStr:  kuasaMu,
+
+foundStr:  kedatanganNya
+
+foundStr:  menolakNya.
+
+foundStr:  kebaikanNya
+
+foundStr: 
+dakNya
+
+foundStr:  misterimisteriNya
+
+foundStr:  nABi
+
+foundStr:  mereka—Zenif,
+
+foundStr:  mukjizatNya
+
+foundStr: 
+rupa—Perubahan
+
+foundStr: 
+nAAMAn.
+
+foundStr: 
+nABi.
+
+foundStr:  urusanNya
+
+foundStr:  rahasiaNya
+
+foundStr: 
+nABiAh.
+
+foundStr: 
+nAfSu.
+
+foundStr: 
+nAfTALi.
+
+foundStr: 
+nAhuM
+
+foundStr: 
+nAMA
+
+foundStr:  gereJA.
+
+foundStr: 
+anNya,
+
+foundStr: 
+nAoMi.
+
+foundStr: 
+nASihAT.
+
+foundStr:  pemimpinNya
+
+foundStr:  nasihatNya,
+
+foundStr: 
+nATAn.
+
+foundStr: 
+nATAnAeL.
+
+foundStr: 
+nAuvoo,
+
+foundStr:  iLLinoiS
+
+foundStr: 
+nAZAreT.
+
+foundStr: 
+neBuKAdneZAr.
+
+foundStr:  heLAMAn.
+
+foundStr: 
+heLAMAn.
+
+foundStr:  khotbahNya
+
+foundStr:  keduaNya
+
+foundStr: 
+neheMiA
+
+foundStr: 
+nerAKA.
+
+foundStr:  mengungkapkanNya—akan
+
+foundStr: 
+neWeL
+
+foundStr: 
+niKodeMuS.
+
+foundStr: 
+niniWe.
+
+foundStr: 
+nuBuAT.
+
+foundStr:  dALAM
+
+foundStr: 
+nYAnYiAn
+
+foundStr: 
+oBAJA
+
+foundStr: 
+oBed.
+
+foundStr: 
+oLiver
+
+foundStr: 
+oMegA.
+
+foundStr: 
+oMner.
+
+foundStr: 
+oMni
+
+foundStr: 
+orAng
+
+foundStr:  antiNefiLehi,
+
+foundStr:  iSrAeL
+
+foundStr:  fAriSi.
+
+foundStr:  fiLiSTin
+
+foundStr:  gABungAn.
+
+foundStr: 
+orSon
+
+foundStr:  hYde
+
+foundStr:  pengurbananNya
+
+foundStr:  suaraNya,
+
+foundStr:  kehendakNya,
+
+foundStr:  dariNya
+
+foundStr:  milikNya,
+
+foundStr:  kepadaNya.
+
+foundStr:  melawanNya
+
+foundStr:  uMuM.
+
+foundStr:  bahuNya,
+
+foundStr:  olehNya,
+
+foundStr:  ciptaanMu,
+
+foundStr:  prapenahbisanNya
+
+foundStr:  keputraanNya
+
+foundStr:  hidupNya
+
+foundStr:  penderitaanNya
+
+foundStr: 
+mengingatNya,
+
+foundStr:  darahNya
+
+foundStr:  pengampunanNya
+
+foundStr: 
+doSA-doSA.
+
+foundStr:  kristus—Hakim
+
+foundStr:  ciptaanNya
+
+foundStr:  iMAM
+
+foundStr:  mendakwaNya
+
+foundStr:  penyalibanNya,
+
+foundStr:  bilurbilurNya
+
+foundStr:  gAdiAnTon.
+
+foundStr:  rohNya.
+
+foundStr:  kepadaMu
+
+foundStr:  penyalibanNya
+
+foundStr:  perjanjianNya
+
+foundStr:  hadiratMu
+
+foundStr:  denganNya,
+
+foundStr:  kedatanganNya,
+
+foundStr:  sukacitaNya
+
+foundStr:  ruPA.
+
+foundStr:  kepadaNyalah
+
+foundStr:  mukaNya,
+
+foundStr:  kunciNya,
+
+foundStr:  pengawasanNya.
+
+foundStr:  menyenangkanNya.
+
+foundStr:  terpilihNya.
+
+foundStr:  uTAMA.
+
+foundStr:  berkatberkatNya.
+
+foundStr:  putraNya
+
+foundStr:  putriNya,
+
+foundStr:  mengungkapkanNya,
+
+foundStr: 
+rAfAeL.
+
+foundStr: 
+rAheL.
+
+foundStr: 
+rAJA-rAJA.
+
+foundStr: 
+rAMeuMToM
+
+foundStr: 
+rASA
+
+foundStr: 
+rASuL.
+
+foundStr:  penolongNya
+
+foundStr:  mewakiliNya
+
+foundStr:  bagiNya
+
+foundStr:  kenaikanNya
+
+foundStr:  keilahianNya
+
+foundStr: 
+bangkitanNya
+
+foundStr:  muridNya,
+
+foundStr: 
+rehABeAM.
+
+foundStr: 
+rehueL.
+
+foundStr: 
+renCAnA
+
+foundStr: 
+rendAh
+
+foundStr:  kehendakNya.
+
+foundStr:  diJAnJiKAn.
+
+foundStr: 
+roMA.
+
+foundStr: 
+roTi
+
+foundStr: 
+ruBen.
+
+foundStr: 
+ruMAh.
+
+foundStr: 
+ruMAh
+
+foundStr: 
+ruT.
+
+foundStr:  dagingNya
+
+foundStr:  mengingatNya,
+
+foundStr:  kebenaranNya,
+
+foundStr:  simbolsimbolNya
+
+foundStr:  pengurbananNya—roti
+
+foundStr:  olehnya—Samuel
+
+foundStr:  nABi.
+
+foundStr:  rencanaNya
+
+foundStr:  diriNya,
+
+foundStr:  dombaNya,
+
+foundStr:  utusanNya.
+
+foundStr:  hATi.
+
+foundStr:  fiLeMon.
+
+foundStr:  efeSuS.
+
+foundStr:  fiLiPi.
+
+foundStr: 
+gALATiA.
+
+foundStr:  melayaniNya.
+
+foundStr:  roMA.
+
+foundStr:  kematianNya
+
+foundStr:  namaMu,
+
+foundStr:  perintahperintahNya;
+
+foundStr:  geTSeMAni.
+
+foundStr:  setiaNya,
+
+foundStr:  atasNya
+
+foundStr:  gereJA
+
+foundStr: 
+dAn
+
+foundStr:  kekalNya
+
+foundStr:  caraNya?,
+
+foundStr:  hadiratNya
+
+foundStr:  perkaraNya.
+
+foundStr:  dAYA.
+
+foundStr:  efrAiM.
+
+foundStr:  tubuhNya
+
+foundStr:  busanaNya
+
+foundStr: 
+uAng.
+
+foundStr: 
+uCAPAn
+
+foundStr: 
+uLAngAn.
+
+foundStr: 
+uLAr
+
+foundStr: 
+undAng-undAng
+
+foundStr:  dASAr.
+
+foundStr:  pakaianNya,
+
+foundStr: 
+uriM
+
+foundStr: 
+uSiA
+
+foundStr: 
+uSKuP.
+
+foundStr: 
+uSKuP
+
+foundStr: 
+uTAng.
+
+foundStr:  iba?Mat.
+
+foundStr:  iShAK.
+
+foundStr:  kedatanganNya.
+
+foundStr:  diurAPi.
+
+foundStr:  uSiAnYA.
+
+foundStr:  aDa;
+
+foundStr:  menyembahNya
+
+foundStr:  terakhirNya
+
+foundStr:  duniawiNya
+
+foundStr:  rupa—Perubahan
+
+foundStr:  pemanggilanNya
+
+foundStr:  kehidupanNya
+
+foundStr:  namaNya.
+
+foundStr:  perjalananNya
+
+foundStr:  mematuhiNya,
+
+foundStr:  jejakNya,
+
+foundStr:  leluhurNya,
+
+foundStr:  hakNya
+
+foundStr:  kakiNya,
+
+foundStr:  bersamaNya,
+
+foundStr:  perintahNya,
+
+foundStr:  mengasihiNya.
+
+foundStr:  fanaNya,
+
+foundStr:  iSKArioT
+
+foundStr:  joSeph
+
+foundStr:  ke-TJS,
+
+foundStr:  rupaKu
+
+foundStr:  perjanjianKu
+
+foundStr:  perintahKu,
+
+foundStr:  diriKu.
+
+foundStr:  suaraNya
+
+foundStr:  kehendakNya
+
+foundStr:  ajaranKu,
+
+foundStr:  caraKu,
+
+foundStr:  pengurapanKu,
+
+foundStr:  hadapanKu.
+
+foundStr:  hadapanKu
+
+foundStr:  mulutKu
+
+foundStr:  mataKu,
+
+foundStr:  pekerjaanKu;
+
+foundStr:  umatKu,
+
+foundStr:  umatKu
+
+foundStr:  firmanKu
+
+foundStr:  firmanKu,
+
+foundStr:  perjanjianperjanjianKu,
+
+foundStr:  pekerjaanKu
+
+foundStr:  hukumKu
+
+foundStr:  tanganKu
+
+foundStr:  mukaKu
+
+foundStr:  amarahKu
+
+foundStr:  melihatKu
+
+foundStr:  tanganKu,
+
+foundStr:  belakangKu,
+
+foundStr:  kudusKu,
+
+foundStr:  hadiratKu
+
+foundStr:  kemurkaanKu,
+
+foundStr:  hadiratKu,
+
+foundStr:  peristirahatanKu,
+
+foundStr:  milikMu.
+
+foundStr:  umatKu.
+
+foundStr:  umatNya;
+
+foundStr:  abadiNya.
+
+foundStr:  hambaKu
+
+foundStr:  kebenaranNya
+
+foundStr:  saudarasaudaraNya,
+
+foundStr:  pelayananNya.
+
+foundStr:  mengajarNya.
+
+foundStr:  membiarkanNya.
+
+foundStr:  membaptisNya.
+
+foundStr:  terkasihKu,
+
+foundStr:  menempatkanNya
+
+foundStr:  diriMu:
+
+foundStr:  malaikatNya
+
+foundStr:  kakiMu
+
+foundStr:  membawaNya
+
+foundStr:  kepadaMu,
+
+foundStr:  namaNya.)
+
+foundStr:  menerimaKu,
+
+foundStr:  mendapatiKu,
+
+foundStr:  mengikutiKu.
+
+foundStr:  perintahperintahKu.
+
+foundStr:  utusanKu,
+
+foundStr:  mengenaiKu,
+
+foundStr:  memercayaiKu,
+
+foundStr:  perumpamaanNya,
+
+foundStr:  terhadapNya.
+
+foundStr:  menjamahNya,
+
+foundStr:  menganggapNya
+
+foundStr:  menolakKu.
+
+foundStr:  menyerangKu,
+
+foundStr:  memberikanNya
+
+foundStr:  tubuhKu
+
+foundStr:  namaKu,
+
+foundStr:  mengkhianatiNya,
+
+foundStr:  tubuhKu;
+
+foundStr:  darahKu
+
+foundStr:  mengingatKu
+
+foundStr:  pelayananKu.
+
+foundStr:  membaringkanNya;
+
+foundStr:  menemukanNya
+
+foundStr:  menyangkalKu
+
+foundStr:  mengakuiNya
+
+foundStr:  pakaianNya
+
+foundStr:  tanggaNya,
+
+foundStr:  kedatanganNya;
+
+foundStr:  makiNya
+
+foundStr:  suciNya;
+
+foundStr:  kedatanganNya.)
+
+foundStr:  kedatanganMu?
+
+foundStr:  menyalibkanNya.)
+
+foundStr:  menyalibkanNya,)
+
+foundStr:  olehNya;
+
+foundStr:  mengenalNya.
+
+foundStr:  milikNya
+
+foundStr:  menerimaNya.
+
+foundStr:  kegenapanNya.
+
+foundStr:  kegenapanNya
+
+foundStr:  karuniaNya.
+
+foundStr:  kasutNya
+
+foundStr:  atasNya.
+
+foundStr:  mengenaliNya;
+
+foundStr:  menghukumNya
+
+foundStr:  muridNya;
+
+foundStr:  bersamaKu.
+
+foundStr:  diriKu,
+
+foundStr:  mulutNya,
+
+foundStr:  masaNya
+
+foundStr:  peristirahatanKu;
+
+foundStr:  dosaNya
+
+foundStr:  melihatNya.)
+
+foundStr:  takhtaNya,
+
+foundStr:  takhtaNya.
+
+foundStr:  mulutNya
+
+foundStr:  mulutNya;
+
+foundStr:  anti-Mormon
+
+foundStr: 
+ordKaliHathaway
+
+foundStr:  bulanSeptember
+
+foundStr:  danHeber
+
+foundStr:  areaKirtland.
+
+foundStr:  keKirtland,
+
+foundStr:  dariTuhan
+
+foundStr:  kakaknyaHyrum
+
+foundStr:  paraOrang
+
+foundStr:  dimulaiCouncil
+
+foundStr:  ini.(Bukit
+
+foundStr:  manaGereja
+
+foundStr:  indeKs
+
+foundStr:  tanaH
+
+foundStr: 
+eKsodusnYa
+
+foundStr:  isRael
+
+foundStr:  daRi
+
+foundStr:  mesiR
+
+foundStr:  masuKnYa
+
+foundStr: 
+pemBaGian
+
+foundStr:  suKu
+
+foundStr:  asiRia
+
+foundStr:  peRsia
+
+foundStr:  peRJanJian
+
+foundStr: 
+tanaH
+
+foundStr:  peR-JanJian
+
+foundStr: 
+peRJalanan
+
+foundStr:  misionaRis
+
+foundStr:  alKitaB
+
+foundStr: 
+moaB
+
+foundStr:  contoH
+
+foundStr:  en-Gedi,
+
+foundStr:  ezion-Geber,
+
+foundStr: 
+indeKs
+
+foundStr:  en-Rogel,
+
+foundStr:  pi-Hahirot,
+
+foundStr: 
+trans-Yordan,
+
+foundStr:  i(Kej.
+
+foundStr:  ezion-Geber
+
+foundStr: 
+peRJalanan-peRJalanan
+
+foundStr:  agama—Kristen,
+
+foundStr:  manaYohanes
+
+foundStr:  cHerr,
+
+foundStr:  derÜberschrift
+
+foundStr:  derLektion
+
+foundStr:  imAbschnitt
+
+foundStr:  yangKita
+
+foundStr:  untukKekekalan
+
+foundStr:  murid-Ku
+
+foundStr:  umum-Ku.”1
+
+foundStr:  konferensi-Nya.
+
+foundStr:  nabi-Nya.
+
+foundStr:  nama-Nya’
+
+foundStr:  umum-Nya.
+
+foundStr:  pada-Ku;
+
+foundStr:  persetujuan-Nya,
+
+foundStr:  fana-Nya,
+
+foundStr:  salib-Nya
+
+foundStr:  musuh-musuh-Nya,
+
+foundStr:  mukjizat-mukjizat-Nya,
+
+foundStr:  sakral-Nya,
+
+foundStr: 
+perintah-Nya,
+
+foundStr:  wewenang-Nya.
+
+foundStr:  imamatNya—kuasa
+
+foundStr:  rencana-Nya,
+
+foundStr:  keDepan
+
+foundStr:  hamba-Nya”
+
+foundStr:  pada-Ku,
+
+foundStr:  beban-Kupun
+
+foundStr:  jalan-Ku,
+
+foundStr:  jalan-Ku
+
+foundStr:  rancangan-Ku
+
+foundStr:  cara-cara-Nya,
+
+foundStr:  pikiranpikiran-Nya,
+
+foundStr:  tinggi-Ku;
+
+foundStr:  tinggi-Ku”
+
+foundStr:  arahan-arahan-Nya
+
+foundStr:  perkara-Nya.
+
+foundStr:  dipanggil-Nya
+
+foundStr:  murid-muird-Nya
+
+foundStr:  ditahbiskan-Nya
+
+foundStr:  nabi-Nya,
+
+foundStr:  ajaran-Nya
+
+foundStr:  kita—anakanak-Nya
+
+foundStr:  meninggalkannya-Nya.10
+
+foundStr:  suci-Nya.
+
+foundStr:  pengabdian-Nya
+
+foundStr:  kepada-Nya”
+
+foundStr:  panen-Nya
+
+foundStr:  sukacita-Nya
+
+foundStr:  kepada-Ku!”
+
+foundStr:  anak-Nya.
+
+foundStr:  penyembuhan-Nya
+
+foundStr:  beban-Ku
+
+foundStr:  ampunan-Mu.
+
+foundStr:  pada-Nya.
+
+foundStr:  karunia”-Nya
+
+foundStr:  anakanak-Nya
+
+foundStr:  mengikuti-Nya
+
+foundStr:  mengutus-Nya
+
+foundStr:  pekerjaan-Nya”
+
+foundStr:  dombadomba-Nya
+
+foundStr:  petunjuk-Nya
+
+foundStr:  menurut-Ku
+
+foundStr:  pewahyu-Nya.
+
+foundStr:  respek-Nya.
+
+foundStr:  zaman-Nya
+
+foundStr:  pilihan-Nya
+
+foundStr:  kawanan-Nya.
+
+foundStr:  kepada-Nya.”9
+
+foundStr:  domba-domba-Nya
+
+foundStr:  saudara-Ku
+
+foundStr:  kerajaan-Ku
+
+foundStr:  ajakan-Nya
+
+foundStr:  kebaikan-Nya,
+
+foundStr:  ilahi”-Nya18
+
+foundStr:  murid-Ku.”19
+
+foundStr:  ini—Yesus
+
+foundStr:  bahu-Nya.
+
+foundStr:  imamat-Nya,
+
+foundStr:  domba-domba-Ku.”2
+
+foundStr:  ilahi-Nya
+
+foundStr:  pengampunan-Nya
+
+foundStr:  malaikat-Nya—sosok
+
+foundStr:  hadapan-Ku”
+
+foundStr:  anak-anak-NYa.
+
+foundStr:  perintah-perintah-Ku”
+
+foundStr:  perintah-perintah-Nya?
+
+foundStr:  anak-anak-Nya—rencana
+
+foundStr:  anak-Nya
+
+foundStr:  anak-anak-Nya7
+
+foundStr:  standar-Nya
+
+foundStr:  anakanak-Nya—kita
+
+foundStr:  non-OSZA.
+
+foundStr:  terbesar-Nya
+
+foundStr:  hari-Nya.”6
+
+foundStr:  kebahagiaan-Nya
+
+foundStr:  mendengarkan-Nya
+
+foundStr:  terhadapPenawanan
+
+foundStr:  pilihan-Nya,
+
+foundStr:  terpilih-Nya
+
+foundStr:  terang-Nya,
+
+foundStr:  jasa-Nya,
+
+foundStr:  imamat-Nya.12
+
+foundStr:  peringatan-Nya
+
+foundStr:  jalan-Ku,”22
+
+foundStr:  denganKuasa
+
+foundStr:  bantuan-Nya.
+
+foundStr:  mengasihi-Nya
+
+foundStr:  arah-Nya
+
+foundStr:  memercayai-Nya.
+
+foundStr:  gol-Nya.
+
+foundStr:  pesan-Nya:
+
+foundStr:  gambar-Nya,
+
+foundStr:  kepada-Nya.13
+
+foundStr:  anak-anak-Nya.”
+
+foundStr:  ajaran-Nya.
+
+foundStr:  dijanjikan-Nya
+
+foundStr:  danKasih
+
+foundStr:  hamba-Mu.”4
+
+foundStr:  dengan-Nya.”20
+
+foundStr:  sempurna-Nya
+
+foundStr:  perjanjian-perjanjian-Nya
+
+foundStr:  memberitahu-Porter,
+
+foundStr:  kekuatan-Nya
+
+foundStr:  penerimaan-Nya.
+
+foundStr:  kasih-Nya.”3
+
+foundStr:  sakramen-Nya.
+
+foundStr:  kehendak-Ku,
+
+foundStr:  kehendak-Mulah
+
+foundStr:  kepada-Nya,”
+
+foundStr:  keselamatan-Nya
+
+foundStr: 
+kepada-Nya
+
+foundStr:  eMirënjohjes
+
+foundStr:  stake,Mampala
+
+foundStr:  woMBA
+
+foundStr:  nASHiwAyA
+
+foundStr:  oSBorn
+
+foundStr:  centre:By
+
+foundStr:  roBErT
+
+foundStr:  ward:By
+
+foundStr:  read,“‘Niles
+
+foundStr:  byAmie
+
+foundStr:  played—I
+
+foundStr:  class—Carter.
+
+foundStr:  issue?pii=S0960-9822(09)X0019-9.
+
+foundStr:  iMormons
+
+foundStr:  misjon:Trøster
+
+foundStr:  igjen:Ualminnelige
+
+foundStr:  profiler:Sammensmelting
+
+foundStr:  forbere-Er
+
+foundStr:  mai-“Denne
+
+foundStr:  beskyt-Jeg
+
+foundStr:  menings-Prestedømsavdelingenfylte
+
+foundStr:  besø-Kwangju
+
+foundStr:  be—“Why,
+
+foundStr:  pentruDomnul
+
+foundStr:  eaÎl
+
+foundStr:  considerându-L
+
+foundStr:  şi-L
+
+foundStr:  true—I
+
+foundStr: 
+noTe
+
+foundStr:  ldS.org:
+
+foundStr: 
+ldSjobs.org:
+
+foundStr:  new.familySearch.org:
+
+foundStr:  familySearchIndexing.org:
+
+foundStr:  argentina/uruguay/Paraguay
+
+foundStr:  ldS.org/braille:
+
+foundStr:  aoao.Tou
+
+foundStr:  atofaina.E
+
+foundStr:  faifeautalai.Faamolemole
+
+foundStr:  ai.O
+
+foundStr:  lena.O
+
+foundStr:  galuega.Afai
+
+foundStr:  isi.O
+
+foundStr:  leWard
+
+foundStr: cAPítuLo
+
+foundStr:  emMomentos
+
+foundStr:  liahona.LDS.org.
+
+foundStr: 
+recoveryworkbook.LDS.org.
+
+foundStr:  ensign.LDS.org.
+
+foundStr:  article/elder-oaks-religious-freedom-Chapman-University.
+
+foundStr:  verem-No
+
+foundStr:  liahona@LDSchurch.org
+
+foundStr:  recordá-Lo.
+
+foundStr:  emChinês
+
+foundStr:  store.LDS.org.
+
+foundStr:  doFamilySearch
+
+foundStr:  iOS)
+
+foundStr:  pergun-Depois,
+
+foundStr:  pre-“Aprender
+
+foundStr:  naisip,‘Kaya
+
+foundStr:  voastrăCelui
+
+foundStr:  noi.În
+
+foundStr:  éterneLLe
+
+foundStr:  arahan-Nya.
+
+foundStr:  lDs
+
+foundStr:  liBrary.
+
+foundStr:  liBrary
+
+foundStr:  ex-“Members
+
+foundStr:  sacri-Put
+
+foundStr:  respon-HAMILTON,
+
+foundStr:  man.This
+
+foundStr:  fellowman.We
+
+foundStr:  terrenal,Él
+
+foundStr:  theSecond
+
+foundStr:  non-Christian
+
+foundStr:  coming—His
+
+foundStr:  post–World
+
+foundStr:  temple—I
+
+foundStr:  followingChurch
+
+foundStr:  toOvercome
+
+foundStr:  songs—“C-h-r-i-s-t-m-a-s.”
+
+foundStr:  leTalafaasolopito—Iosefa
+
+foundStr:  leFaalagolago
+
+foundStr:  teIa
+
+foundStr:  seFaataitaiga
+
+foundStr:  faa-Alepania,
+
+foundStr:  maViatename.
+
+foundStr: 
+faamanatuga.ATMATTHEW
+
+foundStr:  leMalumalu
+
+foundStr:  o“Faaipoipoga
+
+foundStr:  leEteru
+
+foundStr:  uma”(Alema
+
+foundStr:  leAtua
+
+foundStr:  faaAmerika
+
+foundStr:  tusiA
+
+foundStr:  faa-Peretania,”
+
+foundStr:  faa-Peretania.”
+
+foundStr:  iAmerika
+
+foundStr:  fatu-San
+
+foundStr:  faaKerisiano:
+
+foundStr:  faaKeriso.
+
+foundStr:  seVaega
+
+foundStr:  faagaoi-Feagaiga,
+
+foundStr:  l’Ultima
+
+foundStr:  said.“This
+
+foundStr:  inter-Aguirra,
+
+foundStr:  busi-�The
+
+foundStr:  klaverimängi-Aidake
+
+foundStr:  prees-Vaimult.
+
+foundStr:  siia,<BR><BR>et
+
+foundStr:  ilmestada.Tundke
+
+foundStr:  all’Expo
+
+foundStr:  üzenet:Kövesd
+
+foundStr:  üzenet:Jézus
+
+foundStr:  munkájábanÍrta:
+
+foundStr:  egyházban:Egy
+
+foundStr:  találkozunk:Honnan
+
+foundStr:  gyakran:Családi
+
+foundStr:  szentírásfigurák:Jézus
+
+foundStr:  szá-Atyánkhoz
+
+foundStr:  contrito.Con
+
+foundStr:  oraciones;Él
+
+foundStr:  gJEviK
+
+foundStr: 
+saGt
+
+foundStr:  siste-daGers-HeLLiGe
+
+foundStr: 
+guNvOr
+
+foundStr:  fAMiLiEN
+
+foundStr:  возмож-ЛИТЕРАТУРА
+
+foundStr:  под-«Прежде,
+
+foundStr:  вПомогите
+
+foundStr:  практичеВ
+
+foundStr:  ndi-Mendoni
+
+foundStr:  mësimdhë-Kur
+
+foundStr:  refe(Nëse
+
+foundStr:  taga-Ame-
+
+foundStr:  e.B.
+
+foundStr:  saStaf
+
+foundStr: 
+ordDln
+
+foundStr:  ngaSapa
+
+foundStr:  saCumorah
+
+foundStr: 
+anG
+
+foundStr:  uGohio
+
+foundStr:  nGa
+
+foundStr:  tBa
+
+foundStr:  saBasahon
+
+foundStr:  saChillicothe
+
+foundStr:  ubasaCh
+
+foundStr:  saGinoo
+
+foundStr:  niBrigham
+
+foundStr:  oreGon
+
+foundStr:  painGon
+
+foundStr:  simBahan
+
+foundStr:  taga-Roma
+
+foundStr:  fILISTEHANON
+
+foundStr:  ugThummim
+
+foundStr:  niCush,
+
+foundStr:  saTore
+
+foundStr:  niNabucodonosor
+
+foundStr:  saPersia
+
+foundStr:  angBantugan),
+
+foundStr:  siNehemias
+
+foundStr:  saAmihanang
+
+foundStr:  niIsaac),
+
+foundStr:  niJacob),
+
+foundStr:  niNabucodonosor,
+
+foundStr:  niElijah
+
+foundStr:  saSheba,
+
+foundStr:  niAbraham
+
+foundStr:  saParaon
+
+foundStr:  saIsrael
+
+foundStr:  taga-Minoa.
+
+foundStr:  gubat(Mag.
+
+foundStr:  saEhipto
+
+foundStr:  saJesreel
+
+foundStr:  oBungtod
+
+foundStr:  taga-Canaan
+
+foundStr:  taga-Asiria
+
+foundStr:  altar(Gen.
+
+foundStr:  dinhi.Sila
+
+foundStr:  saSichem
+
+foundStr:  saGerisim,
+
+foundStr:  mgaSamarianhon
+
+foundStr:  taga-Midian
+
+foundStr:  saIsrael.
+
+foundStr:  layo(Gen.
+
+foundStr:  ugAbsalom
+
+foundStr:  niHaring
+
+foundStr:  saMacpela
+
+foundStr:  pagkadautan(Mat.
+
+foundStr:  ugBetsaida
+
+foundStr:  niPedro,
+
+foundStr:  saTabor.)
+
+foundStr:  siJesus
+
+foundStr:  saGalilea
+
+foundStr:  saWali
+
+foundStr:  mgaApostoles,
+
+foundStr:  taga-Galilea
+
+foundStr:  ogDagat
+
+foundStr:  tawo(Mat.
+
+foundStr:  pakigpulong(Juan
+
+foundStr:  bino(Juan
+
+foundStr:  saCapernaum
+
+foundStr:  saNazaret
+
+foundStr:  katawhan(Luc.
+
+foundStr:  kangJesus
+
+foundStr:  niMaria,
+
+foundStr:  patay(Juan
+
+foundStr:  taga-Babelonia
+
+foundStr: 
+fRIGIA
+
+foundStr:  panawIkatulong
+
+foundStr:  panawL
+
+foundStr:  angDios
+
+foundStr:  mgaHentil
+
+foundStr:  saEspiritu
+
+foundStr:  siSaulo
+
+foundStr:  panaw(Buh.
+
+foundStr:  dinhi(Buh.
+
+foundStr:  siPablo
+
+foundStr:  ugBernabe
+
+foundStr:  niArtemisa
+
+foundStr:  bilanggoan(Buh.
+
+foundStr:  taga-Roma.23.
+
+foundStr:  mgaJudeo
+
+foundStr:  saTesalonica
+
+foundStr:  saMacedonia,
+
+foundStr:  panimalay(Buh.
+
+foundStr:  taga-Efeso,
+
+foundStr:  mgataga-Colosas
+
+foundStr:  mgaKristiyanos
+
+foundStr:  csaJegyzetek
+
+foundStr:  ésátnézikaFamilySearch.orgoldalt,hogytisztábanlegyenek
+
+foundStr:  contact.FamilySearch.org
+
+foundStr:  sinPrestuhnsi
+
+foundStr:  koM
+
+foundStr:  orwacLah
+
+foundStr: 
+etwacLah,
+
+foundStr:  akucL
+
+foundStr:  suhMuhsLah
+
+foundStr: 
+kahLweM
+
+foundStr: 
+siFiL
+
+foundStr:  koL
+
+foundStr: 
+kuhLwacnsaPuh
+
+foundStr: 
+suLi
+
+foundStr:  steP
+
+foundStr:  etwacLah
+
+foundStr:  kuhlwacn-Corinth
+
+foundStr: 
+steP
+
+foundStr:  orekMa
+
+foundStr:  srikasrak—Mongo
+
+foundStr: 
+ahkkweyacLah
+
+foundStr: 
+kotaeLah
+
+foundStr:  ahkSahfyeyuckLac
+
+foundStr:  sruhMuhn
+
+foundStr:  srihkasrak—Lutlut
+
+foundStr:  ahkSahfyeLah
+
+foundStr: 
+ahkkweyeyuckLac
+
+foundStr:  srihkasrak—Misin
+
+foundStr:  eLos
+
+foundStr:  kaPwack
+
+foundStr:  akihLen
+
+foundStr: 
+orekMakihn
+
+foundStr:  kuhPahsr
+
+foundStr:  områdesLedarna
+
+foundStr: 
+sLutnoter
+
+foundStr:  sLÄktforskninGshÖrna
+
+foundStr: 
+fÖrsÖker
+
+foundStr:  är?Vet
+
+foundStr:  hemmafru.Ända
+
+foundStr:  längre—UTROPSTECKEN!
+
+foundStr:  heltidsmissionär-erna—UTROPSTECKEN!
+
+foundStr:  år.Är
+
+foundStr:  f.Kr.
+
+foundStr:  lyssna.Äldste
+
+foundStr:  fokus.Är
+
+foundStr:  plan.Äktenskapet
+
+foundStr:  systrar.Åratal
+
+foundStr:  svarade:”Å,
+
+foundStr:  förstånd’(Fil.
+
+foundStr:  iEuropa”,
+
+foundStr:  dag.Vi
+
+foundStr:  amá-Lo.
+
+foundStr:  apren-O
+
+foundStr:  другог—Ово
+
+foundStr:  замо-Објасните
+
+foundStr:  tháNg
+
+foundStr:  chíN
+
+foundStr:  giảNg
+
+foundStr:  đểNuôi
+
+foundStr:  я.—Три
+
+foundStr:  старійшин.—Щоб
+
+foundStr:  вони.—А
+
+foundStr:  повернулися.—Заходьте”.
+
+foundStr:  він.—Я
+
+foundStr:  осоВстановлений
+
+foundStr:  інший.—Давайте
+
+foundStr:  стра-Можливо,
+
+foundStr:  фотографІї
+
+foundStr:  люБ’язно
+
+foundStr:  наданІ
+
+foundStr:  старІйшиною
+
+foundStr:  їм.—Намагайтеся
+
+foundStr:  значення—Господнє
+
+foundStr: 
+друга.—Зараз
+
+foundStr:  він.—Нам
+
+foundStr:  сімдесятник.—Задумуючи
+
+foundStr:  sMIth
+
+foundStr:  områDesleDarna
+
+foundStr: 
+a-S
+
+foundStr:  ann-Charlotte
+
+foundStr:  heliGa
+
+foundStr:  sveriGe
+
+foundStr:  mot”Ja,
+
+foundStr:  n’Adwuma(2011),
+
+foundStr:  dosSetenta,
+
+foundStr:  eSetenta
+
+foundStr:  daFaculdade
+
+foundStr:  yDoctrina
+
+foundStr:  lesJeunes
+
+foundStr: 
+d’Abraham
+
+foundStr:  tat-Tempju
+
+foundStr:  tal-Mulej
+
+foundStr:  tal-Knisja
+
+foundStr:  tal-Qaddisin
+
+foundStr:  l-Aħħar
+
+foundStr:  tal-Mulej,
+
+foundStr:  lill-Mulej.”
+
+foundStr:  tal-Kworum
+
+foundStr:  tat-Tnax-il
+
+foundStr:  s-Sibt
+
+foundStr:  il-Mulej.
+
+foundStr:  il-Qaddisin
+
+foundStr:  tal-Aħħar
+
+foundStr:  lill-Mulej
+
+foundStr:  fil-Mulej
+
+foundStr:  lill-Mulej,
+
+foundStr:  tas-Smewwiet
+
+foundStr:  tal-Purtiera
+
+foundStr:  tal-Ħadid.
+
+foundStr:  l-Polonja
+
+foundStr:  mal-Qaddisin
+
+foundStr:  it-Tieni
+
+foundStr:  mill-Polonja.
+
+foundStr:  l-Istati
+
+foundStr:  il-Ġermanja,
+
+foundStr:  tal-Mulej.
+
+foundStr:  tas-Smewwiet.”
+
+foundStr:  tas-Smewwiet,
+
+foundStr:  tar-Repubblika
+
+foundStr:  talĠermanja,
+
+foundStr:  il-Ġermanja
+
+foundStr:  tal-Punent.
+
+foundStr:  fil-Ġerma
