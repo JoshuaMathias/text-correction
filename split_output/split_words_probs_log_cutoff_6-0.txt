@@ -1,0 +1,311 @@
+test_3.txt:
+CowderyDavid	Cowdery David
+
+Unrecognized unsplit words:
+judgment-seat
+
+small_test.txt:
+
+test_7.txt:
+theneighborhood	the neighborhood
+undera	under a
+Thisstone	This stone
+theground	the ground
+underthe	under the
+laywas	lay was
+crossways	cross ways
+thesestones	these stones
+hadnot	had not
+hetold	he told
+thattime	that time
+whatthe	what the
+wasto	was to
+andThummim	an dT hu mm im
+thesame	the same
+woulduse	would use
+shouldcall	should call
+tokeep	to keep
+Ihad	I had
+nosooner	no sooner
+inventedwas	invented was
+bitterand	bitter and
+toget	to get
+remainedsafe	remained safe
+requiredat	required at
+forthem	for them
+untilthis	until this
+andthirty-eight	and thirty-eight
+Pearlof	Pearl of
+apeople	a people
+thegift	the gift
+
+Unrecognized unsplit words:
+Thummim
+twenty-second
+usualat
+
+test_8_37136_jsNet_eng_okPages_batch.txt:
+clippings	clip pi ngs
+whohave	who have
+otherpeople	other people
+2face-to-face	2 face-to-face
+meetingwith	meeting with
+Makeagoodfirstimpression	Make a good first impression
+Within10secondswe	Within 10 seconds we
+Theentiredialogue	The entire dialogue
+cantake	can take
+placein	place in
+aslittle	as little
+as2	a s2
+3minutes	3 minutes
+moveon	move on
+incontactwith	incontact with
+inyour	in your
+moreWhat	more What
+meetingsomeone	meeting someone
+introduceyourself	introduce yourself
+Usea	Use a
+whatyouare	what you are
+howyou	how you
+Usea	Use a
+usuallyat	usually at
+
+Unrecognized unsplit words:
+www
+Askthose
+www
+www
+
+test_6.txt:
+haddone	had done
+thesegrievous	these grievous
+Havingrelated	Having related
+thatsleep	that sleep
+againI	again I
+orrepeat	or repeat
+cautionto	caution to
+indigent	in di ge nt
+haveno	have no
+mustnot	must not
+strangeness	strange ness
+crowed	cr owed
+daywas	day was
+wholeof	whole of
+necessarylabors	necessary labors
+foundmy	found my
+whowas	who was
+mystrength	my strength
+atime	a time
+standingover	standing over
+untome	unto me
+meto	me to
+whichI	which I
+wholematter	whole matter
+anddo	and do
+placewhere	place where
+owingto	owing to
+distinctness	distinct ness
+knewthe	knew the
+
+Unrecognized unsplit words:
+atwhat
+recollect
+
+test_4.txt:
+hefted	he ft ed
+PageJacob	Page Jacob
+SmithJohn	Smith John
+
+Unrecognized unsplit words:
+Sen
+
+test_1.txt:
+Esth	Es th
+
+Unrecognized unsplit words:
+xii
+Judg
+Kgs
+Kgs
+Chr
+Thes
+Chr
+Thes
+Neh
+Eccl
+Philem
+Obad
+Hab
+Zeph
+Hag
+tg
+gr
+idioms
+archaic
+
+test_2.txt:
+ofprophecy	of prophecy
+werequoted	were quoted
+Therecord	The record
+knownas	known as
+personalministry	personal ministry
+ofsalvation	of salvation
+andeternal	and eternal
+hisson	his son
+translatedthem	translated them
+manylanguages	many languages
+lawsand	laws and
+byabiding	by abiding
+seethe	see the
+anddivinity	and divinity
+includedherewith	included herewith
+ofEight	of Eight
+ponderin	ponder in
+EternalFather	Eternal Father
+thiscourse	this course
+bythe	by the
+cometo	come to
+kingdomonce	kingdom once
+Comingof	Coming of
+
+Unrecognized unsplit words:
+xii
+prophet-historian
+
+test_10_ycsm-recommend_okPages_batch.txt:
+submittedby	submitted by
+OfficeBuilding	Office Building
+faxed	fax ed
+1-801-240-1726	1- 80 1-2 40 -1 726
+scannedand	scanned and
+ldschurch	lds church
+Hernia	He rn i a
+PD50051661	PD 50051661
+PD50051661	PD 50051661
+myservice	my service
+andprescription	and prescription
+oflocal	of local
+annotated	an not at ed
+PD50051661	PD 50051661
+
+Unrecognized unsplit words:
+call1-801-240-4914
+Epileptic
+convulsions
+
+test_9_vendor-form-translation-domestic_okPages_batch.txt:
+APIVersion	API Version
+Acroform	Ac ro form
+0pt	0 pt
+0pt	0 pt
+9pt	9 pt
+APIVersion	API Version
+0pt	0 pt
+transcontracts	trans contracts
+ldschurch	lds church
+Taxpayer	Tax payer
+domicile	do mic i le
+proprietor	prop ri et or
+IRS	I RS
+IRS	I RS
+issubject	is subject
+andsign	and sign
+IRS	I RS
+taxwithholding	tax withholding
+perjury	per jury
+taxpayer	tax payer
+IRS	I RS
+IRS	I RS
+NACHA	NA CH A
+4A	4 A
+PD50027868	PD 50027868
+
+Unrecognized unsplit words:
+W-9
+xfa
+xfa
+xmlns
+www
+w3
+xhtml
+xmlns
+xfa
+www
+xfa
+xfa-data
+ltr
+margin-top
+margin-bottom
+text-valign
+font-family
+Helvetica
+font-size
+xmlns
+www
+w3
+xhtml
+xmlns
+xfa
+www
+xfa
+xfa-data
+xfa
+xfa
+font-size
+text-align
+font-weight
+font-style
+font-family
+Helvetica
+sans-serif
+font-stretch
+801-240-2411
+rents
+
+test_5.txt:
+betook	be took
+waslighter	was lighter
+noonday	noon day
+Hishands	His hands
+butthis	but this
+sentfrom	sent from
+Godhad	God had
+andevil	and evil
+anaccount	an account
+Gospelwas	Gospel was
+toshow	to show
+gatherimmediately	gather immediately
+
+Unrecognized unsplit words:
+twenty-first
+thef
+Thummim
+Thummim
+musing
+singularity
+
+test_1_tokenized.txt:
+Esth	Es th
+amp	a mp
+
+Unrecognized unsplit words:
+Judg
+Kgs
+Kgs
+Chr
+Thes
+Chr
+Thes
+Neh
+Eccl
+Philem
+Obad
+Hab
+Zeph
+Hag
+tg
+gr
+idioms
+archaic
+
+Words split: 165

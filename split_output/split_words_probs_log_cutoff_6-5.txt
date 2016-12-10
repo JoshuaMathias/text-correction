@@ -1,0 +1,190 @@
+test_3.txt:
+CowderyDavid	Cowdery David
+1
+
+small_test.txt:
+
+test_7.txt:
+theneighborhood	the neighborhood
+undera	under a
+Thisstone	This stone
+theground	the ground
+underthe	under the
+laywas	lay was
+thesestones	these stones
+hadnot	had not
+hetold	he told
+thattime	that time
+whatthe	what the
+wasto	was to
+andThummim	and Thummim
+usualat	usual at
+woulduse	would use
+shouldcall	should call
+Ihad	I had
+nosooner	no sooner
+inventedwas	invented was
+bitterand	bitter and
+toget	to get
+remainedsafe	remained safe
+requiredat	required at
+forthem	for them
+untilthis	until this
+andthirty-eight	and thirty-eight
+Pearlof	Pearl of
+apeople	a people
+thegift	the gift
+29
+
+test_8_37136_jsNet_eng_okPages_batch.txt:
+otherpeople	other people
+2face-to-face	2 face-to-face
+meetingwith	meeting with
+Makeagoodfirstimpression	Make a good first impression
+Within10secondswe	Within 10 seconds we
+Theentiredialogue	The entire dialogue
+cantake	can take
+placein	place in
+aslittle	as little
+as2	a s2
+3minutes	3 minutes
+moveon	move on
+incontactwith	incontact with
+moreWhat	more What
+meetingsomeone	meeting someone
+introduceyourself	introduce yourself
+Usea	Use a
+Askthose	Ask those
+whatyouare	what youare
+howyou	how you
+Usea	Use a
+usuallyat	usually at
+26
+0
+1
+
+test_6.txt:
+haddone	had done
+thesegrievous	these grievous
+Havingrelated	Having related
+thatsleep	that sleep
+againI	again I
+orrepeat	or repeat
+cautionto	caution to
+haveno	have no
+mustnot	must not
+strangeness	strange ness
+daywas	day was
+wholeof	whole of
+necessarylabors	necessary labors
+foundmy	found my
+whowas	who was
+mystrength	my strength
+atime	a time
+standingover	standing over
+untome	unto me
+whichI	which I
+wholematter	whole matter
+anddo	and do
+placewhere	place where
+owingto	owing to
+distinctness	distinct ness
+knewthe	knew the
+24
+2
+
+test_4.txt:
+hefted	he ft ed
+PageJacob	Page Jacob
+SmithJohn	Smith John
+2
+1
+
+test_1.txt:
+Esth	Es th
+Philem	Phil em
+Obad	Ob ad
+0
+3
+
+test_2.txt:
+ofprophecy	of prophecy
+werequoted	were quoted
+knownas	known as
+personalministry	personal ministry
+ofsalvation	of salvation
+andeternal	and eternal
+hisson	his son
+translatedthem	translated them
+manylanguages	many languages
+lawsand	laws and
+byabiding	by abiding
+anddivinity	and divinity
+includedherewith	included herewith
+ofEight	of Eight
+ponderin	ponder in
+EternalFather	Eternal Father
+thiscourse	this course
+cometo	come to
+kingdomonce	kingdom once
+Comingof	Coming of
+20
+
+test_10_ycsm-recommend_okPages_batch.txt:
+submittedby	submitted by
+OfficeBuilding	Office Building
+1-801-240-1726	1- 80 1-2 40 -1 726
+scannedand	scanned and
+ldschurch	lds church
+call1-801-240-4914	call 1-801-240-4914
+PD50051661	PD 50051661
+PD50051661	PD 50051661
+myservice	my service
+andprescription	and prescription
+oflocal	of local
+PD50051661	PD 50051661
+6
+
+test_9_vendor-form-translation-domestic_okPages_batch.txt:
+APIVersion	API Version
+Acroform	Ac ro form
+xmlns	xml ns
+xmlns	xml ns
+Helvetica	Hel vet ica
+9pt	9 pt
+xmlns	xml ns
+xmlns	xml ns
+APIVersion	API Version
+Helvetica	Hel vet ica
+801-240-2411	80 1-2 40 -2 411
+transcontracts	trans contracts
+ldschurch	lds church
+Taxpayer	Tax payer
+domicile	do mic i le
+issubject	is subject
+andsign	and sign
+taxwithholding	tax withholding
+perjury	per jury
+taxpayer	tax payer
+NACHA	NA CH A
+PD50027868	PD 50027868
+3
+4
+
+test_5.txt:
+betook	be took
+waslighter	was lighter
+Hishands	His hands
+butthis	but this
+sentfrom	sent from
+Godhad	God had
+andevil	and evil
+anaccount	an account
+Gospelwas	Gospel was
+toshow	to show
+gatherimmediately	gather immediately
+singularity	singular i ty
+10
+2
+
+Words split: 150

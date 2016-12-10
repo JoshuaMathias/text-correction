@@ -1,0 +1,160 @@
+test_3.txt:
+CowderyDavid	Cowdery David
+
+small_test.txt:
+
+test_7.txt:
+theneighborhood	the neighborhood
+undera	under a
+Thisstone	This stone
+theground	the ground
+underthe	under the
+laywas	lay was
+thesestones	these stones
+hadnot	had not
+hetold	he told
+thattime	that time
+wasto	was to
+andThummim	and Thummim
+usualat	usual at
+woulduse	would use
+nosooner	no sooner
+inventedwas	invented was
+bitterand	bitter and
+toget	to get
+remainedsafe	remained safe
+requiredat	required at
+forthem	for them
+untilthis	until this
+andthirty-eight	and thirty-eight
+Pearlof	Pearl of
+thegift	the gift
+
+test_8_37136_jsNet_eng_okPages_batch.txt:
+otherpeople	other people
+2face-to-face	2 face-to-face
+meetingwith	meeting with
+Makeagoodfirstimpression	Make agood first impression
+Within10secondswe	Within 10 seconds we
+Theentiredialogue	Theentire dialogue
+aslittle	as little
+as2	a s2
+3minutes	3 minutes
+moveon	move on
+incontactwith	incontact with
+moreWhat	more What
+meetingsomeone	meeting someone
+introduceyourself	introduce yourself
+Usea	Use a
+Askthose	Ask those
+whatyouare	what youare
+Usea	Use a
+usuallyat	usually at
+
+test_6.txt:
+haddone	had done
+thesegrievous	these grievous
+Havingrelated	Having related
+thatsleep	that sleep
+atwhat	at what
+againI	again I
+orrepeat	or repeat
+cautionto	caution to
+haveno	have no
+mustnot	must not
+daywas	day was
+wholeof	whole of
+necessarylabors	necessary labors
+foundmy	found my
+mystrength	my strength
+atime	a time
+standingover	standing over
+untome	unto me
+wholematter	whole matter
+owingto	owing to
+knewthe	knew the
+
+test_4.txt:
+PageJacob	Page Jacob
+
+test_1.txt:
+
+test_2.txt:
+ofprophecy	of prophecy
+werequoted	were quoted
+knownas	known as
+personalministry	personal ministry
+ofsalvation	of salvation
+andeternal	and eternal
+hisson	his son
+translatedthem	translated them
+manylanguages	many languages
+lawsand	laws and
+byabiding	by abiding
+anddivinity	and divinity
+includedherewith	included herewith
+ofEight	of Eight
+ponderin	ponder in
+EternalFather	Eternal Father
+thiscourse	this course
+cometo	come to
+kingdomonce	kingdom once
+Comingof	Coming of
+
+test_10_ycsm-recommend_okPages_batch.txt:
+submittedby	submitted by
+OfficeBuilding	Office Building
+scannedand	scanned and
+call1-801-240-4914	call 1-801-240-4914
+PD50051661	PD 50051661
+PD50051661	PD 50051661
+myservice	my service
+andprescription	and prescription
+oflocal	of local
+PD50051661	PD 50051661
+
+test_9_vendor-form-translation-domestic_okPages_batch.txt:
+APIVersion	API Version
+Acroform	Ac ro form
+xmlns	xml ns
+xmlns	xml ns
+9pt	9 pt
+xmlns	xml ns
+xmlns	xml ns
+APIVersion	API Version
+font-stretch	font -s tr etch
+801-240-2411	801-240- 2411
+transcontracts	trans contracts
+issubject	is subject
+andsign	and sign
+taxwithholding	tax withholding
+NACHA	NA CHA
+PD50027868	PD 50027868
+
+Unrecognized unsplit words:
+xfa
+xfa
+xfa
+xfa
+xfa-data
+text-valign
+xfa
+xfa
+xfa-data
+xfa
+xfa
+
+test_5.txt:
+waslighter	was lighter
+Hishands	His hands
+butthis	but this
+andevil	and evil
+Gospelwas	Gospel was
+gatherimmediately	gather immediately
+
+Unrecognized unsplit words:
+thef
+
+test_1_tokenized.txt:
+
+Words split: 119

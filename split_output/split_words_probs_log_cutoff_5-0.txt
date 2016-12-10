@@ -1,0 +1,207 @@
+test_3.txt:
+spotless	spot less
+0
+1
+
+small_test.txt:
+
+test_7.txt:
+theneighborhood	the neighborhood
+undera	under a
+Thisstone	This stone
+theground	the ground
+underthe	under the
+laywas	lay was
+crossways	cross ways
+thesestones	these stones
+hadnot	had not
+hetold	he told
+thattime	that time
+whatthe	what the
+wasto	was to
+thesame	the same
+thatI	that I
+woulduse	would use
+shouldcall	should call
+tokeep	to keep
+Ihad	I had
+nosooner	no sooner
+bitterand	bitter and
+toget	to get
+remainedsafe	remained safe
+requiredat	required at
+forthem	for them
+untilthis	until this
+Pearlof	Pearl of
+apeople	a people
+thegift	the gift
+28
+1
+
+
+test_8_37136_jsNet_eng_okPages_batch.txt:
+whohave	who have
+otherpeople	other people
+2face-to-face	2 face-to-face
+meetingwith	meeting with
+profited	profit ed
+Makeagoodfirstimpression	Make a good first impression
+Within10secondswe	Within 10 seconds we
+Theentiredialogue	The entire dialogue
+cantake	can take
+placein	place in
+aslittle	as little
+as2	as 2
+3minutes	3 minutes
+moveon	move on
+incontactwith	in contact with
+inyour	in your
+moreWhat	more What
+meetingsomeone	meeting someone
+Usea	Use a
+ldsjobs	lds jobs
+whatyouare	what you are
+howyou	how you
+Usea	Use a
+ldsjobs	lds jobs
+usuallyat	usually at
+ldsjobs	lds jobs
+30
+1
+
+test_6.txt:
+haddone	had done
+variation	var i ati on
+Havingrelated	Having related
+thatsleep	that sleep
+againI	again I
+orrepeat	or repeat
+cautionto	caution to
+consequence	con sequence
+ofthe	of the
+forthe	for the
+haveno	have no
+mustnot	must not
+andI	and I
+daywas	day was
+necessarylabors	necessary labors
+foundmy	found my
+whowas	who was
+mystrength	my strength
+atime	a time
+unconscious	un conscious
+standingover	standing over
+untome	unto me
+meto	me to
+whichI	which I
+anddo	and do
+placewhere	place where
+knewthe	knew the
+24
+2
+
+test_4.txt:
+workmanship	work man ship
+PageJacob	Page Jacob
+SmithJohn	Smith John
+2
+1
+
+test_1.txt:
+Deut	De ut
+Isa	Is a
+Topical	Topic al
+0
+3
+
+test_2.txt:
+Americas	Am eric as
+ofprophecy	of prophecy
+Therecord	The record
+confounded	con founded
+Jaredites	Jared it es
+personalministry	personal ministry
+ofsalvation	of salvation
+andeternal	and eternal
+hisson	his son
+inthe	in the
+destined	de st in ed
+translatedthem	translated them
+manylanguages	many languages
+ofthe	of the
+lawsand	laws and
+keystone	key stone
+byabiding	by abiding
+seethe	see the
+ofEight	of Eight
+ponderin	ponder in
+EternalFather	Eternal Father
+thiscourse	this course
+bythe	by the
+cometo	come to
+thatThe	that The
+kingdomonce	kingdom once
+Comingof	Coming of
+22
+5
+
+test_10_ycsm-recommend_okPages_batch.txt:
+guardian	guard i an
+Payson	Pays on
+submittedby	submitted by
+OfficeBuilding	Office Building
+forthe	for the
+scannedand	scanned and
+emailed	email ed
+ldschurch	lds church
+Eyesight	Eye sight
+spreadsheets	spread sheets
+myservice	my service
+andprescription	and prescription
+oflocal	of local
+guardian	guard i an
+annotated	an not at ed
+7
+7
+
+test_9_vendor-form-translation-domestic_okPages_batch.txt:
+ldschurch	lds church
+withholding	with holding
+notified	not if i ed
+issubject	is subject
+withholding	with holding
+andsign	and sign
+taxwithholding	tax with holding
+penalties	pen al ties
+withholding	with holding
+withholding	with holding
+notified	not if i ed
+withholding	with holding
+notified	not if i ed
+withholding	with holding
+terminate	term in ate
+4A	4 A
+Uniform	Un i form
+Payable	Pay able
+3
+14
+
+test_5.txt:
+betook	be took
+noonday	no on day
+personage	person age
+Hishands	His hands
+butthis	but this
+sentfrom	sent from
+Godhad	God had
+andevil	and evil
+anaccount	an account
+Gospelwas	Gospel was
+fastened	fast en ed
+toshow	to show
+gatherimmediately	gather immediately
+lighted	light ed
+9
+5
+
+Words split: 163
