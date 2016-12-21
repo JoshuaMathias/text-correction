@@ -62,7 +62,7 @@ public class FileUtils {
 		return fileMap;
 	}
 
-	//readLines
+	//Get a reader that can be read from line by line.
 	public static BufferedReader getLineReader(String filename) {
 		BufferedReader reader = null;
 		try {
@@ -76,6 +76,7 @@ public class FileUtils {
 		return reader;
 	}
 	
+	//Get a writer to write line by line.
 	public static BufferedWriter getLineWriter(String filename) {
 		BufferedWriter writer = null;
 		try {
@@ -89,8 +90,8 @@ public class FileUtils {
 		return writer;
 	}
 	
-	// Get text from file as one string
-	public static String readStream(InputStream is) {
+	// Get content of file as one string from an InputStream.
+	public static String readFile(InputStream is) {
 		StringBuilder sb = new StringBuilder(512);
 		try {
 			Reader r = new InputStreamReader(is, "UTF-8");
@@ -104,26 +105,27 @@ public class FileUtils {
 		return sb.toString();
 	}
 	
-	// Get text from file as one string from filename
+	// Get content of file as one string from filename.
 	public static String readFile(String filename) {
 		try {
-			return readStream(new FileInputStream(filename));
+			return readFile(new FileInputStream(filename));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 			return null;
 		}
 	}
 	
-	// Get text from file as one string from filename
+	// Get text from file as one string from File object.
 	public static String readFile(File file) {
 		try {
-			return readStream(new FileInputStream(file));
+			return readFile(new FileInputStream(file));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 			return null;
 		}
 	}
 	
+	//Sorts a HashMap by values and returns a LinkedHashMap.
 	public static LinkedHashMap<String, Integer> sortHashMapByValues(
 	        HashMap<String, Integer> passedMap, boolean ascending) {
 	    List<String> mapKeys = new ArrayList<>(passedMap.keySet());
@@ -161,7 +163,7 @@ public class FileUtils {
 	    return sortedMap;
 	}
 	
-	//Increment the count of a specific key of a map within a map, whether it already exists or not
+	//Increment the count of a specific key of a map within a map, whether it already exists or not.
 	public static HashMap<String, HashMap<String, Integer>> incrementOneMap(HashMap<String, HashMap<String, Integer>> map, String key, String innerKey) {
 		HashMap<String, Integer> innerMap = null;
 		if (!map.containsKey(key)) {
@@ -174,7 +176,7 @@ public class FileUtils {
 		return map;
 	}
 	
-	//Increment the count of a specific key of a map, whether it already exists or not
+	//Increment the count of a specific key of a map, whether it already exists or not.
 	public static TreeMap<String, Integer> incrementOne(TreeMap<String, Integer> map,
 			String id) {
 		Integer totalFreq = 0;
@@ -188,7 +190,7 @@ public class FileUtils {
 		return map;
 	}
 	
-	//Increment the count of a specific key of a map, whether it already exists or not
+	//Increment the count of a specific key of a map, whether it already exists or not.
 	public static HashMap<String, Integer> incrementOne(HashMap<String, Integer> map,
 			String id) {
 		Integer totalFreq = 0;
@@ -202,6 +204,7 @@ public class FileUtils {
 		return map;
 	}
 	
+	//Increment the count (Double) of a specific key of a map within a map, whether it already exists or not.
 	public static HashMap<String, HashMap<String, Double>> incrementDoubleMap(HashMap<String, HashMap<String, Double>> map, String key, String innerKey) {
 		HashMap<String, Double> innerMap = null;
 		if (!map.containsKey(key)) {
@@ -214,6 +217,7 @@ public class FileUtils {
 		return map;
 	}
 	
+	//Increment the count (Double) of a specific key of a map, whether it already exists or not.
 	public static HashMap<String, Double> incrementDouble(HashMap<String, Double> map,
 			String id) {
 		Double totalFreq = 0.0;
@@ -227,6 +231,7 @@ public class FileUtils {
 		return map;
 	}
 	
+	//Return an ArrayList of sentences from a String.
 	public static ArrayList<String> getSentences(String text) {
 		ArrayList<String> sentences = new ArrayList<String>();
 		BreakIterator boundary = BreakIterator.getSentenceInstance(Locale.ENGLISH);

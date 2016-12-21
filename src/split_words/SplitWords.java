@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.regex.Pattern;
 
 import org.apache.commons.lang.StringUtils;
 
@@ -18,6 +19,7 @@ public class SplitWords {
 	BufferedWriter logWriter = null;
 	int splitWordCount = 0;
 	Double defaultLMScore= -6.5227585;
+	Pattern nonWordPattern = Pattern.compile("[^\\p{L}]{2,}");
 	
 //	public SplitWords(HashSet<String> dict, String splitLogFile) {
 //		this.dict = dict;
@@ -38,7 +40,7 @@ public class SplitWords {
 	}
 	
 	public boolean inDictionary(String word) {
-		if (StringUtils.isNumeric(word)) {
+		if (nonWordPattern.matcher(word).matches()) {
 			return true;
 		}
 		if (dict.containsKey(word.toLowerCase())) {
@@ -49,12 +51,12 @@ public class SplitWords {
 	
 	public String splitWord(String combinedWord) {
 		int len = combinedWord.length();
-		try {
-			logWriter.write("\n"+combinedWord+"\n");
-		} catch (IOException e1) {
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
-		}
+//		try {
+//			logWriter.write("\n"+combinedWord+"\n");
+//		} catch (IOException e1) {
+//			e1.printStackTrace();
+//		}
+//		System.out.println("Combined word: "+combinedWord);
 		String beginStr = "";
 		String endStr = "";
 		ArrayList<SplitWordOption> possibleStrs = new ArrayList<SplitWordOption>();
@@ -233,10 +235,11 @@ public class SplitWords {
 //						System.out.println("letter: "+letter);
 //						System.out.println("currentWord: "+currentWord);
 //					}
-					if (("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-'").indexOf(letter) != -1) {
+					if ((" \n").indexOf(letter) == -1) {
 						currentWord += letter;
 					} else {
 						if (!inDictionary(currentWord) && currentWord.length()>1) {
+							
 							String splitWord = splitWord(currentWord);
 //							System.out.println("Split words: "+currentWord);
 							if (!splitWord.equals(currentWord)) {
@@ -255,10 +258,10 @@ public class SplitWords {
 						splitFileString += letter;
 					}
 //				}
-				splitFileString += "\n";
+//				splitFileString += "\n";
 			}
-			if (logWriter != null) {
-				logWriter.write("\n");
+//			if (logWriter != null) {
+//				logWriter.write("\n");
 //				if (unsplitWords.size()>0) {
 //					logWriter.write("Unrecognized unsplit words:\n");
 //					for (String word : unsplitWords) {
@@ -266,7 +269,7 @@ public class SplitWords {
 //					}
 //					logWriter.write("\n");
 //				}
-			}
+//			}
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
